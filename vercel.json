@@ -1,8 +1,13 @@
 {
+  "version": 2,
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/index.py" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    {
+      "source": "/api/maple",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
