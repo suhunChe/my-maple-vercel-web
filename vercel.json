@@ -1,9 +1,19 @@
 {
   "version": 2,
+  "builds": [
+    {
+      "src": "api/index.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ],
   "rewrites": [
     {
       "source": "/api/maple",
-      "destination": "/api/index.py"
+      "destination": "api/index.py"
     },
     {
       "source": "/(.*)",
