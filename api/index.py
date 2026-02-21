@@ -7,11 +7,12 @@ app = Flask(__name__)
 @app.route('/api/maple', methods=['GET'])
 def get_maple_data():
     nickname = request.args.get('name')
-    api_key = os.environ.get("NEXON_API_KEY") # Vercel 금고에서 키를 가져옴
-
+    # Vercel 환경 변수에서 키를 가져옵니다.
+    api_key = os.environ.get("NEXON_API_KEY")
+    
     headers = {"x-nxopen-api-key": api_key}
     id_url = f"https://open.api.nexon.com/maplestory/v1/id?character_name={nickname}"
-
+    
     try:
         res = requests.get(id_url, headers=headers)
         if res.status_code == 200:
@@ -21,6 +22,5 @@ def get_maple_data():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Vercel 환경을 위한 설정
-def handler(event, context):
-    return app(event, context)
+# 핵심 수정: 기존의 'def handler' 부분을 지우고 아래 한 줄만 남깁니다.
+# Vercel은 파일 내의 'app' 객체를 자동으로 찾아 실행합니다.
