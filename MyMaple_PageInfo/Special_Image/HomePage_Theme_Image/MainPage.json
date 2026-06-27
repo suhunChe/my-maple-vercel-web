@@ -1,0 +1,56 @@
+﻿{
+  "MainPageListDate": [
+
+      {
+        "nPage": 0,
+        "sTitle": "스토리",
+        "sDesc": "메이플스토리 세계관 이야기를 알아볼 수 있는 테마관",
+        "sImagePath": "MainPage0.png",
+        "bOnline" : true
+      },
+
+      {
+        "nPage": 1,
+        "sTitle": "음악",
+        "sDesc": "메이플스토리와 관련돤 음악을 들어볼 수 있는 테마관",
+        "sImagePath": "MainPage1.png",
+        "bOnline" : true
+      },
+
+      {
+        "nPage": 2,
+        "sTitle": "굿즈",
+        "sDesc": "메이플스토리와 관련된 현실판 아이템을 볼 수 있는 테마관",
+        "sImagePath": "MainPage2.png",
+        "bOnline" : false
+      }
+  ],
+
+  
+  "External_link_site": [
+
+      {
+        "nItemNumber": 0,
+        "sSiteName": "환산 주스탯",
+        "sDesc": "나의 캐릭터 스팩을 확인할 수 있는 사이트",
+        "bSiteAddress" : "https://maplescouter.com/ko",
+        "bOnline" : true
+      },
+      
+      {
+        "nItemNumber": 1,
+        "sSiteName": "인벤",
+        "sDesc": "메이플스토리 대표 커뮤니티 사이트",
+        "bSiteAddress" : "http://maple.inven.co.kr/",
+        "bOnline" : true
+      },
+      
+      {
+        "nItemNumber": 1,
+        "sSiteName": "스타포스 시뮬레이션",
+        "sDesc": "아이템 강화 시뮬레이션 사이트",
+        "bSiteAddress" : "https://www.mesu.live/sim/starforce",
+        "bOnline" : true
+      }
+  ]
+}

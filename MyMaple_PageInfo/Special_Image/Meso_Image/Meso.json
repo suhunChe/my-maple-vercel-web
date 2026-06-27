@@ -1,0 +1,32 @@
+﻿{
+  "MesoInfoDate": [
+
+      {
+        "nIndex": 0,
+        "nMesoMin": 1,
+        "nMesoMax": 50,
+        "sImagePath": "BronzeCoin.png"
+      },
+
+      {
+        "nIndex": 1,
+        "nMesoMin": 50,
+        "nMesoMax": 99,
+        "sImagePath": "GoldCoin.png"
+      },
+
+      {
+        "nIndex": 2,
+        "nMesoMin": 100,
+        "nMesoMax": 999,
+        "sImagePath": "MesoBill.png"
+      },
+
+      {
+        "nIndex": 3,
+        "nMesoMin": 1000,
+        "nMesoMax": null,
+        "sImagePath": "MesoBag.png"
+      }
+  ]
+}
