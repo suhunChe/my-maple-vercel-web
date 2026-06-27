@@ -383,7 +383,7 @@
         showLoadingMessage(sidebar);
 
         const maps = await D.loadMapIndex();
-        if (maps === null) return renderMissingInfoFile(sidebar, mainEl, 'MapList.json');
+        if (maps === null) return renderMissingInfoFile(sidebar, mainEl, 'MapList1.json / MapList2.json');
         if (!maps.length) {
             sidebar.innerHTML = '<div class="info-list-empty">데이터 없음</div>';
             return renderEmptyDetail(mainEl, '', '맵 데이터를 불러올 수 없습니다.');

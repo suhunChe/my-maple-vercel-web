@@ -570,8 +570,25 @@ async function loadItemIndex() {
     })).filter(it => it.id && it.id !== '0000000');
 }
 
+async function _loadInfoFiles(filenames, options = {}) {
+    const loaded = await Promise.all(
+        filenames.map(filename => _loadInfoFile(filename))
+    );
+
+    const anyLoaded = loaded.some(list => list !== null);
+    if (anyLoaded) {
+        return loaded.flatMap(list => Array.isArray(list) ? list : []);
+    }
+
+    if (options.fallback) {
+        return _loadInfoFile(options.fallback);
+    }
+
+    return null;
+}
+
 async function loadMapIndex() {
-    const list = await _loadInfoFile('MapList.json');
+    const list = await _loadInfoFiles(['MapList1.json', 'MapList2.json'], { fallback: 'MapList.json' });
     if (!list) return null;
     return list.map(m => ({
         id: m.id,
