@@ -1,9 +1,9 @@
 /* =========================================
    MyMaple v6 — 창팝 순위 (Changpop Ranking)
    - YouTube Data API v3 를 호출해 플레이리스트 항목을 가져옴
-   - 설정 파일: MyMaple_PageInfo/InfoList/ChangpopConfig.json
+   - 설정 파일: MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json
        { playlistId, youtubeApiKey, maxResults, cacheMinutes }
-   - 표시 항목: 순위 / 썸네일 / 제목 / 재생시간 / 조회수
+   - 표시 항목: 순위 / 썸네일 / 제목 / 재생시간 / 조회수 / 좋아요
    - 캐시: localStorage (cacheMinutes 동안)
    ========================================= */
 
@@ -12,14 +12,17 @@
     const D = window.MyMapleData;
     const escapeHtml = C.escapeHtml;
 
-    const CONFIG_URL = 'MyMaple_PageInfo/InfoList/ChangpopConfig.json';
+    const CONFIG_URL = 'MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json';
+    const STATS_URL = 'PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json';
     const CACHE_KEY = 'mymaple.changpop.cache.v1';
     const PENDING_KEY = 'mymaple.changpop.pending.v1';
+    const DEFAULT_SORT = 'recent30';
 
     const els = {
         list: document.getElementById('changpop-list'),
         count: document.getElementById('changpop-count'),
         updated: document.getElementById('changpop-updated'),
+        sortTabs: document.getElementById('changpop-sort-tabs'),
         // 신청
         submitOpen: document.getElementById('changpop-submit-open'),
         modal: document.getElementById('changpop-modal'),
@@ -39,7 +42,10 @@
 
     // 현재 순위 리스트의 videoId 스냅샷 (중복 검사용)
     const state = {
-        liveVideoIds: new Set()
+        liveVideoIds: new Set(),
+        items: [],           // 마지막으로 받아온 플레이리스트 항목 (현재 순위)
+        stats: null,         // ChangpopRecent30Stats.json 데이터
+        sort: DEFAULT_SORT   // 'recent30' | 'views' | 'likes'
     };
 
     function mountHeader() {
@@ -185,7 +191,7 @@
         const limited = items.slice(0, maxResults);
         if (!limited.length) return [];
 
-        // videos.list 로 duration + viewCount 채우기 (최대 50개씩)
+        // videos.list 로 duration + viewCount + likeCount 채우기 (최대 50개씩)
         const idChunks = [];
         for (let i = 0; i < limited.length; i += 50) {
             idChunks.push(limited.slice(i, i + 50));
@@ -206,7 +212,10 @@
             (json.items || []).forEach(v => {
                 detailsMap.set(v.id, {
                     duration: (v.contentDetails && v.contentDetails.duration) || '',
-                    viewCount: Number((v.statistics && v.statistics.viewCount) || 0)
+                    viewCount: Number((v.statistics && v.statistics.viewCount) || 0),
+                    likeCount: v.statistics && v.statistics.likeCount != null
+                        ? Number(v.statistics.likeCount)
+                        : null
                 });
             });
         }
@@ -220,7 +229,8 @@
                 thumbnail: it.thumbnail,
                 channelTitle: it.channelTitle,
                 duration: d.duration || '',
-                viewCount: Number.isFinite(d.viewCount) ? d.viewCount : 0
+                viewCount: Number.isFinite(d.viewCount) ? d.viewCount : 0,
+                likeCount: Number.isFinite(d.likeCount) ? d.likeCount : null
             };
         });
     }
@@ -228,23 +238,69 @@
     /* ---------------- 렌더링 ---------------- */
 
     function renderList(items) {
-        if (!Array.isArray(items) || !items.length) {
-            state.liveVideoIds = new Set();
+        if (Array.isArray(items)) {
+            state.items = items;
+            state.liveVideoIds = new Set(items.map(it => it.videoId));
             renderPending();
+        }
+        renderListInternal();
+    }
+
+    function renderListInternal() {
+        const items = Array.isArray(state.items) ? state.items : [];
+        if (!items.length) {
             renderMessage('표시할 영상이 없습니다.');
             return;
         }
-        state.liveVideoIds = new Set(items.map(it => it.videoId));
-        renderPending();
+
+        // 정렬을 위한 enriched 데이터
+        const statsVideos = state.stats && state.stats.videos ? state.stats.videos : {};
+        const enriched = items.map(it => {
+            const stat = statsVideos[it.videoId] || null;
+            const recent = stat && stat.recent30 ? stat.recent30 : null;
+            return {
+                base: it,
+                stat,
+                recentScore: recent ? Number(recent.score || 0) : 0,
+                recentViewDelta: recent ? Number(recent.viewDelta || 0) : 0,
+                recentLikeDelta: recent ? Number(recent.likeDelta || 0) : 0,
+                hasRecent: !!(recent && (recent.from || recent.to))
+            };
+        });
+
+        const sort = state.sort || DEFAULT_SORT;
+        if (sort === 'views') {
+            enriched.sort((a, b) => (Number(b.base.viewCount) || 0) - (Number(a.base.viewCount) || 0));
+        } else if (sort === 'likes') {
+            enriched.sort((a, b) => (Number(b.base.likeCount || 0)) - (Number(a.base.likeCount || 0)));
+        } else {
+            enriched.sort((a, b) => b.recentScore - a.recentScore);
+        }
+
         els.count.textContent = `${items.length} 곡`;
 
-        const html = items.map((it, idx) => {
+        const showRecentBadge = sort === 'recent30';
+
+        const html = enriched.map((row, idx) => {
+            const it = row.base;
             const rank = idx + 1;
             const title = escapeHtml(it.title || '');
             const thumb = escapeHtml(it.thumbnail || `https://i.ytimg.com/vi/${it.videoId}/mqdefault.jpg`);
             const dur = escapeHtml(formatDuration(it.duration));
             const views = escapeHtml(formatViews(it.viewCount));
+            const likes = escapeHtml(it.likeCount == null ? '-' : formatViews(it.likeCount));
             const ytUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(it.videoId)}`;
+
+            let recentBadge = '';
+            if (showRecentBadge) {
+                if (row.hasRecent) {
+                    const deltaText = `+${formatViews(row.recentViewDelta)} 조회 · +${formatViews(row.recentLikeDelta)} 좋아요`;
+                    recentBadge = `<span class="changpop-recent-chip" title="최근 ${state.stats?.windowDays || 30}일 증가량">${escapeHtml(deltaText)}</span>`;
+                } else {
+                    recentBadge = `<span class="changpop-recent-chip is-muted" title="수집 데이터 누적 중">집계 중</span>`;
+                }
+            }
+
             return `
                 <li class="changpop-row ${rank <= 3 ? 'is-top' : ''}" data-rank="${rank}">
                     <span class="changpop-col changpop-col-rank">
@@ -257,13 +313,41 @@
                     <a class="changpop-col changpop-col-title" href="${ytUrl}" target="_blank" rel="noopener noreferrer" title="${title}">
                         <span class="changpop-title-text">${title}</span>
                         ${it.channelTitle ? `<span class="changpop-channel">${escapeHtml(it.channelTitle)}</span>` : ''}
+                        ${recentBadge}
                     </a>
                     <span class="changpop-col changpop-col-duration">${dur || '-'}</span>
                     <span class="changpop-col changpop-col-views">${views}</span>
+                    <span class="changpop-col changpop-col-likes">${likes}</span>
                 </li>`;
         }).join('');
 
         els.list.innerHTML = html;
+    }
+
+    async function loadStats() {
+        try {
+            const res = await fetch(STATS_URL, { cache: 'no-cache' });
+            if (!res.ok) return null;
+            const text = await res.text();
+            return JSON.parse(text.replace(/^\uFEFF/, ''));
+        } catch (e) {
+            return null;
+        }
+    }
+
+    function bindSortTabs() {
+        if (!els.sortTabs) return;
+        els.sortTabs.addEventListener('click', (e) => {
+            const btn = e.target.closest('[data-sort]');
+            if (!btn) return;
+            const next = btn.getAttribute('data-sort');
+            if (!next || next === state.sort) return;
+            state.sort = next;
+            els.sortTabs.querySelectorAll('[data-sort]').forEach(b => {
+                b.classList.toggle('is-active', b.getAttribute('data-sort') === next);
+            });
+            renderListInternal();
+        });
     }
 
     function showUpdatedChip(ts) {
@@ -500,8 +584,12 @@
     async function init() {
         mountHeader();
         bindSubmissionEvents();
+        bindSortTabs();
         renderPending();
         renderLoading();
+
+        // 최근 30일 통계 먼저 (있으면) 가져오기 - 정렬용
+        state.stats = await loadStats();
 
         const cfg = await loadConfig();
         const playlistId = String(cfg.playlistId || '').trim();

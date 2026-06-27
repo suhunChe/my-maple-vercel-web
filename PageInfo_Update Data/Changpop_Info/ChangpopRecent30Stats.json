@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "generatedAt": null,
+  "updatedDate": null,
+  "windowDays": 30,
+  "weights": {
+    "viewDelta": 1,
+    "likeDelta": 20
+  },
+  "playlistId": null,
+  "videoCount": 0,
+  "videos": {}
+}

@@ -21,6 +21,11 @@
                 <span class="music-count-chip" id="changpop-count">- 곡</span>
                 <span class="music-count-chip changpop-updated-chip" id="changpop-updated" hidden></span>
             </div>
+            <div class="changpop-sort-tabs" id="changpop-sort-tabs" role="tablist" aria-label="창팝 정렬">
+                <button type="button" class="changpop-sort-btn is-active" data-sort="recent30" role="tab">최근 30일 순</button>
+                <button type="button" class="changpop-sort-btn" data-sort="views" role="tab">조회수 순</button>
+                <button type="button" class="changpop-sort-btn" data-sort="likes" role="tab">좋아요 순</button>
+            </div>
             <div class="music-toolbar-actions">
                 <button type="button" class="changpop-submit-btn" id="changpop-submit-open">
                     <span aria-hidden="true">+</span> 창팝 등록
@@ -30,11 +35,11 @@
 
         <section class="music-list-card changpop-card">
             <header class="changpop-list-header" role="row">
-                <span class="changpop-col changpop-col-rank">#</span>
-                <span class="changpop-col changpop-col-thumb" aria-hidden="true"></span>
+                <span class="changpop-col changpop-col-rank">순위</span>
                 <span class="changpop-col changpop-col-title">제목</span>
                 <span class="changpop-col changpop-col-duration">재생시간</span>
                 <span class="changpop-col changpop-col-views">조회수</span>
+                <span class="changpop-col changpop-col-likes">좋아요</span>
             </header>
             <ul class="music-list changpop-list" id="changpop-list">
                 <li class="music-empty"><div class="spinner"></div>창팝 목록을 불러오는 중...</li>
@@ -58,7 +63,8 @@
 
         <p class="changpop-footnote">
             ※ 이 페이지는 YouTube Data API v3 를 통해 플레이리스트 정보를 가져옵니다.
-            관리 파일: <code>MyMaple_PageInfo/InfoList/ChangpopConfig.json</code>
+            관리 파일: <code>MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json</code><br>
+            자동 갱신 통계: <code>PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json</code> (GitHub Actions 가 매일 갱신)
         </p>
     </main>
 

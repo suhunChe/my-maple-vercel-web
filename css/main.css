@@ -3660,7 +3660,7 @@ header.site-header {
 
 .changpop-list-header {
     display: grid;
-    grid-template-columns: 46px 96px minmax(0, 1fr) 90px 90px;
+    grid-template-columns: 46px 96px minmax(0, 1fr) 90px 90px 90px;
     align-items: center;
     gap: 10px;
     padding: 10px 18px;
@@ -3673,8 +3673,10 @@ header.site-header {
     text-transform: uppercase;
 }
 .changpop-list-header .changpop-col-rank { text-align: center; }
+.changpop-list-header .changpop-col-title { grid-column: 2 / 4; }
 .changpop-list-header .changpop-col-duration,
-.changpop-list-header .changpop-col-views { text-align: right; }
+.changpop-list-header .changpop-col-views,
+.changpop-list-header .changpop-col-likes { text-align: right; }
 
 .changpop-list {
     list-style: none;
@@ -3687,7 +3689,7 @@ header.site-header {
 
 .changpop-row {
     display: grid;
-    grid-template-columns: 46px 96px minmax(0, 1fr) 90px 90px;
+    grid-template-columns: 46px 96px minmax(0, 1fr) 90px 90px 90px;
     align-items: center;
     gap: 10px;
     padding: 8px 18px;
@@ -3784,7 +3786,8 @@ header.site-header {
     font-variant-numeric: tabular-nums;
     font-size: 12.5px;
 }
-.changpop-col-views {
+.changpop-col-views,
+.changpop-col-likes {
     text-align: right;
     color: var(--text-sub);
     font-variant-numeric: tabular-nums;
@@ -3816,8 +3819,11 @@ header.site-header {
         padding-left: 14px;
         padding-right: 14px;
     }
+    .changpop-list-header .changpop-col-title { grid-column: 2 / 4; }
     .changpop-col-views,
-    .changpop-list-header .changpop-col-views { display: none; }
+    .changpop-list-header .changpop-col-views,
+    .changpop-col-likes,
+    .changpop-list-header .changpop-col-likes { display: none; }
     .changpop-col-thumb { width: 76px; height: 44px; }
 }
 
@@ -4141,4 +4147,60 @@ body.changpop-modal-open { overflow: hidden; }
         gap: 10px;
     }
     .changpop-pending-thumb { width: 64px; height: 36px; }
+}
+
+/* =========================================
+   창팝 — 정렬 탭 & 최근 30일 칩
+   ========================================= */
+.changpop-sort-tabs {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px;
+    border: 1px solid rgba(255,255,255,0.10);
+    background: rgba(255,255,255,0.04);
+    border-radius: 999px;
+}
+.changpop-sort-btn {
+    appearance: none;
+    border: 0;
+    background: transparent;
+    color: var(--text-sub);
+    font-size: 12.5px;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background-color 0.18s ease, color 0.18s ease;
+}
+.changpop-sort-btn:hover { color: var(--text-main); background: rgba(255,255,255,0.05); }
+.changpop-sort-btn.is-active {
+    color: #1a1108;
+    background: linear-gradient(135deg, #ffd24a, #ff9b1a);
+    box-shadow: 0 2px 6px rgba(255,145,0,0.25);
+}
+
+.changpop-recent-chip {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 2px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: rgba(255,145,0,0.12);
+    border: 1px solid rgba(255,145,0,0.25);
+    color: #ffb86b;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    width: max-content;
+    max-width: 100%;
+}
+.changpop-recent-chip.is-muted {
+    background: rgba(255,255,255,0.05);
+    border-color: rgba(255,255,255,0.10);
+    color: var(--text-mute);
+}
+
+@media (max-width: 720px) {
+    .changpop-sort-tabs { display: none; }
 }
