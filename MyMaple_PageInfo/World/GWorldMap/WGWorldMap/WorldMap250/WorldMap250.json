@@ -1,0 +1,783 @@
+﻿{
+  "sBaseMapID": "WorldMap250.img",
+  "sBaseMapName": "호텔 아르크스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\WGWorldMap\\WorldMap250",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003000",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "호텔 아르크스 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Welcome to Hotel Arcs",
+            "MapData_sLifeList": [ "n:3005001", "n:3005012", "n:3005023", "n:3005024", "n:3005016", "n:3005028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -25, "y": 6 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "호텔 아르크스 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003010",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "몰락한 황야의 도시",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "n:9010109", "n:9000365", "n:9000123", "n:9000124", "n:9010106", "n:9010022", "n:3005020", "n:3005021", "n:3005030", "n:3005031", "n:3005032", "n:3004545", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -27, "y": 55 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "몰락한 황야의 도시",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003020",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "간이역 레일로드",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "n:3005018", "n:3005000", "n:3005017", "n:3005019", "n:3005022", "n:3007080", "n:3007081" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -145, "y": 3 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "간이역 레일로드",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003030",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "이름이 잊혀진 황야",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "n:3005004", "n:3005005", "n:3005006", "n:3005011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -100, "y": 134 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "이름이 잊혀진 황야",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003040",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "무법자들이 지배하는 황야1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "m:8645200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -173, "y": 156 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "무법자들이 지배하는 황야1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003050",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "무법자들이 지배하는 황야2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "m:8645200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -243, "y": 151 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "무법자들이 지배하는 황야2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003060",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "무법자들이 지배하는 황야3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "m:8645201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -264, "y": 98 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "무법자들이 지배하는 황야3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003070",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "무법자들이 지배하는 황야4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "m:8645201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -215, "y": 61 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "무법자들이 지배하는 황야4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003080",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "개조된 차고지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "n:3005003", "n:3005010", "n:3005013", "n:3005025", "n:3005027", "n:3005033" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 55, "y": -65 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "개조된 차고지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003090",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645202", "n:3005007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 84, "y": 86 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003100",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645202" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 147, "y": 103 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003110",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645202" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 195, "y": 70 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003120",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645203", "n:3005015", "n:3005008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 19 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003130",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 153, "y": -30 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003140",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "낭만이 저무는 자동차 극장6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Lonesome Cinema",
+            "MapData_sLifeList": [ "m:8645203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 189, "y": -68 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "낭만이 저무는 자동차 극장6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003150",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -198, "y": -62 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003160",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -183, "y": -87 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003170",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645204", "n:3005014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -155, "y": -106 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003180",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -124, "y": -120 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003190",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -89, "y": -132 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003200",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "종착지 없는 횡단열차6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": [ "m:8645205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -52, "y": -142 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "종착지 없는 횡단열차6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410003210",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "열차 기관실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Train heading nowhere",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -7, "y": -154 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "열차 기관실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410005000",
+            "MapData_sMapIcon": "Arcs",
+            "MapData_sMapName": "호텔 아르크스",
+            "MapData_sMapSubName": "호텔 아르크스 2층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Welcome to Hotel Arcs",
+            "MapData_sLifeList": [ "n:3005230", "n:3005236", "n:3005242", "n:3005248", "n:3005254", "n:3005255", "n:3005256", "n:3005257", "n:3005258", "n:3006800" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -25, "y": -24 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "호텔 아르크스",
+        "sSubTitle": "호텔 아르크스 2층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410005001",
+            "MapData_sMapIcon": "karotte",
+            "MapData_sMapName": "카로테",
+            "MapData_sMapSubName": "멈추지 않는 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Once upon a time in Karotte",
+            "MapData_sLifeList": [ "n:3005231", "n:3005237", "n:3005243", "n:3005249" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": -127 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "카로테",
+        "sSubTitle": "멈추지 않는 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

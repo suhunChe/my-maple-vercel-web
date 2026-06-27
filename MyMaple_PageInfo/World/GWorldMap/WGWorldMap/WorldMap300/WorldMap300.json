@@ -1,0 +1,1103 @@
+﻿{
+  "sBaseMapID": "WorldMap300.img",
+  "sBaseMapName": "아르테리아",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\WGWorldMap\\WorldMap300",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007522",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "북쪽 외곽지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645400", "n:3006412", "n:3006413" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -174, "y": 123 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "북쪽 외곽지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007523",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "서쪽 외곽지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645400", "n:3006414", "n:3006415" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -133, "y": 167 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "서쪽 외곽지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007524",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "남쪽 외곽지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645401" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -51, "y": 166 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "남쪽 외곽지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007525",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "동쪽 외곽지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645401", "n:3006416", "n:3006417", "n:3006430" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": 135 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "동쪽 외곽지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007546",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "외곽 전투지역 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645400" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -201, "y": 147 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "외곽 전투지역 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007547",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "외곽 전투지역 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "m:8645401" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -47, "y": 189 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "외곽 전투지역 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007527",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645402", "n:3006422", "n:3006421" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 205, "y": 26 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007528",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645402" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 163, "y": 22 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007529",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645402", "n:3006423" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 21 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007548",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645403" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 77, "y": 23 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007549",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645403" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 37, "y": 26 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007530",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최하층 통로 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "m:8645403", "n:3006424", "n:3006425", "n:3006426" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -8, "y": -14 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최하층 통로 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007537",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645404" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": -60 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007538",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645404" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 158, "y": -103 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007539",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645404", "m:8645405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 110, "y": -103 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007550",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645405", "m:8645404" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 61, "y": -101 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007551",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 11, "y": -98 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007552",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -42, "y": -93 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007553",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645404", "m:8645405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -93, "y": -87 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007540",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 통로 8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "m:8645404", "m:8645405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -143, "y": -77 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 통로 8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007520",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "작전본부",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "n:3006400", "n:3006404", "n:3006405", "n:3006406", "n:3006432", "n:3006433", "n:3006435", "n:3006436", "n:3006429", "n:9010022", "n:9010106", "n:9010109", "n:3006443", "n:3004545", "n:9010113", "n:9010112", "n:3007044" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -93, "y": 152 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "작전본부",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007521",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "보급고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Fierce fortress",
+            "MapData_sLifeList": [ "n:3006408", "n:3006409", "n:3006410", "n:3006411", "n:3006500", "n:3007154", "n:3007155", "n:3007156", "n:3007157" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -133, "y": 136 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "보급고",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007526",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "격납고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "n:3006419", "n:3006420" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 119, "y": 75 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "격납고",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007531",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층으로 가는 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 78, "y": -20 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층으로 가는 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007532",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "하층부 좌측 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "n:3006440" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -95, "y": -2 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "하층부 좌측 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007533",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "하층부 우측 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "n:3006437", "n:3006438" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 168, "y": -20 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "하층부 우측 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007534",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "하층부 레프 생활관",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "n:3006441", "n:3006442" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -181, "y": 14 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "하층부 레프 생활관",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007535",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "하이레프 무기고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Shadowy passage",
+            "MapData_sLifeList": [ "n:3006439", "n:3006444", "n:3006445", "n:3006446" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 252, "y": -13 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "하이레프 무기고",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007536",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "하층부로 가는 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 35, "y": -55 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "하층부로 가는 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007541",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "관측소",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 238, "y": -97 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "관측소",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007542",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "최상층 좌측 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -206, "y": -62 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "최상층 좌측 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007543",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "서리가 느껴지는 생활관",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "n:3006444", "n:3006445", "n:3006446" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -269, "y": -44 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "서리가 느껴지는 생활관",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007544",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "냉기가 새어나오는 문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": -141 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "냉기가 새어나오는 문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410007545",
+            "MapData_sMapIcon": "arteria",
+            "MapData_sMapName": "아르테리아",
+            "MapData_sMapSubName": "지휘실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm59/Painful and lingering death",
+            "MapData_sLifeList": [ "n:3006427", "n:3006434" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": -186 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르테리아",
+        "sSubTitle": "지휘실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}
