@@ -1,0 +1,847 @@
+﻿{
+  "sBaseMapID": "WorldMap350.img",
+  "sBaseMapName": "기어드락",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\WGWorldMap\\WorldMap350",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013701",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "그란디스 서부",
+            "MapData_sMapSubName": "버려진 간이역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": [ "n:3007082", "n:3007083", "n:3007109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -216, "y": -169 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "그란디스 서부",
+        "sSubTitle": "버려진 간이역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013702",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "그란디스 서부",
+            "MapData_sMapSubName": "석양이 지는 황야",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Wayout of the wilderness",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": -137 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "그란디스 서부",
+        "sSubTitle": "석양이 지는 황야",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013703",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 1층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645481", "n:3007084", "n:3007085" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": -90 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 1층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013704",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 2층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645481", "n:3007086", "n:3007087" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 76, "y": -62 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 2층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013705",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 2층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645481" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -71, "y": -62 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 2층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013706",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 3층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645482", "n:3007088", "n:3007089" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 76, "y": -22 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 3층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013707",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 3층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645482" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -71, "y": -22 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 3층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013708",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "지하 4층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/Secrets Hidden Under the Sand",
+            "MapData_sLifeList": [ "m:8645482" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 15 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "지하 4층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013709",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "용광로 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The furnace that swallowed the gods",
+            "MapData_sLifeList": [ "n:3007090", "n:3007091", "n:3007105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 68, "y": 94 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "용광로 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013700",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "크로노스가 잠든 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The furnace that swallowed the gods",
+            "MapData_sLifeList": [ "n:3007098", "n:3007099", "n:3007100", "n:3007101", "n:3007102", "n:3007103", "n:3007104", "n:3007108", "n:9010112", "n:3004545", "n:9010109", "n:9010106", "n:9010022", "n:9010113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 119 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "크로노스가 잠든 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013710",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645483", "n:3007092", "n:3007093" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 69, "y": 143 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013711",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645483" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": 118 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013712",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645483" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 93 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013713",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645483" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 229, "y": 116 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013714",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645484" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 285, "y": 144 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013715",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645484" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 234, "y": 168 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013716",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645484" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 194 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013717",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "로봇 창고 8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The gaze of abandoned robots",
+            "MapData_sLifeList": [ "m:8645484" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 121, "y": 165 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "로봇 창고 8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013718",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645485" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -72, "y": 143 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013719",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645485" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -128, "y": 114 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013720",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645485" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -181, "y": 92 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013721",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645485" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -232, "y": 117 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013722",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645486" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -289, "y": 142 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013723",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645486" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -236, "y": 164 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013724",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645486" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -181, "y": 192 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013725",
+            "MapData_sMapIcon": "Geardrak",
+            "MapData_sMapName": "기어드락",
+            "MapData_sMapSubName": "고브의 작업실 8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm62/The Ghosts of the Sleepless Gods",
+            "MapData_sLifeList": [ "m:8645486", "n:3007094", "n:3007095", "n:3007096", "n:3007097" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -123, "y": 167 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기어드락",
+        "sSubTitle": "고브의 작업실 8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

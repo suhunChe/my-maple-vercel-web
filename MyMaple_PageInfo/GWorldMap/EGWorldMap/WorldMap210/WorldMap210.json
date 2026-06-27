@@ -1,0 +1,495 @@
+﻿{
+  "sBaseMapID": "WorldMap210.img",
+  "sBaseMapName": "청운",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\EGWorldMap\\WorldMap210",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000200",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "저잣거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "n:3001616", "n:3001634", "n:3001602", "n:3001613", "n:3001614", "n:3001615", "n:3001635", "n:3001603", "n:3001686", "n:3001687", "n:3001688", "n:3001689", "n:3004027", "n:3004028", "n:3004029" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -173, "y": 94 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "저잣거리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000210",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "어수선한 항아리 터 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400551" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -179, "y": -4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "어수선한 항아리 터 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000211",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "어수선한 항아리 터 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400552", "m:2400551" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -230, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "어수선한 항아리 터 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000212",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "어수선한 항아리 터 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400552" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -185, "y": -141 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "어수선한 항아리 터 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000213",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "위험한 항아리 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400553" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -269, "y": -159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "위험한 항아리 터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000220",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "수상한 박 밭 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400554" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 57, "y": 99 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "수상한 박 밭 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000221",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "수상한 박 밭 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400554", "m:2400555" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": 63 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "수상한 박 밭 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000222",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "청운골",
+            "MapData_sMapSubName": "수상한 박 밭 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "m:2400555" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 266, "y": 87 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "청운골",
+        "sSubTitle": "수상한 박 밭 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000230",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "사원 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CheongUn",
+            "MapData_sLifeList": [ "n:3001606", "n:3001629", "n:3001633", "n:3001684", "n:3001682", "n:3006667" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -99, "y": -113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "사원 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000240",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "사원 내부 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "m:2400556" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 27, "y": -155 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "사원 내부 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000241",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "사원 내부 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "n:3001631", "m:2400556" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": -190 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "사원 내부 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000242",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "사원 내부 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "n:3001632", "m:2400557" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 101, "y": -139 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "사원 내부 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000243",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "사원 내부 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "m:2400557" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": -183 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "사원 내부 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000250",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "법당 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "n:3001607", "n:3001661" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 216, "y": -126 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "법당 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000251",
+            "MapData_sMapIcon": "CheongUn",
+            "MapData_sMapName": "미남 법사의 사원",
+            "MapData_sMapSubName": "법당",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/CreepyTemple",
+            "MapData_sLifeList": [ "n:3001610", "n:3001611", "n:3001680", "n:3001681", "n:3001685" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": -152 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미남 법사의 사원",
+        "sSubTitle": "법당",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

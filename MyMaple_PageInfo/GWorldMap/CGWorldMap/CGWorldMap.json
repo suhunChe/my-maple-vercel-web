@@ -1,0 +1,29 @@
+﻿{
+  "sBaseMapID": "CGWorldMap.img",
+  "sBaseMapName": "그란디스 중부",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\CGWorldMap",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap190",
+        "pntOrigin": { "x": 86, "y": 6 },
+        "sToolTip": "새비지 터미널",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": 7, "y": 89 },
+        "sListMapUpData_Desc": "온갖 잡배와 뜨내기들이 모여드는 무법 도시. 주변의 바다는 방사능으로 오염되어 있고 곳곳에는 쓰레기가 쌓여 있다. 암시장이 발달해 외부에서는 불법적인 물품도 이곳에서는 멀쩡히 유통되곤 한다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 무법자들의 마을",
+        "bIsArchive": false,
+        "sArchiveName": null,
+        "sArchiveDesc": null,
+        "sArchiveImagePath": null
+      }
+  ],
+  "MapListDate": [
+
+  ]
+}

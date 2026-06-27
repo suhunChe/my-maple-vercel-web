@@ -1,0 +1,924 @@
+﻿{
+  "sBaseMapID": "WorldMap230.img",
+  "sBaseMapName": "세르니움",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\WGWorldMap\\WorldMap230",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap240",
+        "pntOrigin": { "x": -207, "y": 219 },
+        "sToolTip": "불타는 세르니움",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": 250, "y": -170 },
+        "sListMapUpData_Desc": null,
+        "sListMapUpData_MainCity": null,
+        "bIsArchive": false,
+        "sArchiveName": null,
+        "sArchiveDesc": null,
+        "sArchiveImagePath": null
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000500",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 광장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004419", "n:3004421", "n:3004423", "n:3004500", "n:3004504", "n:3004519", "n:3004512", "n:3004511", "n:3004455", "n:3004403", "n:3004420", "n:3004422", "n:3004404", "n:3004452", "n:3004425", "n:3004407", "n:3004417", "n:3004427", "n:3004428", "n:3004416", "n:3004468", "n:3004467", "n:9000365", "n:9000123", "n:9000124", "n:9010106", "n:9010022", "n:9010109", "n:3004540", "n:3004520", "n:3004448", "n:3004521", "n:3004485", "n:3004486", "n:3004487", "n:3004488", "n:3004489", "n:3004490", "n:9010010", "n:9010000", "n:3006700", "n:3004545", "n:9063313", "n:9010113", "n:9010112", "n:9063870", "n:9070104", "n:9070105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -3 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 광장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000510",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "해변 암석 지대 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "n:3004401", "n:3004466" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -74, "y": 194 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "해변 암석 지대 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000520",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "해변 암석 지대 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "m:8645123", "n:3004426" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -113, "y": 169 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "해변 암석 지대 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000530",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "해변 암석 지대 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "m:8645123" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -165, "y": 180 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "해변 암석 지대 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000540",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "해변 암석 지대 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "m:8645124" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -204, "y": 148 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "해변 암석 지대 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000550",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "해변 암석 지대 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "m:8645124", "n:3004502" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -259, "y": 146 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "해변 암석 지대 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000560",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "성지가 보이는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SeaWave",
+            "MapData_sLifeList": [ "n:3004501", "n:3004423", "n:3004402" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -220, "y": 108 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "성지가 보이는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000570",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 서쪽 성문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -165, "y": 17 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 서쪽 성문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000580",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 서쪽 성벽 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004423", "n:3004406", "n:3004503" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -210, "y": -2 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 서쪽 성벽 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000590",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 서쪽 성벽 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645125", "n:3004405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -246, "y": -28 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 서쪽 성벽 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000600",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 서쪽 성벽 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645125" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -266, "y": -63 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 서쪽 성벽 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000610",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 서쪽 성벽 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645125" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -244, "y": -98 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 서쪽 성벽 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000620",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 동쪽 성문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004409" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": 17 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 동쪽 성문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000630",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 동쪽 성벽 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004418", "n:3004416" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 200, "y": -2 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 동쪽 성벽 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000640",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 동쪽 성벽 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645126", "n:3004408" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 234, "y": -27 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 동쪽 성벽 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000650",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 동쪽 성벽 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645126" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 255, "y": -62 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 동쪽 성벽 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000660",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "세르니움 동쪽 성벽 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645126" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 232, "y": -98 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "세르니움 동쪽 성벽 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000670",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕궁 메인홀",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004424", "n:3004423", "n:3004412", "n:3004413", "n:3004542" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -58 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕궁 메인홀",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000680",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "성검이 보관된 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/SanctuaryOfMitra",
+            "MapData_sLifeList": [ "n:3004411", "n:3004410" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -114 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "성검이 보관된 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000690",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "n:3004505", "n:3004506", "n:3004507", "n:3004525", "n:3004415", "n:3004414" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 69, "y": -91 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000700",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645127" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 74, "y": -153 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000710",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645127" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -141 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000720",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645127" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 152, "y": -129 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000730",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제4구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645128" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 94, "y": -178 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제4구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000740",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제5구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645128" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 133, "y": -166 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제5구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000750",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "왕립 도서관 제6구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/TheHolyLand",
+            "MapData_sLifeList": [ "m:8645128" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 172, "y": -154 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "왕립 도서관 제6구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000760",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "검의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/GraveyardOfSword",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -173, "y": -170 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "검의 무덤",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410000770",
+            "MapData_sMapIcon": "Cernium",
+            "MapData_sMapName": "세르니움",
+            "MapData_sMapSubName": "레프군 주둔지 근처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm53/RedMoon",
+            "MapData_sLifeList": [ "n:3004508", "n:3004509", "n:3004510", "n:3004523" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": 163 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "세르니움",
+        "sSubTitle": "레프군 주둔지 근처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

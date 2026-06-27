@@ -1,0 +1,1007 @@
+﻿{
+  "sBaseMapID": "WorldMap320.img",
+  "sBaseMapName": "탈라하트",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\WGWorldMap\\WorldMap320",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013601",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "유적 폐허",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "n:3006801", "n:3006888", "n:3006890" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -271, "y": 101 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "유적 폐허",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013620",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "재와 침묵의 땅 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "m:8645460", "n:3006802", "n:3006803" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -249, "y": 161 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "재와 침묵의 땅 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013621",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "재와 침묵의 땅 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "m:8645460" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -195, "y": 191 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "재와 침묵의 땅 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013622",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "재와 침묵의 땅 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "m:8645460", "m:8645461", "n:3006804", "n:3006805" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -127, "y": 168 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "재와 침묵의 땅 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013623",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "재와 침묵의 땅 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "m:8645461" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -176, "y": 118 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "재와 침묵의 땅 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013624",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "재와 침묵의 땅 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": [ "m:8645461", "n:3006808", "n:3006807" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -182, "y": 57 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "재와 침묵의 땅 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013602",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "도시로 향하는 다리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/Reborn gods",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -107, "y": 68 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "도시로 향하는 다리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013600",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "신들의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "n:3004545", "n:9010109", "n:9010106", "n:3006842", "n:9010022", "n:3006841", "n:3006809", "n:3006825", "n:3006826", "n:3006827", "n:3006828", "n:3006843", "n:3006844", "n:3006847", "n:3006846", "n:3006845", "n:9010113", "n:9010112", "n:3006882", "n:3006885", "n:3006889", "n:3006883", "n:3006884", "n:3006894" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": -38 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "신들의 무덤",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013640",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "섭리와 운명의 전쟁터 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645466" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -79, "y": -57 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "섭리와 운명의 전쟁터 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013641",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "섭리와 운명의 전쟁터 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645466", "n:3006810" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -133, "y": -89 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "섭리와 운명의 전쟁터 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013642",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "섭리와 운명의 전쟁터 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645466", "n:3006811" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": -136 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "섭리와 운명의 전쟁터 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013603",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "섭리의 제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "n:3006812", "n:3006891" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -227, "y": -102 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "섭리의 제단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013643",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "심판과 운명의 전쟁터 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645462" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -25, "y": -108 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "심판과 운명의 전쟁터 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013644",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "심판과 운명의 전쟁터 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645462", "n:3006813" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 7, "y": -156 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "심판과 운명의 전쟁터 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013645",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "심판과 운명의 전쟁터 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645462" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -47, "y": -186 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "심판과 운명의 전쟁터 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013604",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "심판의 제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "n:3006814", "n:3006816", "n:3006815", "n:3006892" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -113, "y": -172 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "심판의 제단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013646",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "영원과 운명의 전쟁터 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645463" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 86, "y": -55 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "영원과 운명의 전쟁터 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013647",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "영원과 운명의 전쟁터 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645463" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 128, "y": -99 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "영원과 운명의 전쟁터 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013648",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "영원과 운명의 전쟁터 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "m:8645463", "n:3006817", "n:3006818", "n:3006819" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 200, "y": -99 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "영원과 운명의 전쟁터 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013605",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "영원의 제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": [ "n:3006820", "n:3006821", "n:3006822", "n:3006823", "n:3006824", "n:3006893" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 241, "y": -46 },
+        "nPinType": 49,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "영원의 제단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013606",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "성소의 관문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/The fate of an immortal",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 49, "y": 3 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "성소의 관문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013607",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "성소로 향하는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "n:3006829", "n:3006830", "n:3006831", "n:3006832" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": 144 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "성소로 향하는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013608",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "밤과 환영의 성소",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "n:3006837", "n:3006838", "n:3006839", "n:3006840", "n:3006880", "n:3006886" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 273, "y": 99 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "밤과 환영의 성소",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013660",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "밤의 길 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645464" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 85, "y": 104 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "밤의 길 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013661",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "밤의 길 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645464" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 115, "y": 69 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "밤의 길 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013662",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "밤의 길 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645464" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 168, "y": 79 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "밤의 길 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013663",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "밤의 길 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645464", "n:3006833", "n:3006834", "n:3006835", "n:3006836" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 221, "y": 89 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "밤의 길 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013664",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "환영의 길 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645465" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 103, "y": 153 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "환영의 길 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013665",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "환영의 길 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645465" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 156, "y": 162 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "환영의 길 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013666",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "환영의 길 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645465" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": 172 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "환영의 길 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410013667",
+            "MapData_sMapIcon": "tallahart",
+            "MapData_sMapName": "탈라하트",
+            "MapData_sMapSubName": "환영의 길 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm60/An invitation to the night",
+            "MapData_sLifeList": [ "m:8645465" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 243, "y": 134 },
+        "nPinType": 48,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "탈라하트",
+        "sSubTitle": "환영의 길 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

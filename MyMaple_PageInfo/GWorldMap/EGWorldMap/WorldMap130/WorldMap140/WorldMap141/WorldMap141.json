@@ -1,0 +1,1007 @@
+﻿{
+  "sBaseMapID": "WorldMap141.img",
+  "sBaseMapName": "폭군의 성채",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\EGWorldMap\\WorldMap130\\WorldMap140\\WorldMap141",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401050000",
+            "MapData_sMapIcon": "retakeHQ",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -167, "y": 159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401050001",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 1층 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "n:3001132" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -111, "y": 125 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 1층 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051000",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 1층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400113", "m:2400114" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 1층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051001",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 1층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400115" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -153, "y": 80 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 1층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051002",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 1층 3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400116" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": 62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 1층 3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051003",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 2층으로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -153, "y": 39 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 2층으로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051100",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 2층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400116" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 2층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051101",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 2층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400117" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -152, "y": 1 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 2층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051102",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 2층 3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400117", "m:2400116" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": -17 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 2층 3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051103",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 입구로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -153, "y": -40 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 입구로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051104",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "공방 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "n:3001025" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": -61 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "공방 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401051200",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "회한의 공방",
+            "MapData_sMapSubName": "빅터의 공방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/trinityForce",
+            "MapData_sLifeList": [ "n:3001026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -183, "y": -106 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "회한의 공방",
+        "sSubTitle": "빅터의 공방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401050002",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "성채 2층으로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -61, "y": 98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "성채 2층으로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401050100",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 2층 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -61, "y": 64 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 2층 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401050101",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "성채 3층으로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -30, "y": 46 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "성채 3층으로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401053000",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 3층 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400114" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -30, "y": 14 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 3층 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401053001",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 3층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400115" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": -4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 3층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401053002",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 성채 3층 집무실 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "n:3001023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -30, "y": -27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 성채 3층 집무실 앞",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401053100",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "벨데로스의 집무실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/trinityForce",
+            "MapData_sLifeList": [ "n:3001024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -30, "y": -70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "벨데로스의 집무실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401060000",
+            "MapData_sMapIcon": "Magnus",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "헬리시움 최상층 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/thefinalWar",
+            "MapData_sLifeList": [ "n:3001020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": -45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "헬리시움 최상층 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401060100",
+            "MapData_sMapIcon": "Magnus",
+            "MapData_sMapName": "폭군의 성채",
+            "MapData_sMapSubName": "폭군의 왕좌",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/thefinalWar",
+            "MapData_sLifeList": [ "n:9091002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 75, "y": -88 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폭군의 성채",
+        "sSubTitle": "폭군의 왕좌",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052002",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 1층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400113", "m:2400114" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -36, "y": 125 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 1층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052001",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 1층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400115" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -4, "y": 107 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 1층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052000",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 1층 3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400118" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 28, "y": 89 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 1층 3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052003",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 2층으로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "n:3001134" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 28, "y": 123 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 2층으로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052100",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 2층 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400118" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 28, "y": 156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 2층 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052101",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 2층 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400119" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 59, "y": 138 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 2층 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052102",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 지하 2층 3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "m:2400119", "m:2400118" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 91, "y": 120 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 지하 2층 3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052103",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 입구로 가는 계단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": 155 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 입구로 가는 계단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052104",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "실험실 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/citadelofTyrant",
+            "MapData_sLifeList": [ "n:3001027" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 124, "y": 138 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "실험실 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "401052200",
+            "MapData_sMapIcon": "citadel",
+            "MapData_sMapName": "광기의 실험실",
+            "MapData_sMapSubName": "트레글로의 실험실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm28/trinityForce",
+            "MapData_sLifeList": [ "n:3001028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": 112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "광기의 실험실",
+        "sSubTitle": "트레글로의 실험실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

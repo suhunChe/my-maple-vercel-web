@@ -1,0 +1,527 @@
+﻿{
+  "sBaseMapID": "WorldMap260.img",
+  "sBaseMapName": "나린",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\GWorldMap\\EGWorldMap\\WorldMap260",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004000",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "햇볕 아롱진 고원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "n:3005152", "n:3005153", "n:3005154", "n:3005155", "n:3005161", "n:3005165", "n:3005168", "n:3005169", "n:3005172", "n:3005171", "n:3005181", "n:3005182", "n:3005183", "n:3005184", "n:3005185", "n:3005186", "n:3004027", "n:3004028", "n:3004029" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 17, "y": 18 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "햇볕 아롱진 고원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004001",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "달보드레 공방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/OnedayAtTheAtelier",
+            "MapData_sLifeList": [ "n:3005162", "n:3005173" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 21, "y": -25 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "달보드레 공방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004002",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "두메네 골동품점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "n:3005157", "n:3005158", "n:3005160", "n:3005170", "n:3005174", "n:3005175" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -46, "y": -13 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "두메네 골동품점",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004003",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "뒷골목 그윽한 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/BetweenAlley",
+            "MapData_sLifeList": [ "n:3005163", "n:3005164", "n:3005167", "n:3005187", "n:3005188" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -247, "y": -172 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "뒷골목 그윽한 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004004",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "고즈넉한 뒷골목 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/BetweenAlley",
+            "MapData_sLifeList": [ "m:8645221" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -212, "y": -68 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "고즈넉한 뒷골목 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004005",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "고즈넉한 뒷골목 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/BetweenAlley",
+            "MapData_sLifeList": [ "m:8645223" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -176, "y": -135 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "고즈넉한 뒷골목 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004006",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "고즈넉한 뒷골목 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/BetweenAlley",
+            "MapData_sLifeList": [ "m:8645222" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -92, "y": -169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "고즈넉한 뒷골목 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004007",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "고즈넉한 뒷골목 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/BetweenAlley",
+            "MapData_sLifeList": [ "m:8645224" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -110, "y": -111 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "고즈넉한 뒷골목 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004008",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "영주의 비밀 창고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "n:3005166" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 87, "y": -8 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "영주의 비밀 창고",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004010",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "바람이 쉬어가는 늘솔길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "n:3005150", "n:3005151", "n:3005176", "n:3005177", "n:3005178" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 250, "y": 149 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "바람이 쉬어가는 늘솔길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004011",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "햇살이 기댄 언덕 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645226", "n:3005159" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": 176 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "햇살이 기댄 언덕 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004012",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "햇살이 기댄 언덕 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645226", "m:8645225" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 71, "y": 146 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "햇살이 기댄 언덕 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004013",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "햇살이 기댄 언덕 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645225" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 80 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "햇살이 기댄 언덕 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004014",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "바람꽃마루 동산 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645227" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -105, "y": 88 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "바람꽃마루 동산 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004015",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "바람꽃마루 동산 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645227", "m:8645228" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -158, "y": 137 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "바람꽃마루 동산 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "410004016",
+            "MapData_sMapIcon": "Narin",
+            "MapData_sMapName": "나린",
+            "MapData_sMapSubName": "바람꽃마루 동산 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/WonderfulMomentsInNarin",
+            "MapData_sLifeList": [ "m:8645228" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -244, "y": 172 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "나린",
+        "sSubTitle": "바람꽃마루 동산 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}
