@@ -1,0 +1,52 @@
+name: Update Changpop Recent 30 Stats
+
+# 매일 한국 시간 새벽 3시 (UTC 18:00) 자동 실행
+# 필요 시 GitHub Actions 화면에서 "Run workflow" 로 수동 실행도 가능
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: changpop-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Changpop stats updater
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_PLAYLIST_ID: ${{ secrets.YOUTUBE_PLAYLIST_ID }}
+          CHANGPOP_MAX_VIDEOS: ${{ vars.CHANGPOP_MAX_VIDEOS }}
+          CHANGPOP_WEIGHT_VIEW: ${{ vars.CHANGPOP_WEIGHT_VIEW }}
+          CHANGPOP_WEIGHT_LIKE: ${{ vars.CHANGPOP_WEIGHT_LIKE }}
+          CHANGPOP_WINDOW_DAYS: ${{ vars.CHANGPOP_WINDOW_DAYS }}
+        run: node scripts/update-changpop-stats.mjs
+
+      - name: Commit and push updated stats
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json"
+          if git diff --cached --quiet; then
+            echo "No stats changes to commit."
+          else
+            git commit -m "chore(changpop): update recent-30 stats [skip ci]"
+            git push
+          fi
