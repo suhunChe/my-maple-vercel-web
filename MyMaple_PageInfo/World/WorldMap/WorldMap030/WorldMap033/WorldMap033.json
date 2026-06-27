@@ -1,0 +1,419 @@
+﻿{
+  "sBaseMapID": "WorldMap033.img",
+  "sBaseMapName": "판타스틱 테마파크",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030\\WorldMap033",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222100000",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타스틱 테마파크<정문>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "n:2192002", "n:2190002", "n:2192003", "n:2192011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -165, "y": 121 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "판타스틱 테마파크<정문>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222110000",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "퍼니 스테이션<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -110, "y": 51 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "퍼니 스테이션<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222110100",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "퍼니 스테이션<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145001", "m:8145002", "n:2192021", "n:2192004", "n:2192012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -91, "y": 15 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "퍼니 스테이션<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222110110",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "유령의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -117, "y": -27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "유령의 집",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222110200",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "퍼니 스테이션<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145003", "n:2192022", "n:2192005", "n:2192013", "n:2192025", "n:2192006", "n:2192014", "n:2192020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -52, "y": -6 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "퍼니 스테이션<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222120000",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "익스트림 스테이션<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": -15 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "익스트림 스테이션<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222120100",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "익스트림 스테이션<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145005", "n:2192007", "n:2192015", "n:2192026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 44, "y": -5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "익스트림 스테이션<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222120200",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "익스트림 스테이션<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145006", "n:2192008", "n:2192018", "n:2192027", "n:2192028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 88, "y": -11 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "익스트림 스테이션<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222130000",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타지 스테이션<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 130, "y": -28 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "판타지 스테이션<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222130100",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타지 스테이션<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145008", "n:2192009", "n:2192016", "n:2192023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": -58 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "판타지 스테이션<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222130200",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타스틱 애니멀쇼<입구>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "m:8145008", "m:8145007", "n:2192001", "n:2192024", "n:2192017", "n:2192010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 191, "y": -98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "판타스틱 애니멀쇼<입구>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222130210",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타스틱 애니멀쇼<공연장>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark2017",
+            "MapData_sLifeList": [ "n:2192019" ]
+          },
+
+          {
+            "MapData_sMapID": "223030210",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": "판타스틱 테마파크",
+            "MapData_sMapSubName": "판타스틱 애니멀쇼<공연장>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark",
+            "MapData_sLifeList": [ "n:2192001" ]
+          },
+
+          {
+            "MapData_sMapID": "223030220",
+            "MapData_sMapIcon": "FantasticPark",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmFT/FantasticThemePark",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 221, "y": -145 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "판타스틱 테마파크",
+        "sSubTitle": "판타스틱 애니멀쇼<공연장>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "판타스틱 테마파크",
+        "ArchiveRegionDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      }
+  ]
+}

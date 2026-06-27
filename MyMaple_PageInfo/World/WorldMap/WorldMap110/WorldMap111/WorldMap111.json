@@ -1,0 +1,921 @@
+﻿{
+  "sBaseMapID": "WorldMap111.img",
+  "sBaseMapName": "기계무덤",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap110\\WorldMap111",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070100",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -248, "y": 181 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070000",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "헤이븐",
+            "MapData_sDesc": "감정을 깨우친 로봇들의 피난처. 사냥 로봇들을 피해 도망친 로봇들이 한 데 뭉쳐 살아가고 있다. 케이블카를 타고 에델슈타인 쪽으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm41/Haven Theme",
+            "MapData_sLifeList": [ "n:2155003", "n:2155001", "n:2155000", "n:2155002", "n:2155100", "n:2155006", "n:2155004", "n:2155005", "n:2155007", "n:2155008", "n:9010010", "n:9010009", "n:9010022", "n:9010000", "n:2010011", "n:9071003", "n:9000178", "n:9062009", "n:2155009", "n:2155010", "n:2155011", "n:2155013", "n:2155012", "n:9000123", "n:9000124", "n:9010106", "n:9010109", "n:9000397", "n:9062010", "n:2155014", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -199, "y": 157 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "헤이븐",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070110",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 언덕1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250000", "m:8250001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -143, "y": 177 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 언덕1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070120",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 언덕2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -61, "y": 172 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 언덕2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070130",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 언덕3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 32, "y": 168 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 언덕3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070140",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 언덕4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250003", "m:8250005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 32, "y": 109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 언덕4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070150",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 공터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -65, "y": 104 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 공터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070160",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "기계무덤",
+            "MapData_sMapSubName": "기계무덤 언덕5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/JunkYard",
+            "MapData_sLifeList": [ "m:8250004", "m:8250006", "n:2155106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -169, "y": 103 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기계무덤",
+        "sSubTitle": "기계무덤 언덕5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070200",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "스카이라인",
+            "MapData_sMapSubName": "스카이라인 올라가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250009", "m:8250007", "m:8250002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -253, "y": 69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이라인",
+        "sSubTitle": "스카이라인 올라가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070210",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "스카이라인",
+            "MapData_sMapSubName": "스카이라인1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250009", "m:8250007", "m:8250002", "n:2155107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -242, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이라인",
+        "sSubTitle": "스카이라인1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070230",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "스카이라인",
+            "MapData_sMapSubName": "스카이라인2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250013", "m:8250009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -201, "y": -50 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이라인",
+        "sSubTitle": "스카이라인2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070220",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "스카이라인",
+            "MapData_sMapSubName": "스카이라인 가장자리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250008", "m:8250009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -237, "y": -57 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이라인",
+        "sSubTitle": "스카이라인 가장자리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070300",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐 갑판",
+            "MapData_sMapSubName": "블랙헤븐 갑판1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250013", "m:8250028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -130, "y": -126 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐 갑판",
+        "sSubTitle": "블랙헤븐 갑판1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070310",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐 갑판",
+            "MapData_sMapSubName": "블랙헤븐 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250013", "m:8250010", "m:8250028", "n:2155108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -67, "y": -137 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐 갑판",
+        "sSubTitle": "블랙헤븐 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070320",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐 갑판",
+            "MapData_sMapSubName": "블랙헤븐 갑판2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250010", "m:8250028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -5, "y": -148 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐 갑판",
+        "sSubTitle": "블랙헤븐 갑판2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070330",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐 갑판",
+            "MapData_sMapSubName": "블랙헤븐 갑판3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/BattleOnTheDeck",
+            "MapData_sLifeList": [ "m:8250012", "m:8250010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 58, "y": -159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐 갑판",
+        "sSubTitle": "블랙헤븐 갑판3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070400",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 교차로1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250011", "m:8250018", "m:8250019" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -67, "y": -85 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 교차로1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070410",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250011", "m:8250024", "m:8250025" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -116, "y": -77 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070420",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250024", "m:8250025" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -161, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070430",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250018", "m:8250022", "m:8250019", "m:8250023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -68, "y": -37 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070440",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 교차로2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250016", "m:8250017", "n:2155109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 1, "y": -49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 교차로2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070492",
+            "MapData_sMapIcon": "BlockBuster",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 메인 컴퓨터실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm40/SecretMission",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 62, "y": -60 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 메인 컴퓨터실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070450",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250016", "m:8250026", "m:8250017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 1, "y": -9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070470",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 교차로3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250026", "m:8250020", "m:8250021" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 1, "y": 26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 교차로3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070460",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250020", "m:8250026", "m:8250021" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": 36 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070480",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250014", "m:8250020", "m:8250026", "m:8250021", "m:8250015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": 16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310070490",
+            "MapData_sMapIcon": "Haven",
+            "MapData_sMapName": "블랙헤븐",
+            "MapData_sMapSubName": "블랙헤븐 내부 미로7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine",
+            "MapData_sLifeList": [ "m:8250014", "m:8250026", "m:8250015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 132, "y": 5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐",
+        "sSubTitle": "블랙헤븐 내부 미로7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "기계무덤",
+        "ArchiveRegionDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "350060300",
+            "MapData_sMapIcon": "BlockBuster",
+            "MapData_sMapName": "블랙헤븐 내부",
+            "MapData_sMapSubName": "코어 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/BigMachine_mission",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "350066300",
+            "MapData_sMapIcon": "BlockBuster",
+            "MapData_sMapName": "블랙헤븐 내부",
+            "MapData_sMapSubName": "해방된 코어",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm41/Suu2phase",
+            "MapData_sLifeList": [ "n:9091038", "m:8240098" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": -64 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙헤븐 내부",
+        "sSubTitle": "코어 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

@@ -1,0 +1,719 @@
+﻿{
+  "sBaseMapID": "WorldMap0826.img",
+  "sBaseMapName": "태초의 바다 에스페라",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0826",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007000",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "n:3003541", "n:3004800", "n:3005420" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -269, "y": -150 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007010",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644500", "n:3003542" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -238, "y": -91 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007020",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644500", "m:8644501" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": -50 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007030",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644501", "n:3003543" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -115, "y": -41 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007040",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "베이스 캠프",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "n:3003536", "n:3003537", "n:3003531", "n:3003530", "n:3003532", "n:3003533", "n:3003534", "n:3003535", "n:9010022", "n:9000123", "n:9000124", "n:3003146", "n:3004801", "n:3003538", "n:3005422", "n:3005423", "n:9010106", "n:9010109", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -46, "y": -33 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "베이스 캠프",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007050",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644502", "n:3003544", "n:3003579" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -14, "y": -15 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007060",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644502", "m:8644503" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 5, "y": 6 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007070",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "생명이 시작되는 곳7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/SoupOfLife",
+            "MapData_sLifeList": [ "m:8644503", "n:3003545", "n:3003580" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 26, "y": 35 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "생명이 시작되는 곳7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007100",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "n:3003546" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": 62 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007110",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644504", "n:3003547" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 96, "y": 131 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007120",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644504", "m:8644505" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 168, "y": 167 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007130",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644505", "n:3003548" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 255, "y": 160 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007140",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644506", "n:3003552", "n:3003549" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 109, "y": 36 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007150",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644506", "m:8644507" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 153, "y": 40 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007160",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울빛에 물든 바다7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "m:8644507", "n:3003553", "n:3003550" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 193, "y": 49 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울빛에 물든 바다7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007170",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "그녀가 잠든 바다",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "n:3003554", "n:3003551", "n:3004802", "n:3004803", "n:3004809", "n:3004824", "n:3004825", "n:3005421" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 246, "y": 45 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "그녀가 잠든 바다",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007200",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울에 비친 빛의 신전",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/TempleInTheMirror",
+            "MapData_sLifeList": [ "n:3003555", "n:3005424" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 22, "y": -99 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울에 비친 빛의 신전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007210",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울에 비친 빛의 신전2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/TempleInTheMirror",
+            "MapData_sLifeList": [ "m:8644508", "n:3003556" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": -143 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울에 비친 빛의 신전2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007220",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울에 비친 빛의 신전3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/TempleInTheMirror",
+            "MapData_sLifeList": [ "m:8644508", "m:8644509" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -166 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울에 비친 빛의 신전3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007230",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울에 비친 빛의 신전4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/TempleInTheMirror",
+            "MapData_sLifeList": [ "m:8644509", "n:3003557" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 152, "y": -166 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울에 비친 빛의 신전4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450007240",
+            "MapData_sMapIcon": "esfera",
+            "MapData_sMapName": "에스페라",
+            "MapData_sMapSubName": "거울에 비친 빛의 신좌",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/TempleInTheMirror",
+            "MapData_sLifeList": [ "n:3003558", "n:3003560", "n:3005425" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 215, "y": -161 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에스페라",
+        "sSubTitle": "거울에 비친 빛의 신좌",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에스페라",
+        "ArchiveRegionDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016280",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "수면 위의 잠수정",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/ConteminatedSea",
+            "MapData_sLifeList": [ "n:3004820", "n:3004821" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 235, "y": 93 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "수면 위의 잠수정",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      }
+  ]
+}

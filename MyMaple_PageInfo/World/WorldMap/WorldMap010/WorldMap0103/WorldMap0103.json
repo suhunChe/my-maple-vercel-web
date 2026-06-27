@@ -1,0 +1,1027 @@
+﻿{
+  "sBaseMapID": "WorldMap0103.img",
+  "sBaseMapName": "파르템",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap0103",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051010",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "카루파 숲 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "n:1013306", "n:1013400" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -258, "y": -146 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "카루파 숲 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051011",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "통통꽃이 피는 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -232, "y": -72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "통통꽃이 피는 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051012",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "독독꽃이 피는 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300202" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -252, "y": -10 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "독독꽃이 피는 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051013",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "통통독독 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300201", "m:2300202", "n:1013401" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -229, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "통통독독 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051000",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "카루파의 마을",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "n:1013300", "n:1013301", "n:1013302", "n:1013303", "n:1013304", "n:1013322", "n:1013323" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -159, "y": 49 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "카루파의 마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051020",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "절구의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "n:1013307", "n:1013326", "n:1013402", "n:1013403" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -94, "y": -31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "절구의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051021",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "향로 토끼의 영역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -117, "y": -85 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "향로 토끼의 영역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051022",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "토기 토끼의 영역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -95, "y": -153 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "토기 토끼의 영역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051030",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "고르곤의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "n:1013308", "n:1013309", "n:1013310", "n:1013311", "n:1013321" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -31, "y": -178 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "고르곤의 집",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051031",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "나무 숲 벌레의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300205", "n:1013312", "n:1013324" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 40, "y": -180 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "나무 숲 벌레의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051032",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "돌돌 숲 벌레의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300206", "n:1013325", "n:1013313" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 97, "y": -142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "돌돌 숲 벌레의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051033",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "숲 벌레의 땅 끝자락",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300206", "m:2300205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -81 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "숲 벌레의 땅 끝자락",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051034",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "와와 계곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "n:1013314" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 142, "y": -109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "와와 계곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051040",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "숨겨진 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "n:1013319", "n:1013424", "n:1013425", "n:1013426", "n:1013427", "n:1013428" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 72, "y": 32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "숨겨진 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051041",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "유적 수호자의 길 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300207", "n:1013315" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 132, "y": 109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "유적 수호자의 길 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051042",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "유적 수호자의 길 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300208", "n:1013316" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 196, "y": 102 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "유적 수호자의 길 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051043",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "유적의 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "n:1013317" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 276, "y": 112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "유적의 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051025",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 토끼의 영역1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300260", "n:1013404" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -44, "y": -15 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 토끼의 영역1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051026",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 토끼의 영역2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300260", "m:2300261" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": 32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 토끼의 영역2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051027",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 토끼의 영역3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300261", "n:1013405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -92, "y": 69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 토끼의 영역3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051035",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 숲 벌레의 땅1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300262", "n:1013406" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 170, "y": -138 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 숲 벌레의 땅1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051036",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 숲 벌레의 땅2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300262", "m:2300263" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 197, "y": -103 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 숲 벌레의 땅2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051037",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 숲 벌레의 땅3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/TheVillageOfKarupa",
+            "MapData_sLifeList": [ "m:2300263", "n:1013407", "n:1013408" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 숲 벌레의 땅3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051050",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300264", "n:1013409", "n:1013410" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": 140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051051",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300264", "m:2300265" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 114, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051052",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300265", "n:1013411", "n:1013412", "n:1013413", "n:1013414" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 131, "y": 190 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051060",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300266", "n:1013415", "n:1013416", "n:1013417" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 170, "y": 179 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051061",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300266", "m:2300267" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 205, "y": 164 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051062",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "위험한 유적 수호자의 길6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "m:2300267", "n:1013418", "n:1013419", "n:1013420" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 245, "y": 180 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "위험한 유적 수호자의 길6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "100051070",
+            "MapData_sMapIcon": "Partem",
+            "MapData_sMapName": "파르템",
+            "MapData_sMapSubName": "유적의 가장 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/ThePartemRuins",
+            "MapData_sLifeList": [ "n:1013421", "n:1013422", "n:1013433", "n:1013432", "n:1013423", "m:2300268" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 280, "y": 174 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파르템",
+        "sSubTitle": "유적의 가장 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "파르템",
+        "ArchiveRegionDesc": "헤네시스 남동쪽에 있는 고대 유적이다. 카루파라 불리는 토착 주민들이 작은 촌락을 이뤄 살고 있다. \\r\\n\\r\\n정글 깊숙한 곳에는 엄청난 고대 유물이 잠든 거대한 지하 신전이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_14.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "160070000",
+            "MapData_sMapIcon": "Ramuramu",
+            "MapData_sMapName": "라무라무 계곡",
+            "MapData_sMapSubName": "라무라무 온천",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Welcome to Ramuramu Valley",
+            "MapData_sLifeList": [ "n:1013502", "n:1013510", "n:1013509", "n:1013503", "n:1013504", "n:1013505", "n:1013506", "n:1013507", "n:1013508", "n:1013511", "n:1013512", "n:1013513", "n:1013501", "n:1013514", "n:1013516", "n:1013519", "n:1013520" ]
+          },
+
+          {
+            "MapData_sMapID": "160080000",
+            "MapData_sMapIcon": "Ramuramu",
+            "MapData_sMapName": "라무라무 계곡",
+            "MapData_sMapSubName": "가디언 엔젤 슬라임의 제단 <노멀>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Historical Site of Slime",
+            "MapData_sLifeList": [ "m:9834610", "n:3007005", "n:3007010", "m:8880700" ]
+          },
+
+          {
+            "MapData_sMapID": "160080100",
+            "MapData_sMapIcon": "Ramuramu",
+            "MapData_sMapName": "라무라무 계곡",
+            "MapData_sMapSubName": "가디언 엔젤 슬라임의 제단 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm57/Historical Site of Slime",
+            "MapData_sLifeList": [ "m:9834610", "n:3007005", "n:3007010", "m:8880711" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 260, "y": -87 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "라무라무 계곡",
+        "sSubTitle": "라무라무 온천",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "라무라무",
+        "ArchiveRegionDesc": "메이플 월드에서도 손꼽히는 신비로운 온천으로, 귀엽고 엉뚱한 생명체인 슬라임들이 모여 사는 특별한 장소다.\\r\\n\\r\\n온천 곳곳에서는 뽀글거리는 거품과 함께 슬라임들이 뛰어놀고 있으며, 이곳의 따뜻한 물은 지친 모험가들에게 활력을 불어넣어 준다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_15.png"
+      }
+  ]
+}

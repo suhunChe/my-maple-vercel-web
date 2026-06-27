@@ -1,0 +1,1792 @@
+﻿{
+  "sBaseMapID": "WorldMap050.img",
+  "sBaseMapName": "미나르숲",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap050",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap052",
+        "pntOrigin": { "x": 30, "y": -128 },
+        "sToolTip": "콜로서스",
+        "nPinType": 2,
+        "pntListMapUpData_PinPoint": { "x": 36, "y": 148 },
+        "sListMapUpData_Desc": "미나르숲 남쪽, 우거진 숲 너머로 거대한 암벽 거인이 나타났다. 모험심이 강한 하프링들이 이를 조사하기 위해 탐사대를 만들어 주변을 살피는 중이다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 탐사본부",
+        "bIsArchive": true,
+        "sArchiveName": "콜로서스",
+        "sArchiveDesc": "미나르숲 남쪽, 우거진 숲 너머로 거대한 암벽 거인이 나타났다. 모험심이 강한 하프링들이 이를 조사하기 위해 탐사대를 만들어 주변을 살피는 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_42.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240000000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "리프레",
+            "MapData_sDesc": "자연을 사랑하는 하프링들의 마을. 용족과 공생관계를 유지하며 살아가고 있다. 정거장을 통해 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:9000086", "n:9000089", "n:9000087", "n:2081000", "n:9010000", "n:9040004", "n:9062010", "n:2080005", "n:2080004", "n:2080000", "n:2080002", "n:2040050", "n:9010009", "n:9010022", "n:9010010", "n:9201023", "n:2010011", "n:9071003", "n:2023000", "n:9000088", "n:9000397", "n:9062009", "n:9000178", "n:9000230", "n:9010106", "n:9010109", "n:1541301", "n:1541208", "n:9072100", "n:9000124", "n:9000123", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "240000001",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "촌장의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "240000002",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "리프레잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2080001" ]
+          },
+
+          {
+            "MapData_sMapID": "240000003",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "야쿠네 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2081003" ]
+          },
+
+          {
+            "MapData_sMapID": "240000004",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "이토네 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2081002" ]
+          },
+
+          {
+            "MapData_sMapID": "240000005",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "쿠모네 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2081001" ]
+          },
+
+          {
+            "MapData_sMapID": "240000006",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "팜의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2081004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 157, "y": -160 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "리프레",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "리프레 서쪽 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 49, "y": -135 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "리프레 서쪽 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "미나르숲 서쪽 경계",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130501" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 32, "y": -62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "미나르숲 서쪽 경계",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010200",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "심술쟁이의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130600", "m:7130601", "n:9010013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 44, "y": 3 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "심술쟁이의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010300",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "가파른 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 48, "y": 62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "가파른 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010400",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "숲의 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140110", "n:2081009", "n:2210016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 37, "y": 119 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "숲의 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010500",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "산양의 골짜기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 84, "y": 132 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "산양의 골짜기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010510",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "산양의 골짜기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 122, "y": 166 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "산양의 골짜기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010520",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "하늘 둥지3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 181, "y": 170 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "하늘 둥지3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010600",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "하늘 둥지2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": 131 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "하늘 둥지2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010701",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "협곡으로 향하는 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 259, "y": 108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "협곡으로 향하는 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010800",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "하늘 둥지 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": -2 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "하늘 둥지 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010900",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "미나르숲 동쪽 경계",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130003", "n:9000068" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 265, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "미나르숲 동쪽 경계",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240011000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "리프레 동쪽 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:7130002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 250, "y": -127 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "리프레 동쪽 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "붉은 켄타우로스의 영역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": -25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "붉은 켄타우로스의 영역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "불과 어둠의 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140101", "m:8140102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 104, "y": 76 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "불과 어둠의 전장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020101",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "그리프의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140102", "m:8140101", "m:8180001", "n:9076144", "m:2600007" ]
+          },
+
+          {
+            "MapData_sMapID": "240020102",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "그리프의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140102", "m:8140101", "m:8180001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 133, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "그리프의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020200",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "검은 켄타우로스의 영역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 109 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "검은 켄타우로스의 영역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020210",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "어둠과 불의 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140104", "m:8140105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 205, "y": 73 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "어둠과 불의 전장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020300",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "물과 어둠의 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140104", "m:8140106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": 28 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "물과 어둠의 전장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020400",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "푸른 켄타우로스의 영역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 202, "y": -52 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "푸른 켄타우로스의 영역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020401",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "마뇽의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140103", "m:8180000", "m:2600022" ]
+          },
+
+          {
+            "MapData_sMapID": "240020402",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "마뇽의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140103", "m:8180000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 167, "y": -25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "마뇽의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240020500",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "불과 물의 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/AcientForest",
+            "MapData_sLifeList": [ "m:8140103", "m:8140102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 134, "y": -80 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "불과 물의 전장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 숲 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8140700" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -14, "y": 136 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 숲 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8140701" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -58, "y": 167 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030101",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "불타는 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8150200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -83, "y": 132 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "불타는 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030102",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "사라진 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8150201", "n:2085002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -46, "y": 202 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "사라진 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030200",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8140702" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -88, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240030300",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonLoad",
+            "MapData_sLifeList": [ "m:8140703" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -117, "y": 161 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040000",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150300", "m:8150301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -142, "y": 149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "협곡의 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150300", "m:8150301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -174, "y": 149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "협곡의 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040200",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "협곡의 동쪽길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150302" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -219, "y": 92 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "협곡의 동쪽길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040300",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "협곡의 서쪽길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150303" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -203, "y": 180 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "협곡의 서쪽길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040320",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "검은 와이번의 둥지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150303" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -249, "y": 168 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "검은 와이번의 둥지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040400",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "와이번의 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150301", "m:8150300", "m:8150302", "n:2081007", "n:3001645" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -263, "y": 138 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "와이번의 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040500",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "용의 둥지 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8150302" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -255, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "용의 둥지 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040510",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "죽은 용의 둥지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190006", "m:8190007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -258, "y": -23 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "죽은 용의 둥지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040511",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "남겨진 용의 둥지1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190006", "m:8190007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -203, "y": -43 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "남겨진 용의 둥지1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040512",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "남겨진 용의 둥지2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190006", "m:8190007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -141, "y": -69 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "남겨진 용의 둥지2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040520",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "망가진 용의 둥지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190000", "m:8190001", "m:8190002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -183, "y": 49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "망가진 용의 둥지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040521",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "위험한 용의 둥지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -96, "y": 36 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "위험한 용의 둥지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040600",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "큰 둥지 봉우리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "m:8190004", "m:8190003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -62, "y": -18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "큰 둥지 봉우리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240040700",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "생명의 동굴 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/DragonNest",
+            "MapData_sLifeList": [ "n:2081006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -44, "y": -44 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "생명의 동굴 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240050000",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "동굴 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083000" ]
+          },
+
+          {
+            "MapData_sMapID": "240050100",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300065", "m:9300066", "n:2083003", "n:2083001", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050101",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "첫번째 미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300067", "m:9300068", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050102",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "두번째 미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300069", "m:9300070", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050103",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "세번째 미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300071", "m:9300072", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050104",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "네번째 미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300073", "m:9300074", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050105",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "다섯번째 미로방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300075", "m:9300076", "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050200",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "선택의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240050300",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "빛의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300077", "m:9300076", "n:2083002", "n:2083001" ]
+          },
+
+          {
+            "MapData_sMapID": "240050310",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "어둠의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "m:9300078", "n:2083002", "n:2083001" ]
+          },
+
+          {
+            "MapData_sMapID": "240050400",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "혼테일의 동굴 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002", "n:2083004", "n:2083005" ]
+          },
+
+          {
+            "MapData_sMapID": "240050500",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "동굴의 출구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240060000",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "시험의 동굴1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240060100",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "시험의 동굴2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002" ]
+          },
+
+          {
+            "MapData_sMapID": "240060200",
+            "MapData_sMapIcon": "Hontale",
+            "MapData_sMapName": "생명의동굴",
+            "MapData_sMapSubName": "혼테일의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/CaveOfHontale",
+            "MapData_sLifeList": [ "n:2083002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -53, "y": -69 },
+        "nPinType": 2,
+
+        "nNoToolTip": 1,
+        "nNoInfo": 0,
+        "sTitle": "생명의동굴",
+        "sSubTitle": "동굴 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240000100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "리프레 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082000", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "240000110",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "정거장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082001", "n:2082003" ]
+          },
+
+          {
+            "MapData_sMapID": "240000111",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "출발하기 전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 180, "y": -171 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리프레",
+        "sSubTitle": "리프레 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240000100",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "리프레 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082000", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "240000110",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "정거장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082001", "n:2082003" ]
+          },
+
+          {
+            "MapData_sMapID": "240000111",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "리프레",
+            "MapData_sMapSubName": "출발하기 전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Leafre",
+            "MapData_sLifeList": [ "n:2082002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 180, "y": -171 },
+        "nPinType": 4,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리프레",
+        "sSubTitle": "리프레 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240010700",
+            "MapData_sMapIcon": "Leafre",
+            "MapData_sMapName": "미나르숲",
+            "MapData_sMapSubName": "하늘 둥지1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/Minar'sDream",
+            "MapData_sLifeList": [ "m:8140001", "m:8140002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 265, "y": 49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미나르숲",
+        "sSubTitle": "하늘 둥지1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리프레",
+        "ArchiveRegionDesc": "미나르 숲 깊숙이 자리한 고대의 마을, 리프레는 용족과 하프링이 공존하는 신성한 땅이다. \\n이곳의 공기는 고대 용의 숨결로 가득하며, 하늘에는 거대한 둥지와 용의 흔적이 남아 있다. 하프링들은 숲을 돌보며 용들과 더불어 살아가고, 이들의 지혜는 세대를 거쳐 전해진다.\\r\\n\\r\\n이 지역은 산악과 숲, 고대 용의 유적이 혼재해 있으며, 용의 협곡과 같은 사냥터에서는 다양한 용족 몬스터들이 출몰한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_41.png"
+      }
+  ]
+}

@@ -1,0 +1,943 @@
+﻿{
+  "sBaseMapID": "WorldMap0829.img",
+  "sBaseMapName": "얌얌 아일랜드",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0829",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015020",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "얌얌 아일랜드 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "n:3004700", "n:3004701", "n:3004702", "n:3004781", "n:3004736", "n:3004737" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -216, "y": -11 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "얌얌 아일랜드 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015030",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642050" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -166, "y": 28 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015040",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642050", "m:8642051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -217, "y": 80 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015050",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -191, "y": 146 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015060",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "얌얌 빌리지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "n:9000123", "n:9000124", "n:9010106", "n:9010109", "n:9010022", "n:3004704", "n:3004705", "n:3004703", "n:3004725", "n:3004724", "n:3004728", "n:3004727", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -111, "y": 113 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "얌얌 빌리지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015070",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642050" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -68, "y": 175 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015080",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642050", "m:8642051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 134 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015090",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "머쉬버드 숲6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 31, "y": 75 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "머쉬버드 숲6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015100",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 87, "y": 41 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015110",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642052", "n:3004706", "n:3004707", "n:3004738" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 135, "y": 68 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015120",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642052", "m:8642053" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 189, "y": 87 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015130",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642053", "n:3004708", "n:3004709", "n:3004739" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 243, "y": 81 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015140",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판 어딘가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "n:3004710", "n:3004711" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 275, "y": 45 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판 어딘가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015150",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642052" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 140, "y": -9 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015160",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642052", "m:8642053" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 182, "y": -54 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015170",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642053" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 121, "y": -75 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015180",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "일리야드 들판 끝자락",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "n:3004712", "n:3004713", "n:3004714" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": -79 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "일리야드 들판 끝자락",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015190",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "n:3004715" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": -131 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015200",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642054" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -48, "y": -151 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015210",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642055", "m:8642054" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -111, "y": -165 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015220",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642055" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -174, "y": -159 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015230",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲 어딘가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "n:3004716", "n:3004717", "n:3004718", "n:3004719", "n:3004720", "n:3004729" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -223, "y": -123 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲 어딘가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015240",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642054" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 41, "y": -162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015250",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642054", "m:8642055" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 102, "y": -170 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015260",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642055" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 162, "y": -172 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015270",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "펑고스 숲 끝자락",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "n:3004721", "n:3004722", "n:3004723", "n:3004780" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 218, "y": -162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "펑고스 숲 끝자락",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015280",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "숨겨진 머쉬버드 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/MushbudForest",
+            "MapData_sLifeList": [ "m:8642060", "m:8642061" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 81, "y": 110 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "숨겨진 머쉬버드 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015290",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "숨겨진 일리야드 들판",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/IlliyardMoor",
+            "MapData_sLifeList": [ "m:8642062", "m:8642063" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 291, "y": 6 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "숨겨진 일리야드 들판",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450015300",
+            "MapData_sMapIcon": "YumYum",
+            "MapData_sMapName": "얌얌 아일랜드",
+            "MapData_sMapSubName": "숨겨진 펑고스 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/FungusForest",
+            "MapData_sLifeList": [ "m:8642064", "m:8642065" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 264, "y": -186 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얌얌 아일랜드",
+        "sSubTitle": "숨겨진 펑고스 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "얌얌 아일랜드",
+        "ArchiveRegionDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      }
+  ]
+}

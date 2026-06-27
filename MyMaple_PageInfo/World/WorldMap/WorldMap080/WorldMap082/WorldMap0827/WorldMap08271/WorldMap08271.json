@@ -1,0 +1,783 @@
+﻿{
+  "sBaseMapID": "WorldMap08271.img",
+  "sBaseMapName": "문브릿지",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0827\\WorldMap08271",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009130",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644615", "m:8644614" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -278, "y": -191 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009120",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644615" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -227, "y": -176 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009110",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644614" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -199, "y": -133 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009100",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "화이트 스피어1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "n:3003659", "n:3003656", "n:3003638", "n:3003639", "n:3003640", "n:3003609" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -163, "y": -76 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "화이트 스피어1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009140",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644614" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -224, "y": -48 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009150",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644615" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -264, "y": -3 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009160",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "m:8644615", "m:8644614" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -240, "y": 57 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009101",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "사상의 경계 상공",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -86, "y": -23 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "사상의 경계 상공",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009200",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "화이트 스피어2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "n:3003659", "n:3003817", "n:3003816", "n:3003641", "n:3003642", "n:3003643" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -6, "y": 14 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "화이트 스피어2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009210",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644616" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -4, "y": -47 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009220",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644617" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": -74 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009230",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644617", "m:8644616" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 102, "y": -39 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009240",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644616" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -38, "y": 72 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009250",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644617" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -93, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009260",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": [ "m:8644617", "m:8644616" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -156, "y": 108 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009201",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "미지의 안개 상공",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/StrangeFog",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 96, "y": 39 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "미지의 안개 상공",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009300",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "화이트 스피어3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WarCloud",
+            "MapData_sLifeList": [ "n:3003659", "n:3003644", "n:3003645", "n:3003646", "n:3003611", "n:3003620", "n:9010022", "n:9000123", "n:9000124", "n:3003810", "n:9010113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": 53 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "화이트 스피어3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009310",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644618" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 204, "y": 82 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009320",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644619" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 236, "y": 132 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009330",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644618", "m:8644619" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 281, "y": 154 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009340",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644618" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 136, "y": 107 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009350",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644619" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 112, "y": 157 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009360",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 파도6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": [ "m:8644618", "m:8644619" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 141, "y": 200 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 파도6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009301",
+            "MapData_sMapIcon": "moonBridge",
+            "MapData_sMapName": "문브릿지",
+            "MapData_sMapSubName": "공허의 눈 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm49/WaveofEmptiness",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 216, "y": 31 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "문브릿지",
+        "sSubTitle": "공허의 눈 앞",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "문브릿지",
+        "ArchiveRegionDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      }
+  ]
+}

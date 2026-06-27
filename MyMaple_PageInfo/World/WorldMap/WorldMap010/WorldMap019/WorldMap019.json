@@ -1,0 +1,745 @@
+﻿{
+  "sBaseMapID": "WorldMap019.img",
+  "sBaseMapName": "버섯의 성",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap019",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030100",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": [ "n:1302026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -207, "y": -11 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030000",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "연회장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": [ "n:1302001", "n:1302000", "n:1302010", "n:1302011", "n:1302021", "n:1302022", "n:1302013", "n:1302007", "n:1302012", "n:1302004", "n:1302015", "n:1302016", "n:1302017", "n:1302018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -132, "y": -125 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "연회장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030200",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 복도1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": [ "m:3300100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -69, "y": -49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성 복도1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030201",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 복도2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": [ "m:3300101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -5, "y": -71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성 복도2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030210",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "비올레타의 정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 62, "y": -93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "비올레타의 정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030211",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "비올레타의 정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/MushroomCastle",
+            "MapData_sLifeList": [ "n:1302027" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 122, "y": -116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "비올레타의 정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030300",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성벽 위1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -132, "y": -40 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성벽 위1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030301",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성벽 위2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300102", "m:3300103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -72, "y": -18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성벽 위2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030302",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성벽 위3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -9, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성벽 위3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030400",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "마천루1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 151, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "마천루1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030401",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "마천루2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300104", "m:3300105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 239, "y": -110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "마천루2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030402",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "마천루3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 206, "y": -158 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "마천루3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030102",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "106031200",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300109" ]
+          },
+
+          {
+            "MapData_sMapID": "106031201",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300109" ]
+          },
+
+          {
+            "MapData_sMapID": "106031202",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300109" ]
+          },
+
+          {
+            "MapData_sMapID": "106031203",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300109" ]
+          },
+
+          {
+            "MapData_sMapID": "106031204",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "버섯의 성",
+            "MapData_sMapSubName": "성 후문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/WarMushCastle",
+            "MapData_sLifeList": [ "m:3300109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 81, "y": 19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버섯의 성",
+        "sSubTitle": "성 후문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030500",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "갑판1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": [ "m:3300106", "n:1302020", "n:1302008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 95, "y": 145 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "갑판1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030501",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "갑판2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": [ "m:3300107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 235, "y": 101 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "갑판2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030502",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "돛",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": [ "m:3300106", "m:3300107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 146, "y": 57 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "돛",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030600",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "지하 창고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 194, "y": 179 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "지하 창고",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030700",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "노예실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": [ "m:3300108", "n:1302002", "n:1302025", "n:1302024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 130, "y": 197 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "노예실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030701",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "대포실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingShip",
+            "MapData_sLifeList": [ "n:1302009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": 196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "대포실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "106030800",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "선장실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingSkipper",
+            "MapData_sLifeList": [ "m:3300110" ]
+          },
+
+          {
+            "MapData_sMapID": "106030801",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "선장실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingSkipper",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "106030802",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "선장실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingSkipper",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "106030803",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "선장실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingSkipper",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "106030804",
+            "MapData_sMapIcon": "flowervioleta",
+            "MapData_sMapName": "바이킹 비행선",
+            "MapData_sMapSubName": "선장실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm38/VikingSkipper",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 279, "y": 180 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "바이킹 비행선",
+        "sSubTitle": "선장실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "버섯의 성",
+        "ArchiveRegionDesc": "헤네시스 남서쪽 버섯노래 숲에서 갈 수 있는 버섯들의 성이다. 인간과 비슷한 수준의 지성을 가진 버섯들이 왕국을 이루고 살고 있다. \\r\\n\\r\\n이 왕국의 공주가 절세가인이라는 소문이 있는데...\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_16.png"
+      }
+  ]
+}

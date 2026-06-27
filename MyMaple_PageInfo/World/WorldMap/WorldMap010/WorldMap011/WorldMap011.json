@@ -1,0 +1,271 @@
+﻿{
+  "sBaseMapID": "WorldMap011.img",
+  "sBaseMapName": "노틸러스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap011",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000100",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "노틸러스",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1091004", "n:1091000", "n:1091001", "n:1091002", "n:1092002", "n:1092007", "n:1092009", "n:9010000", "n:9071003", "n:9000088", "n:9000086", "n:9010010", "n:1092001", "n:9000087", "n:1092010", "n:1012000", "n:9010022", "n:9000089", "n:9000123", "n:9000124", "n:9062009", "n:1092003", "n:9010109", "n:9010106", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -3, "y": 33 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "노틸러스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000101",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "항해실",
+            "MapData_sDesc": "노틸러스호의 선장 카이린이 위치하는 항해실이다.",
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1090000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -179, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "항해실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000102",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "조나단의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092019", "n:9062706" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -129, "y": -30 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "조나단의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000103",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "식당",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 10, "y": -26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "식당",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000104",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "훈련장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -29, "y": -97 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "훈련장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000201",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "회의실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -83, "y": -66 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "회의실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000202",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "침실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 122, "y": -7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "침실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120000301",
+            "MapData_sMapIcon": "Nautilus",
+            "MapData_sMapName": "노틸러스",
+            "MapData_sMapSubName": "동력실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/inNautilus",
+            "MapData_sLifeList": [ "n:1092016", "n:1092012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 69, "y": 36 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "노틸러스",
+        "sSubTitle": "동력실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "노틸러스",
+        "ArchiveRegionDesc": "헤네시스와 엘리니아 사이 해협에 자리 잡은 거대한 고래 모양의 잠수정이다. \\r\\n\\r\\n선장은 검은 마법사의 행적을 좇아 세계를 유랑하던 쿼터 엘프 카이린으로, 최근에는 빅토리아 아일랜드에 자리를 잡고 신규 해적을 육성하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_13.png"
+      }
+  ]
+}

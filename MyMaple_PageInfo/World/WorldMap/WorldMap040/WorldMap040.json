@@ -1,0 +1,833 @@
+﻿{
+  "sBaseMapID": "WorldMap040.img",
+  "sBaseMapName": "아쿠아로드",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap040",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230000000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "아쿠아리움",
+            "MapData_sDesc": "아름다운 바다 속에 세워진 수중도시. 바닷길과 돌고래 택시를 통해 여러 마을로 이동할 수 있다. ",
+            "MapData_sMapBGM": "Bgm11/Aquarium",
+            "MapData_sLifeList": [ "n:2060009", "n:9050009", "n:9201023", "n:9010009", "n:9050000", "n:9000068", "n:9010022", "n:2010011", "n:9000089", "n:9071003", "n:9000087", "n:9000086", "n:9000088", "n:9000123", "n:9000124", "n:9072100", "n:2300006", "n:9062009", "n:9062010", "n:9010109", "n:9010106", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "230000001",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아리움",
+            "MapData_sMapSubName": "중앙 홀",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/Aquarium",
+            "MapData_sLifeList": [ "n:9010000", "n:9010010" ]
+          },
+
+          {
+            "MapData_sMapID": "230000002",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아리움",
+            "MapData_sMapSubName": "상점가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/Aquarium",
+            "MapData_sLifeList": [ "n:2060008", "n:2060003", "n:2060004", "n:2060007" ]
+          },
+
+          {
+            "MapData_sMapID": "230000003",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아리움",
+            "MapData_sMapSubName": "동물원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/Aquarium",
+            "MapData_sLifeList": [ "m:9500200", "m:9500201", "m:9500202", "m:9500203", "m:9500204", "n:2060005", "n:2060006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": -47 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "아쿠아리움",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "바다 나들목",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:3230405", "m:3210450" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -233, "y": 99 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "바다 나들목",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010100",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "수정 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:4230200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -229, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "수정 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010200",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "붉은 산호 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:4230201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -227, "y": 11 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "붉은 산호 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010201",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "눈 덮인 고래섬",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2060000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -179, "y": -142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "눈 덮인 고래섬",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010300",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "소라껍질 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:4230123", "m:4230124" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -192, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "소라껍질 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230010400",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "서쪽 바다 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:4230124", "m:4230123" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -150, "y": -31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "서쪽 바다 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230020000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "동쪽 바다 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:3230104", "n:1531057" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 156, "y": -56 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "동쪽 바다 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230020100",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "바다 해초 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:3000006", "m:3230104", "n:1531056" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 195, "y": -54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "바다 해초 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230020200",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "모래성 놀이터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:2230200", "m:3000006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 202, "y": -19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "모래성 놀이터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230020201",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "두 그루의 야자수",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2060001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 174, "y": -145 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "두 그루의 야자수",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230020300",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "빅 피쉬 골짜기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:2230109", "m:2230200", "n:1531055" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 196, "y": 16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "빅 피쉬 골짜기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230030000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "푸른 해초길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/ShiningSea",
+            "MapData_sLifeList": [ "m:2230106", "m:2230107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 233, "y": 39 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "푸른 해초길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230030100",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "버섯 산호 구릉",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/ShiningSea",
+            "MapData_sLifeList": [ "m:2230108", "m:2230105", "m:2230107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 252, "y": 76 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "버섯 산호 구릉",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230030101",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "태공의 나룻배",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2060002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 163, "y": 154 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "태공의 나룻배",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230030200",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "뾰족한 사각지대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/ShiningSea",
+            "MapData_sLifeList": [ "m:2230108", "m:2230105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 264, "y": 108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "뾰족한 사각지대",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "깊은 바다 협곡1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "m:8140600", "m:8140555" ]
+          },
+
+          {
+            "MapData_sMapID": "230040001",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "카르타의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/AquaCave",
+            "MapData_sLifeList": [ "n:2060100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -126, "y": 49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "깊은 바다 협곡1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040100",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "깊은 바다 협곡2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "m:8140600" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -87, "y": 101 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "깊은 바다 협곡2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040400",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "난파선의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "m:8140555", "m:8150100", "m:8150101", "n:1104300", "n:1102112" ]
+          },
+
+          {
+            "MapData_sMapID": "230040401",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "작은 난파선",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "n:2060101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -6, "y": 129 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "난파선의 무덤",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040410",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "위험한 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/AquaCave",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -76, "y": 178 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "위험한 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040420",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "피아누스의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/AquaCave",
+            "MapData_sLifeList": [ "m:8510000", "m:8520000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -147, "y": 178 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "피아누스의 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040200",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "위험한 바다 협곡1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "m:8141300", "m:8140555", "m:8142100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 119, "y": 14 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "위험한 바다 협곡1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230040300",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "아쿠아로드",
+            "MapData_sMapSubName": "위험한 바다 협곡2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/DeepSee",
+            "MapData_sLifeList": [ "m:8142100", "m:8141300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 117, "y": 84 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아쿠아로드",
+        "sSubTitle": "위험한 바다 협곡2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아쿠아리움",
+        "ArchiveRegionDesc": "수많은 해양 생물들이 평화롭게 살아가는 해저 도시로, 육지에서는 볼 수 없는 신비로운 풍경이 가득하다. 마을 전체에 고요하고 신비로운 기운이 감돌며, 모험가들은 해양 연구가들과 함께 바다의 비밀을 탐험한다. \\r\\n\\r\\n이곳을 통과해야만 더 깊은 바닷속 세계로 나아갈 수 있어, 심해의 모험을 시작하려는 자에게는 필수적인 장소다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_30.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "230050000",
+            "MapData_sMapIcon": "AquaRoad",
+            "MapData_sMapName": "비밀연구기관",
+            "MapData_sMapSubName": "베리타스",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm30/inAllVerity",
+            "MapData_sLifeList": [ "n:2300001", "n:2300002", "n:2300000", "n:2300004", "n:2300003", "n:2301000", "n:2301001", "n:2300005", "n:2300007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 23, "y": -137 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "비밀연구기관",
+        "sSubTitle": "베리타스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "베리타스",
+        "ArchiveRegionDesc": "깊은 바닷속에 숨겨진, 레지스탕스의 최첨단 과학 기술이 집약된 비밀 연구 시설이다. \\r\\n\\r\\n검은 마법사의 힘과 그의 수하인 블랙윙의 눈을 피해 가장 안전한 곳에 자리 잡기 위해 바다 깊은 곳에 건설되었다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_31.png"
+      }
+  ]
+}

@@ -1,0 +1,1069 @@
+﻿{
+  "sBaseMapID": "WorldMap022.img",
+  "sBaseMapName": "사자왕의 성",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap020\\WorldMap021\\WorldMap022",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060010",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -190, "y": 144 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060100",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 아래1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -160, "y": 113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 아래1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060200",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "첫번째 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2161003", "n:2161016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": 129 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "첫번째 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060201",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "첫번째 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8840002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": 63 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "첫번째 탑루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060300",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 아래2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -85, "y": 106 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 아래2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060400",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "두번째 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2160000", "n:2161017", "n:2161026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -54, "y": 86 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "두번째 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060401",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "두번째 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8210006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -54, "y": 19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "두번째 탑루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060410",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "낮은 성벽1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -19, "y": 30 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "낮은 성벽1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060500",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 아래3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -19, "y": 62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 아래3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060600",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "세번째 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2161018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 11, "y": 41 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "세번째 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060601",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "세번째 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8210007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 11, "y": -8 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "세번째 탑루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060610",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "낮은 성벽2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": 26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "낮은 성벽2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060620",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "높은 성벽1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": -7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "높은 성벽1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060700",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 아래4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 아래4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060800",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "네번째 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2161002", "n:2161019", "n:2161020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 124, "y": 19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "네번째 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060801",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "네번째 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 124, "y": -25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "네번째 탑루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060830",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "아주 높은 성벽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": -44 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "아주 높은 성벽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060820",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "높은 성벽2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "높은 성벽2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060810",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "낮은 성벽3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 3 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "낮은 성벽3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060900",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 아래5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 아래5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211061000",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "다섯번째 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2161010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": -31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "다섯번째 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211061001",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "다섯번째 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "n:2161001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": -92 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "다섯번째 탑루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211070000",
+            "MapData_sMapIcon": "VanLeon",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "알현실 앞 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "n:2161005", "n:9000174" ]
+          },
+
+          {
+            "MapData_sMapID": "211070100",
+            "MapData_sMapIcon": "VanLeon",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "알현실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/LionHeart",
+            "MapData_sLifeList": [ "n:2161005", "m:8840000" ]
+          },
+
+          {
+            "MapData_sMapID": "211070101",
+            "MapData_sMapIcon": "VanLeon",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "공중감옥",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/LionHeart",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "211070110",
+            "MapData_sMapIcon": "VanLeon",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "부활의 탑루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/LionHeart",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": -114 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "알현실 앞 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080000",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "정원사의 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "n:2162000", "n:2160000", "n:2161004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": -122 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "정원사의 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080100",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "버려진 정원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211000", "m:8211004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 229, "y": -125 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "버려진 정원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080200",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "영혼이 묶인 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": -121 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "영혼이 묶인 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080300",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "성벽의 끝자락",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 275, "y": -103 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "성벽의 끝자락",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080400",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "숨겨진 정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 269, "y": -81 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "숨겨진 정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080500",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "숨겨진 정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 251, "y": -64 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "숨겨진 정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211080600",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "장미정원",
+            "MapData_sMapSubName": "숨겨진 정원3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/CrimsonTower",
+            "MapData_sLifeList": [ "m:8211007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": -59 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "장미정원",
+        "sSubTitle": "숨겨진 정원3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211061200",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 위1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 152, "y": -124 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 위1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211061210",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "성벽 위2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "m:8210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 115, "y": -134 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "성벽 위2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      }
+  ]
+}

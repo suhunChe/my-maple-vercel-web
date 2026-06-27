@@ -1,0 +1,796 @@
+﻿{
+  "sBaseMapID": "WorldMap021.img",
+  "sBaseMapName": "폐광",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap020\\WorldMap021",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap022",
+        "pntOrigin": { "x": 89, "y": 240 },
+        "sToolTip": "사자왕의 성",
+        "nPinType": 12,
+        "pntListMapUpData_PinPoint": { "x": -44, "y": -146 },
+        "sListMapUpData_Desc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. 모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sListMapUpData_MainCity": null,
+        "bIsArchive": true,
+        "sArchiveName": "사자왕의 성",
+        "sArchiveDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040300",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "날카로운절벽1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:6300000", "m:5100001", "n:3001643" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -221, "y": -124 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "날카로운절벽1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040400",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "날카로운절벽2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:5130106", "m:6400000", "n:2030007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -196, "y": -103 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "날카로운절벽2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040500",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "날카로운절벽3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:7130102", "m:8220001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": -83 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "날카로운절벽3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040600",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "날카로운절벽4",
+            "MapData_sDesc": "검은 마법사의 장군, 사자왕 반 레온의 성으로 가는 길목이다.",
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:8140100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -132, "y": -56 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "날카로운절벽4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040700",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "위험한절벽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:7130200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -138, "y": -29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "위험한절벽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040800",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "늑대의영역1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:7130200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -193, "y": 11 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "늑대의영역1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040900",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "늑대의영역2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:8140000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": 60 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "늑대의영역2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041000",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "늑대의영역3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:8140000", "n:1541210" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -161, "y": 95 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "늑대의영역3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041100",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "죽은나무의숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:5130107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": 143 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "죽은나무의숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041200",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "죽은나무의숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:5130107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -121, "y": 165 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "죽은나무의숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041300",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "죽은나무의숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:5130107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -80, "y": 196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "죽은나무의숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041400",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "죽은나무의숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/WolfWood",
+            "MapData_sLifeList": [ "m:5130107", "n:2020016", "n:9073005", "m:6090000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -20, "y": 181 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "죽은나무의숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041500",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "폐광1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/AbandonedMine",
+            "MapData_sLifeList": [ "m:5130108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 84, "y": 128 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "폐광1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041600",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "폐광2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/AbandonedMine",
+            "MapData_sLifeList": [ "m:5130108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 116, "y": 127 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "폐광2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041700",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "폐광3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/AbandonedMine",
+            "MapData_sLifeList": [ "m:5130108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 142, "y": 102 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "폐광3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041800",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "폐광4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/AbandonedMine",
+            "MapData_sLifeList": [ "m:5130108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 160, "y": 84 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "폐광4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211041900",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "통로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/AbandonedMine",
+            "MapData_sLifeList": [ "m:4230107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 50 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "통로",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211042000",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "시련의 동굴1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/HellGate",
+            "MapData_sLifeList": [ "m:4230108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 159, "y": 30 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "시련의 동굴1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211042100",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "시련의 동굴2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/HellGate",
+            "MapData_sLifeList": [ "m:7130001", "m:8140500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 169, "y": 3 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "시련의 동굴2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211042200",
+            "MapData_sMapIcon": "ElNathDungeon",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "시련의 동굴3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/HellGate",
+            "MapData_sLifeList": [ "m:8140500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 186, "y": -19 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "시련의 동굴3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211042300",
+            "MapData_sMapIcon": "Zakum",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "자쿰으로통하는문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/HellGate",
+            "MapData_sLifeList": [ "n:2030008", "n:9000453" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 164, "y": -34 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "자쿰으로통하는문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211042400",
+            "MapData_sMapIcon": "Zakum",
+            "MapData_sMapName": "폐광",
+            "MapData_sMapSubName": "자쿰의 제단 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm05/HellGate",
+            "MapData_sLifeList": [ "n:2030013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 175, "y": -66 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "폐광",
+        "sSubTitle": "자쿰의 제단 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "280030100",
+            "MapData_sMapIcon": "Zakum",
+            "MapData_sMapName": "마지막임무",
+            "MapData_sMapSubName": "자쿰의제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/WelcomeToTheHell",
+            "MapData_sLifeList": [ "n:2030010", "m:8800000", "m:8800003", "m:8800004", "m:8800005", "m:8800006", "m:8800007", "m:8800008", "m:8800009", "m:8800010", "m:8800020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 187, "y": -109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "마지막임무",
+        "sSubTitle": "자쿰의제단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "폐광",
+        "ArchiveRegionDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211060000",
+            "MapData_sMapIcon": "LionCastle",
+            "MapData_sMapName": "사자왕의 성",
+            "MapData_sMapSubName": "쓸쓸한 벌판",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm23/BlizzardCastle",
+            "MapData_sLifeList": [ "n:2161013", "n:2023000", "n:2161015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -91, "y": -110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "사자왕의 성",
+        "sSubTitle": "쓸쓸한 벌판",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "사자왕의 성",
+        "ArchiveRegionDesc": "엘나스 산맥 깊은 곳, 암벽 위에 있는 쓸쓸한 고성이다. 한때는 척박한 환경을 이겨낸 사람들이 사는 곳이었으나 지금은 폐허가 되었다. \\r\\n\\r\\n모든 것을 잃은 사자왕만이 우울한 알현실에 남아 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_28.png"
+      }
+  ]
+}

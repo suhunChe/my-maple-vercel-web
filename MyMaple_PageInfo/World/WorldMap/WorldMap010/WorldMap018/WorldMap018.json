@@ -1,0 +1,463 @@
+﻿{
+  "sBaseMapID": "WorldMap018.img",
+  "sBaseMapName": "골드비치",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap018",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120040000",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "골드비치 리조트",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "n:1082001", "n:1082002", "n:1082000", "n:1082003", "n:1082004", "n:1082200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -87, "y": -74 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "골드비치 리조트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120040300",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "해변가 풀숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401000", "n:1082101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -255, "y": -184 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "해변가 풀숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120040200",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "해변가 풀숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401001", "m:3401000", "n:1082201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -175, "y": -136 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "해변가 풀숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120040100",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "해변가 풀숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -136, "y": -98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "해변가 풀숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041000",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "골드비치 해변1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -41, "y": 42 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "골드비치 해변1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041100",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "골드비치 해변2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401003", "n:1082202", "n:1082203", "n:1082204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 26, "y": 9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "골드비치 해변2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041200",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "골드비치 해변3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401004", "n:1082205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 104, "y": -1 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "골드비치 해변3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041300",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "얕은 바다1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401005", "n:1082206" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 69, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "얕은 바다1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041400",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "얕은 바다2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401006", "n:1082005", "n:1082207" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 7, "y": 78 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "얕은 바다2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041500",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "얕은 바다3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401007", "n:1082209", "n:1082208" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 37, "y": 123 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "얕은 바다3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041600",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "약한 파도1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 96, "y": 94 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "약한 파도1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041700",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "약한 파도2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 140, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "약한 파도2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041800",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "거친 파도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401010", "n:1082210", "n:1082102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 171, "y": 9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "거친 파도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "120041900",
+            "MapData_sMapIcon": "GoldBeach",
+            "MapData_sMapName": "골드비치",
+            "MapData_sMapSubName": "수상한 바다",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm17/GoldBeach",
+            "MapData_sLifeList": [ "m:3401011", "m:2600222" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 190, "y": 164 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "골드비치",
+        "sSubTitle": "수상한 바다",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "골드비치",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 동쪽에 있는 황금빛 모래가 아름다운 작은 섬이다. 대부호 골드리치가 호화 리조트를 세워 휴양지로 이용되고 있다. \\r\\n\\r\\n다만 최근 들어 골드비치에 블랙 슬라임이 나타나고 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_12.png"
+      }
+  ]
+}

@@ -1,0 +1,783 @@
+﻿{
+  "sBaseMapID": "WorldMap0822.img",
+  "sBaseMapName": "츄츄 아일랜드",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0822",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002000",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄츄 아일랜드",
+            "MapData_sMapSubName": "츄츄 빌리지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "n:3003150", "n:3003152", "n:3003157", "n:3003158", "n:9000123", "n:9000124", "n:9010022", "n:9010109", "n:3003146", "n:9010106", "n:9010113", "n:3006901", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 39, "y": -5 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄츄 아일랜드",
+        "sSubTitle": "츄츄 빌리지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002001",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "오색동산",
+            "MapData_sMapSubName": "동산 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -20, "y": 43 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오색동산",
+        "sSubTitle": "동산 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002002",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "오색동산",
+            "MapData_sMapSubName": "알록달록 숲지대1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -122, "y": 56 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오색동산",
+        "sSubTitle": "알록달록 숲지대1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002003",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "오색동산",
+            "MapData_sMapSubName": "알록달록 숲지대2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -199, "y": 78 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오색동산",
+        "sSubTitle": "알록달록 숲지대2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002004",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "오색동산",
+            "MapData_sMapSubName": "알록달록 숲지대3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642002", "m:8642003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -123, "y": 88 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오색동산",
+        "sSubTitle": "알록달록 숲지대3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002005",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "오색동산",
+            "MapData_sMapSubName": "오색동산 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -45, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오색동산",
+        "sSubTitle": "오색동산 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002006",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄릅 포레스트",
+            "MapData_sMapSubName": "길쭉 동글숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": 114 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄릅 포레스트",
+        "sSubTitle": "길쭉 동글숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002007",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄릅 포레스트",
+            "MapData_sMapSubName": "길쭉 동글숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 48, "y": 130 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄릅 포레스트",
+        "sSubTitle": "길쭉 동글숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002008",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄릅 포레스트",
+            "MapData_sMapSubName": "몽땅 동글숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 98, "y": 133 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄릅 포레스트",
+        "sSubTitle": "몽땅 동글숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002009",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄릅 포레스트",
+            "MapData_sMapSubName": "몽땅 동글숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 164, "y": 135 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄릅 포레스트",
+        "sSubTitle": "몽땅 동글숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002010",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄릅 포레스트",
+            "MapData_sMapSubName": "츄릅 포레스트 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "m:8642005", "m:8642007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 173, "y": 95 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄릅 포레스트",
+        "sSubTitle": "츄릅 포레스트 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002011",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "에르밸리",
+            "MapData_sMapSubName": "츄츄 빌리지 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -53, "y": 11 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에르밸리",
+        "sSubTitle": "츄츄 빌리지 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002012",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "에르밸리",
+            "MapData_sMapSubName": "격류지대 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -118, "y": 1 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에르밸리",
+        "sSubTitle": "격류지대 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002013",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "에르밸리",
+            "MapData_sMapSubName": "격류지대 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -194, "y": -35 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에르밸리",
+        "sSubTitle": "격류지대 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002014",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "에르밸리",
+            "MapData_sMapSubName": "격류지대 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642010", "m:8642011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -224, "y": -106 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에르밸리",
+        "sSubTitle": "격류지대 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002015",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "에르밸리",
+            "MapData_sMapSubName": "폭포 아래",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -284, "y": -159 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에르밸리",
+        "sSubTitle": "폭포 아래",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002016",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "고래산 초입",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 85, "y": -123 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "고래산 초입",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002017",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "고래산 중턱1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642012", "m:8642013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 42, "y": -157 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "고래산 중턱1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002018",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "고래산 중턱2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 147, "y": -112 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "고래산 중턱2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002019",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "고래산 정상",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -24, "y": -182 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "고래산 정상",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002020",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "거대한 꼬리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew WildWorld",
+            "MapData_sLifeList": [ "m:8642015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 201, "y": -133 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "거대한 꼬리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002021",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄츄아일랜드",
+            "MapData_sMapSubName": "무토가 잠긴 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "n:3003156", "n:3003165" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 225, "y": 15 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄츄아일랜드",
+        "sSubTitle": "무토가 잠긴 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002023",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "츄츄아일랜드",
+            "MapData_sMapSubName": "마을 한적한 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "n:3003151", "n:3003153", "n:3003154", "n:3003155", "n:3003166" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 144, "y": 25 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "츄츄아일랜드",
+        "sSubTitle": "마을 한적한 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450002025",
+            "MapData_sMapIcon": "ChewChew",
+            "MapData_sMapName": "하늘고래산",
+            "MapData_sMapSubName": "고래산 뒤편",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ChewChew MainTheme",
+            "MapData_sLifeList": [ "n:3004726" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 285, "y": -147 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "하늘고래산",
+        "sSubTitle": "고래산 뒤편",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "츄츄 아일랜드",
+        "ArchiveRegionDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      }
+  ]
+}

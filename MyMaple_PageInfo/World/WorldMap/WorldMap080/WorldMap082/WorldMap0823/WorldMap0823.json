@@ -1,0 +1,783 @@
+﻿{
+  "sBaseMapID": "WorldMap0823.img",
+  "sBaseMapName": "꿈의 도시 레헬른",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0823",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003000",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른",
+            "MapData_sMapSubName": "레헬른 중심가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "n:3003105", "n:3003106", "n:3003202", "n:3003225", "n:3003226", "n:3003227", "n:3003215", "n:3003285", "n:3003286", "n:3003287", "n:3003288", "n:3003289", "n:3003290", "n:3003228", "n:3003229", "n:9000123", "n:9000124", "n:9010022", "n:3003263", "n:3003262", "n:3003146", "n:9010106", "n:9010109", "n:9010100", "n:9010113", "n:3006902", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 10, "y": 92 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른",
+        "sSubTitle": "레헬른 중심가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003100",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른",
+            "MapData_sMapSubName": "아지트",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "n:3003201", "n:3003209", "n:3003217", "n:3003220", "n:3003214" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -10, "y": 39 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른",
+        "sSubTitle": "아지트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003200",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 뒷골목",
+            "MapData_sMapSubName": "무법자들의 거리1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": 8 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 뒷골목",
+        "sSubTitle": "무법자들의 거리1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003210",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 뒷골목",
+            "MapData_sMapSubName": "무법자들의 거리2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643002", "m:8643001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -62, "y": -43 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 뒷골목",
+        "sSubTitle": "무법자들의 거리2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003220",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 뒷골목",
+            "MapData_sMapSubName": "무법자들의 거리3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -108, "y": -70 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 뒷골목",
+        "sSubTitle": "무법자들의 거리3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003300",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "닭이 뛰노는 곳1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -43, "y": 91 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "닭이 뛰노는 곳1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003310",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "닭이 뛰노는 곳2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -104, "y": 91 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "닭이 뛰노는 곳2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003320",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "닭이 뛰노는 곳3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643003", "m:8643004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -156, "y": 105 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "닭이 뛰노는 곳3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003330",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "시끌벅적 야시장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "n:3003234", "n:3003235", "n:3003236", "n:3003238", "n:3003239", "n:3003240", "n:3003223", "n:3003221", "n:3003203", "n:3003213", "n:3003261" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -240, "y": 86 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "시끌벅적 야시장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003340",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "우승 접시의 거리1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -227, "y": 31 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "우승 접시의 거리1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003350",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 야시장",
+            "MapData_sMapSubName": "우승 접시의 거리2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": 3 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 야시장",
+        "sSubTitle": "우승 접시의 거리2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003400",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "본색을 드러내는 곳1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 106, "y": 116 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "본색을 드러내는 곳1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003410",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "본색을 드러내는 곳2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 135 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "본색을 드러내는 곳2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003420",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "본색을 드러내는 곳3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643009", "m:8643008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 221, "y": 118 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "본색을 드러내는 곳3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003430",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "즐거운 무도회장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "n:3003241", "n:3003242", "n:3003243", "n:3003244", "n:3003246", "n:3003205", "n:3003224", "n:3003218", "n:3003264" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 253, "y": 61 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "즐거운 무도회장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003440",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "춤추는 구두 점령지1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643012", "n:3003211", "n:3003206" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 239, "y": 3 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "춤추는 구두 점령지1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003450",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 무도회장",
+            "MapData_sMapSubName": "춤추는 구두 점령지2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "m:8643007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 172, "y": -20 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 무도회장",
+        "sSubTitle": "춤추는 구두 점령지2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003500",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 시계탑",
+            "MapData_sMapSubName": "악몽의 시계탑1층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": [ "m:8643000", "n:3003216" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 72, "y": 64 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 시계탑",
+        "sSubTitle": "악몽의 시계탑1층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003510",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 시계탑",
+            "MapData_sMapSubName": "악몽의 시계탑2층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": [ "m:8643000", "n:3003222" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 74, "y": 23 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 시계탑",
+        "sSubTitle": "악몽의 시계탑2층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003520",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 시계탑",
+            "MapData_sMapSubName": "악몽의 시계탑3층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": [ "m:8643010", "n:3003219" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 39, "y": 23 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 시계탑",
+        "sSubTitle": "악몽의 시계탑3층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003530",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 시계탑",
+            "MapData_sMapSubName": "악몽의 시계탑4층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": [ "m:8643011", "n:3003210" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 37, "y": -19 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 시계탑",
+        "sSubTitle": "악몽의 시계탑4층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003540",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른 시계탑",
+            "MapData_sMapSubName": "악몽의 시계탑5층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": [ "m:8643010", "m:8643011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 57, "y": -84 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른 시계탑",
+        "sSubTitle": "악몽의 시계탑5층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450004000",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른",
+            "MapData_sMapSubName": "악몽의 시계탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/ClockTowerofNightmare",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 57, "y": -136 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른",
+        "sSubTitle": "악몽의 시계탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450003010",
+            "MapData_sMapIcon": "Lacheln",
+            "MapData_sMapName": "레헬른",
+            "MapData_sMapSubName": "레헬른 강 하류",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/LachelntheIllusionCity",
+            "MapData_sLifeList": [ "n:3003300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -11, "y": 138 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레헬른",
+        "sSubTitle": "레헬른 강 하류",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레헬른",
+        "ArchiveRegionDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      }
+  ]
+}

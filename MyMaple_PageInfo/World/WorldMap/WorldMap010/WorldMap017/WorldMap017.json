@@ -1,0 +1,937 @@
+﻿{
+  "sBaseMapID": "WorldMap017.img",
+  "sBaseMapName": "요정학원 엘리넬",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap017",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101070000",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "엘리넬 호수 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "n:1500010" ]
+          },
+
+          {
+            "MapData_sMapID": "101070001",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "엘리넬 호수 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "n:1500010" ]
+          },
+
+          {
+            "MapData_sMapID": "101070010",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "엘리넬 호수 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "n:1500010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -210, "y": 172 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "한여름 밤의 숲",
+        "sSubTitle": "엘리넬 호수 앞",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101070100",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "빛나는 호숫길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -235, "y": 121 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "한여름 밤의 숲",
+        "sSubTitle": "빛나는 호숫길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101070200",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "빛나는 호숫길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501000", "m:3501001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -220, "y": 65 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "한여름 밤의 숲",
+        "sSubTitle": "빛나는 호숫길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101070300",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "한여름 밤의 숲",
+            "MapData_sMapSubName": "빛나는 호숫길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -174, "y": 31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "한여름 밤의 숲",
+        "sSubTitle": "빛나는 호숫길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101071000",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "엘리넬 호수",
+            "MapData_sMapSubName": "호수 위 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501002", "m:3501003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -152, "y": 136 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘리넬 호수",
+        "sSubTitle": "호수 위 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101071100",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "엘리넬 호수",
+            "MapData_sMapSubName": "호수 위 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501002", "m:3501009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -113, "y": 122 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘리넬 호수",
+        "sSubTitle": "호수 위 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101071200",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "엘리넬 호수",
+            "MapData_sMapSubName": "호수 위 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -77, "y": 98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘리넬 호수",
+        "sSubTitle": "호수 위 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101071300",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "엘리넬 호수",
+            "MapData_sMapSubName": "요정학원 엘리넬 정문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -50, "y": 70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘리넬 호수",
+        "sSubTitle": "요정학원 엘리넬 정문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072000",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "요정학원 엘리넬 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "n:1500001", "n:1500002", "n:1500000", "n:1500008", "n:1500009", "n:1500003", "n:1500004", "n:1500005", "n:1500006", "n:1500007", "n:1500028" ]
+          },
+
+          {
+            "MapData_sMapID": "101072001",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "요정학원 엘리넬 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/TowerOfGoddess",
+            "MapData_sLifeList": [ "n:1500001", "n:1500002", "n:1500000", "n:1500008", "n:1500009", "n:1500003", "n:1500004", "n:1500005", "n:1500006", "n:1500007", "n:1500028" ]
+          },
+
+          {
+            "MapData_sMapID": "101072002",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "요정학원 엘리넬 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm13/TowerOfGoddess",
+            "MapData_sLifeList": [ "n:1500001", "n:1500002", "n:1500000", "n:1500008", "n:1500009", "n:1500003", "n:1500004", "n:1500005", "n:1500006", "n:1500007", "n:1500028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 39, "y": 17 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "요정학원 엘리넬 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072100",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "2층 왼쪽 기숙사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -11, "y": -53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "2층 왼쪽 기숙사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072200",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "2층 서재",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "m:3501004", "n:1500011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 22, "y": -42 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "2층 서재",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072300",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "2층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "m:3501004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 60, "y": -42 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "2층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072400",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "2층 오른쪽 기숙사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "n:1500021" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": -53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "2층 오른쪽 기숙사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072500",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "3층 왼쪽 기숙사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "n:1500023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -11, "y": -125 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "3층 왼쪽 기숙사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072600",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "3층 서재",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "m:3501005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 21, "y": -113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "3층 서재",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072700",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "3층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": [ "m:3501005", "n:1500012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 60, "y": -87 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "3층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101072800",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "요정학원 엘리넬",
+            "MapData_sMapSubName": "3층 오른쪽 기숙사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyAcademy",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": -98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "요정학원 엘리넬",
+        "sSubTitle": "3층 오른쪽 기숙사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101073000",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "양파 재배지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501006", "n:1500013", "n:1500024" ]
+          },
+
+          {
+            "MapData_sMapID": "101073010",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "외딴 숲 재배지 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501006", "n:1500017" ]
+          },
+
+          {
+            "MapData_sMapID": "101073011",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073012",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073013",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073014",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": 37 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "만드라고라 밭",
+        "sSubTitle": "양파 재배지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101073100",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "순무 재배지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501007", "n:1500025", "n:1500014" ]
+          },
+
+          {
+            "MapData_sMapID": "101073110",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "외딴 숲 재배지 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "m:3501007", "n:1500019", "n:1500020" ]
+          },
+
+          {
+            "MapData_sMapID": "101073111",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073112",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073113",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073114",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 190, "y": -24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "만드라고라 밭",
+        "sSubTitle": "순무 재배지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101073200",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "뒤뜰 공터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": [ "n:1500015", "n:1500027" ]
+          },
+
+          {
+            "MapData_sMapID": "101073201",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "납치 현장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/TheFairyForest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 196, "y": -72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "만드라고라 밭",
+        "sSubTitle": "뒤뜰 공터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101073300",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "야외 연극 무대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": [ "m:3501008", "n:1500016", "n:1500018" ]
+          },
+
+          {
+            "MapData_sMapID": "101073301",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073302",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073303",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073304",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073305",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073306",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073307",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073308",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073309",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "101073310",
+            "MapData_sMapIcon": "fairyAcademy",
+            "MapData_sMapName": "만드라고라 밭",
+            "MapData_sMapSubName": "야외 연극 무대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MoleKingRises",
+            "MapData_sLifeList": [ "m:2400570", "n:1500016", "n:1500018", "m:3501008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 219, "y": -102 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "만드라고라 밭",
+        "sSubTitle": "야외 연극 무대",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘리넬",
+        "ArchiveRegionDesc": "요정학원 엘리넬은 신비로운 숲, 엘리니아 깊숙한 곳에 위치한 요정들을 위한 학교다. \\r\\n\\r\\n오래전부터 요정들이 마법을 배우고 익히는 장소였으며, 숲을 지키는 존재들을 길러내는 곳으로 알려져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_9.png"
+      }
+  ]
+}

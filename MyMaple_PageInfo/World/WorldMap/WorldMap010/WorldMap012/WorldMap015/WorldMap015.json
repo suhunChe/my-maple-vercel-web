@@ -1,0 +1,235 @@
+﻿{
+  "sBaseMapID": "WorldMap015.img",
+  "sBaseMapName": "루타비스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap012\\WorldMap015",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105200000",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "거대한 뿌리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/YggdrasilPrayer",
+            "MapData_sLifeList": [ "n:1064012", "n:1064013", "n:1064014", "n:1064015", "n:1064002", "n:1064003", "n:1064032" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -21, "y": -74 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루타비스",
+        "sSubTitle": "거대한 뿌리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루타비스",
+        "ArchiveRegionDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105200110",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "시간의 틈새",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/TimeChaos",
+            "MapData_sLifeList": [ "n:9091004", "m:8910100" ]
+          },
+
+          {
+            "MapData_sMapID": "105200510",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "시간의 틈새 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/TimeChaos",
+            "MapData_sLifeList": [ "n:9091004", "m:8910000" ]
+          },
+
+          {
+            "MapData_sMapID": "105200120",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "반반의 내면세계",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/TimeChaos",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "105200520",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "반반의 내면세계 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/TimeChaos",
+            "MapData_sLifeList": [ "m:8910001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 34, "y": 144 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루타비스",
+        "sSubTitle": "시간의 틈새",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루타비스",
+        "ArchiveRegionDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105200210",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "오후의 티 테이블",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/JoyfulTeaParty",
+            "MapData_sLifeList": [ "n:9091004", "m:8900000", "m:8900100" ]
+          },
+
+          {
+            "MapData_sMapID": "105200610",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "오후의 티 테이블 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/JoyfulTeaParty",
+            "MapData_sLifeList": [ "n:9091004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -151, "y": 111 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루타비스",
+        "sSubTitle": "오후의 티 테이블",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루타비스",
+        "ArchiveRegionDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105200310",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "여왕의 성",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/QueenPalace",
+            "MapData_sLifeList": [ "n:9091021", "m:8920100", "m:8920105" ]
+          },
+
+          {
+            "MapData_sMapID": "105200710",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "여왕의 성 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/QueenPalace",
+            "MapData_sLifeList": [ "n:9091021", "m:8920000", "m:8920005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -216, "y": -27 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루타비스",
+        "sSubTitle": "여왕의 성",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루타비스",
+        "ArchiveRegionDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105200410",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "심연의 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/AbyssCave",
+            "MapData_sLifeList": [ "n:9091023", "m:8930100" ]
+          },
+
+          {
+            "MapData_sMapID": "105200810",
+            "MapData_sMapIcon": "rootabyss",
+            "MapData_sMapName": "루타비스",
+            "MapData_sMapSubName": "심연의 동굴 <카오스>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm29/AbyssCave",
+            "MapData_sLifeList": [ "n:9091023", "m:8930000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 248, "y": 2 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루타비스",
+        "sSubTitle": "심연의 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루타비스",
+        "ArchiveRegionDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      }
+  ]
+}

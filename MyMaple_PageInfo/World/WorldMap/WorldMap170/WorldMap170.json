@@ -1,0 +1,1443 @@
+﻿{
+  "sBaseMapID": "WorldMap170.img",
+  "sBaseMapName": "크리티아스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap170",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000000",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "크리티아스",
+            "MapData_sDesc": "수 백 년 전 사라진 줄로만 알았던 마법이 발달한 과거의 왕국. 마법대학 렌하임과 공중에 떠오른 왕궁 트뤼에페가 있다. 도보나 마법대학의 차원이동 포탈을 이용해 다른 지역으로 이동이 가능하다.",
+            "MapData_sMapBGM": "Bgm35/InRuinInVain",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "241010000",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "크리티아스",
+            "MapData_sDesc": "수 백 년 전 사라진 줄로만 알았던 마법이 발달한 과거의 왕국. 마법대학 렌하임과 공중에 떠오른 왕궁 트뤼에페가 있다. 도보나 마법대학의 차원이동 포탈을 이용해 다른 지역으로 이동이 가능하다.",
+            "MapData_sMapBGM": "Bgm35/InRuinInVain",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 0 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "크리티아스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000100",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "시장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2230100", "n:2230101", "n:2232009", "n:2232010", "n:2232011", "n:2230204", "n:2232014", "n:2232015", "n:2232016", "n:2232013", "n:2232017" ]
+          },
+
+          {
+            "MapData_sMapID": "241010100",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "시장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": [ "n:2231100", "n:2231101", "n:2230204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -8, "y": -74 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "시장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000110",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "마법대학 렌하임",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2232006", "n:2232005", "n:2232004", "n:9000178", "n:2230205", "n:2232210", "n:2230212" ]
+          },
+
+          {
+            "MapData_sMapID": "241010110",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "마법대학 렌하임",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": [ "n:2232209", "n:2230212", "n:2232210", "n:2230205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": 70 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "마법대학 렌하임",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000120",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "관청",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2232003", "n:2232207", "n:2232208", "n:9000088", "n:2091010", "n:9010000", "n:9010010", "n:9010022", "n:9071003", "n:9010009", "n:9201023", "n:9000087", "n:9000123", "n:9000124", "n:9000230", "n:9010109", "n:9010106", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "241010120",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "관청",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -154, "y": 71 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "관청",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000130",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "북동쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2230200", "n:2230201" ]
+          },
+
+          {
+            "MapData_sMapID": "241010130",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "북동쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 105, "y": -9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "북동쪽 거리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000140",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "남쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2230200", "n:2230201" ]
+          },
+
+          {
+            "MapData_sMapID": "241010140",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "남쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -9, "y": 147 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "남쪽 거리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000150",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "북서쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInHundreds",
+            "MapData_sLifeList": [ "n:2230200", "n:2230201" ]
+          },
+
+          {
+            "MapData_sMapID": "241010150",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "크리티아스",
+            "MapData_sMapSubName": "북서쪽 거리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/StopInEnds",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -121, "y": -9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "크리티아스",
+        "sSubTitle": "북서쪽 거리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000200",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "북쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "n:2232204", "n:2232205", "n:2232206", "n:2230002" ]
+          },
+
+          {
+            "MapData_sMapID": "241010200",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "북쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "n:2231002", "n:2231200", "n:2231201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -9, "y": -117 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "북쪽 막사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000201",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630009" ]
+          },
+
+          {
+            "MapData_sMapID": "241010201",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 56, "y": -149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "깊어지는 비극의 숲5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000202",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630008" ]
+          },
+
+          {
+            "MapData_sMapID": "241010202",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": -142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "깊어지는 비극의 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000203",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630007" ]
+          },
+
+          {
+            "MapData_sMapID": "241010203",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 186, "y": -102 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "깊어지는 비극의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000204",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630006" ]
+          },
+
+          {
+            "MapData_sMapID": "241010204",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 262, "y": -49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "깊어지는 비극의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000205",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630005" ]
+          },
+
+          {
+            "MapData_sMapID": "241010205",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "깊어지는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 263, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "깊어지는 비극의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000206",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630016" ]
+          },
+
+          {
+            "MapData_sMapID": "241010206",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 188, "y": -25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "타락한 마력의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000207",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "작열의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630005", "m:8630006" ]
+          },
+
+          {
+            "MapData_sMapID": "241010207",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "작열의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 187, "y": -157 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "작열의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000208",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "작열의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630007", "m:8630008", "m:8630009" ]
+          },
+
+          {
+            "MapData_sMapID": "241010208",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "작열의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 241, "y": -191 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "작열의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000210",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "남동쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "n:2232203", "n:2232202", "n:2230001" ]
+          },
+
+          {
+            "MapData_sMapID": "241010210",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "남동쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "n:2231001", "n:2231200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": 89 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "남동쪽 막사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000211",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630004" ]
+          },
+
+          {
+            "MapData_sMapID": "241010211",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 167, "y": 151 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "시작되는 비극의 숲5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000212",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630003" ]
+          },
+
+          {
+            "MapData_sMapID": "241010212",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": 188 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "시작되는 비극의 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000213",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630002" ]
+          },
+
+          {
+            "MapData_sMapID": "241010213",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -8, "y": 198 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "시작되는 비극의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000214",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630001" ]
+          },
+
+          {
+            "MapData_sMapID": "241010214",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -105, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "시작되는 비극의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000215",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630000" ]
+          },
+
+          {
+            "MapData_sMapID": "241010215",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "시작되는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -185, "y": 134 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "시작되는 비극의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000216",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630015" ]
+          },
+
+          {
+            "MapData_sMapID": "241010216",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 57, "y": 164 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "타락한 마력의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000217",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "빙점의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630000", "m:8630001" ]
+          },
+
+          {
+            "MapData_sMapID": "241010217",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "빙점의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 188 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "빙점의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000218",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "빙점의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630002", "m:8630003", "m:8630004" ]
+          },
+
+          {
+            "MapData_sMapID": "241010218",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "빙점의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -261, "y": 201 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "빙점의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000220",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "남서쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "n:2232200", "n:2232201", "n:2230000" ]
+          },
+
+          {
+            "MapData_sMapID": "241010220",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "남서쪽 막사",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "n:2231000", "n:2231200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -245, "y": 79 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "남서쪽 막사",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000221",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630014" ]
+          },
+
+          {
+            "MapData_sMapID": "241010221",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -262, "y": 0 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "끝나지 않는 비극의 숲5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000222",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630013" ]
+          },
+
+          {
+            "MapData_sMapID": "241010222",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -245, "y": -63 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "끝나지 않는 비극의 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000223",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630012" ]
+          },
+
+          {
+            "MapData_sMapID": "241010223",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -196, "y": -113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "끝나지 않는 비극의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000224",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630011" ]
+          },
+
+          {
+            "MapData_sMapID": "241010224",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -143, "y": -142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "끝나지 않는 비극의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000225",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630010" ]
+          },
+
+          {
+            "MapData_sMapID": "241010225",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "끝나지 않는 비극의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -75, "y": -149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "끝나지 않는 비극의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000226",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630017" ]
+          },
+
+          {
+            "MapData_sMapID": "241010226",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "타락한 마력의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -206, "y": 30 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "타락한 마력의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000227",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "암흑의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630010", "m:8630011" ]
+          },
+
+          {
+            "MapData_sMapID": "241010227",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "암흑의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -213, "y": -149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "암흑의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "241000228",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "암흑의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicForest",
+            "MapData_sLifeList": [ "m:8630012", "m:8630013", "m:8630014" ]
+          },
+
+          {
+            "MapData_sMapID": "241010228",
+            "MapData_sMapIcon": "critias",
+            "MapData_sMapName": "킹덤로드",
+            "MapData_sMapSubName": "암흑의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/TragicRestart",
+            "MapData_sLifeList": [ "m:9300816", "m:9300858", "m:9300859" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -276, "y": -165 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "킹덤로드",
+        "sSubTitle": "암흑의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "크리티아스",
+        "ArchiveRegionDesc": "미나르숲 남부에 위치한 마법 왕국이다. 수백 년 전 하루아침에 사라졌다가 최근 들어 다시금 관측되었다. \\r\\n\\r\\n어째서인지 주민들은 시간의 흐름을 알지 못한 채 살아가고 있는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_44.png"
+      }
+  ]
+}

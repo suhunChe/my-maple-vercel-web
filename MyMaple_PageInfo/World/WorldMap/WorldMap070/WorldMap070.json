@@ -1,0 +1,1939 @@
+﻿{
+  "sBaseMapID": "WorldMap070.img",
+  "sBaseMapName": "니할사막",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap070",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260000000",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "아리안트",
+            "MapData_sDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 지니를 타거나 도보를 이용하면 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:9010009", "n:2100000", "n:2100002", "n:2100003", "n:2100004", "n:2100005", "n:2100006", "n:2100007", "n:2100008", "n:2100009", "n:9010010", "n:9010000", "n:9010022", "n:9071003", "n:9000090", "n:2121018", "n:9000088", "n:9000087", "n:9000086", "n:9000089", "n:9000124", "n:9000123", "n:2101005", "n:9072100", "n:2101019", "n:9062009", "n:9062010", "n:9000397", "n:9010106", "n:9010109", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -158, "y": 40 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "아리안트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260000100",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "아리안트 정거장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2102000", "n:2102002", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "260000110",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "출발하기전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2102001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": 2 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아리안트",
+        "sSubTitle": "아리안트 정거장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260000200",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "아리안트마을",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:9040004", "n:2101000", "n:2101001", "n:2101002", "n:2101003", "n:2100001", "n:2101011", "n:2103001", "n:2103015" ]
+          },
+
+          {
+            "MapData_sMapID": "260000201",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "허름한 빈집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2101010" ]
+          },
+
+          {
+            "MapData_sMapID": "260000202",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2103003", "n:2103009" ]
+          },
+
+          {
+            "MapData_sMapID": "260000203",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2103004", "n:2103010" ]
+          },
+
+          {
+            "MapData_sMapID": "260000204",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "260000205",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2103005", "n:2103011" ]
+          },
+
+          {
+            "MapData_sMapID": "260000206",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "260000207",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트마을",
+            "MapData_sMapSubName": "민가6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2103006", "n:2103012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -161, "y": 69 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아리안트",
+        "sSubTitle": "아리안트마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260000300",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "아리안트궁전",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2101004", "n:2103000" ]
+          },
+
+          {
+            "MapData_sMapID": "260000301",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트궁전",
+            "MapData_sMapSubName": "아리안트궁전<정원>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "260000302",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트궁전",
+            "MapData_sMapSubName": "아리안트 궁전<복도>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "260000303",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트궁전",
+            "MapData_sMapSubName": "아리안트 궁전<왕의 방>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2101007", "n:2101009", "n:2101008", "n:2103002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -158, "y": 13 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아리안트",
+        "sSubTitle": "아리안트궁전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010000",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "아리안트 서문 밖",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100102", "n:2101020", "n:1531058" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -228, "y": 38 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "아리안트 서문 밖",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010100",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "선인장 사막1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -276, "y": 77 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "선인장 사막1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010200",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "선인장 사막2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100103", "m:2100104", "n:3001642" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -252, "y": 129 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "선인장 사막2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010300",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "흰 바위 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100105", "n:1531060" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -188, "y": 144 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "흰 바위 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010400",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "작열하는 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100106", "n:2101012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -118, "y": 124 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "작열하는 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010500",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "메마른 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100106", "m:2100107", "n:1531059" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -61, "y": 105 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "메마른 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010600",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "유랑단의 텐트",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100101", "n:2101013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -37, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "유랑단의 텐트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260010700",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "아리안트 동문 밖",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100100", "n:9000068" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -88, "y": 33 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "아리안트 동문 밖",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020000",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "아리안트 북문 밖",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100108", "n:2110005", "n:2101006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -221, "y": -42 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "아리안트 북문 밖",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020100",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "버닝로드",
+            "MapData_sMapSubName": "북쪽 사막길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "m:2100108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -186, "y": -75 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "버닝로드",
+        "sSubTitle": "북쪽 사막길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020200",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "북쪽 사막길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:3100102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -131, "y": -70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "북쪽 사막길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020300",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "붉은 모래 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:3100102", "m:3100101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -75, "y": -67 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "붉은 모래 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020400",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "사막유목민의 폐허",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:3100101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -36, "y": -96 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "사막유목민의 폐허",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020500",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "사헬지대3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:2110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": -129 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "사헬지대3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020600",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "사헬지대2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:2110300", "m:2110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 48, "y": -138 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "사헬지대2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020610",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "잠자는 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:2110300", "m:3110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 15, "y": -177 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "잠자는 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020620",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "꿈꾸는 사막",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:3110301", "m:2110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 65, "y": -92 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "꿈꾸는 사막",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260020700",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "사헬지대1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "m:2110300", "n:2110005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 104, "y": -143 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "사헬지대1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261000000",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "선셋로드",
+            "MapData_sMapSubName": "마가티아",
+            "MapData_sDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다. ",
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:9000086", "n:9000087", "n:9000089", "n:9000088", "n:2110000", "n:2110001", "n:2111003", "n:2111005", "n:2111004", "n:2111007", "n:9010000", "n:9010009", "n:9010010", "n:9201023", "n:9010022", "n:2010011", "n:9071003", "n:9000090", "n:2040050", "n:9000123", "n:9000124", "n:9062009", "n:9000178", "n:9000230", "n:9000397", "n:9010109", "n:9010106", "n:2111027", "n:9072100", "n:2159570", "n:2159571", "n:2159585", "n:2159586", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "261000001",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "실종된 연금술사의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2111013", "n:2111011", "n:2111012", "n:2111014", "n:2111016", "n:2111017", "n:2111018", "n:2111019" ]
+          },
+
+          {
+            "MapData_sMapID": "261000002",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "스탠의 작업실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2110002", "n:2110003", "n:2110004", "n:2112017" ]
+          },
+
+          {
+            "MapData_sMapID": "261000010",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "제뉴미스트 협회",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2111000" ]
+          },
+
+          {
+            "MapData_sMapID": "261000011",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "제뉴미스트 비밀의 방<입장맵>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2112004" ]
+          },
+
+          {
+            "MapData_sMapID": "261000020",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "알카드노 협회",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2111001" ]
+          },
+
+          {
+            "MapData_sMapID": "261000021",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "마가티아",
+            "MapData_sMapSubName": "알카드노 비밀의 방<입장맵>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2112003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 191, "y": -141 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "선셋로드",
+        "sSubTitle": "마가티아",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010000",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 1층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2111008", "n:2111024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 1층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010001",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 101호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:3110300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": 72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 101호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010002",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 102호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:3110302" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": 110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 102호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010003",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 103호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:3110303" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 165, "y": 110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 103호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010100",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 2층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 2층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010101",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 201호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:6110300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": 149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 201호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010102",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 202호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:7110301", "m:8110300", "n:2111026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 189 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 202호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261010103",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "제뉴미스트 연구소",
+            "MapData_sMapSubName": "연구소 203호",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:7110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 165, "y": 149 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "제뉴미스트 연구소",
+        "sSubTitle": "연구소 203호",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020000",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 중앙게이트",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "n:2111009", "n:9000068" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 중앙게이트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020100",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 A-1 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:5110300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": -32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 A-1 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020200",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 B-1 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:4110302", "n:2111015", "n:2111024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 B-1 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020300",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 C-1 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:5110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 C-1 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020400",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 C-2 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:5110302", "m:5110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 C-2 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020500",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 C-3 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:7110300", "m:5110302" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": 45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 C-3 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020600",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 B-3 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:4110300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 B-3 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "261020700",
+            "MapData_sMapIcon": "Magatia",
+            "MapData_sMapName": "알카드노 연구소",
+            "MapData_sMapSubName": "연구소 A-3 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm12/Dispute",
+            "MapData_sLifeList": [ "m:4110301" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 257, "y": -32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "알카드노 연구소",
+        "sSubTitle": "연구소 A-3 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "마가티아",
+        "ArchiveRegionDesc": "니할사막의 북동쪽 끝에 있는 척박한 땅위에 자리잡은 연금술사들의 마을이다. 제뉴미스트와 알카드노라는 연금술사협회가 서로 대립하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_50.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "926010000",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "피라미드 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HotDesert",
+            "MapData_sLifeList": [ "n:2103013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -11, "y": -45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "히든스트리트",
+        "sSubTitle": "피라미드 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "260000100",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "아리안트 정거장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2102000", "n:2102002", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "260000110",
+            "MapData_sMapIcon": "Ariant",
+            "MapData_sMapName": "아리안트",
+            "MapData_sMapSubName": "출발하기전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/Ariant",
+            "MapData_sLifeList": [ "n:2102001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": 2 },
+        "nPinType": 5,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아리안트",
+        "sSubTitle": "아리안트 정거장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아리안트",
+        "ArchiveRegionDesc": "사막 한가운데 있는 오아시스를 중심으로 세워진 마을이다. 아랍풍 건축과 사막 정취가 어우러진 이곳은 무역의 중심지로, 왕궁 뒤엔 빈부 격차와 반란의 그림자가 드리운다.\\r\\n\\r\\n붉은 모래와 뜨거운 태양 아래, 모래토끼와 선인장 몬스터들이 출몰하며, 북쪽의 선셋 로드를 지나면 연금술사들의 도시 마가티아로 이어진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_48.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "262010000",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "아스완 오벨리스크",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/SunsetDesert",
+            "MapData_sLifeList": [ "n:2180001", "n:2180000", "n:2181000" ]
+          },
+
+          {
+            "MapData_sMapID": "262000000",
+            "MapData_sMapIcon": "Hilla",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "아스완 피난처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": [ "n:2183000", "n:2183001", "n:2183002", "n:2182002", "n:2182000", "n:2182001" ]
+          },
+
+          {
+            "MapData_sMapID": "262000100",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000101",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000102",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000103",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000110",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000111",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000112",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000113",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000120",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000121",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000122",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000123",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대기실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/RustyThrone",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262000200",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "전장 퇴장맵",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "262020000",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 소규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020100",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020001",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 소규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020101",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020002",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 소규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020102",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020003",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 소규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262020103",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "점령전 대규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021000",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 소규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021100",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 대규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021001",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 소규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021101",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 대규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021002",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 소규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021102",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 대규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021003",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 소규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262021103",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "공격전 대규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022000",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 소규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022100",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 대규모 전장(이지)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022001",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 소규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022101",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 대규모 전장(노말)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022002",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 소규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022102",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 대규모 전장(하드)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022003",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 소규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262022103",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "방어전 대규모 전장(헬)",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262023000",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "보급전 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          },
+
+          {
+            "MapData_sMapID": "262023100",
+            "MapData_sMapIcon": "Aswan",
+            "MapData_sMapName": "아스완",
+            "MapData_sMapSubName": "보급전 대규모 전장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/InWartime",
+            "MapData_sLifeList": [ ":" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -141, "y": -116 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아스완",
+        "sSubTitle": "아스완 오벨리스크",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아스완",
+        "ArchiveRegionDesc": "고대 마법사 힐라의 지배 아래 잠들어 있는 영혼들의 도시이다. \\r\\n\\r\\n과거에는 위대한 마법 문명이 꽃피었던 영광스러운 도시였지만, 알 수 없는 힘에 의해 멸망하여 유령과 망령들이 떠도는 폐허가 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_49.png"
+      }
+  ]
+}

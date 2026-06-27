@@ -1,0 +1,720 @@
+﻿{
+  "sBaseMapID": "WorldMap012.img",
+  "sBaseMapName": "슬리피우드",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap012",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap015",
+        "pntOrigin": { "x": 171, "y": 185 },
+        "sToolTip": "루타비스",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": -121, "y": -154 },
+        "sListMapUpData_Desc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 거대한 뿌리",
+        "bIsArchive": true,
+        "sArchiveName": "루타비스",
+        "sArchiveDesc": "슬리피우드 북쪽, 빅토리아 아일랜드의 중심에 있는 거대한 나무 뿌리 아래 있는 거대한 공동이다. 원래는 생명의 기운으로 가득했지만 현재는 어둠에 물들어 음산한 기운을 뿜어내고 있다.\\r\\n\\r\\n여기에는 거대한 뿌리에서 옴짝달싹 못 하고 있는 금발의 소녀가 있었다. 소녀는 사실 세계수이며, 안대를 한 마족이 그녀를 루타비스에 봉인했다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_20.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0121",
+        "pntOrigin": { "x": 102, "y": 232 },
+        "sToolTip": "타락한 세계수",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": 7, "y": -169 },
+        "sListMapUpData_Desc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 버려진 야영지",
+        "bIsArchive": true,
+        "sArchiveName": "타락한 세계수",
+        "sArchiveDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105000000",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "슬리피우드",
+            "MapData_sMapSubName": "슬리피우드",
+            "MapData_sDesc": "빅토리아 아일랜드의 중앙던전 안에 있는 숨겨진 마을이다.",
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "n:1061000", "n:1061005", "n:1061006", "n:1061008", "n:1061011", "n:9010010", "n:9000040", "n:9000041", "n:1061019", "n:2023000", "n:9010022", "n:1040001", "n:1061020", "n:9000124", "n:9000123", "n:0020000", "n:9072100", "n:1033227", "n:9010106", "n:9010109", "n:1061021", "n:3001553", "n:2159564", "n:2159575", "n:2159576", "n:2159609", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "105000010",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "슬리피우드",
+            "MapData_sMapSubName": "슬리피우드 호텔로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "n:1061100" ]
+          },
+
+          {
+            "MapData_sMapID": "105000011",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "슬리피우드",
+            "MapData_sMapSubName": "회복사우나실<일반>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "n:1061002" ]
+          },
+
+          {
+            "MapData_sMapID": "105000012",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "슬리피우드",
+            "MapData_sMapSubName": "회복사우나실<고급>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "n:1061003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -222, "y": -125 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "슬리피우드",
+        "sSubTitle": "슬리피우드",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105010000",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "습지",
+            "MapData_sMapSubName": "조용한 습지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "m:4130100", "n:1061004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -213, "y": -93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "습지",
+        "sSubTitle": "조용한 습지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105010100",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "습지",
+            "MapData_sMapSubName": "축축한 습지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/SleepyWood",
+            "MapData_sLifeList": [ "m:4130100", "n:1063012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -189, "y": -71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "습지",
+        "sSubTitle": "축축한 습지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105020000",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "드레이크의 동굴",
+            "MapData_sMapSubName": "빛이 들지 않는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:5130100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -133, "y": -4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드레이크의 동굴",
+        "sSubTitle": "빛이 들지 않는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105020100",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "드레이크의 동굴",
+            "MapData_sMapSubName": "동굴 낭떠러지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:6130100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -105, "y": 21 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드레이크의 동굴",
+        "sSubTitle": "동굴 낭떠러지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105020200",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "드레이크의 동굴",
+            "MapData_sMapSubName": "차가운 바람",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:6230600" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": 58 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드레이크의 동굴",
+        "sSubTitle": "차가운 바람",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105020300",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "드레이크의 동굴",
+            "MapData_sMapSubName": "서늘한 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:6230600" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -82, "y": 101 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드레이크의 동굴",
+        "sSubTitle": "서늘한 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105020400",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "드레이크의 동굴",
+            "MapData_sMapSubName": "동굴의 출구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:6230601" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -17, "y": 112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드레이크의 동굴",
+        "sSubTitle": "동굴의 출구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030000",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "또 다른 문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "n:1061012", "n:1061013", "n:1061001", "n:2023000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 61, "y": 119 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "또 다른 문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030100",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "신전의 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:6230100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 87, "y": 85 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "신전의 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030200",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "무너진 신전",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:7130100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 132, "y": 65 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "무너진 신전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030300",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "끝없는 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:7130100", "m:7130101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 159, "y": 38 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "끝없는 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030400",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "음산한 신전",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:7130100", "m:7130101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 176, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "음산한 신전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105030500",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "저주받은신전",
+            "MapData_sMapSubName": "금지된 제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:7130101", "m:8130100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 195, "y": -34 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "저주받은신전",
+        "sSubTitle": "금지된 제단",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "저주받은 신전",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳, 슬리피우드에 잠들어 있는 고대 신전이다. 오랜 세월 동안 잊힌 채, 어둠의 기운에 오염되어 강력한 저주가 깃들었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_21.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105100000",
+            "MapData_sMapIcon": "Balog",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "지하로 내려가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "n:1061016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 89, "y": 142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "발록의 신전",
+        "sSubTitle": "지하로 내려가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105100100",
+            "MapData_sMapIcon": "Balog",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "신전의 밑바닥",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "n:1061014", "n:9000174" ]
+          },
+
+          {
+            "MapData_sMapID": "105100101",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "트리스탄의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "n:1061017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 141, "y": 147 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "발록의 신전",
+        "sSubTitle": "신전의 밑바닥",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105100300",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "발록의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HonTale",
+            "MapData_sLifeList": [ "n:1061018" ]
+          },
+
+          {
+            "MapData_sMapID": "105100301",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "발록이 사라진 자리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "105100400",
+            "MapData_sMapIcon": "Balog",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "발록의 무덤",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm14/HonTale",
+            "MapData_sLifeList": [ "n:1061018" ]
+          },
+
+          {
+            "MapData_sMapID": "105100401",
+            "MapData_sMapIcon": "Balog",
+            "MapData_sMapName": "발록의 신전",
+            "MapData_sMapSubName": "발록이 사라진 자리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm02/EvilEyes",
+            "MapData_sLifeList": [ "m:8830000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 188, "y": 139 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "발록의 신전",
+        "sSubTitle": "발록의 무덤",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105010300",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "어두운 동굴",
+            "MapData_sMapSubName": "개미굴1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:2230131", "m:2230101", "n:1063007", "n:3001641" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -235, "y": -71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "어두운 동굴",
+        "sSubTitle": "개미굴1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105010301",
+            "MapData_sMapIcon": "Dungeon",
+            "MapData_sMapName": "어두운 동굴",
+            "MapData_sMapSubName": "개미굴2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm01/AncientMove",
+            "MapData_sLifeList": [ "m:2230131", "m:2230101", "m:6300005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -267, "y": -64 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "어두운 동굴",
+        "sSubTitle": "개미굴2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "슬리피우드",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 가장 깊은 곳에 자리 잡은, 거대한 동굴과 고요한 숲이 공존하는 마을이다. 늘 어두컴컴하고 습기가 가득하며, 마을 전체에 흐르는 고대 마법의 기운 때문에 잠의 저주에 걸린 듯한 분위기가 감돈다. \\r\\n\\r\\n이곳은 위험한 몬스터들이 출몰하는 사냥터이기도 하지만, 동굴 깊숙한 곳에는 오랜 역사를 간직한 던전들과 신비한 보물들이 숨겨져 있어 용감한 모험가들이 끊임없이 도전한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_18.png"
+      }
+  ]
+}

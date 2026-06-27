@@ -1,0 +1,1098 @@
+﻿{
+  "sBaseMapID": "WorldMap080.img",
+  "sBaseMapName": "시간의 신전",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap081",
+        "pntOrigin": { "x": 272, "y": 51 },
+        "sToolTip": "미래의 문",
+        "nPinType": 3,
+        "pntListMapUpData_PinPoint": { "x": -199, "y": 39 },
+        "sListMapUpData_Desc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 멀지 않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. 대체 어떤 일이 있던 걸까.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 파괴된 헤네시스\\n - 황혼의 페리온",
+        "bIsArchive": true,
+        "sArchiveName": "미래의 문",
+        "sArchiveDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap082",
+        "pntOrigin": { "x": 192, "y": 37 },
+        "sToolTip": "현재의 문",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -135, "y": 30 },
+        "sListMapUpData_Desc": null,
+        "sListMapUpData_MainCity": null,
+        "bIsArchive": false,
+        "sArchiveName": null,
+        "sArchiveDesc": null,
+        "sArchiveImagePath": null
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270000000",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "세 개의 문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:2140000", "n:2144011", "n:2140006", "n:2140004", "n:2140008", "n:1520021", "n:3005427", "n:1541302", "n:9010113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -171, "y": 85 },
+        "nPinType": 2,
+
+        "nNoToolTip": 1,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "세 개의 문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270000100",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "시간의 신전",
+            "MapData_sDesc": "시간의 여신을 모시는 신전이다. 과거와 현재 그리고 미래의 시간이 공존하고 있다. 용으로 변신해 하늘을 날아 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:1103006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -259, "y": 165 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "시간의 신전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010000",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "신록의 과거",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -87, "y": 69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "신록의 과거",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010100",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억의 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": [ "m:8200001", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -39, "y": 39 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억의 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010110",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억 속 쉼터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -9, "y": 44 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억 속 쉼터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010111",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "관조자의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:2140001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -16, "y": 90 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "관조자의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010200",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억의 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": [ "m:8200002", "m:8200000", "n:2140007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": 48 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억의 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010300",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억의 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": [ "m:8200003", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": 58 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억의 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010400",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억의 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": [ "m:8200004", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 148, "y": 82 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억의 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270010500",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "추억의 길5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Remembrance",
+            "MapData_sLifeList": [ "m:8200004", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 180, "y": 80 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "추억의 길5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020000",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "얼어붙은 과거",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "얼어붙은 과거",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020100",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회의 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": [ "m:8200005", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 130, "y": 18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회의 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020200",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회의 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": [ "m:8200006", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 88, "y": 8 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회의 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020210",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회 속 쉼터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 34, "y": -4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회 속 쉼터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020211",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "마법제련술사의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:2140002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 45, "y": -46 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "마법제련술사의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020300",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회의 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": [ "m:8200007", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -71, "y": -45 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회의 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020400",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회의 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": [ "m:8200008", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -143, "y": -48 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회의 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270020500",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "후회의 길5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Repentance",
+            "MapData_sLifeList": [ "m:8200008", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -172, "y": -77 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "후회의 길5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030000",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "불타는 과거",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -139, "y": -108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "불타는 과거",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030100",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각의 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8200009", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -78, "y": -119 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각의 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030200",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각의 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8200010", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -27, "y": -107 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각의 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030300",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각의 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8200011", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": -97 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각의 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030400",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각의 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8200012", "m:8200000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 123, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각의 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030410",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각 속 쉼터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 148, "y": -71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각 속 쉼터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030411",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "기록자의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:2140003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 209, "y": -59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "기록자의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030500",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "망각의 길5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8200012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": -86 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "망각의 길5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270040000",
+            "MapData_sMapIcon": "PinkBean",
+            "MapData_sMapName": "신전 깊은 곳",
+            "MapData_sMapSubName": "부서진 회랑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Duskofgod",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 179, "y": -100 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "신전 깊은 곳",
+        "sSubTitle": "부서진 회랑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270050000",
+            "MapData_sMapIcon": "PinkBean",
+            "MapData_sMapName": "신전 깊은 곳",
+            "MapData_sMapSubName": "잊혀진 황혼",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Duskofgod",
+            "MapData_sLifeList": [ "n:2141001", "n:9000174" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 192, "y": -134 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "신전 깊은 곳",
+        "sSubTitle": "잊혀진 황혼",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270000100",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "시간의 신전",
+            "MapData_sDesc": "시간의 여신을 모시는 신전이다. 과거와 현재 그리고 미래의 시간이 공존하고 있다. 용으로 변신해 하늘을 날아 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm16/TimeTemple",
+            "MapData_sLifeList": [ "n:1103006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -259, "y": 165 },
+        "nPinType": 7,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "시간의 신전",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030600",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "또 다른 망각의 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8220039", "m:8220038" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": -150 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "또 다른 망각의 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030610",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "또 다른 망각의 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8220040", "m:8220038" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -20, "y": -169 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "또 다른 망각의 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030620",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "또 다른 망각의 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8220041", "m:8220038" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 20, "y": -161 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "또 다른 망각의 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "270030630",
+            "MapData_sMapIcon": "TimeTemple",
+            "MapData_sMapName": "타임로드",
+            "MapData_sMapSubName": "또 다른 망각의 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm16/Forgetfulness",
+            "MapData_sLifeList": [ "m:8220042", "m:8220038" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 62, "y": -151 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타임로드",
+        "sSubTitle": "또 다른 망각의 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시간의 신전",
+        "ArchiveRegionDesc": "시간의 초월자 륀느를 여신으로 섬기는 신전이다. 미나르숲 상공에 떠 있는 신비한 장소로, 과거와 현재, 그리고 미래로 통하는 세 개의 문을 통해 이곳에 모든 시간대가 공존함을 알 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_51.png"
+      }
+  ]
+}

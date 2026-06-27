@@ -1,0 +1,441 @@
+﻿{
+  "sBaseMapID": "WorldMap031.img",
+  "sBaseMapName": "시계탑 최하층",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030\\WorldMap031",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220050300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "시간의 통로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "n:2040051", "n:2041023", "n:2041021", "n:2159331", "n:2023000", "n:2041026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 1, "y": -160 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "시간의 통로",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220060000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "뒤틀린 시간의 길<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm09/FairyTale",
+            "MapData_sLifeList": [ "m:6130200", "m:6230300", "n:2041027" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -227, "y": -160 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "뒤틀린 시간의 길<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220060100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "뒤틀린 시간의 길<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm09/FairyTale",
+            "MapData_sLifeList": [ "m:6300100", "m:6400100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -226, "y": -52 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "뒤틀린 시간의 길<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220060200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "뒤틀린 시간의 길<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm09/FairyTalediffvers",
+            "MapData_sLifeList": [ "m:7140000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -226, "y": 55 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "뒤틀린 시간의 길<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220060300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "뒤틀린 시간의 길<4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm09/FairyTalediffvers",
+            "MapData_sLifeList": [ "m:8141000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -228, "y": 162 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "뒤틀린 시간의 길<4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220060400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "뒤틀린 회랑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/BizarreTales",
+            "MapData_sLifeList": [ "m:8160000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -114, "y": 161 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "뒤틀린 회랑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220070000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "잊혀진 시간의 길<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/Timeless",
+            "MapData_sLifeList": [ "m:6230400", "m:6230500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": -160 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "잊혀진 시간의 길<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220070100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "잊혀진 시간의 길<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/Timeless",
+            "MapData_sLifeList": [ "m:8140200", "m:8140300" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": -53 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "잊혀진 시간의 길<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220070200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "잊혀진 시간의 길<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/TimelessB",
+            "MapData_sLifeList": [ "m:7130010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": 55 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "잊혀진 시간의 길<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220070300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "잊혀진 시간의 길<4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/TimelessB",
+            "MapData_sLifeList": [ "m:8142000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": 161 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "잊혀진 시간의 길<4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220070400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "잊혀진 회랑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm10/TheWayGrotesque",
+            "MapData_sLifeList": [ "m:8170000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 112, "y": 161 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "잊혀진 회랑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220080000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "시계탑 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "n:2041024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": 160 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "시계탑 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220080001",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "시계탑의 근원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "n:2041025" ]
+          },
+
+          {
+            "MapData_sMapID": "220080300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "시계탑최하층",
+            "MapData_sMapSubName": "시계탑의 근원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:8500003", "m:8500004", "m:8500015", "n:2041025", "m:8500002", "m:8500001", "m:8500012", "m:8500011", "m:8500022", "m:8500021" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": 37 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "시계탑최하층",
+        "sSubTitle": "시계탑의 근원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "시계탑 최하층",
+        "ArchiveRegionDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      }
+  ]
+}

@@ -1,0 +1,591 @@
+﻿{
+  "sBaseMapID": "WorldMap090.img",
+  "sBaseMapName": "에레브",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap090",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130000000",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "에레브",
+            "MapData_sDesc": "여제 시그너스의 섬. 원래는 메이플 월드 전체를 부유하고 있었지만 현재는 잠시 멈춰 있다. 하늘나루에서 배를 타면 다른 지역으로 이동할 수 있다. ",
+            "MapData_sMapBGM": "Bgm18/QueensGarden",
+            "MapData_sLifeList": [ "n:1101000", "n:1101002", "n:1101003", "n:1101004", "n:1101005", "n:1101006", "n:1101007", "n:1101001", "n:9062009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 66, "y": 69 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "에레브",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130000101",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "기사의 전당",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/QueensGarden",
+            "MapData_sLifeList": [ "n:1102003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": 9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "기사의 전당",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130000200",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "에레브 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/QueensGarden",
+            "MapData_sLifeList": [ "n:1100000", "n:9010009", "n:9010010", "n:9010000", "n:1100001", "n:1100002", "n:9000124", "n:9000123", "n:1102200", "n:9010022", "n:9010106", "n:9010109", "n:9010113", "n:9010112", "n:9076152", "n:9076151" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -12, "y": -24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "에레브 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130000210",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "하늘나루",
+            "MapData_sDesc": "에레브를 다른 지역과 연결하는 비행선이 정박해 있다. ",
+            "MapData_sMapBGM": "Bgm18/QueensGarden",
+            "MapData_sLifeList": [ "n:1100003", "n:1100004", "n:9072000", "n:3003614", "n:3006407" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 86, "y": -107 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "하늘나루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010000",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "수련의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100120", "m:0100121", "n:1102000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -73, "y": -32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "수련의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010010",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "티노의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100120", "n:1102206" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -35, "y": -97 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "티노의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010020",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "티브의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100121", "n:1102205" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -96, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "티브의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010100",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "수련의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100122", "m:0100123" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -110, "y": -59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "수련의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010110",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "티무의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100122", "n:1102201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -80, "y": -102 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "티무의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010120",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "티루의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100123", "n:1541108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -141, "y": -18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "티루의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010200",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "수련의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100124" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -156, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "수련의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010210",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "티구르의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "m:0100124", "n:1102202", "n:1102203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -126, "y": -110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "티구르의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130010220",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "키리두의 부화장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "n:1102002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -202, "y": -23 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "키리두의 부화장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130020000",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "연무장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "n:1102000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -196, "y": -127 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "연무장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130030000",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "잊힌 고향",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/Noblesse nostalgia",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 205, "y": 122 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "잊힌 고향",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130030005",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "잊힌 숲 나가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/Noblesse nostalgia",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 150, "y": 150 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "잊힌 숲 나가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130030006",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "작은 다리",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/RaindropFlower",
+            "MapData_sLifeList": [ "n:1520045" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 100, "y": 113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "작은 다리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "130000210",
+            "MapData_sMapIcon": "Ereb",
+            "MapData_sMapName": "퀸스로드",
+            "MapData_sMapSubName": "하늘나루",
+            "MapData_sDesc": "에레브를 다른 지역과 연결하는 비행선이 정박해 있다. ",
+            "MapData_sMapBGM": "Bgm18/QueensGarden",
+            "MapData_sLifeList": [ "n:1100003", "n:1100004", "n:9072000", "n:3003614", "n:3006407" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 86, "y": -107 },
+        "nPinType": 7,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "퀸스로드",
+        "sSubTitle": "하늘나루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에레브",
+        "ArchiveRegionDesc": "하늘에 떠 있는 신비로운 섬이자, 여제 시그너스와 기사단의 본거지다. 오랜 옛날부터 신성한 기운으로 보호받아 온 이 섬은, 메이플 월드의 평화를 지키려는 빛의 기사들이 모여 맹세를 다지는 장소다. 섬 전체에 우아하고 고결한 분위기가 감돌며, 여제의 통치 아래 기사단이 평화를 위한 훈련에 매진하고 있다. \\r\\n\\r\\n이곳에서 태어난 모든 기사들은 어둠의 세력에 맞서 싸울 운명을 지녔다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_56.png"
+      }
+  ]
+}

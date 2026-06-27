@@ -1,0 +1,623 @@
+﻿{
+  "sBaseMapID": "WorldMap0102.img",
+  "sBaseMapName": "비밀의 숲 엘로딘",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap0102",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101080900",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "숲이 잠드는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -243, "y": -188 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "숲이 잠드는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101081000",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "숲이 침묵하는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501100", "m:3501101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -207, "y": -140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "숲이 침묵하는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101081100",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "지저귐이 잦아드는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501100", "m:3501101", "m:3501102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -223, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "지저귐이 잦아드는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101081200",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "빛이 사그러지는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501100", "m:3501102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -205, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "빛이 사그러지는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101081300",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊은 숲 공터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -159, "y": 10 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊은 숲 공터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101082000",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "루엔의 집",
+            "MapData_sMapSubName": "1층 거실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/LuensHouse",
+            "MapData_sLifeList": [ "n:1501000", "n:1501001", "n:1501003", "n:1501002", "n:1501005", "n:1501006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 166 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루엔의 집",
+        "sSubTitle": "1층 거실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101082100",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "루엔의 집",
+            "MapData_sMapSubName": "1층 복도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/LuensHouse",
+            "MapData_sLifeList": [ "m:3501103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -84, "y": 167 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루엔의 집",
+        "sSubTitle": "1층 복도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101082200",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "루엔의 집",
+            "MapData_sMapSubName": "2층 다락방 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/LuensHouse",
+            "MapData_sLifeList": [ "m:3501103", "m:3501104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -84, "y": 110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루엔의 집",
+        "sSubTitle": "2층 다락방 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101082300",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "루엔의 집",
+            "MapData_sMapSubName": "2층 다락방 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/LuensHouse",
+            "MapData_sLifeList": [ "m:3501104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -142, "y": 110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루엔의 집",
+        "sSubTitle": "2층 다락방 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101083000",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊어지는 숲 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -105, "y": -31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊어지는 숲 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101083100",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊어지는 숲 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501106", "m:3501105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": -76 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊어지는 숲 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101083200",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊어지는 숲 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 6, "y": -84 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊어지는 숲 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101083300",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊어지는 숲 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501107", "m:3501106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 61, "y": -52 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊어지는 숲 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101083400",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊어지는 숲 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 46, "y": 9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊어지는 숲 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101084000",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "빛이 흐르는 숲 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 46, "y": 59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "빛이 흐르는 숲 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101084100",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "빛이 흐르는 숲 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 110, "y": 68 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "빛이 흐르는 숲 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101084200",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "빛이 흐르는 숲 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501108", "m:3501109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 165, "y": 54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "빛이 흐르는 숲 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101084300",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "빛이 흐르는 숲 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "m:3501109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 209, "y": 27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "빛이 흐르는 숲 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "101084400",
+            "MapData_sMapIcon": "Elodin",
+            "MapData_sMapName": "엘로딘",
+            "MapData_sMapSubName": "깊은 숲 속 샘이 흐르는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm51/SecretElodin",
+            "MapData_sLifeList": [ "n:1501004", "n:1501007", "n:1501008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 237, "y": -13 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘로딘",
+        "sSubTitle": "깊은 숲 속 샘이 흐르는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘로딘",
+        "ArchiveRegionDesc": "엘리니아 남쪽의 고요한 숲. 거대한 나무로 이루어진 엘리니아에서도 가장 깊고 울창한 곳이다. 인파를 피해 들어온 실프 한 명만이 거주하고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_10.png"
+      }
+  ]
+}

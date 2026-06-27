@@ -1,0 +1,879 @@
+﻿{
+  "sBaseMapID": "WorldMap0828.img",
+  "sBaseMapName": "리버스 시티",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0828",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014010",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -252, "y": -127 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014020",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -212, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014030",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641052", "m:8641051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -164, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014040",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641052" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -117, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014050",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로 피난처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "n:3004602", "n:3004603", "n:3004604", "n:3004605", "n:3004606", "n:3004607", "n:3004608", "n:3004614", "n:9000123", "n:9000124", "n:9010106", "n:9010109", "n:9010022", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": -143 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로 피난처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014060",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641051", "n:3004609" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 7, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014070",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641052", "m:8641051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 55, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014080",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641052", "n:3004610" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 102, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014090",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "베어의 거처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "n:3004601", "n:3004611" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": -142 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "베어의 거처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014100",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "T-boy의 연구열차1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641053", "n:3004612" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 185, "y": -142 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "T-boy의 연구열차1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014110",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "T-boy의 연구열차2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641053", "m:8641054" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 228, "y": -119 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "T-boy의 연구열차2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014120",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "T-boy의 연구열차3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641054", "n:3004613" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 271, "y": -95 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "T-boy의 연구열차3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014130",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하선로 어딘가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 59, "y": -90 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하선로 어딘가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014140",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하열차1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641055", "n:3004615" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -11, "y": -90 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하열차1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014150",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하열차2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641055", "m:8641056" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -78, "y": -90 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하열차2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014160",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지하열차3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641056", "n:3004616" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -146, "y": -90 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지하열차3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014170",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지상열차1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641055", "n:3004617" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -145, "y": -14 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지상열차1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014180",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지상열차2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641056", "m:8641055" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -82, "y": -14 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지상열차2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014190",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "지상열차3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641056", "n:3004618" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -22, "y": -14 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "지상열차3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014200",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "M타워1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "n:3004619" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 43, "y": -12 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "M타워1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014210",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "M타워2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641057" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 43, "y": 28 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "M타워2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014220",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "M타워3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641057", "m:8641058" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 43, "y": 71 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "M타워3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014230",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "M타워4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641058" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 43, "y": 112 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "M타워4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014240",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "M타워 최상층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/T-bomb",
+            "MapData_sLifeList": [ "n:3004620" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 43, "y": 162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "M타워 최상층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014300",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "숨겨진 연구열차",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641066", "m:8641067" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 272, "y": -141 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "숨겨진 연구열차",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014310",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "숨겨진 지하열차",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity",
+            "MapData_sLifeList": [ "m:8641068", "m:8641069" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -146, "y": -131 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "숨겨진 지하열차",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450014320",
+            "MapData_sMapIcon": "Reverse_City",
+            "MapData_sMapName": "리버스 시티",
+            "MapData_sMapSubName": "숨겨진 M타워",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm54/ReverseCity2",
+            "MapData_sLifeList": [ "m:8641070", "m:8641071" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 85, "y": -13 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리버스 시티",
+        "sSubTitle": "숨겨진 M타워",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리버스 시티",
+        "ArchiveRegionDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      }
+  ]
+}

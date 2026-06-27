@@ -1,0 +1,1156 @@
+﻿{
+  "sBaseMapID": "WorldMap060.img",
+  "sBaseMapName": "무릉도원",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap060",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap061",
+        "pntOrigin": { "x": 58, "y": -8 },
+        "sToolTip": "황금사원",
+        "nPinType": 1,
+        "pntListMapUpData_PinPoint": { "x": -13, "y": 57 },
+        "sListMapUpData_Desc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. 다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데…",
+        "sListMapUpData_MainCity": "주요 마을\\n - 황금사원",
+        "bIsArchive": true,
+        "sArchiveName": "황금사원",
+        "sArchiveDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250000000",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "무릉",
+            "MapData_sDesc": "무릉도원의 안개 속에 숨겨진 마을. 신선이 되기 위해 수련하는 판다곰들이 살고 있다. 무릉사원에서 학을 타면 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:9000089", "n:9000086", "n:9000088", "n:9000087", "n:2090000", "n:2090001", "n:2090002", "n:2090006", "n:2090102", "n:2090103", "n:2090104", "n:9010009", "n:9010000", "n:9201023", "n:2090004", "n:9010010", "n:2091008", "n:9010022", "n:9071003", "n:2091010", "n:9000230", "n:9000123", "n:9000124", "n:9072100", "n:9000178", "n:9062010", "n:9000397", "n:9010106", "n:9062009", "n:9010109", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "250000001",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉",
+            "MapData_sMapSubName": "태상의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:2091002" ]
+          },
+
+          {
+            "MapData_sMapID": "250000002",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉",
+            "MapData_sMapSubName": "무릉잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:2090003" ]
+          },
+
+          {
+            "MapData_sMapID": "250000003",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉",
+            "MapData_sMapSubName": "무릉헤어샵",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:2090100", "n:2090101", "n:2121018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": -101 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "무릉",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010000",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "하늘 숲 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:4230500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 60, "y": -74 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "하늘 숲 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010100",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "하늘 숲 오솔길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:4230501" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 27, "y": -53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "하늘 숲 오솔길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010200",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "하늘 숲 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:4230502" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -13, "y": -54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "하늘 숲 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010300",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "꽃뱀의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:4230503" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": -68 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "꽃뱀의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010400",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "하늘 숲이 끝나는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:4230504" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -104, "y": -35 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "하늘 숲이 끝나는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010500",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "천도 과수원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130207", "m:5120505", "n:2091003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -150, "y": -25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "천도 과수원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010600",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "천도 과수원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130207", "m:5120505" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -194, "y": 9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "천도 과수원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010700",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "천도 과수원3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:5120505", "m:6130207" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -194, "y": 54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "천도 과수원3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250020000",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉사원",
+            "MapData_sMapSubName": "초급 수련장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "m:5120503", "n:9000068", "n:2096000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": -87 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉사원",
+        "sSubTitle": "초급 수련장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250020100",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉사원",
+            "MapData_sMapSubName": "하급 수련장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "m:5120503", "m:5120504" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 209, "y": -55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉사원",
+        "sSubTitle": "하급 수련장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250020200",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉사원",
+            "MapData_sMapSubName": "중급 수련장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "m:5120503", "m:5120504" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 207, "y": -21 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉사원",
+        "sSubTitle": "중급 수련장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250020300",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉사원",
+            "MapData_sMapSubName": "상급 수련장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "m:5120504" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 233, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉사원",
+        "sSubTitle": "상급 수련장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251000000",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "백초마을",
+            "MapData_sDesc": "무릉도원의 호수 위에 떠 있는 마을. 갖가지 약초를 수상재배하고 있다. 걷거나 택시를 타면 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "n:2090005", "n:2092000", "n:2093000", "n:2093001", "n:2093002", "n:9010000", "n:9010010", "n:2092001", "n:2093003", "n:9010022", "n:2092100", "n:9071003", "n:9000087", "n:9000086", "n:9000088", "n:9000089", "n:9072100", "n:9000124", "n:9000123", "n:9062009", "n:9010106", "n:9010109", "n:2159565", "n:2159577", "n:2159578", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 178, "y": 125 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "백초마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010000",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "10년 된 약초밭",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:4230505", "m:4230506" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 139, "y": 131 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "10년 된 약초밭",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010100",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "50년 된 약초밭",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:4230505", "m:4230506", "n:9000068" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 102, "y": 111 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "50년 된 약초밭",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010200",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "100년 된 약초밭",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:5120502", "m:5120501" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 19, "y": 136 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "100년 된 약초밭",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010300",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "도라지골",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:5120501", "m:5120502" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -46, "y": 147 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "도라지골",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010400",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "오래된 습지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:6130204", "m:6130208" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -82, "y": 116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "오래된 습지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010500",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "외딴 습지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "m:6130204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -131, "y": 108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "외딴 습지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010401",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "빨간코 해적단 소굴1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/Pirate",
+            "MapData_sLifeList": [ "m:6130204", "m:6130208" ]
+          },
+
+          {
+            "MapData_sMapID": "251010404",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "해적선 너머<입장맵>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/Pirate",
+            "MapData_sLifeList": [ "n:2094000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -147, "y": 179 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "빨간코 해적단 소굴1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010402",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "빨간코 해적단 소굴2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/Pirate",
+            "MapData_sLifeList": [ "m:6130208", "m:7130104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -177, "y": 171 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "빨간코 해적단 소굴2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251010403",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "빨간코 해적단 소굴3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/Pirate",
+            "MapData_sLifeList": [ "m:7130104", "m:6130208" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -202, "y": 155 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "빨간코 해적단 소굴3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010301",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "야생곰의 영토1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:5120500" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": -87 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "야생곰의 영토1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010302",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "야생곰의 영토2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:5120500", "m:6130203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -73, "y": -97 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "야생곰의 영토2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010303",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "야생곰의 영토3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -91, "y": -104 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "야생곰의 영토3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010501",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "안개 낀 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:5120505", "m:5120506" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -125, "y": -9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "안개 낀 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010502",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "선인의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130209", "m:5120506" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -98, "y": 10 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "선인의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010503",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "요괴의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130209", "n:3001644" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -107, "y": 40 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "요괴의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250000100",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉",
+            "MapData_sMapSubName": "무릉 사원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:2090005", "n:2091000", "n:2091001", "n:2091006", "n:9000067", "n:9072000", "n:2091009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": -101 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉",
+        "sSubTitle": "무릉 사원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251000100",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "백초마을",
+            "MapData_sMapSubName": "바다쪽 부둣가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "n:2060009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 212, "y": 87 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "백초마을",
+        "sSubTitle": "바다쪽 부둣가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "백초마을",
+        "ArchiveRegionDesc": "무릉도원의 호수 위에 떠 있는 마을. 갖가지 약초를 수상 재배하는 광활한 약초밭으로 둘러싸여 있다. 10년, 50년, 80년, 100년 된 약초밭이 계층적으로 구획되어 있으며,\\n마을 이름이 뜻하듯 다양한 약초의 천국이다.\\r\\n\\r\\n\\n약초 채집과 연구가 일상인 이곳은 약초학자들과 연금술사들이 모여드는 중심지이기도 하다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_46.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250010304",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉도원",
+            "MapData_sMapSubName": "떠돌이곰의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungForest",
+            "MapData_sLifeList": [ "m:6130203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -102, "y": -119 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉도원",
+        "sSubTitle": "떠돌이곰의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "250000100",
+            "MapData_sMapIcon": "Murueng",
+            "MapData_sMapName": "무릉",
+            "MapData_sMapSubName": "무릉 사원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/MureungHill",
+            "MapData_sLifeList": [ "n:2090005", "n:2091000", "n:2091001", "n:2091006", "n:9000067", "n:9072000", "n:2091009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": -101 },
+        "nPinType": 4,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "무릉",
+        "sSubTitle": "무릉 사원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "무릉",
+        "ArchiveRegionDesc": "오시리아 대륙의 동쪽, 높은 산맥과 구름 사이에 자리한 수련의 마을. 맑은 대나무숲과 하늘정원이 어우러진 이곳은 예로부터 무도와 도의 길을 닦는 이들이 모여든 수행의 중심지였다.\\r\\n\\r\\n이곳의 장로와 무도인들은 세상의 번뇌를 버리고 ‘마음의 평정’을 이루기 위한 수행을 이어가고 있다.\\n 도전을 원하는 모험가들은 무릉 도장에 올라 자신을 시험할 수 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_45.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "251000100",
+            "MapData_sMapIcon": "WhiteHerb",
+            "MapData_sMapName": "백초마을",
+            "MapData_sMapSubName": "바다쪽 부둣가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/WhiteHerb",
+            "MapData_sLifeList": [ "n:2060009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 212, "y": 87 },
+        "nPinType": 4,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "백초마을",
+        "sSubTitle": "바다쪽 부둣가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "백초마을",
+        "ArchiveRegionDesc": "무릉도원의 호수 위에 떠 있는 마을. 갖가지 약초를 수상 재배하는 광활한 약초밭으로 둘러싸여 있다. 10년, 50년, 80년, 100년 된 약초밭이 계층적으로 구획되어 있으며,\\n마을 이름이 뜻하듯 다양한 약초의 천국이다.\\r\\n\\r\\n\\n약초 채집과 연구가 일상인 이곳은 약초학자들과 연금술사들이 모여드는 중심지이기도 하다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_46.png"
+      }
+  ]
+}

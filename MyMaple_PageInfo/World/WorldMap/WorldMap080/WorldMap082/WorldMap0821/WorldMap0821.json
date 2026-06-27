@@ -1,0 +1,1199 @@
+﻿{
+  "sBaseMapID": "WorldMap0821.img",
+  "sBaseMapName": "소멸의 여로",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0821",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001000",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "이름 없는 마을",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "n:3003100", "n:3003101", "n:3003102", "n:3003103", "n:3003111", "n:3003122", "n:3003104", "n:3003131", "n:9000123", "n:9000124", "n:9010022", "n:9010109", "n:9010106", "n:9010010", "n:3003145", "n:9010000", "n:3003146", "n:9063313", "n:9010113", "n:9010112", "n:9063173", "n:9063870", "n:9070105", "n:9070104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -196, "y": -139 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "이름 없는 마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001003",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "소멸의 여로 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -259, "y": -173 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "소멸의 여로 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001005",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "호숫가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "n:3003110", "n:3003132", "n:3006900" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -148, "y": -99 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "호숫가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001007",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "망각의 호수",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -88, "y": -65 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "망각의 호수",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001010",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 기쁨의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -254, "y": -61 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 기쁨의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001011",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 기쁨과 분노의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641001", "m:8641000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -278, "y": -8 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 기쁨과 분노의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001012",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 분노의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -207, "y": -7 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 분노의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001013",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 분노와 슬픔의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641001", "m:8641002", "n:3003107" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -153, "y": 31 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 분노와 슬픔의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001014",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 슬픔의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -219, "y": 45 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 슬픔의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001015",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 슬픔과 즐거움의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641003", "m:8641002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -162, "y": 105 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 슬픔과 즐거움의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001016",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "풍화된 즐거움의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -248, "y": 70 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "풍화된 즐거움의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001100",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "신기루 절벽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "n:3003136", "n:3003125", "n:3003126", "n:3003134", "n:3003135" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 65, "y": -136 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "신기루 절벽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001105",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "호숫가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "n:3003123", "n:3003133" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -15, "y": -37 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "호숫가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001107",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "화염지대 절벽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 45, "y": -70 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "화염지대 절벽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001110",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "암석의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -172 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "암석의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001111",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "암석과 화염의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641005", "m:8641004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 66, "y": -194 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "암석과 화염의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001112",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "화염의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641005", "n:3003108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 160, "y": -181 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "화염의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001113",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "화염과 영혼의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641005", "m:8641006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 222, "y": -151 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "화염과 영혼의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001114",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "영혼의 영토",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 203, "y": -194 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "영혼의 영토",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001200",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "n:3003127" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": -4 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001210",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "세 갈래길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003114", "n:3003128" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 57, "y": 54 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "세 갈래길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001211",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 서쪽길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003117" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 12, "y": 105 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 서쪽길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001212",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 서쪽길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003118" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -19, "y": 158 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 서쪽길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001213",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 동쪽길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003119" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": 35 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 동쪽길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001214",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 동쪽길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003120" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 5 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 동쪽길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001215",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "세 갈래길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003115", "n:3003129" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 87, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "세 갈래길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001216",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴 아래쪽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003109" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 59, "y": 148 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴 아래쪽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001217",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴 위쪽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003121" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 140, "y": 71 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴 위쪽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001218",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 깊숙한 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641007", "n:3003116", "n:3003130" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 132, "y": 111 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 깊숙한 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001219",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "선택의 갈래길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "n:3003140" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 178, "y": 93 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "선택의 갈래길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001230",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "아르마의 은신처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 229, "y": 39 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "아르마의 은신처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001240",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "동굴의 끝",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": 135 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "동굴의 끝",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001250",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "물안개 폭포",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "n:3003143" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 236, "y": 162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "물안개 폭포",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001260",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "숨겨진 호숫가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": [ "m:8641013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -267, "y": 106 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "숨겨진 호숫가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001261",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "소멸의 화염지대",
+            "MapData_sMapSubName": "숨겨진 화염지대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Volcanic Zone Of Extinction",
+            "MapData_sLifeList": [ "m:8641014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 244, "y": -187 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "소멸의 화염지대",
+        "sSubTitle": "숨겨진 화염지대",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001262",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "안식의 동굴",
+            "MapData_sMapSubName": "숨겨진 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Cave Of Rest",
+            "MapData_sLifeList": [ "m:8641015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 283, "y": 53 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "안식의 동굴",
+        "sSubTitle": "숨겨진 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450001002",
+            "MapData_sMapIcon": "Road of Vanishing",
+            "MapData_sMapName": "망각의 호수",
+            "MapData_sMapSubName": "지하철역 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm46/Lake Of Oblivion",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -120, "y": -193 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "망각의 호수",
+        "sSubTitle": "지하철역 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "소멸의 여로",
+        "ArchiveRegionDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      }
+  ]
+}

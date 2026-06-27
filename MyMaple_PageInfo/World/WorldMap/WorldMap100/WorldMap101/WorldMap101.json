@@ -1,0 +1,623 @@
+﻿{
+  "sBaseMapID": "WorldMap101.img",
+  "sBaseMapName": "리에나 해협",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap100\\WorldMap101",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141000000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하관측본부",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510002", "n:1510005", "n:1511000", "n:1510000", "n:1510006", "n:1510007", "n:1511001", "n:1510009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -154, "y": 7 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하관측본부",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141010000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "제1관측소",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510001", "n:1510006", "n:1510007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -140, "y": -116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "제1관측소",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141010100",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "화석 출몰 지역 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502000", "n:1531053" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -185, "y": -140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "화석 출몰 지역 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141010200",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "화석 출몰 지역 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502000", "m:3502001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -209, "y": -184 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "화석 출몰 지역 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141010300",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "화석 출몰 지역 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502001", "n:1531054" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -256, "y": -186 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "화석 출몰 지역 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141020000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "제2관측소",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510003", "n:1510006", "n:1510007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -49, "y": 118 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "제2관측소",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141020100",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하 오염 지역 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502002", "n:1531044" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -48, "y": 148 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하 오염 지역 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141020200",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하 오염 지역 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502002", "m:3502003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -32, "y": 182 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하 오염 지역 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141020300",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하 오염 지역 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502003", "n:1531048" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 12, "y": 196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하 오염 지역 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141030000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "제3관측소",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510004", "n:1510007", "n:1510006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -6, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "제3관측소",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141030100",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "수상한 해저 동굴 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 13, "y": -107 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "수상한 해저 동굴 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141030200",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "수상한 해저 동굴 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502004", "m:3502005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 34, "y": -133 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "수상한 해저 동굴 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141030300",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "수상한 해저 동굴 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 65, "y": -152 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "수상한 해저 동굴 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141040000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "마녀 바바라의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510008", "n:1512000", "n:1512002", "n:1512004", "n:1512005", "n:1512003", "n:1512001", "n:1510006", "n:1510007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 166, "y": 96 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "마녀 바바라의 집",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141050000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하 파괴범의 소굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "n:1510006", "n:1510007", "n:1531051" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 152, "y": -55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하 파괴범의 소굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141050100",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하가 녹는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 183, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하가 녹는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141050200",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하가 부서지는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/GlacierAdventure",
+            "MapData_sLifeList": [ "m:3502007", "n:1531045" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": -105 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하가 부서지는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141050300",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "빙하 수송선",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm18/BlackWing",
+            "MapData_sLifeList": [ "m:3502008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": -134 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "빙하 수송선",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "141060000",
+            "MapData_sMapIcon": "glacierExplorer",
+            "MapData_sMapName": "리에나 해협",
+            "MapData_sMapSubName": "해양 한가운데",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/Sailing",
+            "MapData_sLifeList": [ "n:1513000", "n:1513001", "n:1513002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 8, "y": 31 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리에나 해협",
+        "sSubTitle": "해양 한가운데",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리에나 해협",
+        "ArchiveRegionDesc": "빅토리아 아일랜드 남부, 리엔 섬이 포함된 해협이다. \\r\\n\\r\\n매우 추운 지역이었으나 최근 수온이 상승하고 있어 관측 본부에서 이를 조사 중이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_23.png"
+      }
+  ]
+}

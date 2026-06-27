@@ -1,0 +1,155 @@
+﻿{
+  "sBaseMapID": "WorldMap082.img",
+  "sBaseMapName": "현재의 문",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082",
+
+  "sWorldArchiveMapName": "아케인리버",
+  "sWorldArchiveMapDesc": "세계를 구성하는 근원 에너지, '에르다'가 한데 모여 흐르는 거대한 강이다. 현실의 경계가 무너진 이곳은 에르다의 강줄기를 따라, 꿈의 도시와 신비의 숲, 기억의 늪을 지나 태초의 바다로 흘러 들어간다.\n\n이 불가사의한 강은 검은 마법사에게 향하는 마지막 관문이자, 그가 마련한 최후의 무대이다. 이제 운명에 맞서는 대적자만이 강을 거슬러 종착지에 도달하여, 메이플 월드의 명운을 건 마지막 결전을 시작한다.",
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap0821",
+        "pntOrigin": { "x": 314, "y": 229 },
+        "sToolTip": "소멸의 여로",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -210, "y": -131 },
+        "sListMapUpData_Desc": "아케인리버의 시작점에 위치한 지역. 모든 것이 색을 잃고 풍화되어 가고 있다. 이름조차 없는 마을 주변에는 거대한 망각의 호수가 존재하며, 그 때문인지 마을 사람들은 계속해서 기억을 잃어간다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 이름없는 마을",
+        "bIsArchive": true,
+        "sArchiveName": "소멸의 여로",
+        "sArchiveDesc": "에르다의 강줄기가 처음으로 모습을 드러내는 곳, 소멸의 여로는 모든 것이 사라지는 망각의 땅이다. \\r\\n\\r\\n강의 불안정한 에르다에 닿은 자는 즐거웠던 기억과 행복의 감정마저 모두 잃어버린 채, 이름 없는 망각의 존재로 변해간다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_0.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0822",
+        "pntOrigin": { "x": 286, "y": -20 },
+        "sToolTip": "츄츄 아일랜드",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -185, "y": 82 },
+        "sListMapUpData_Desc": "화창한 기후와 그에 걸맞은 다양한 식물들이 자라나는 풍요로운 땅. 츄츄 아일랜드의 중앙에 있는 츄츄 빌리지에는 유쾌한 주민들이 모여 살고 있다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 츄츄 빌리지",
+        "bIsArchive": true,
+        "sArchiveName": "츄츄 아일랜드",
+        "sArchiveDesc": "원색의 화려함으로 가득한 기묘한 낙원. 이곳의 에르다는 온갖 음식과 동물의 형상이 한데 뒤섞인 돌연변이 생명체들로, 기괴하면서도 생동감 넘치는 풍경을 자아낸다.\\r\\n\\r\\n포식자 괴수 '굴라'의 습격에서 마을을 지키는 거대한 바위 거인인 '무토'는  전의를 상실한 채, 다음 여정으로 향하는 길목을 가로막고 누워 있다. \\r\\n\\r\\n무토는 어째서 싸움을 거부하는 걸까?",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_2.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0823",
+        "pntOrigin": { "x": 220, "y": 112 },
+        "sToolTip": "꿈의 도시 레헬른",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -119, "y": -26 },
+        "sListMapUpData_Desc": "보랏빛 하늘에서 끊임없이 폭죽이 터진다. 영원히 끝나지 않는 축제의 밤. 가면을 쓴 주민들은 한껏 축제를 즐기며 끝없이 말하고, 먹고, 춤추고 있다. 과연 그들은 정말 행복할까?",
+        "sListMapUpData_MainCity": "주요 마을\\n - 레헬른 중심가",
+        "bIsArchive": true,
+        "sArchiveName": "레헬른",
+        "sArchiveDesc": "보랏빛 밤하늘 아래 영원히 멈추지 않는 불꽃놀이가 쏟아지는 도시. 이곳의 에르다는 화려한 축제와 끊이지 않는 무도회의 형상으로 구체화되어, 보는 이의 정신을 아득하게 만드는 달콤하고 치명적인 꿈의 도시를 구축했다.\\r\\n\\r\\n화려한 가면을 쓴 주민들은 영원히 계속되는 행복의 굴레 속에서 춤을 추지만, 그 이면에는 꿈에서 깨어나기를 거부당한 채 서서히 존재를 잃어가는 가혹한 악몽이 도사리고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_4.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0824",
+        "pntOrigin": { "x": 65, "y": 163 },
+        "sToolTip": "신비의 숲 아르카나",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 26, "y": -92 },
+        "sListMapUpData_Desc": "달빛이 깊숙이 스민 조용하고 신비로운 숲. 거대한 정령의 나무를 중심으로 다양한 정령들이 어울려 살아가고 있다. 정령마다 성격은 다르지만, 정령의 나무를 사랑하는 마음은 모두 같다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 정령의 나무가 있는 곳",
+        "bIsArchive": true,
+        "sArchiveName": "아르카나",
+        "sArchiveDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0825",
+        "pntOrigin": { "x": 82, "y": 11 },
+        "sToolTip": "기억의 늪 모라스",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 9, "y": 96 },
+        "sListMapUpData_Desc": "아케인리버의 하류, 정순한 에르다가 모여 형성된 해저의 늪이다. 타인의 기억을 모방하는 성질이 있는 늪의 산호숲은 누군가의 기억에 반응하여 크리티아스 왕국의 모습을 재현하고 있는데…",
+        "sListMapUpData_MainCity": "주요 마을\\n - 트뤼에페 광장",
+        "bIsArchive": true,
+        "sArchiveName": "모라스",
+        "sArchiveDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0826",
+        "pntOrigin": { "x": -68, "y": 66 },
+        "sToolTip": "태초의 바다 에스페라",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 182, "y": 19 },
+        "sListMapUpData_Desc": "아케인리버의 끝에서 만날 수 있는 거대한 공간. 무한한 수평선이 펼쳐진 태초의 바다 위에는 검은 달과 백색 태양이 떠 있다. 아름다운 모습이지만, 실은 지독한 위험을 암시하고 있는데…",
+        "sListMapUpData_MainCity": "주요 마을\\n - 베이스 캠프",
+        "bIsArchive": true,
+        "sArchiveName": "에스페라",
+        "sArchiveDesc": "에르다의 강줄기가 마침내 다다른 곳, 모든 생명의 시원이자 종착지인 태초의 바다 에스페라. 현실과 환상의 경계가 무너진 채 순백의 빛과 고요한 파도만이 넘실거리는 신비로운 공간이다. \\r\\n\\r\\n하지만 이 평화로운 수평선 아래에는 세계의 운명을 결정지을 잔혹한 의식이 기다리고 있는데....",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_7.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0827",
+        "pntOrigin": { "x": -86, "y": 214 },
+        "sToolTip": "테네브리스",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 183, "y": -134 },
+        "sListMapUpData_Desc": "검은 달과 백색 태양이 융합하며 만들어진 기이한 공간이다. 지독하게 짙은 안개가 겉을 감싸고, 그 안에는 끝없는 미궁이 이어진다. 미궁의 핵 안에는 막대한 양의 에르다가 고여 있다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 전초기지\\n - 화이트 스피어3 \\n - 고통의 미궁 최심부 거점\\n - 세계가 끝나는 곳 1-1",
+        "bIsArchive": false,
+        "sArchiveName": null,
+        "sArchiveDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sLinkMapID": "WorldMap0828",
+        "pntOrigin": { "x": 150, "y": 220 },
+        "sToolTip": "리버스 시티",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -84, "y": -177 },
+        "sListMapUpData_Desc": "중력이 뒤집어진 도시. 천장이 없는 곳에서는 하늘로 날아가 버리기 때문에, 주민들은 지하선로 내부에 터를 꾸려 살아가고 있다. 지상으로 나가면 광활한 도시의 마천루를 볼 수 있다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 지하선로 피난처",
+        "bIsArchive": true,
+        "sArchiveName": "리버스 시티",
+        "sArchiveDesc": "에르다의 강물 너머, 소멸의 여로 끝자락에 있는 거꾸로 뒤집힌 도시. 본래 다른 차원인 프렌즈 월드의 일부였으나, 거대한 소용돌이에 휩쓸려 아케인 리버로 흘러 들어왔다.\\r\\n\\r\\n뒤집힌 중력 탓에 도시의 마천루는 하늘을 향해 뻗어 있고, 사람들은 끝없는 추락을 피해 차가운 지하 선로에 몸을 숨긴 채 살아간다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_1.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap0829",
+        "pntOrigin": { "x": 295, "y": -121 },
+        "sToolTip": "얌얌 아일랜드",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -246, "y": 155 },
+        "sListMapUpData_Desc": "츄츄 아일랜드의 하늘 고래산 너머에 자리한 지역. 버섯이 무성한 숲에서 태어난 에르다스들이 마을을 이루고 살아가고 있다. 그런데 이상하게 주민들이 어딘가 낯이 익은데…?",
+        "sListMapUpData_MainCity": "주요 마을\\n - 얌얌 빌리지",
+        "bIsArchive": true,
+        "sArchiveName": "얌얌 아일랜드",
+        "sArchiveDesc": "츄츄 아일랜드의 화려한 원색 뒤에 숨겨진 그늘이자, 독특한 에르다들이 흘러드는 기묘한 실험실. \\r\\n\\r\\n이곳은 형체를 갖추지 못한 채 뒤섞인 생명과 사물의 파편들이 기괴하게 융합된 돌연변이들의 도피처이자, 미지의 관찰자가 남긴 뒤틀린 창조의 흔적이 가득한 곳이다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_3.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap082a",
+        "pntOrigin": { "x": -67, "y": -46 },
+        "sToolTip": "셀라스, 별이 잠긴 곳",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 163, "y": 99 },
+        "sListMapUpData_Desc": "에스페라의 바다 아래 펼쳐진 심해 구역. 수면 근처는 밝은 빛이 들어오지만 깊은 곳으로 갈수록 어둠만이 가득하다. 가장 깊은 심해의 풍경은 마치 우주를 연상시켜 공포심을 자극한다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 평화로운 잠수정",
+        "bIsArchive": true,
+        "sArchiveName": "셀라스",
+        "sArchiveDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      }
+  ],
+  "MapListDate": [
+
+  ]
+}

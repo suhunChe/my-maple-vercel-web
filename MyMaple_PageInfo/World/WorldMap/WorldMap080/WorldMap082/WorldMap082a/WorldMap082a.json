@@ -1,0 +1,815 @@
+﻿{
+  "sBaseMapID": "WorldMap082a.img",
+  "sBaseMapName": "셀라스, 별이 잠긴 곳",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap082a",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016000",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "평화로운 잠수정",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "n:3004804", "n:3004810", "n:9000123", "n:9000124", "n:9010106", "n:9010109", "n:9010022", "n:3004822", "n:3004823", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -73, "y": -194 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "평화로운 잠수정",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016010",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 16, "y": -178 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016020",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642100", "n:3004805", "n:3004811" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 68, "y": -178 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016030",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 119, "y": -178 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016040",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 171, "y": -178 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016050",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 223, "y": -178 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016060",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642101", "n:3004812", "n:3004817", "n:3004806" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 16, "y": -141 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016070",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -36, "y": -141 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016080",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -88, "y": -141 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016090",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "빛이 마지막으로 닿는 곳 9",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhereStarsRest",
+            "MapData_sLifeList": [ "m:8642102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -139, "y": -141 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "빛이 마지막으로 닿는 곳 9",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016100",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "고장난 잠수정",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "n:3004813", "n:3004807" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 28, "y": -69 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "고장난 잠수정",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016110",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -108, "y": -51 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016120",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642103", "n:3004814", "n:3004818" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -161, "y": -51 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016130",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -108, "y": -13 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016140",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642104", "n:3004815", "n:3004819" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -108, "y": 25 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016150",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": 25 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016160",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "끝없이 추락하는 심해 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/SinkingThings",
+            "MapData_sLifeList": [ "m:8642104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -108, "y": 63 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "끝없이 추락하는 심해 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016200",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "고요한 잠수정",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "n:3004808" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -225, "y": 92 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "고요한 잠수정",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016210",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -119, "y": 135 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016220",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -80, "y": 145 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016230",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -37, "y": 153 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016240",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 4, "y": 157 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016250",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 45, "y": 162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016260",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 심해 6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "m:8642106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 87, "y": 164 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 심해 6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450016270",
+            "MapData_sMapIcon": "Sellas",
+            "MapData_sMapName": "셀라스",
+            "MapData_sMapSubName": "별이 삼켜진 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm55/WhaleBelly",
+            "MapData_sLifeList": [ "n:3004816" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 133, "y": 157 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "셀라스",
+        "sSubTitle": "별이 삼켜진 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "셀라스",
+        "ArchiveRegionDesc": "태초의 바다 에스페라 수평선 아래, 빛조차 닿지 않는 심연에 있는 곳. 셀라스는 '별이 잠긴 곳'이라고도 불린다.\\r\\n \\r\\n이곳의 에르다는 깊은 바다의 압력과 어둠 속에서 성좌처럼 빛나며, 마치 우주를 유영하는 듯한 비현실적이고 고요한 풍경을 자아낸다. \\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_8.png"
+      }
+  ]
+}

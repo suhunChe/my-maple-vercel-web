@@ -1,0 +1,1324 @@
+﻿{
+  "sBaseMapID": "WorldMap110.img",
+  "sBaseMapName": "에델슈타인",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap110",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap111",
+        "pntOrigin": { "x": 217, "y": 237 },
+        "sToolTip": "기계무덤",
+        "nPinType": 2,
+        "pntListMapUpData_PinPoint": { "x": -89, "y": -157 },
+        "sListMapUpData_Desc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. 폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 헤이븐 ",
+        "bIsArchive": true,
+        "sArchiveName": "기계무덤",
+        "sArchiveDesc": "레벤 광산 너머에 위치한 황무지. 온갖 버려진 기계들이 산처럼 쌓여 있는 기계들의 무덤이다. \\r\\n\\r\\n폐기 명령을 받았지만 도망친 로봇들이 피난처에 모여 살고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_55.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310000000",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "블랙윙 점령지",
+            "MapData_sMapSubName": "에델슈타인",
+            "MapData_sDesc": "알려지지 않은 새로운 대륙이다. 검은 마법사를 부활시키려는 무리, 블랙윙에 의해 점령되어 있다. 임시공항에서 비행선을 이용하면 다른 지역으로 이동할 수 있다.",
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": [ "n:9000089", "n:9000088", "n:9000087", "n:9000086", "n:2152000", "n:2152001", "n:2152002", "n:2152003", "n:2152004", "n:2152005", "n:2152006", "n:2152007", "n:2152008", "n:2152009", "n:2152010", "n:2152011", "n:2152012", "n:2152013", "n:2152014", "n:2152015", "n:2152016", "n:2152017", "n:2152018", "n:9010010", "n:9010000", "n:9010009", "n:2150000", "n:2150001", "n:2150002", "n:2150004", "n:2150007", "n:2152019", "n:2150005", "n:2150006", "n:9000178", "n:9010022", "n:9071003", "n:9073003", "n:9000123", "n:9000124", "n:9072100", "n:9062009", "n:9000397", "n:9010109", "n:9010106", "n:9062010", "n:9000230", "n:2159560", "n:2159587", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "310000001",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "에델슈타인",
+            "MapData_sMapSubName": "에델슈타인 의회",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "310000003",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "에델슈타인",
+            "MapData_sMapSubName": "에델슈타인 헤어샵",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": [ "n:2150003", "n:2121018" ]
+          },
+
+          {
+            "MapData_sMapID": "310000004",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "에델슈타인",
+            "MapData_sMapSubName": "저택",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -223, "y": -77 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "블랙윙 점령지",
+        "sSubTitle": "에델슈타인",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310010000",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "비밀광장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "n:2151001", "n:2151002", "n:2151003", "n:2151008", "n:2151004", "n:2151009", "n:9075003", "n:2159396", "n:2151000", "n:3005501" ]
+          },
+
+          {
+            "MapData_sMapID": "310010010",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "트레이닝 룸 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "n:2151010", "n:2151007", "n:2151006", "n:2151005" ]
+          },
+
+          {
+            "MapData_sMapID": "310010100",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "트레이닝 룸 A",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "m:9300409" ]
+          },
+
+          {
+            "MapData_sMapID": "310010200",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "트레이닝 룸 B",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "m:9300410" ]
+          },
+
+          {
+            "MapData_sMapID": "310010300",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "트레이닝 룸 C",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "m:9300411" ]
+          },
+
+          {
+            "MapData_sMapID": "310010400",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "레지스탕스 본부",
+            "MapData_sMapSubName": "트레이닝 룸 D",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/UndergroundPlace",
+            "MapData_sLifeList": [ "m:9300412" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -258, "y": -9 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레지스탕스 본부",
+        "sSubTitle": "비밀광장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310020000",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 공원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:0150000", "n:2159434" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -238, "y": -112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 공원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310020100",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 공원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:0150001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -254, "y": -133 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 공원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310020200",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 공원3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:0150002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -282, "y": -140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 공원3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030000",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 산책로1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:1150000", "n:2159428" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -215, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 산책로1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030100",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 산책로2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:1150001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -192, "y": 5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 산책로2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030110",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "뱀 나오는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:1150002", "n:2159317", "n:2159318" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -210, "y": 26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "뱀 나오는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030200",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 산책로3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:2150000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -172, "y": 17 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 산책로3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030300",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "에델슈타인 산책로4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:2150001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -139, "y": 22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "에델슈타인 산책로4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310030310",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "콘크리트 로드",
+            "MapData_sMapSubName": "가로등길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/NationalPark",
+            "MapData_sLifeList": [ "m:2150002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -126, "y": 51 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "콘크리트 로드",
+        "sSubTitle": "가로등길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040000",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "광산 가는 길1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "m:2150003", "n:2153000", "n:2159421" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -44, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "광산 가는 길1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040100",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "광산 가는 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "m:3150000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 6, "y": -44 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "광산 가는 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040200",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "광산 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "n:2153003", "n:2153002", "n:2153005", "n:1541004", "n:1541086", "n:1541088", "n:1541087" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 2, "y": -78 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "광산 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040300",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "바위길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "m:3150001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -24, "y": -79 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "바위길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040400",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "광석길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "m:3150002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -40, "y": -90 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "광석길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310040110",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "드라이 로드",
+            "MapData_sMapSubName": "숨겨진 포탈",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/LowGradeOre",
+            "MapData_sLifeList": [ "n:2153001", "n:2153004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 33, "y": -50 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "드라이 로드",
+        "sSubTitle": "숨겨진 포탈",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050000",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "발전소 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "n:2154002", "n:2154004", "n:2154005", "n:2154016", "n:1541005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 46, "y": -140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "발전소 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050100",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "발전소 보안대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "n:2154003", "n:2154000", "n:2154001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 65, "y": -148 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "발전소 보안대",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050200",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도 입구1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:6150000", "n:2154006", "n:2159303" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 86, "y": -153 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도 입구1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050300",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도 입구2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:6150000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 107, "y": -146 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도 입구2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050400",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "제 1 광장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "n:2154008", "n:2154007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": -132 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "제 1 광장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050500",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:7150000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 167, "y": -82 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050510",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "너구리 소굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:7150003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 143, "y": -63 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "너구리 소굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050520",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "위험한 너구리 소굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:8105000", "n:2159304" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -56 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "위험한 너구리 소굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050600",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:7150001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 182, "y": -60 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050700",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:7150002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 195, "y": -34 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310050800",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "레벤 광산",
+            "MapData_sMapSubName": "갱도4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/PowerStation",
+            "MapData_sLifeList": [ "m:7150004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 204, "y": -8 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레벤 광산",
+        "sSubTitle": "갱도4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060000",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "제 2 광장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "n:2154009", "n:2154010", "n:2154011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 219, "y": 19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "제 2 광장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060100",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "안드로이드 연구소1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105003", "n:2154012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 186, "y": 50 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "안드로이드 연구소1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060110",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "안드로이드 연구소2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105003", "m:8105004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 154, "y": 71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "안드로이드 연구소2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060120",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "안드로이드 연구소3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105004", "n:2154013", "n:2154015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 119, "y": 86 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "안드로이드 연구소3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060200",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "방어 시스템 연구소1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 242, "y": 54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "방어 시스템 연구소1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060210",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "방어 시스템 연구소2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105001", "m:8105002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 243, "y": 82 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "방어 시스템 연구소2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060220",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "방어 시스템 연구소3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 255, "y": 109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "방어 시스템 연구소3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310060300",
+            "MapData_sMapIcon": "Leben",
+            "MapData_sMapName": "겔리메르 연구소",
+            "MapData_sMapSubName": "깊은 갱도",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm22/GelimerLab",
+            "MapData_sLifeList": [ "m:8105005", "n:2154014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 273, "y": 127 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "겔리메르 연구소",
+        "sSubTitle": "깊은 갱도",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "레벤광산",
+        "ArchiveRegionDesc": "에델슈타인 마을 외곽에 위치한, 거대한 규모의 광산이다. 검은 마법사의 수하인 블랙윙이 점거한 이 광산에서 그들은 \"루\"라는 광물을 채취하고 있으며, 그 광물의 에너지를 이용해 검은 마법사를 부활시키려는 계획을 가지고 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_54.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310000010",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "에델슈타인",
+            "MapData_sMapSubName": "에델슈타인 임시공항",
+            "MapData_sDesc": "에델슈타인을 떠나 다른 지역으로 갈 수 있다.",
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": [ "n:2150008", "n:9072000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -204, "y": -62 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에델슈타인",
+        "sSubTitle": "에델슈타인 임시공항",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "310000010",
+            "MapData_sMapIcon": "Edelstein",
+            "MapData_sMapName": "에델슈타인",
+            "MapData_sMapSubName": "에델슈타인 임시공항",
+            "MapData_sDesc": "에델슈타인을 떠나 다른 지역으로 갈 수 있다.",
+            "MapData_sMapBGM": "Bgm22/EdelsteinCity",
+            "MapData_sLifeList": [ "n:2150008", "n:9072000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -204, "y": -62 },
+        "nPinType": 7,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에델슈타인",
+        "sSubTitle": "에델슈타인 임시공항",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에델슈타인",
+        "ArchiveRegionDesc": "메이플 월드 북동쪽에 위치한 산업 도시. \\r\\n\\r\\n원래는 루 광석을 에너지원으로 발전한 풍요로운 도시였으나, 이를 노린 블랙윙의 침략으로 인해 자유를 빼앗기고 말았다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_53.png"
+      }
+  ]
+}

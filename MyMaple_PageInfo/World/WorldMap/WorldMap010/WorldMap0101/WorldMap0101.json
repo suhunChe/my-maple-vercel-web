@@ -1,0 +1,1177 @@
+﻿{
+  "sBaseMapID": "WorldMap0101.img",
+  "sBaseMapName": "커닝타워",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap0101",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041000",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "n:1052207", "n:1052247", "n:1052248", "n:1052249", "n:1052250", "n:1052251", "n:1052252", "n:1052253", "n:1052254" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": 68 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041100",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "지하 1층 전자 매장 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": 117 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "지하 1층 전자 매장 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041105",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "지하 1층 전자 매장 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 114, "y": 116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "지하 1층 전자 매장 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041001",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "혁이의 사무실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "n:1052203", "n:1052201", "n:1052213", "n:1052214", "n:1052215", "n:1052216", "n:1052206", "n:1052241" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 105, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "혁이의 사무실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041002",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "연습실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "n:1052212" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 157, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "연습실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041110",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "2층 카페 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310004", "m:4310006", "n:1052208", "n:1052242", "n:1052243", "n:1052244", "n:1052245", "n:1052246" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": 24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "2층 카페 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041115",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "2층 카페 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310005", "m:4310006", "m:4310004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": 24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "2층 카페 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041120",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310007", "n:1052209" ]
+          },
+
+          {
+            "MapData_sMapID": "910310515",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 52, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "3층 팬시샵 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041125",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310008", "m:4310007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "3층 팬시샵 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041130",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "4층 음반 매장 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310009", "n:1052211" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "4층 음반 매장 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041135",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "4층 음반 매장 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310010", "m:4310009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "4층 음반 매장 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041003",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "하늘정원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "n:1052210" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -12, "y": -58 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "하늘정원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041140",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "5층 화장품 매장 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310011", "n:1052218" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 51, "y": -115 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "5층 화장품 매장 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041145",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "5층 화장품 매장 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310012", "m:4310011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -114 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "5층 화장품 매장 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041150",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "6층 헤어샵 <1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310013", "n:1052219" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": -158 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "6층 헤어샵 <1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041155",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "6층 헤어샵 <2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310014", "m:4310013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "6층 헤어샵 <2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041004",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "펜트하우스",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "n:1052221", "n:1052222", "n:1052223", "n:1052224", "n:1052225", "n:1052226", "n:1052255" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -215, "y": -113 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "펜트하우스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041160",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝스퀘어",
+            "MapData_sMapSubName": "커닝스퀘어 로비",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/KerningSquare",
+            "MapData_sLifeList": [ "n:1052124", "n:1052122", "n:1052204", "n:1052205", "n:1052202" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 184, "y": 202 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝스퀘어",
+        "sSubTitle": "커닝스퀘어 로비",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041165",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝스퀘어",
+            "MapData_sMapSubName": "7층 8층 A구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/KerningSquareField",
+            "MapData_sLifeList": [ "m:4310000", "m:4310001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": 201 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝스퀘어",
+        "sSubTitle": "7층 8층 A구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041167",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝스퀘어",
+            "MapData_sMapSubName": "7층 8층 B구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/KerningSquareField",
+            "MapData_sLifeList": [ "m:4310000", "m:4310001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 255, "y": 201 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝스퀘어",
+        "sSubTitle": "7층 8층 B구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041107",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "지하 1층 전자 매장 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 181, "y": 116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "지하 1층 전자 매장 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041117",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "2층 카페 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310005", "m:4310006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": 23 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "2층 카페 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041127",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "3층 팬시샵 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041137",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "4층 음반 매장 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": -69 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "4층 음반 매장 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041147",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "5층 화장품 매장 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": -115 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "5층 화장품 매장 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041157",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "6층 헤어샵 <3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": -160 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "6층 헤어샵 <3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041119",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "2층 카페 <4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": 23 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "2층 카페 <4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041129",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": -22 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "3층 팬시샵 <4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041139",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "4층 음반 매장 <4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310019" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": -69 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "4층 음반 매장 <4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041149",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "5층 화장품 매장 <4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": -115 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "5층 화장품 매장 <4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041159",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "6층 헤어샵 <4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310021" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 177, "y": -160 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "6층 헤어샵 <4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041170",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "2층 카페 <5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310022" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": 23 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "2층 카페 <5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041171",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "3층 팬시샵 <5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": -22 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "3층 팬시샵 <5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041172",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "4층 음반 매장 <5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": -69 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "4층 음반 매장 <5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041173",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "5층 화장품 매장 <5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310025" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": -115 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "5층 화장품 매장 <5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "103041174",
+            "MapData_sMapIcon": "KerningTower",
+            "MapData_sMapName": "커닝타워",
+            "MapData_sMapSubName": "6층 헤어샵 <5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm21/LoversIntheAfternoon",
+            "MapData_sLifeList": [ "m:4310026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 214, "y": -160 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "커닝타워",
+        "sSubTitle": "6층 헤어샵 <5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "커닝타워",
+        "ArchiveRegionDesc": "커닝시티 외곽에 위치한 쇼핑몰이다. 과거에는 커닝스퀘어가 있었지만 재개발된 이후 고층 빌딩으로 바뀌었다. \\r\\n\\r\\n온갖 유행이 시작되는 활기찬 곳으로, 많은 슈퍼스타들이 탄생했다고 한다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_4.png"
+      }
+  ]
+}

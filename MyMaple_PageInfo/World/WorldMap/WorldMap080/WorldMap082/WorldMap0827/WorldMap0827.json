@@ -1,0 +1,88 @@
+﻿{
+  "sBaseMapID": "WorldMap0827.img",
+  "sBaseMapName": "테네브리스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0827",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap08271",
+        "pntOrigin": { "x": 320, "y": 229 },
+        "sToolTip": "문브릿지",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": -183, "y": -46 },
+        "sListMapUpData_Desc": "검은 태양으로 향하는 길목. 한 치 앞도 보이지 않는 짙은 안개로 가로막혀 있다. 불길한 구름 사이로는 번개가 치고, 검은 마법사에 의해 탄생한 생물들이 끊임없이 나타난다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 화이트 스피어1\\n - 화이트 스피어2\\n - 화이트 스피어3 ",
+        "bIsArchive": true,
+        "sArchiveName": "문브릿지",
+        "sArchiveDesc": "마침내 모습을 드러낸 검은 태양을 향한 마지막 진격이 시작되는 곳, 문브릿지다.\\r\\n\\r\\n이곳은 아케인 리버의 끝자락과 검은 마법사의 심장부를 잇는 거대한 경계이자, 메이플 연합의 함대 '화이트 스피어'가 모든 세계의 명운을 걸고 가로지르는 결전의 전장이다.\\r\\n\\r\\n한 치 앞도 내다볼 수 없는 짙은 안개와 몰아치는 뇌우 속에서, 대적자와 연합군은 보이지 않는 적들과 사투를 벌인다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_9.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap08272",
+        "pntOrigin": { "x": 110, "y": 235 },
+        "sToolTip": "고통의 미궁",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 12, "y": -20 },
+        "sListMapUpData_Desc": "검은 태양의 짙은 어둠 너머에 존재하는 거대한 미궁이다. 어둡고 사방이 꽉 막힌 미로를 헤메고 있다 보면 자신도 모르게 환각에 빠져들게 된다. 무한한 절망이 스스로를 잠식하기 전에 미궁을 탈출하자.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 추락 지점\\n - 고통의 미궁 중심부 거점\\n - 고통의 미궁 최심부 거점 ",
+        "bIsArchive": true,
+        "sArchiveName": "고통의 미궁",
+        "sArchiveDesc": "끝을 알 수 없는 어둠이 똬리를 틀고 있는 고통의 미궁.\\r\\n\\r\\n이곳의 에르다는 침전된 슬픔과 뿌리 깊은 공포를 양분 삼아, 들어오는 자의 기억을 뒤틀고 가장 아픈 상처를 끊임없이 헤집는 절망의 공간을 빚어낸다.\\r\\n\\r\\n수많은 연합의 병사들이 이 미로 속에서 자아를 잃고 쓰러지며, 군단장 힐라의 잔혹한 영혼 수확 아래 영원한 고통에 몸부림친다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_10.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap08273",
+        "pntOrigin": { "x": -13, "y": 235 },
+        "sToolTip": "리멘",
+        "nPinType": 29,
+        "pntListMapUpData_PinPoint": { "x": 143, "y": -105 },
+        "sListMapUpData_Desc": "세상의 모든 것이 에르다로 변하는 곳. 기이하게 생긴 절벽 위해서 막대한 양의 에르다가 폭포처럼 쏟아지고, 그 에르다가 새로이 뭉쳐 에르다스로 다시 태어난다. 그리고 그 끝에서 마침내 마주하는 것은…",
+        "sListMapUpData_MainCity": "주요 마을\\n - 세계가 끝나는 곳 1-1",
+        "bIsArchive": true,
+        "sArchiveName": "리멘",
+        "sArchiveDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450009050",
+            "MapData_sMapIcon": "aliance",
+            "MapData_sMapName": "메이플 연합",
+            "MapData_sMapSubName": "전초기지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/Outpost",
+            "MapData_sLifeList": [ "n:3003567", "n:3003568", "n:3003569", "n:3003570", "n:3003971", "n:3003973", "n:3003975", "n:3003974", "n:3003575", "n:3003576", "n:3003981", "n:3003983", "n:3003972" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": 169 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플 연합",
+        "sSubTitle": "전초기지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

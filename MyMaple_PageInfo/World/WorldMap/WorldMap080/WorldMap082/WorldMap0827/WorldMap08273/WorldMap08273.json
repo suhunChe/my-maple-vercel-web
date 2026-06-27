@@ -1,0 +1,911 @@
+﻿{
+  "sBaseMapID": "WorldMap08273.img",
+  "sBaseMapName": "리멘",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0827\\WorldMap08273",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012000",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -270, "y": 181 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012010",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "n:3003984", "n:3003985" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -129, "y": 128 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012020",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 하단1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -200, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 하단1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012030",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 하단2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645010", "m:8645012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -256, "y": 72 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 하단2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012040",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 하단3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -275, "y": 8 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 하단3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012100",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 중단1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645012", "n:3003986" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -132, "y": 8 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 중단1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012110",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 중단2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645012", "m:8645011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -85, "y": -47 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 중단2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012120",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 중단3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -77, "y": -106 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 중단3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012200",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "끝에 가까운 곳 앞",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/SubterminalPoint",
+            "MapData_sLifeList": [ "n:3003987" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -136 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "끝에 가까운 곳 앞",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012300",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "n:3003659", "n:9010022", "n:9000123", "n:9000124", "n:3003810", "n:3003811", "n:3003644", "n:3003645", "n:3003988", "n:3003991", "n:9010113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 65, "y": -3 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012310",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645040", "m:8645051", "n:3003659" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 105, "y": 18 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012320",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645051", "m:8645040" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": 57 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012330",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": -17 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012340",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645011", "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 256, "y": -43 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012350",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 293, "y": -27 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012500",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "거인의 심장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "n:3005426", "n:3003993" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": -92 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "거인의 심장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012400",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645040", "m:8645053", "m:8645057", "m:8645058", "n:3003660", "n:3003989", "m:8240075" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 157, "y": 162 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012410",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645053", "m:8645040", "n:3003990" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 139, "y": 200 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012420",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 208, "y": 204 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012430",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645022", "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 259, "y": 179 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012440",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645022" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 283, "y": 126 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012130",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계의 눈물 중단4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TearsOfTheWorld",
+            "MapData_sLifeList": [ "m:8645070" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -149, "y": -76 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계의 눈물 중단4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012360",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-9",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645071" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 276, "y": -83 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-9",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012450",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645072" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 238, "y": 135 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012460",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645022" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 270, "y": 79 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012470",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 2-7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645022" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": 66 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 2-7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012370",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-7",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 261, "y": 4 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-7",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450012380",
+            "MapData_sMapIcon": "Limen",
+            "MapData_sMapName": "리멘",
+            "MapData_sMapSubName": "세계가 끝나는 곳 1-8",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm50/TheWorld’sEnd",
+            "MapData_sLifeList": [ "m:8645023" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 288, "y": 31 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "리멘",
+        "sSubTitle": "세계가 끝나는 곳 1-8",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "리멘",
+        "ArchiveRegionDesc": "아케인 리버의 마지막 흐름이 잦아드는 곳, 모든 인과율의 마침표가 찍히는 최후의 성역이다.\\r\\n\\r\\n검은 마법사가 태초의 빛과 어둠을 집어삼키며 이상향을 꿈꾸는 이곳은, 차원이 무너지고 에르다가 소용돌이치는 세계의 종말과 시작이 교차하는 지점이다.\\r\\n\\r\\n연합의 함대 '화이트 스피어'와 대적자는 어둠을 뚫고 거인의 심장에서 메이플 월드의 명운을 건 마지막 결전을 향해 진격한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_11.png"
+      }
+  ]
+}

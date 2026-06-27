@@ -1,0 +1,525 @@
+﻿{
+  "sBaseMapID": "WorldMap061.img",
+  "sBaseMapName": "황금사원",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap060\\WorldMap061",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252000000",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "황금사원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleTownTH",
+            "MapData_sLifeList": [ "n:9000074", "n:9000081" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -151, "y": 14 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "황금사원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252010000",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수행자의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleFieldTH",
+            "MapData_sLifeList": [ "m:8144000", "n:9000072" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -77, "y": -44 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수행자의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252010100",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수행자의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleFieldTH",
+            "MapData_sLifeList": [ "m:8144001", "n:9000078" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -25, "y": -55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수행자의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252010200",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수행자의 숲3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleFieldTH",
+            "MapData_sLifeList": [ "m:8144002", "m:8144003", "n:9000076" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 37, "y": -77 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수행자의 숲3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252010300",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수행자의 숲4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleFieldTH",
+            "MapData_sLifeList": [ "m:8144003", "n:9000079", "m:8144002", "n:9000075" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": -86 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수행자의 숲4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020000",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "버려진 사원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "n:9000073", "n:9000099" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 81, "y": 53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "버려진 사원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020100",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수호자의 방1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 22, "y": 34 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수호자의 방1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020200",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수호자의 방2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 12, "y": 81 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수호자의 방2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020300",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "시련자의 방1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 97, "y": 10 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "시련자의 방1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020400",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "시련자의 방2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 139, "y": 33 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "시련자의 방2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020500",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수도자의 방1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": 112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수도자의 방1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020600",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "수도자의 방2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 149, "y": 75 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "수도자의 방2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252020700",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "고난자의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8144008", "n:9000098" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 111, "y": 104 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "고난자의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "252030000",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "라바나의 제단 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "n:9000080" ]
+          },
+
+          {
+            "MapData_sMapID": "252030001",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "라바나의 제단 통로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "252030100",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "황금사원",
+            "MapData_sMapSubName": "라바나의 황금 제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:8800200", "n:9000080" ]
+          },
+
+          {
+            "MapData_sMapID": "925120100",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "라바나의 황금제단",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleDungeonTH",
+            "MapData_sLifeList": [ "m:9100025", "n:9000080" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 130, "y": 148 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황금사원",
+        "sSubTitle": "라바나의 제단 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "925120000",
+            "MapData_sMapIcon": "GoldTempleTH",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "흰털 대장원숭이의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "BgmTH/goldTempleFieldTH",
+            "MapData_sLifeList": [ "m:9100024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 154, "y": -98 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "히든스트리트",
+        "sSubTitle": "흰털 대장원숭이의 터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "황금사원",
+        "ArchiveRegionDesc": "승려들이 모여 수행하던 사원. 다채로운 색상의 기와와 황금으로 장식되어 휘황찬란한 모습을 하고 있다. 덕분에 관광 명소로도 유명하다. \\r\\n\\r\\n다만 깊은 숲속 버려진 사원에는 무언가 비밀이 있다는데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_47.png"
+      }
+  ]
+}

@@ -1,0 +1,697 @@
+﻿{
+  "sBaseMapID": "WorldMap0121.img",
+  "sBaseMapName": "타락한 세계수",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap010\\WorldMap012\\WorldMap0121",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300000",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "버려진 야영지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Pain And Sorrow",
+            "MapData_sLifeList": [ "n:1540893", "n:1540894", "n:1540895", "n:9010022", "n:9010000", "n:9062009", "n:9000124", "n:9000123", "n:9062010", "n:2010011", "n:9010010", "n:1540941", "n:9010106", "n:9010109", "n:9000397", "n:1540936", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 165 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "버려진 야영지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300100",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "하단 줄기로 향하는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503000", "m:3503001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 107 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "하단 줄기로 향하는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300101",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "하단 왼쪽 줄기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -51, "y": 74 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "하단 왼쪽 줄기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300102",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "하단 줄기 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503000", "m:3503001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 74 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "하단 줄기 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300103",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "하단 오른쪽 줄기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 63, "y": 72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "하단 오른쪽 줄기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300200",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 왼쪽 줄기3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503003", "m:3503002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 28 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 왼쪽 줄기3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300201",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 왼쪽 줄기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503002", "m:3503003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -124, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 왼쪽 줄기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300202",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 왼쪽 줄기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503003", "m:3503002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -55, "y": 28 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 왼쪽 줄기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300203",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 줄기 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503002", "m:3503003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 줄기 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300204",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 오른쪽 줄기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503003", "m:3503002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 63, "y": 26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 오른쪽 줄기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300205",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 오른쪽 줄기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503002", "m:3503003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 128, "y": 27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 오른쪽 줄기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300206",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중하단 오른쪽 줄기3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503003", "m:3503002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 191, "y": 27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중하단 오른쪽 줄기3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300207",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중상단 왼쪽 줄기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503005", "m:3503004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -123, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중상단 왼쪽 줄기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300208",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중상단 왼쪽 줄기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503004", "m:3503005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -56, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중상단 왼쪽 줄기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300209",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "상단 줄기로 향하는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503004", "m:3503005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "상단 줄기로 향하는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300210",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중상단 오른쪽 줄기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503004", "m:3503005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중상단 오른쪽 줄기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300211",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "중상단 오른쪽 줄기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503005", "m:3503004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": -17 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "중상단 오른쪽 줄기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300300",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "상단 왼쪽 줄기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503009", "m:3503008", "m:3503006", "m:3503007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": -59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "상단 왼쪽 줄기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300301",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "상단 줄기 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503008", "m:3503009", "m:3503007", "m:3503006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": -59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "상단 줄기 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300302",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "상단 오른쪽 줄기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": [ "m:3503008", "m:3503009", "m:3503006", "m:3503007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": -59 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "상단 오른쪽 줄기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "105300303",
+            "MapData_sMapIcon": "fallenWorldTree",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "세계수 정상으로 가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Climbing Up The WorldTree",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "350160140",
+            "MapData_sMapIcon": "None",
+            "MapData_sMapName": "타락한 세계수",
+            "MapData_sMapSubName": "세계수 정상",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm45/Demian True",
+            "MapData_sLifeList": [ "n:9091011", "m:8880100", "m:9305713" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": -112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "타락한 세계수",
+        "sSubTitle": "세계수 정상으로 가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "타락한 세계수",
+        "ArchiveRegionDesc": "빅토리아 아일랜드의 중심에 솟아난 거대한 나무이다. 어둠에 오염된 힘으로 탄생하여 나뭇잎은 전부 마르고 나뭇가지들도 기괴하게 변형되어 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_19.png"
+      }
+  ]
+}

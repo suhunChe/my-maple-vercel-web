@@ -1,0 +1,1071 @@
+﻿{
+  "sBaseMapID": "WorldMap0824.img",
+  "sBaseMapName": "신비의 숲 아르카나",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0824",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005000",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "정령의 나무가 있는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:9010022", "n:9000124", "n:9000123", "n:3003331", "n:3003332", "n:3003306", "n:3003320", "n:3003322", "n:3003323", "n:3003324", "n:9010109", "n:9010106", "n:3003381", "n:3003146", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 13 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "정령의 나무가 있는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005010",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "숲의 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3006903" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -268, "y": -63 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "숲의 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005015",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "정령의 나무가 보이는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3003301", "n:3003302" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -220, "y": -42 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "정령의 나무가 보이는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005100",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "풀잎 피리의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3003305", "n:3003303", "n:3003304", "n:3003326", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -201, "y": 32 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "풀잎 피리의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005110",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "물의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644000", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -165, "y": 25 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "물의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005120",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "햇살의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644001", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -135, "y": 10 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "햇살의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005121",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "물과 햇살의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644001", "m:8644000", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -122, "y": 46 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "물과 햇살의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005130",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "흙의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644002", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -97, "y": 1 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "흙의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005131",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "햇살과 흙의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644002", "m:8644001", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -86, "y": 34 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "햇살과 흙의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005200",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "깊은 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3003307", "n:3003308", "n:3003309", "n:3003337", "n:3003338" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 90, "y": -18 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "깊은 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005210",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "서리구름의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644003", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 109, "y": -59 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "서리구름의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005220",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "번개구름의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644004", "n:3003329", "n:3003311" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": -95 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "번개구름의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005221",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "서리와 번개의 숲 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644004", "m:8644003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 168, "y": -163 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "서리와 번개의 숲 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005222",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "서리와 번개의 숲 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644004", "m:8644003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": -154 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "서리와 번개의 숲 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005230",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "맹독의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644005", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 203, "y": -76 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "맹독의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005240",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "폭발의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 203, "y": -34 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "폭발의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005241",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "맹독과 폭발의 숲 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644005", "m:8644006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 262, "y": -66 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "맹독과 폭발의 숲 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005242",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "맹독과 폭발의 숲 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644005", "m:8644006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 276, "y": -15 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "맹독과 폭발의 숲 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005300",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "실로폰 연못",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3003312", "n:3003336" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": 26 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "실로폰 연못",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005400",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "네 갈래 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "n:3003314", "n:3003313", "n:3003315", "n:3003422" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 10, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "네 갈래 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005410",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 윗길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644007", "n:3003337", "n:3003316" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -181, "y": 109 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 윗길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005411",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 윗길 깊은 곳 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644007", "m:8644008", "n:3003317", "n:3003337" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -259, "y": 148 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 윗길 깊은 곳 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005412",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 윗길 깊은 곳 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644008", "n:3003318" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -202, "y": 165 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 윗길 깊은 곳 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005420",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 윗길 깊디 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644008", "m:8644009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -164, "y": 192 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 윗길 깊디 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005430",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 아랫길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644007", "n:3003337", "n:3003319" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 146, "y": 119 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 아랫길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005431",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 아랫길 깊은 곳 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644007", "m:8644009", "n:3003333" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 228, "y": 134 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 아랫길 깊은 곳 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005432",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 아랫길 깊은 곳 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644009", "n:3003337", "n:3003335", "n:3003334" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 153, "y": 176 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 아랫길 깊은 곳 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005440",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "동굴 아랫길 깊디 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/TheTuneOfAzureLight",
+            "MapData_sLifeList": [ "m:8644008", "m:8644009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 244, "y": 186 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "동굴 아랫길 깊디 깊은 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005500",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "다섯 갈래 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/ArcanaBoss",
+            "MapData_sLifeList": [ "m:8644009", "m:8644008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -23, "y": 151 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "다섯 갈래 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005510",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "다섯 갈래 동굴 윗길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/ArcanaBoss",
+            "MapData_sLifeList": [ "m:8644009", "m:8644010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -63, "y": 192 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "다섯 갈래 동굴 윗길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005520",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "다섯 갈래 동굴 사잇길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/ArcanaBoss",
+            "MapData_sLifeList": [ "m:8644009", "m:8644010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 11, "y": 202 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "다섯 갈래 동굴 사잇길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005530",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "다섯 갈래 동굴 아랫길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/ArcanaBoss",
+            "MapData_sLifeList": [ "m:8644010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 66, "y": 148 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "다섯 갈래 동굴 아랫길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450005550",
+            "MapData_sMapIcon": "Arcana",
+            "MapData_sMapName": "아르카나",
+            "MapData_sMapSubName": "정령의 나무 밑 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/ArcanaBoss",
+            "MapData_sLifeList": [ "m:8644010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 59, "y": 181 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아르카나",
+        "sSubTitle": "정령의 나무 밑 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아르카나",
+        "ArchiveRegionDesc": "달빛이 깊숙이 스민 고요하고 신비로운 정령들의 보금자리. 이곳의 에르다는 맑은 물과 바람, 그리고 노래하는 꽃과 나무의 형상을 띤 정령들로 구체화되어, 아케인 리버 내에서 가장 순수하고 아름다운 생태계를 유지하고 있었다.\\r\\n\\r\\n그러나 평화롭던 숲은 정체불명의 사악한 기운이 휩쓸고 지나간 뒤, 숲의 생명을 지탱하던 '정령의 나무'가 시들고 조화로운 노래가 침묵에 빠지며 위기에 처한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_5.png"
+      }
+  ]
+}

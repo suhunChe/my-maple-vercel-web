@@ -1,0 +1,565 @@
+﻿{
+  "sBaseMapID": "WorldMap032.img",
+  "sBaseMapName": "엘린숲",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030\\WorldMap032",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300000000",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "알테어 캠프",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "n:2131003", "n:2131001", "n:2130000", "n:2131007", "n:2131006" ]
+          },
+
+          {
+            "MapData_sMapID": "300000010",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "알테어 캠프",
+            "MapData_sMapSubName": "캠프 회의장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "n:2131000", "n:2131008" ]
+          },
+
+          {
+            "MapData_sMapID": "300000011",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "캠프 회의장",
+            "MapData_sMapSubName": "도서관",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "300000012",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "캠프 회의장",
+            "MapData_sMapSubName": "지하실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "300000001",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "알테어 캠프",
+            "MapData_sMapSubName": "천막집1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "300000002",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "알테어 캠프",
+            "MapData_sMapSubName": "천막집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "n:2131004", "n:2131005", "n:2131016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -9, "y": 11 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "알테어 캠프",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010000",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "이끼나무숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "m:4250001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -128, "y": 68 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "이끼나무숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010200",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "황폐한 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinCave",
+            "MapData_sLifeList": [ "m:5250001", "n:2132001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -230, "y": 101 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "황폐한 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010400",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "바위산 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "m:5250002", "n:2131009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -185, "y": -11 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "바위산 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010410",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "바위산 동굴",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinCave",
+            "MapData_sLifeList": [ "m:5250003", "n:2133005" ]
+          },
+
+          {
+            "MapData_sMapID": "300010420",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "동굴 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/DeepCave",
+            "MapData_sLifeList": [ "m:5250004", "n:2133005" ]
+          },
+
+          {
+            "MapData_sMapID": "300020000",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "동굴 깊은 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinCave",
+            "MapData_sLifeList": [ "m:5250003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -220, "y": -94 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "바위산 동굴",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010300",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "동굴 너머",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinCave",
+            "MapData_sLifeList": [ "n:2131010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -203, "y": -186 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "동굴 너머",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300020200",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "버섯언덕 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "m:4250000", "n:2131012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -60, "y": 123 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "버섯언덕 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300020210",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "버섯언덕 중턱",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "m:5250000", "n:2131013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 9, "y": 164 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "버섯언덕 중턱",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300010100",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "캠프 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "n:2131002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 106, "y": -42 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "캠프 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300000100",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "작은 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/ElinForest",
+            "MapData_sLifeList": [ "n:2023000", "n:2131011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 124, "y": -89 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "작은 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300030200",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "페어리의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/PoisonForest",
+            "MapData_sLifeList": [ "m:5250005", "m:5250006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 106, "y": 38 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "페어리의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300030300",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "페어리의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/PoisonForest",
+            "MapData_sLifeList": [ "m:5250006", "n:2133005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 121, "y": 109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "페어리의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300030310",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "여왕의 은신처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/QueensHideout",
+            "MapData_sLifeList": [ "m:5250007", "n:2133005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 196, "y": 142 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "여왕의 은신처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300030010",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "깊은 요정의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/PoisonForest",
+            "MapData_sLifeList": [ "n:2133000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 170, "y": -12 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "깊은 요정의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "300030000",
+            "MapData_sMapIcon": "EilnForest",
+            "MapData_sMapName": "엘린숲",
+            "MapData_sMapSubName": "봉인된 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm15/PoisonForest",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 201, "y": -81 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘린숲",
+        "sSubTitle": "봉인된 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘린 숲",
+        "ArchiveRegionDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      }
+  ]
+}

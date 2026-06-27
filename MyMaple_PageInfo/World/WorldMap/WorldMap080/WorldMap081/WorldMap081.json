@@ -1,0 +1,1999 @@
+﻿{
+  "sBaseMapID": "WorldMap081.img",
+  "sBaseMapName": "미래의 문",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap081",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271000000",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "미래의 문",
+            "MapData_sMapSubName": "미래의 문",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/timeGate",
+            "MapData_sLifeList": [ "n:2143003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -212, "y": -74 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "미래의 문",
+        "sSubTitle": "미래의 문",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271000100",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "다크에레브",
+            "MapData_sMapSubName": "변형된 티노의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8600004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -217, "y": 26 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "다크에레브",
+        "sSubTitle": "변형된 티노의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271000200",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "다크에레브",
+            "MapData_sMapSubName": "변형된 티루의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8600005", "n:2142008", "n:2142012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -192, "y": 54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "다크에레브",
+        "sSubTitle": "변형된 티루의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271000210",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "다크에레브",
+            "MapData_sMapSubName": "변형된 티구르의 숲",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8600006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -210, "y": 75 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "다크에레브",
+        "sSubTitle": "변형된 티구르의 숲",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271000300",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "다크에레브",
+            "MapData_sMapSubName": "에레브 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -161, "y": 62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "다크에레브",
+        "sSubTitle": "에레브 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271020100",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 버섯노래숲",
+            "MapData_sMapSubName": "음산한 콧노래 오솔길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600001", "n:2142009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -151, "y": 35 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 버섯노래숲",
+        "sSubTitle": "음산한 콧노래 오솔길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271020000",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 버섯노래숲",
+            "MapData_sMapSubName": "어두운 포자언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -125, "y": 2 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 버섯노래숲",
+        "sSubTitle": "어두운 포자언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010000",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 헤네시스",
+            "MapData_sMapSubName": "파괴된 헤네시스",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "n:2142001", "n:2142002", "n:2142007", "n:2142000", "n:2142004", "n:2142005", "n:2142006", "n:2142003", "n:2143003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -64, "y": -21 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 헤네시스",
+        "sSubTitle": "파괴된 헤네시스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010200",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 헤네시스",
+            "MapData_sMapSubName": "파괴된 헤네시스공원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -32, "y": -67 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 헤네시스",
+        "sSubTitle": "파괴된 헤네시스공원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010100",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 헤네시스",
+            "MapData_sMapSubName": "파괴된 헤네시스 시장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -94, "y": -72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 헤네시스",
+        "sSubTitle": "파괴된 헤네시스 시장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010300",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 니은숲",
+            "MapData_sMapSubName": "파괴된 헤네시스 북쪽언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 10, "y": -17 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 니은숲",
+        "sSubTitle": "파괴된 헤네시스 북쪽언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010400",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 니은숲",
+            "MapData_sMapSubName": "꿈꾸는 오솔길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 27, "y": -24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 니은숲",
+        "sSubTitle": "꿈꾸는 오솔길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010301",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 니은숲",
+            "MapData_sMapSubName": "수상한 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": [ "m:8600002", "m:8600003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 24, "y": -5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 니은숲",
+        "sSubTitle": "수상한 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271010500",
+            "MapData_sMapIcon": "destructionTown",
+            "MapData_sMapName": "파괴된 니은숲",
+            "MapData_sMapSubName": "파괴된 여섯갈래길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionTown",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 46, "y": -52 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "파괴된 니은숲",
+        "sSubTitle": "파괴된 여섯갈래길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030000",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "요새 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -104, "y": 85 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "요새 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030100",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사단 제 1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610006", "m:8610005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -76, "y": 109 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사단 제 1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030101",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "제 1연무장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8620013", "m:8620014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -59, "y": 93 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "제 1연무장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030102",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "제 2연무장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8620014", "m:8620013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -27, "y": 106 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "제 2연무장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030200",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사단 제 2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610007", "n:2143000", "n:2143003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -66, "y": 144 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사단 제 2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030201",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "정령의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610000" ]
+          },
+
+          {
+            "MapData_sMapID": "271030202",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "정령의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610001" ]
+          },
+
+          {
+            "MapData_sMapID": "271030203",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "정령의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610002" ]
+          },
+
+          {
+            "MapData_sMapID": "271030204",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "정령의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610003" ]
+          },
+
+          {
+            "MapData_sMapID": "271030205",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "정령의 터",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -102, "y": 156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "정령의 터",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030300",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사단 제 3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -53, "y": 167 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사단 제 3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030310",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "무기고1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8620015", "m:8620016" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -26, "y": 146 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "무기고1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030320",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "무기고2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8620016", "m:8620017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 160 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "무기고2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030400",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사단 제 4구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -24, "y": 196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사단 제 4구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030410",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "비밀정원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "n:2143001" ]
+          },
+
+          {
+            "MapData_sMapID": "271030411",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030412",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030413",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030414",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030415",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030416",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030417",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030418",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271030419",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": null,
+            "MapData_sMapSubName": null,
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -54, "y": 216 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "비밀정원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030500",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사의 전당1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 20, "y": 204 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사의 전당1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030510",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사의 전당2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 56, "y": 191 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사의 전당2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030520",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사의 전당3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 76, "y": 169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사의 전당3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030530",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사의 전당4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": 140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사의 전당4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030540",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "기사의 전당5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 105, "y": 116 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "기사의 전당5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271030600",
+            "MapData_sMapIcon": "darkEreb",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "명예의 전당",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "m:8610014", "m:8610013", "m:8610012", "m:8610011", "m:8610010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 118, "y": 94 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "명예의 전당",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271040000",
+            "MapData_sMapIcon": "Signus",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "시그너스의 정원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": [ "n:2143004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 142, "y": 68 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "시그너스의 정원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "271040100",
+            "MapData_sMapIcon": "Signus",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "시그너스의 전당",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/CygnusGarden",
+            "MapData_sLifeList": [ "n:9091008" ]
+          },
+
+          {
+            "MapData_sMapID": "271040300",
+            "MapData_sMapIcon": "Signus",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "볼품없는 정원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271040200",
+            "MapData_sMapIcon": "Signus",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "시그너스의 후원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "271040210",
+            "MapData_sMapIcon": "Signus",
+            "MapData_sMapName": "기사단 요새",
+            "MapData_sMapSubName": "시그너스의 후원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/knightsStronghold",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 174, "y": 22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "기사단 요새",
+        "sSubTitle": "시그너스의 전당",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273000000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "황혼의 페리온",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerionShelter",
+            "MapData_sLifeList": [ "n:2142100", "n:2142105", "n:2142103", "n:2142101", "n:2142102", "n:2142107", "n:2142106", "n:2142112", "n:2142104", "n:2142113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -13, "y": -142 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "황혼의 페리온",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273010000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "인적이 끊긴 남쪽령",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 33, "y": -108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "인적이 끊긴 남쪽령",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "황량한 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -53, "y": -183 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "황량한 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273030000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "뜨거운 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -78, "y": -154 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "뜨거운 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273030100",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "타오르는 바위 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620003", "m:8620004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -135, "y": -140 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "타오르는 바위 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273030200",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "고열의 땅",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620004", "m:8620005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -158, "y": -158 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "고열의 땅",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273030300",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "잿바람의 고원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -202, "y": -180 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "잿바람의 고원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020100",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "적막한 바위길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620000", "m:8620001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -20, "y": -197 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "적막한 바위길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020200",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "쓸쓸한 바위길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620001", "m:8620000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 18, "y": -194 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "쓸쓸한 바위길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020300",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "풍화된 바위지대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620001", "m:8620002", "m:8620000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 46, "y": -172 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "풍화된 바위지대",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020400",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "칼바람의 묘지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 73, "y": -196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "칼바람의 묘지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273040000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "버려진 발굴지역 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 74, "y": -147 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "버려진 발굴지역 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273040100",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "버려진 발굴지역 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 110, "y": -143 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "버려진 발굴지역 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273040200",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "버려진 발굴지역 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620008", "m:8620007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": -151 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "버려진 발굴지역 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273040300",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "버려진 발굴지역 4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 184, "y": -164 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "버려진 발굴지역 4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273050000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "원주민들의 피난처",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerionShelter",
+            "MapData_sLifeList": [ "n:2142108", "n:2142109", "n:2142110", "n:2142112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 78, "y": -108 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "원주민들의 피난처",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060000",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "원혼의 땅 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620009", "n:2142111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 72, "y": -90 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "원혼의 땅 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060100",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "거친 황야",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620009", "m:8620010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 96, "y": -76 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "거친 황야",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060200",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "거친 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620010", "m:8620011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 130, "y": -83 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "거친 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060300",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "전사들의 결전지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620011" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 155, "y": -96 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "전사들의 결전지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020500",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "적막한 북쪽 바위길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620028" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -74, "y": -204 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "적막한 북쪽 바위길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273020600",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "먼지바람 협곡",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620029" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -104, "y": -214 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "먼지바람 협곡",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060400",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "발굴 중단지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620030" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 195, "y": -135 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "발굴 중단지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "273060500",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "황혼의 페리온",
+            "MapData_sMapSubName": "폐쇄지역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm25/destructionPerion",
+            "MapData_sLifeList": [ "m:8620031" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 173, "y": -118 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "황혼의 페리온",
+        "sSubTitle": "폐쇄지역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "미래의 문",
+        "ArchiveRegionDesc": "원래는 굳건히 닫혀 있어야 할 문이 열리고 말았다. 그리 머지않은 미래의 메이플 월드, 헤네시스는 황폐해졌고 사람들은 전쟁에 지친 모습이다. \\r\\n\\r\\n대체 어떤 일이 있던 걸까.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_52.png"
+      }
+  ]
+}

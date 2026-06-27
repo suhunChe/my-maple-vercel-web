@@ -1,0 +1,875 @@
+﻿{
+  "sBaseMapID": "WorldMap035.img",
+  "sBaseMapName": "지구방위본부",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030\\WorldMap035",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221000000",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "지구방위본부",
+            "MapData_sDesc": "외계인의 침공으로부터 메이플 월드를 지키는 특수 본부. 에오스 탑을 통해 루디브리엄과 연결되어 있다.",
+            "MapData_sMapBGM": "Bgm08/LetsMarch",
+            "MapData_sLifeList": [ "n:2050011", "n:9010009", "n:9000088", "n:9000086", "n:9071003", "n:2010011", "n:9000070", "n:9010022", "n:9072100", "n:2052047", "n:9000397", "n:9000123", "n:9000124", "n:9010113" ]
+          },
+
+          {
+            "MapData_sMapID": "221000001",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "지구방위본부",
+            "MapData_sMapSubName": "통로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsMarch",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "221000100",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "지구방위본부",
+            "MapData_sMapSubName": "본부",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsMarch",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "221000200",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "지구방위본부",
+            "MapData_sMapSubName": "격납고",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/ForTheGlory",
+            "MapData_sLifeList": [ "n:2051000", "n:2050004", "n:2050003", "n:2050000", "n:2051001", "n:2052050", "n:2052051", "n:2052055", "n:2052053", "n:2052052", "n:2052054" ]
+          },
+
+          {
+            "MapData_sMapID": "221000300",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "지구방위본부",
+            "MapData_sMapSubName": "사령실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsMarch",
+            "MapData_sLifeList": [ "n:2052006", "n:2052007", "n:2052017" ]
+          },
+
+          {
+            "MapData_sMapID": "221000400",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "지구방위본부",
+            "MapData_sMapSubName": "안전지대",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsMarch",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "221030000",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "통제구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsHuntAliens",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -191, "y": 120 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루더스호수",
+        "sSubTitle": "지구방위본부",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030100",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "로스웰초원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsHuntAliens",
+            "MapData_sLifeList": [ "m:4230127", "n:2052018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -86, "y": 156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루더스호수",
+        "sSubTitle": "로스웰초원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030200",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "로스웰초원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsHuntAliens",
+            "MapData_sLifeList": [ "m:4230127", "m:4230128" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -14, "y": 156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루더스호수",
+        "sSubTitle": "로스웰초원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030300",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "로스웰초원3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsHuntAliens",
+            "MapData_sLifeList": [ "m:4230128", "n:2052019" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 54, "y": 156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루더스호수",
+        "sSubTitle": "로스웰초원3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030400",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "루더스호수",
+            "MapData_sMapSubName": "로스웰초원4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm08/LetsHuntAliens",
+            "MapData_sLifeList": [ "m:4230127", "m:4230128", "n:2052026" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 134, "y": 157 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루더스호수",
+        "sSubTitle": "로스웰초원4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030500",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "덕구의 방",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "n:2052009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 23, "y": -5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "덕구의 방",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030510",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 101",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230129", "n:2052030" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 76, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 101",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030520",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 102",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 135, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 102",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030530",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 103",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230130", "n:2052031", "n:3001646" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 198, "y": -16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 103",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030540",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 104",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "n:2052033" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 262, "y": -2 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 104",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030600",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 201",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 25, "y": -53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 201",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030610",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 202",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230132", "n:2052035" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 84, "y": -62 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 202",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030620",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 203",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230132", "m:4230131" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 168, "y": -64 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 203",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030630",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 204",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230131", "n:2052034" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 224, "y": -58 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 204",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030700",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "환풍구 D-1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "n:2052045" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -3, "y": -83 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "환풍구 D-1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030710",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "환풍구 D-2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230133", "n:2052036" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 70, "y": -95 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "환풍구 D-2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030720",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "환풍구 D-3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230133", "m:4230134" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 145, "y": -99 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "환풍구 D-3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030730",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "환풍구 D-4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230134", "n:2052037", "n:2052039" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 225, "y": -93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "환풍구 D-4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030800",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "조종간1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230138", "n:2052041" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 108, "y": -133 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "조종간1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030810",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "조종간2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230137", "m:4230138" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 161, "y": -134 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "조종간2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030820",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "조종간3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230137", "n:2052040" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 210, "y": -127 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "조종간3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030900",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "조종실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "n:2052044" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 136, "y": -169 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "조종실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030640",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 H01",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230141" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -23, "y": -41 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 H01",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030650",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 H02",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230141", "m:4230142" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -67, "y": -27 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 H02",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221030660",
+            "MapData_sMapIcon": "OmegaSector",
+            "MapData_sMapName": "UFO 내부",
+            "MapData_sMapSubName": "복도 H03",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm47/DancesWithAliens",
+            "MapData_sLifeList": [ "m:4230142" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -109, "y": -39 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "UFO 내부",
+        "sSubTitle": "복도 H03",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "지구방위본부",
+        "ArchiveRegionDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      }
+  ]
+}

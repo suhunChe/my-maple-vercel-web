@@ -1,0 +1,309 @@
+﻿{
+  "sBaseMapID": "WorldMap000.img",
+  "sBaseMapName": "메이플 아일랜드",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap000",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "10000",
+            "MapData_sMapIcon": "MushroomVillage",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "단풍나무 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "n:1541067", "n:1541000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -123, "y": -88 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "단풍나무 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "20000",
+            "MapData_sMapIcon": "MushroomVillage",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "달팽이동산",
+            "MapData_sDesc": "초보자를 위한 마을. 간단한 퀘스트로 게임조작법을 배울 수 있다.",
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "m:0100000", "n:1541001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -113, "y": -29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "달팽이동산",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "1000000",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "레인보우스트리트",
+            "MapData_sMapSubName": "암허스트",
+            "MapData_sDesc": "메이플 아일랜드의 동쪽에 위치한 마을. 무기, 방어구, 잡화상점이 있다.",
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "n:0012000", "n:0010000", "n:0012101", "n:0011000", "n:0011100" ]
+          },
+
+          {
+            "MapData_sMapID": "1000001",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "레인보우스트리트",
+            "MapData_sMapSubName": "암허스트무기상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/FloralLife",
+            "MapData_sLifeList": [ "n:0011000" ]
+          },
+
+          {
+            "MapData_sMapID": "1000002",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "레인보우스트리트",
+            "MapData_sMapSubName": "암허스트민가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/FloralLife",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "1000003",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "레인보우스트리트",
+            "MapData_sMapSubName": "암허스트잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm00/FloralLife",
+            "MapData_sLifeList": [ "n:0011100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -20, "y": -4 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "레인보우스트리트",
+        "sSubTitle": "암허스트",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "1010000",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "모험가의 수련장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "m:0100001", "m:0100004", "m:0100003", "n:0012100" ]
+          },
+
+          {
+            "MapData_sMapID": "1010100",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "모험가의 수련장1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MapleLeaf",
+            "MapData_sLifeList": [ "m:0100005" ]
+          },
+
+          {
+            "MapData_sMapID": "1010200",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "모험가의 수련장2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MapleLeaf",
+            "MapData_sLifeList": [ "m:0100002" ]
+          },
+
+          {
+            "MapData_sMapID": "1010300",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "모험가의 수련장3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MapleLeaf",
+            "MapData_sLifeList": [ "m:0100006" ]
+          },
+
+          {
+            "MapData_sMapID": "1010400",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "모험가의 수련장4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm34/MapleLeaf",
+            "MapData_sLifeList": [ "m:0100007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 19, "y": 18 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "모험가의 수련장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "1020000",
+            "MapData_sMapIcon": "Amherst",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "선택의 갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "n:0010200", "n:0010201", "n:0010202", "n:0010203", "n:0010204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": 41 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "선택의 갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "2000000",
+            "MapData_sMapIcon": "SouthPerry",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "사우스페리",
+            "MapData_sDesc": "초보 모험가를 위한 섬, 메이플 아일랜드 남쪽의 항구도시.",
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "n:0020002", "n:9010000", "n:0021000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 75, "y": 73 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "사우스페리",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "2000100",
+            "MapData_sMapIcon": "SouthPerry",
+            "MapData_sMapName": "메이플로드",
+            "MapData_sMapSubName": "선착장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm58/The Beginnig of The Adventure",
+            "MapData_sLifeList": [ "n:0022000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 125, "y": 82 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "메이플로드",
+        "sSubTitle": "선착장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}

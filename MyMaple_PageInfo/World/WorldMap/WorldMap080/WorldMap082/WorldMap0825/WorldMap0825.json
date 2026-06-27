@@ -1,0 +1,815 @@
+﻿{
+  "sBaseMapID": "WorldMap0825.img",
+  "sBaseMapName": "기억의 늪 모라스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap080\\WorldMap082\\WorldMap0825",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006000",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "산호 숲으로 가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/SwampOfMemoryMoras",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -295, "y": 186 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "산호 숲으로 가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006010",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "산호 숲으로 가는 길2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/SwampOfMemoryMoras",
+            "MapData_sLifeList": [ "m:8644400", "n:3003420" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -250, "y": 183 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "산호 숲으로 가는 길2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006020",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "산호 숲으로 가는 길3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/SwampOfMemoryMoras",
+            "MapData_sLifeList": [ "m:8644400", "m:8644401" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -206, "y": 157 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "산호 숲으로 가는 길3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006030",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "산호 숲으로 가는 길4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/SwampOfMemoryMoras",
+            "MapData_sLifeList": [ "m:8644401", "n:3003421" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -169, "y": 127 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "산호 숲으로 가는 길4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006040",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "산호 숲으로 가는 길5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/SwampOfMemoryMoras",
+            "MapData_sLifeList": [ "n:3003436", "n:3003473" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -121, "y": 121 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "산호 숲으로 가는 길5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006110",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "도둑고양이 출몰지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "m:8644402", "n:3003423", "n:3003424" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -114, "y": -7 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "도둑고양이 출몰지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006120",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "도둑고양이 출몰지2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "m:8644402" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -68, "y": 12 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "도둑고양이 출몰지2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006130",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "트뤼에페 광장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "n:3003410", "n:3003426", "n:3003427", "n:9000124", "n:3003105", "n:3003106", "n:9010022", "n:9010109", "n:9000123", "n:9010106", "n:3003460", "n:3003461", "n:3003451", "n:3003452", "n:3003418", "n:3003432", "n:3003466", "n:3003465", "n:3003467", "n:3003468", "n:3003425", "n:3003146", "n:3003490", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -17, "y": 50 },
+        "nPinType": 29,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "트뤼에페 광장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006140",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "형님들 구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "m:8644403" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 22, "y": 15 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "형님들 구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006150",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "형님들 구역2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "m:8644404", "m:8644403" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 59, "y": -16 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "형님들 구역2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006160",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "형님들 구역3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/MemoryOfKritias",
+            "MapData_sLifeList": [ "m:8644404" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -30 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "형님들 구역3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006200",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그림자가 춤추는 곳",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 4, "y": 95 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그림자가 춤추는 곳",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006210",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그림자가 춤추는 곳2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644405" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 34, "y": 112 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그림자가 춤추는 곳2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006220",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그림자가 춤추는 곳3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644405", "m:8644406" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 61, "y": 117 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그림자가 춤추는 곳3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006230",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그림자가 춤추는 곳4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644406" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 95, "y": 119 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그림자가 춤추는 곳4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006240",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "연구실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "n:3003429", "n:3003428", "n:3003433", "n:3003453", "n:3003454", "n:3003471", "n:3003469" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 132, "y": 111 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "연구실",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006300",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "폐쇄구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644407", "n:3003430" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 170, "y": 107 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "폐쇄구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006310",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "폐쇄구역2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644407", "m:8644408" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 202, "y": 97 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "폐쇄구역2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006320",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "폐쇄구역3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "m:8644408", "n:3003431" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 227, "y": 81 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "폐쇄구역3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006330",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "폐쇄구역4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm48/BlackDungeon",
+            "MapData_sLifeList": [ "n:3003475", "n:3003540", "n:3003577", "n:3003578" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 252, "y": 62 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "폐쇄구역4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006400",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그날의 트뤼에페",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/Hekaton",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 162, "y": 56 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그날의 트뤼에페",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006410",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그날의 트뤼에페2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/Hekaton",
+            "MapData_sLifeList": [ "m:8644410", "m:8644409" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 174, "y": 7 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그날의 트뤼에페2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006420",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그날의 트뤼에페3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/Hekaton",
+            "MapData_sLifeList": [ "m:8644411", "m:8644410" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 199, "y": -41 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그날의 트뤼에페3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006430",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "그날의 트뤼에페4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/Hekaton",
+            "MapData_sLifeList": [ "m:8644411", "m:8644412" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 193, "y": -105 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "그날의 트뤼에페4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "450006440",
+            "MapData_sMapIcon": "Morass",
+            "MapData_sMapName": "모라스",
+            "MapData_sMapSubName": "기울어진 탑",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm35/Hekaton",
+            "MapData_sLifeList": [ "n:3003435", "n:3003434" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 231, "y": -140 },
+        "nPinType": 28,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "모라스",
+        "sSubTitle": "기울어진 탑",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "모라스",
+        "ArchiveRegionDesc": "에르다가 굽이쳐 고여든 안개 낀 늪 모라스는 방문자의 내면을 비추는 거울과 같은 공간이다. 늪 곳곳에는 잊힌 시간의 파편들이 실체화되어 있으며, 오래전 멸망한 왕국 크리티아스의 참혹한 잔영이 이곳에 머무는 자들의 발목을 잡는다.\\r\\n\\r\\n기억의 늪이 만들어낸 허상 속에서 대적자는 신비로운 소녀 '타나'의 슬픈 이야기와 마주한다. 대적자는 자신의 기억마저 삼키려 드는 늪의 유혹을 뿌리치고 진실의 실타래를 찾아내어, 태초의 바다로 향하는 길을 열어야 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_2\\region_6.png"
+      }
+  ]
+}

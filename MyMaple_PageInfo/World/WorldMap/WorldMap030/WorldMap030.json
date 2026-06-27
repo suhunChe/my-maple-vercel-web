@@ -1,0 +1,2080 @@
+﻿{
+  "sBaseMapID": "WorldMap030.img",
+  "sBaseMapName": "루더스 호수",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap031",
+        "pntOrigin": { "x": 57, "y": -49 },
+        "sToolTip": "시계탑 최하층",
+        "nPinType": 12,
+        "pntListMapUpData_PinPoint": { "x": -2, "y": 84 },
+        "sListMapUpData_Desc": "루디브리엄의 시간이 멈춘 후 부서진 시간이 조각들이 모여 만들어진 기이한 공간이다. 뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 시간의 통로",
+        "bIsArchive": true,
+        "sArchiveName": "시계탑 최하층",
+        "sArchiveDesc": "루디브리엄의 시간이 멈춘 후 부서진 시간의 조각들이 모여 만들어진 기이한 공간이다. \\r\\n\\r\\n뒤틀린 시간의 틈 사이로 들어온 이계의 침략자들로 인해 매우 위험한 지역이 되었다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_34.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap032",
+        "pntOrigin": { "x": -155, "y": 234 },
+        "sToolTip": "엘린숲",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": 269, "y": -152 },
+        "sListMapUpData_Desc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. 아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sListMapUpData_MainCity": "주요 마을\\n - 알테어 캠프",
+        "bIsArchive": true,
+        "sArchiveName": "엘린 숲",
+        "sArchiveDesc": "핼리오스탑의 시간 제어기가 망가지며 갈 수 있게 된 과거의 빅토리아 아일랜드이다. \\r\\n\\r\\n아직 제대로 된 마을이 세워지기 전이라 사람들은 천막으로 된 임시 캠프에서 지내고 있으며, 엘프 헬레나가 이들을 통솔한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_39.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap033",
+        "pntOrigin": { "x": 221, "y": 235 },
+        "sToolTip": "판타스틱 테마파크",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": -83, "y": -188 },
+        "sListMapUpData_Desc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 판타스틱 테마파크<정문>",
+        "bIsArchive": true,
+        "sArchiveName": "판타스틱 테마파크",
+        "sArchiveDesc": "루디브리엄 동북쪽에 위치한 놀이공원이다. 마스코트는 곰 캐릭터 타르가와 사자 캐릭터 스칼리온. 이를 이용한 인형극이 명물로 꼽힌다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_37.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap034",
+        "pntOrigin": { "x": -58, "y": -16 },
+        "sToolTip": "아랫마을",
+        "nPinType": 0,
+        "pntListMapUpData_PinPoint": { "x": 188, "y": 102 },
+        "sListMapUpData_Desc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. 잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데…",
+        "sListMapUpData_MainCity": "주요 마을\\n - 아랫마을",
+        "bIsArchive": true,
+        "sArchiveName": "아랫마을",
+        "sArchiveDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sLinkMapID": "WorldMap035",
+        "pntOrigin": { "x": 303, "y": -15 },
+        "sToolTip": "지구방위본부",
+        "nPinType": 12,
+        "pntListMapUpData_PinPoint": { "x": -195, "y": 151 },
+        "sListMapUpData_Desc": "에오스탑 아래에 있는 미래의 땅이다. 외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 지구방위본부",
+        "bIsArchive": true,
+        "sArchiveName": "지구방위본부",
+        "sArchiveDesc": "에오스탑 아래에 있는 미래의 땅이다. \\r\\n\\r\\n외계인의 침공으로부터 메이플 월드를 지키는 특수 본부로, 합체 로봇 메소다이저를 조종하는 특수부대 메소레인저가 활약하고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_40.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "루디브리엄",
+            "MapData_sDesc": "루더스 호수 위에 자리잡은 장난감 마을. 두 개의 탑 위에 세워져 있다. 정거장에서 배를 타면 다른 지역으로 이동할 수 있다. ",
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:9000089", "n:9000088", "n:9000087", "n:9000086", "n:2041004", "n:2041014", "n:9000014", "n:2040046", "n:2041008", "n:2010011", "n:2040050", "n:9010000", "n:9050000", "n:9050009", "n:9010009", "n:9000124", "n:9010010", "n:2041022", "n:9010022", "n:9201023", "n:2023000", "n:2042000", "n:9001105", "n:9071003", "n:2192002", "n:9000230", "n:9000123", "n:9072100", "n:9062010", "n:9000397", "n:9010106", "n:9010109", "n:9000178", "n:9062009", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "220000001",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄무기방어구상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041003", "n:2041002" ]
+          },
+
+          {
+            "MapData_sMapID": "220000002",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041006" ]
+          },
+
+          {
+            "MapData_sMapID": "220000003",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄성형외과",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041010", "n:2040019" ]
+          },
+
+          {
+            "MapData_sMapID": "220000004",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄헤어샵",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041007", "n:2041009", "n:2121018" ]
+          },
+
+          {
+            "MapData_sMapID": "220000005",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄피부관리실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041013" ]
+          },
+
+          {
+            "MapData_sMapID": "220000006",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디 펫 산책로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040032", "n:2040033" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": -114 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "루디브리엄",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "구름테라스<5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3230305" ]
+          },
+
+          {
+            "MapData_sMapID": "220010001",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "구름발코니",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -176, "y": -71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "구름테라스<5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "구름테라스<4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3210203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -147, "y": -60 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "구름테라스<4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "구름테라스<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3210204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -112, "y": -54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "구름테라스<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "구름테라스<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3110101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -76, "y": -49 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "구름테라스<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "구름테라스<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3000005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -41, "y": -47 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "구름테라스<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010500",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "테라스홀",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3000005", "n:2040003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -47 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "테라스홀",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010600",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "하늘테라스<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3000005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 38, "y": -47 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "하늘테라스<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010700",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "하늘테라스<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3110101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 73, "y": -50 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "하늘테라스<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010800",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "하늘테라스<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3210204" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 109, "y": -54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "하늘테라스<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220010900",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "하늘테라스<4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3210203" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 144, "y": -61 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "하늘테라스<4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220011000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "하늘테라스<5>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "m:3230305" ]
+          },
+
+          {
+            "MapData_sMapID": "220011001",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "하늘발코니",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 173, "y": -72 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "하늘테라스<5>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<1공정>1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112", "m:4230111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -150, "y": -38 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<1공정>1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<1공정>2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -106, "y": -27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<1공정>2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<1공정>3구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -59, "y": -22 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<1공정>3구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<메인공정1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111", "n:2040015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -2, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<메인공정1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<1공정>5구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 53, "y": -21 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<1공정>5구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020500",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<1공정>6구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 101, "y": -27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<1공정>6구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220020600",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<기계실>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230111", "m:4230112", "n:2040022" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 147, "y": -39 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<기계실>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220030000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<2공정>1구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -123, "y": -6 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<2공정>1구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220030100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<2공정>2구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112", "n:2041018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -71, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<2공정>2구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220030200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<메인공정2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112", "n:2041019" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<메인공정2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220030300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<2공정>4구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 66, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<2공정>4구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220030400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "장난감공장<2공정>5구역",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WaltzForWork",
+            "MapData_sLifeList": [ "m:4230112", "n:2041020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 117, "y": -5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "장난감공장<2공정>5구역",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220040000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의길<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:4230114" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -106, "y": 19 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의길<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220040100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의길<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:3230306" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -49, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의길<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220040200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의갈림길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:3210207", "n:9073007", "n:2159584", "n:2159583" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": 32 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의갈림길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220040300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의길<3>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:3230306" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 47, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의길<3>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220040400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의길<4>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:4230115" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 92, "y": 21 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의길<4>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220050000",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "잃어버린시간<1>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:4230114", "n:2040029" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -42, "y": 53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "잃어버린시간<1>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220050100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "시간의소용돌이",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:4230113" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -1, "y": 56 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "시간의소용돌이",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220050200",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄성",
+            "MapData_sMapSubName": "잃어버린시간<2>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/WhereverYouAre",
+            "MapData_sLifeList": [ "m:4230115", "m:5220003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 33, "y": 52 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄성",
+        "sSubTitle": "잃어버린시간<2>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222020300",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "핼리오스 탑",
+            "MapData_sMapSubName": "핼리오스 탑 100층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 221, "y": -106 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "핼리오스 탑",
+        "sSubTitle": "핼리오스 탑 100층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "핼리오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 솟아 있는 또 다른 거대한 시계탑이다. \\r\\n\\r\\n이 탑은 미래가 아닌 과거의 시간으로 향하는 길을 품고 있으며, 시계의 태엽을 거꾸로 감는 듯한 신비로운 힘이 흐른다.\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_36.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222020200",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "핼리오스 탑",
+            "MapData_sMapSubName": "핼리오스 탑 99층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": -63 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "핼리오스 탑",
+        "sSubTitle": "핼리오스 탑 99층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "핼리오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 솟아 있는 또 다른 거대한 시계탑이다. \\r\\n\\r\\n이 탑은 미래가 아닌 과거의 시간으로 향하는 길을 품고 있으며, 시계의 태엽을 거꾸로 감는 듯한 신비로운 힘이 흐른다.\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_36.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222020100",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "핼리오스 탑",
+            "MapData_sMapSubName": "핼리오스 탑 2층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 220, "y": 14 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "핼리오스 탑",
+        "sSubTitle": "핼리오스 탑 2층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "핼리오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 솟아 있는 또 다른 거대한 시계탑이다. \\r\\n\\r\\n이 탑은 미래가 아닌 과거의 시간으로 향하는 길을 품고 있으며, 시계의 태엽을 거꾸로 감는 듯한 신비로운 힘이 흐른다.\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_36.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "222020000",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "핼리오스 탑",
+            "MapData_sMapSubName": "핼리오스 탑 도서관",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "n:2040052" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 218, "y": 66 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "핼리오스 탑",
+        "sSubTitle": "핼리오스 탑 도서관",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "핼리오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 솟아 있는 또 다른 거대한 시계탑이다. \\r\\n\\r\\n이 탑은 미래가 아닌 과거의 시간으로 향하는 길을 품고 있으며, 시계의 태엽을 거꾸로 감는 듯한 신비로운 힘이 흐른다.\\r\\n",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_36.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221023200",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 100층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3110102", "n:2040001", "n:2040002", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221023300",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 101층<입장맵>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "n:2040034" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -224, "y": -108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 100층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221022300",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 91층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230307", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221022400",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 92층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230307", "n:2040023" ]
+          },
+
+          {
+            "MapData_sMapID": "221022500",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 93층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:2230104", "n:2040006" ]
+          },
+
+          {
+            "MapData_sMapID": "221022600",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 94층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:2230103" ]
+          },
+
+          {
+            "MapData_sMapID": "221022700",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 95층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3210205" ]
+          },
+
+          {
+            "MapData_sMapID": "221022800",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 96층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3210205", "n:2040005" ]
+          },
+
+          {
+            "MapData_sMapID": "221022900",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 97층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3210205", "m:3110102" ]
+          },
+
+          {
+            "MapData_sMapID": "221023000",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 98층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3110102", "m:3210205" ]
+          },
+
+          {
+            "MapData_sMapID": "221023100",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 99층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3110102", "n:2040004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -224, "y": -76 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 91층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221022200",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 71층~90층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "n:2040007" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -223, "y": -51 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 71층~90층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221021700",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 66층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230400", "n:2040049", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221021800",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 67층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230400", "n:2040008" ]
+          },
+
+          {
+            "MapData_sMapID": "221021900",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 68층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230400" ]
+          },
+
+          {
+            "MapData_sMapID": "221022000",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 69층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230400" ]
+          },
+
+          {
+            "MapData_sMapID": "221022100",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 70층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230400", "n:2040024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -222, "y": -27 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 66층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221021600",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 36층~65층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -221, "y": 4 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 36층~65층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221021100",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 31층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230303", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221021200",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 32층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3230103", "n:2040011" ]
+          },
+
+          {
+            "MapData_sMapID": "221021300",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 33층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3230103", "m:3230302", "n:2040010" ]
+          },
+
+          {
+            "MapData_sMapID": "221021400",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 34층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:3230302", "n:2040009" ]
+          },
+
+          {
+            "MapData_sMapID": "221021500",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 35층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3210206", "n:2040024" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -220, "y": 29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 31층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "221020000",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 1층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230110", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221020100",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 2층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230110" ]
+          },
+
+          {
+            "MapData_sMapID": "221020200",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 3층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230110" ]
+          },
+
+          {
+            "MapData_sMapID": "221020300",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 4층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230110", "m:4230109", "n:2040013" ]
+          },
+
+          {
+            "MapData_sMapID": "221020400",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 5층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230109", "m:4230110" ]
+          },
+
+          {
+            "MapData_sMapID": "221020500",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 6층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230109" ]
+          },
+
+          {
+            "MapData_sMapID": "221020600",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 7층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230109" ]
+          },
+
+          {
+            "MapData_sMapID": "221020700",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 8층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/FunnyTimeMaker",
+            "MapData_sLifeList": [ "m:4230109", "n:2040012" ]
+          },
+
+          {
+            "MapData_sMapID": "221020800",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 9층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230308" ]
+          },
+
+          {
+            "MapData_sMapID": "221020900",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 10층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": [ "m:3230304", "n:2040024" ]
+          },
+
+          {
+            "MapData_sMapID": "221021000",
+            "MapData_sMapIcon": "LudiTower1",
+            "MapData_sMapName": "에오스 탑",
+            "MapData_sMapSubName": "에오스 탑 11층~30층",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm07/HighEnough",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -219, "y": 71 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "에오스 탑",
+        "sSubTitle": "에오스 탑 1층",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "에오스탑",
+        "ArchiveRegionDesc": "시간의 도시 루디브리엄에 있는, 미래로 향하는 거대한 시계탑이다. \\r\\n\\r\\n탑의 아래쪽으로 내려갈수록 미래 세계의 문이 열리며, 외계인의 침공에 맞서는 비밀 군사기지인 지구방위본부와 연결된다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_35.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000300",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄 마을",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040014", "n:2040016", "n:9000068", "n:2041005" ]
+          },
+
+          {
+            "MapData_sMapID": "220000301",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "코린의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041015" ]
+          },
+
+          {
+            "MapData_sMapID": "220000302",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "카호의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "220000303",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "지로큰과 페이의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040021", "n:2040020" ]
+          },
+
+          {
+            "MapData_sMapID": "220000304",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "클로이의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040031" ]
+          },
+
+          {
+            "MapData_sMapID": "220000305",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "빈집1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "220000306",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "빈집2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "220000307",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄마을",
+            "MapData_sMapSubName": "매이션의 집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -71, "y": -115 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄",
+        "sSubTitle": "루디브리엄 마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000400",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "에오스 탑 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040030" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -126, "y": -113 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄",
+        "sSubTitle": "에오스 탑 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000500",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "핼리오스 탑 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 126, "y": -113 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄",
+        "sSubTitle": "핼리오스 탑 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040000", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "220000110",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "정거장<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041000" ]
+          },
+
+          {
+            "MapData_sMapID": "220000111",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "출발하기전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 23, "y": -126 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄",
+        "sSubTitle": "루디브리엄 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "220000100",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "루디브리엄 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2040000", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "220000110",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "정거장<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041000" ]
+          },
+
+          {
+            "MapData_sMapID": "220000111",
+            "MapData_sMapIcon": "Ludibrium",
+            "MapData_sMapName": "루디브리엄",
+            "MapData_sMapSubName": "출발하기전<오르비스행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/FantasticThinking",
+            "MapData_sLifeList": [ "n:2041001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 23, "y": -126 },
+        "nPinType": 4,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "루디브리엄",
+        "sSubTitle": "루디브리엄 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "루디브리엄 성",
+        "ArchiveRegionDesc": "오시리아 대륙의 루더스 호수 위에 떠 있는 장난감 도시.\\n모든 건축물과 시민이 장난감처럼 만들어져 있으며, 륀느가 멈춘 시간을 중심으로 존재한다.\\n시간의 흐름이 왜곡된 탓에 시계탑 깊은 곳에 생겨난 시공의 균열로 다른 차원에서 온 몬스터들이 출몰한다.\\r\\n\\r\\n\\n밝고 경쾌한 외관과 달리, 그 내부에는 멈춰버린 시간과 잃어버린 순수함의 그림자가 드리워져 있다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_32.png"
+      }
+  ]
+}

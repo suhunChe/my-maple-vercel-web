@@ -1,0 +1,1838 @@
+﻿{
+  "sBaseMapID": "WorldMap020.img",
+  "sBaseMapName": "엘나스 산맥",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap020",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+      {
+        "sLinkMapID": "WorldMap021",
+        "pntOrigin": { "x": -182, "y": -15 },
+        "sToolTip": "폐광",
+        "nPinType": 12,
+        "pntListMapUpData_PinPoint": { "x": 241, "y": 100 },
+        "sListMapUpData_Desc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. 오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터에 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sListMapUpData_MainCity": "주요 마을\\n - 쓸쓸한 벌판",
+        "bIsArchive": true,
+        "sArchiveName": "폐광",
+        "sArchiveDesc": "엘나스 산맥 깊숙한 곳에 위치한 버려진 광산이다. \\r\\n\\r\\n오래 전에는 마을이 있던 시절도 있었으나, 자쿰이라는 사악한 몬스터로 인해 멸망하여 지금은 잠들지 못한 망자들만이 떠돌고 있다. ",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_29.png"
+      }
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200000000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "오르비스",
+            "MapData_sDesc": "엘나스 산맥의 구름 위에 세워진 요정들의 도시. 오시리아 대륙 곳곳으로 출발하는 비행선을 탈 수 있는 곳이다.",
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012012", "n:2010006", "n:9010000", "n:9050000", "n:9050009", "n:2012019", "n:9010009", "n:9010010", "n:9010022", "n:9000124", "n:9072100", "n:2012011", "n:9071003", "n:9201023", "n:9000123", "n:9062010", "n:9062009", "n:9010109", "n:9010106", "n:9000397", "n:2012042", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "200000001",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "오르비스 무기/방어구 상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012003", "n:2012004" ]
+          },
+
+          {
+            "MapData_sMapID": "200000002",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "오르비스잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -193, "y": -127 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "오르비스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3230200", "m:3210201", "n:9010012", "n:2012020" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -83, "y": -124 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010100",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "세가지빛정원으로가는길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3210200", "m:3210201", "m:3210202", "n:9000068" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 1, "y": -112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "세가지빛정원으로가는길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010110",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "붉은빛의정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3210200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 54, "y": -156 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "붉은빛의정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010111",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "붉은빛의정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 115, "y": -157 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "붉은빛의정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010120",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "노란빛의정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3210201" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 64, "y": -111 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "노란빛의정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010121",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "노란빛의정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 105, "y": -111 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "노란빛의정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010130",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "푸른빛의정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3210202" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": -70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "푸른빛의정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010131",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "푸른빛의정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 122, "y": -70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "푸른빛의정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010200",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "하늘계단1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120001", "m:5120003", "m:5120002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 163, "y": -114 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "하늘계단1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010300",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "하늘계단2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:7130000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 233, "y": -114 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "하늘계단2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010301",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "검은빛의정원1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:6230401" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 256, "y": -157 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "검은빛의정원1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200010302",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "검은빛의정원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:7130000", "m:8220000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 252, "y": -66 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "검은빛의정원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200020000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:3230200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -62, "y": -70 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200030000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "산책로",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:4230122" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -51, "y": -24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "산책로",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200040000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:4230106" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 0, "y": 2 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200050000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원4",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:4230106" ]
+          },
+
+          {
+            "MapData_sMapID": "200050001",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "노파의집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2032001", "n:2032000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 58, "y": 6 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원4",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200060000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "산책로2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:4130102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 116, "y": 7 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "산책로2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200070000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원5",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 164, "y": -2 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원5",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200080000",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "스카이로드",
+            "MapData_sMapSubName": "구름공원6",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "m:5120000", "n:2030002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 209, "y": -20 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "스카이로드",
+        "sSubTitle": "구름공원6",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "구름공원",
+        "ArchiveRegionDesc": "하늘에 떠 있는 도시 오르비스 상공에 위치한, 거대한 구름으로 이루어진 공원이다. \\r\\n\\r\\n오르비스의 요정들이 만들어낸 신비로운 장소로, 구름 위를 걸으며 하늘의 정기를 느낄 수 있다고 한다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_26.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200080100",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200080101",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "알 수 없는 탑<퇴장맵>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": -60 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스탑",
+        "sSubTitle": "오르비스탑입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200080200",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<20층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5200000", "n:2012014", "n:2012037" ]
+          },
+
+          {
+            "MapData_sMapID": "200080300",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<19층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5200000" ]
+          },
+
+          {
+            "MapData_sMapID": "200080400",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<18층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:3000000" ]
+          },
+
+          {
+            "MapData_sMapID": "200080500",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<17층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:3000000", "m:5200002" ]
+          },
+
+          {
+            "MapData_sMapID": "200080600",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<16층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5200002", "n:2012014", "n:2030012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": 5 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스탑",
+        "sSubTitle": "오르비스탑<20층>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200082200",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<지하1층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -188, "y": 126 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스탑",
+        "sSubTitle": "오르비스탑<지하1층>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200082300",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<지하2층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/BlueWorld",
+            "MapData_sLifeList": [ "m:3210450" ]
+          },
+
+          {
+            "MapData_sMapID": "200082301",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "히든스트리트",
+            "MapData_sMapSubName": "오르비스탑<휴즈의 연구실>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "n:2012017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -188, "y": 159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스탑",
+        "sSubTitle": "오르비스탑<지하2층>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211000200",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "눈 덮인 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5400000", "n:9000068", "n:2020003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -157, "y": 99 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "눈 덮인 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211000000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "엘나스",
+            "MapData_sDesc": "엘나스 산맥의 만년설 위에 세워진 마을이다. 오르비스 탑을 통해 마을로 이동이 가능하다.",
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:9072100", "n:2023000", "n:2020006", "n:2020007", "n:9010000", "n:9010010", "n:9010022", "n:2020005", "n:2030015", "n:9000230", "n:2040050", "n:2020015", "n:2010011", "n:9071003", "n:9000178", "n:9000124", "n:9000123", "n:9062009", "n:9000397", "n:9010109", "n:9010106", "n:9062010", "n:2161025", "n:9010113", "n:9010112" ]
+          },
+
+          {
+            "MapData_sMapID": "211000001",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스",
+            "MapData_sMapSubName": "장로의관저",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2020008", "n:2020011", "n:2020010", "n:2020009", "n:2020013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -90, "y": 120 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "엘나스",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211010000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "빙판조심1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5100000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -35, "y": 151 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "빙판조심1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211020000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "빙판조심2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5130105", "m:5100000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 180 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "빙판조심2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211030000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "차가운벌판1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:6130103" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 62, "y": 173 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "차가운벌판1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "차가운벌판2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:6230200" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 60, "y": 119 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "차가운벌판2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211050000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "차디찬벌판",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5130104", "n:2030001", "n:2030004", "m:6090001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 32, "y": 115 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "차디찬벌판",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040100",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "얼음골짜기1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5130104", "m:5140000", "n:2030003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 122, "y": 107 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "얼음골짜기1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211040200",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스산맥",
+            "MapData_sMapSubName": "얼음골짜기2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "m:5140000", "n:2030000", "n:2030009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 186, "y": 112 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스산맥",
+        "sSubTitle": "얼음골짜기2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200081400",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<8층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5200001", "n:2030005", "n:2012014" ]
+          },
+
+          {
+            "MapData_sMapID": "200081500",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<7층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5200001" ]
+          },
+
+          {
+            "MapData_sMapID": "200081600",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<6층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5300000" ]
+          },
+
+          {
+            "MapData_sMapID": "200081700",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<5층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5300000" ]
+          },
+
+          {
+            "MapData_sMapID": "200081800",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<4층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5300001" ]
+          },
+
+          {
+            "MapData_sMapID": "200081900",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<3층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5300001" ]
+          },
+
+          {
+            "MapData_sMapID": "200082000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<2층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5400000" ]
+          },
+
+          {
+            "MapData_sMapID": "200082100",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "오르비스탑",
+            "MapData_sMapSubName": "오르비스탑<1층>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm06/ComeWithMe",
+            "MapData_sLifeList": [ "m:5400000", "n:2012014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": 55 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스탑",
+        "sSubTitle": "오르비스탑<8층>",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200000100",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "오르비스 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012000", "n:2012006", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "200000110",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000111",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012001" ]
+          },
+
+          {
+            "MapData_sMapID": "200000112",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "출발하기전<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012002" ]
+          },
+
+          {
+            "MapData_sMapID": "200000120",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000121",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012013" ]
+          },
+
+          {
+            "MapData_sMapID": "200000122",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "출발하기전<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2041001" ]
+          },
+
+          {
+            "MapData_sMapID": "200000130",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000131",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012021" ]
+          },
+
+          {
+            "MapData_sMapID": "200000132",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012022" ]
+          },
+
+          {
+            "MapData_sMapID": "200000140",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<무릉행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000141",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<무릉행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2090005" ]
+          },
+
+          {
+            "MapData_sMapID": "200000150",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000151",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012025" ]
+          },
+
+          {
+            "MapData_sMapID": "200000152",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012024" ]
+          },
+
+          {
+            "MapData_sMapID": "200000161",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<에레브행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:1100008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -148, "y": -162 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스",
+        "sSubTitle": "오르비스 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200000200",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "오르비스공원",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012010", "n:2010003", "n:2010004", "n:2012018", "n:9001105", "n:2010000" ]
+          },
+
+          {
+            "MapData_sMapID": "200000201",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스공원",
+            "MapData_sMapSubName": "오르비스성형외과",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2010002", "n:2012009", "n:2012036" ]
+          },
+
+          {
+            "MapData_sMapID": "200000202",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스공원",
+            "MapData_sMapSubName": "오르비스헤어샵",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2010001", "n:2012007" ]
+          },
+
+          {
+            "MapData_sMapID": "200000203",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스공원",
+            "MapData_sMapSubName": "오르비스피부관리실",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -214, "y": -120 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스",
+        "sSubTitle": "오르비스공원",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200000300",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "만남의 언덕",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:9040004", "n:2012023" ]
+          },
+
+          {
+            "MapData_sMapID": "200000301",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "길드본부 <영웅의 전당>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2010007", "n:2010009", "n:2012041", "n:9076160" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -257, "y": -133 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스",
+        "sSubTitle": "만남의 언덕",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "211000100",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스",
+            "MapData_sMapSubName": "엘나스시장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2020000", "n:2020002", "n:2020004", "n:9040004", "n:9050009", "n:9001105", "n:9050000", "n:9010009" ]
+          },
+
+          {
+            "MapData_sMapID": "211000101",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스시장",
+            "MapData_sMapSubName": "엘나스 무기/방어구 상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2020001", "n:2022000" ]
+          },
+
+          {
+            "MapData_sMapID": "211000102",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "엘나스시장",
+            "MapData_sMapSubName": "엘나스잡화상점",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm03/SnowyVillage",
+            "MapData_sLifeList": [ "n:2022001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -65, "y": 109 },
+        "nPinType": 3,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "엘나스",
+        "sSubTitle": "엘나스시장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "엘나스",
+        "ArchiveRegionDesc": "온 세상이 눈과 얼음으로 뒤덮인, 엘나스 산맥의 만년설 위에 세워진 마을이다. \\r\\n\\r\\n혹독한 추위와 눈보라를 견디며 살아가는 모험가와 사냥꾼들의 안식처이며, 마을 전체에 강인한 생명력이 흐른다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_27.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "921120000",
+            "MapData_sMapIcon": "ElNath",
+            "MapData_sMapName": "얼음협곡",
+            "MapData_sMapSubName": "얼음협곡 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/WarmRegard",
+            "MapData_sLifeList": [ "n:2022005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 262, "y": 137 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "얼음협곡",
+        "sSubTitle": "얼음협곡 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "200000100",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "오르비스 정거장 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012000", "n:2012006", "n:9072000" ]
+          },
+
+          {
+            "MapData_sMapID": "200000110",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000111",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012001" ]
+          },
+
+          {
+            "MapData_sMapID": "200000112",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "출발하기전<빅토리아행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012002" ]
+          },
+
+          {
+            "MapData_sMapID": "200000120",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000121",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012013" ]
+          },
+
+          {
+            "MapData_sMapID": "200000122",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "출발하기전<루디브리엄행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2041001" ]
+          },
+
+          {
+            "MapData_sMapID": "200000130",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000131",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012021" ]
+          },
+
+          {
+            "MapData_sMapID": "200000132",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<리프레행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012022" ]
+          },
+
+          {
+            "MapData_sMapID": "200000140",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<무릉행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000141",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<무릉행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2090005" ]
+          },
+
+          {
+            "MapData_sMapID": "200000150",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장통로<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "200000151",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012025" ]
+          },
+
+          {
+            "MapData_sMapID": "200000152",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<아리안트행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:2012024" ]
+          },
+
+          {
+            "MapData_sMapID": "200000161",
+            "MapData_sMapIcon": "Orbis",
+            "MapData_sMapName": "오르비스",
+            "MapData_sMapSubName": "정거장<에레브행>",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm04/Shinin'Harbor",
+            "MapData_sLifeList": [ "n:1100008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -148, "y": -162 },
+        "nPinType": 4,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "오르비스",
+        "sSubTitle": "오르비스 정거장 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "오르비스",
+        "ArchiveRegionDesc": "아득한 하늘 높이 떠 있는, 구름과 별이 맞닿은 신비로운 천공의 도시다. 도시 전체에 맑고 고결한 기운이 감돌며, 이곳을 찾은 모험가들은 아름다운 경치와 함께 새로운 여정을 준비한다. \\r\\n\\r\\n이곳에서 출발하는 배들은 다른 대륙으로 향하는 길을 열어주어, 모험의 무대를 넓히는 중요한 역할을 한다고 전해진다.",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_24.png"
+      }
+  ]
+}

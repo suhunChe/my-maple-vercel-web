@@ -1,0 +1,591 @@
+﻿{
+  "sBaseMapID": "WorldMap034.img",
+  "sBaseMapName": "아랫마을",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap030\\WorldMap034",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000000",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "아랫마을",
+            "MapData_sDesc": "전래동화 속 주인공들이 모여 살고 있는 마을. 핼리오스 탑을 통해 루디브리엄과 통한다.",
+            "MapData_sMapBGM": "Bgm11/DownTown",
+            "MapData_sLifeList": [ "n:9010010", "n:2070000", "n:2070001", "n:2070002", "n:2070003", "n:9010022", "n:9000088", "n:9000087", "n:9000086", "n:9000230", "n:9072100", "n:9000124", "n:9000123", "n:9071003", "n:2010011", "n:2074000", "n:2074002", "n:2074020", "n:2074023", "n:2074007", "n:2074008", "n:2074004", "n:2074006", "n:2074003", "n:2074001", "n:2074005", "n:2074024", "n:2074026", "n:2074025", "n:2074012", "n:2074031", "n:2074032", "n:2074046", "n:9062010", "n:2074029", "n:9010109", "n:9010106", "n:2074028", "n:9010113", "n:9010112" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 95, "y": -11 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "아랫마을",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000100",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "까막산 입구",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100100", "n:2075000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 5, "y": -1 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "까막산 입구",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000101",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "까막산 기슭",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100100", "m:5100101" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 3, "y": 54 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "까막산 기슭",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000102",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "옹달샘",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100101", "n:2074009", "n:2075001", "n:2074027" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 27, "y": 103 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "옹달샘",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000103",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "금지된 절벽",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm43/This too shall pass away",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -43, "y": -110 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "금지된 절벽",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000110",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "작은 연못가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100101", "m:5100102" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -51, "y": -15 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "작은 연못가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000111",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "호랑이의 숲1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100102", "n:2075002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -65, "y": 38 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "호랑이의 숲1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000112",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "호랑이의 숲2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100102", "m:5100103", "n:2074010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -66, "y": 99 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "호랑이의 숲2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000120",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "호랑이 고개",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100103", "n:2074021", "n:2075003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -115, "y": -29 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "호랑이 고개",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000121",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "까막산 골짜기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100103", "m:5100104" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -122, "y": 34 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "까막산 골짜기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000130",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "여우 고개",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100104", "n:2075004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -187, "y": -17 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "여우 고개",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000131",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "달 고개",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100104", "m:5100105" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -170, "y": 30 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "달 고개",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000132",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "도깨비 고개",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "n:2074036" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -196, "y": -67 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "도깨비 고개",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000140",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "도깨비 산마루",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100105", "n:2075005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -222, "y": 25 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "도깨비 산마루",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000141",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "깊은 산 흉가",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100106", "m:5100107", "n:2075006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -222, "y": 82 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "깊은 산 흉가",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000142",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "도깨비집",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DarkMountain",
+            "MapData_sLifeList": [ "m:5100108" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -184, "y": 124 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "도깨비집",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "956100000",
+            "MapData_sMapIcon": "GhostPark",
+            "MapData_sMapName": "고스트파크",
+            "MapData_sMapSubName": "고스트파크",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm43/Welcome To The Creepy Ghost Park",
+            "MapData_sLifeList": [ "n:2079000", "n:2079001", "n:2079003", "n:2079100" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 173, "y": 68 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "고스트파크",
+        "sSubTitle": "고스트파크",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "224000001",
+            "MapData_sMapIcon": "Folkvillige",
+            "MapData_sMapName": "아랫마을",
+            "MapData_sMapSubName": "우물",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm11/DownTown",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": 232, "y": -51 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "아랫마을",
+        "sSubTitle": "우물",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": true,
+        "ArchiveName": "아랫마을",
+        "ArchiveRegionDesc": "핼리오스탑 아래에 있는 과거의 땅이다. 한옥들로 이루어진 작은 마을에 검은 머리와 검은 눈을 한 인간들이 모여 살고 있다. \\r\\n\\r\\n잘 보면 어디선가 많이 본 거 같은 익숙한 사람들인데...",
+        "sArchiveImagePath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\Archive\\world_0\\region_38.png"
+      }
+  ]
+}

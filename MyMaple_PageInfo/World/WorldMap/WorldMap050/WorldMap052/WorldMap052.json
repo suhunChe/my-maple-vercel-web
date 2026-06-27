@@ -1,0 +1,855 @@
+﻿{
+  "sBaseMapID": "WorldMap052.img",
+  "sBaseMapName": "콜로서스",
+  "sBaseMapImageforallderPath": "D:\\999. 개인자료\\1. 메이플스토리 프로젝트\\MyMaple_PageInfo\\World\\WorldMap\\WorldMap050\\WorldMap052",
+
+  "sWorldArchiveMapName": null,
+  "sWorldArchiveMapDesc": null,
+  "sWorldArchiveMapImagePath": null,
+
+  "MapLinkDate": [
+
+  ],
+  "MapListDate": [
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090000",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 본부",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "n:2210000", "n:2210001", "n:2211000", "n:2210002", "n:2210017" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -181, "y": 159 },
+        "nPinType": 0,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 본부",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090100",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 서쪽 길 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147000" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -236, "y": 93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 서쪽 길 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090200",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 서쪽 길 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147000", "m:8147001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -254, "y": 53 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 서쪽 길 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090300",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 서쪽 길 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -253, "y": 16 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 서쪽 길 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090400",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 위험한 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147002" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -280, "y": 108 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 위험한 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090500",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 동쪽 길 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -101, "y": 187 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 동쪽 길 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090600",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 동쪽 길 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147004", "m:8147003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -57, "y": 196 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 동쪽 길 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090700",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "탐사 현장 동쪽 길 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147004" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -5, "y": 193 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "탐사 현장 동쪽 길 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240090800",
+            "MapData_sMapIcon": "destructionPerion",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "카푸의 라이딩 : 올라가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": null
+          },
+
+          {
+            "MapData_sMapID": "240090801",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인 탐사 현장",
+            "MapData_sMapSubName": "카푸의 라이딩 : 내려가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": null
+          }
+        ],
+
+        "pntPinPoint": { "x": -114, "y": 120 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인 탐사 현장",
+        "sSubTitle": "카푸의 라이딩 : 올라가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091000",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "카푸의 정거장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "n:2210003" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -67, "y": 93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "카푸의 정거장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091100",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "벌떼의 서식지 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": -13, "y": 67 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "벌떼의 서식지 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091200",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "벌떼의 서식지 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147005", "m:8147006" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 50, "y": 64 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "벌떼의 서식지 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091300",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "벌떼의 서식지 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147006", "m:8147007", "n:2210012" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 110, "y": 67 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "벌떼의 서식지 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091400",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "벌떼의 본거지",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "m:8147015" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 93, "y": 111 },
+        "nPinType": 11,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "벌떼의 본거지",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091500",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "치노의 승강장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "n:2210004", "n:2211001" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 110, "y": 24 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "치노의 승강장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240091600",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "치노의 승강기 : 올라가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "n:2210013" ]
+          },
+
+          {
+            "MapData_sMapID": "240091601",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인에게 가는 길",
+            "MapData_sMapSubName": "치노의 승강기 : 내려가는 길",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheRaiders",
+            "MapData_sLifeList": [ "n:2210013" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -14 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인에게 가는 길",
+        "sSubTitle": "치노의 승강기 : 올라가는 길",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240092000",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "치노의 승강장 꼭대기",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "n:2210005" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 113, "y": -84 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 몸",
+        "sSubTitle": "치노의 승강장 꼭대기",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240092100",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "암벽 거인의 팔",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "n:2210007", "n:2210018" ]
+          },
+
+          {
+            "MapData_sMapID": "240092101",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "암벽 거인의 팔",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "n:2210008", "n:2210018" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 137, "y": -102 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 몸",
+        "sSubTitle": "암벽 거인의 팔",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240092200",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "암벽 거인의 몸 위 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "m:8147008" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 138, "y": -161 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 몸",
+        "sSubTitle": "암벽 거인의 몸 위 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240092300",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "암벽 거인의 몸 위 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "m:8147008", "m:8147009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 98, "y": -170 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 몸",
+        "sSubTitle": "암벽 거인의 몸 위 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240092400",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 몸",
+            "MapData_sMapSubName": "암벽 거인의 몸 위 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheLivingMountain",
+            "MapData_sLifeList": [ "m:8147009" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 60, "y": -159 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 몸",
+        "sSubTitle": "암벽 거인의 몸 위 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240093000",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 내부",
+            "MapData_sMapSubName": "암벽 거인의 몸 속 1",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheColossalHeart",
+            "MapData_sLifeList": [ "m:8147010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 80, "y": -93 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 내부",
+        "sSubTitle": "암벽 거인의 몸 속 1",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240093100",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 내부",
+            "MapData_sMapSubName": "암벽 거인의 몸 속 2",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheColossalHeart",
+            "MapData_sLifeList": [ "m:8147011", "m:8147010" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 49, "y": -84 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 내부",
+        "sSubTitle": "암벽 거인의 몸 속 2",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240093200",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 내부",
+            "MapData_sMapSubName": "암벽 거인의 몸 속 3",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheColossalHeart",
+            "MapData_sLifeList": [ "m:8147011", "n:2210014", "n:2210020", "n:2210019" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 49, "y": -57 },
+        "nPinType": 1,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 내부",
+        "sSubTitle": "암벽 거인의 몸 속 3",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      },
+
+      {
+        "sMapData": [
+
+          {
+            "MapData_sMapID": "240093300",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 내부",
+            "MapData_sMapSubName": "암벽 거인의 심장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheColossalHeart",
+            "MapData_sLifeList": [ "m:8800400", "n:2210014" ]
+          },
+
+          {
+            "MapData_sMapID": "240093310",
+            "MapData_sMapIcon": "Colossus",
+            "MapData_sMapName": "암벽 거인의 내부",
+            "MapData_sMapSubName": "암벽 거인의 심장",
+            "MapData_sDesc": null,
+            "MapData_sMapBGM": "Bgm32/TheColossalHeart",
+            "MapData_sLifeList": [ "n:2210014" ]
+          }
+        ],
+
+        "pntPinPoint": { "x": 80, "y": -48 },
+        "nPinType": 2,
+
+        "nNoToolTip": 0,
+        "nNoInfo": 0,
+        "sTitle": "암벽 거인의 내부",
+        "sSubTitle": "암벽 거인의 심장",
+        "sDesc": null,
+        "sMainCity": null,
+
+        "bMapType": "List",
+
+        "bIsArchive": false,
+        "ArchiveName": null,
+        "ArchiveRegionDesc": null,
+        "sArchiveImagePath": null
+      }
+  ]
+}
