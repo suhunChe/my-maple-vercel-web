@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>세계관 선택 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <div id="header-mount"></div>
+
+    <section class="hero">
+        <h1>WORLD SELECT</h1>
+        <p>탐험할 세계관을 선택하세요. 각 차원에는 고유한 역사와 풍경이 펼쳐집니다.</p>
+    </section>
+
+    <main style="position:relative; padding: 0 0 60px;">
+        <div class="world-select-wrap">
+            <button class="ws-arrow left" id="ws-prev" aria-label="이전">‹</button>
+            <button class="ws-arrow right" id="ws-next" aria-label="다음">›</button>
+
+            <div class="world-select-track" id="ws-track">
+                <a class="world-select-card maple" href="world-map.html?world=maple">
+                    <div class="ws-img">
+                        <img src="MyMaple_PageInfo/World/WorldMap/WorldMap.png"
+                             alt="메이플 월드"
+                             onerror="this.style.display='none';">
+                    </div>
+                    <div class="ws-content">
+                        <h3>메이플 월드</h3>
+                        <p>빅토리아 아일랜드부터 무릉도원, 시간의 신전까지. 전 세대 모험가의 고향이자, 검은 마법사가 그림자를 드리운 무대.</p>
+                    </div>
+                </a>
+
+                <a class="world-select-card grandis" href="world-map.html?world=grandis">
+                    <div class="ws-img">
+                        <img src="MyMaple_PageInfo/World/GWorldMap/GWorldMap.png"
+                             alt="그란디스"
+                             onerror="this.style.display='none';this.parentElement.innerHTML='<div style=\'font-size:60px;\'>🌌</div>';">
+                    </div>
+                    <div class="ws-content">
+                        <h3>그란디스</h3>
+                        <p>차원의 너머에 펼쳐진 또 다른 대륙. 세르니움·아르크스·오디움의 운명을 건 결전의 무대.</p>
+                    </div>
+                </a>
+
+                <a class="world-select-card masteria offline-card" href="javascript:void(0)" data-offline="1" data-name="마스테리아">
+                    <div class="ws-img">
+                        <div style="font-size:60px;">🌑</div>
+                    </div>
+                    <div class="ws-content">
+                        <h3>마스테리아</h3>
+                        <p>잊혀진 대륙. 곧 만날 수 있습니다.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div style="text-align:center; margin-top: 8px;">
+            <a href="index.html" class="back-link">← 홈으로</a>
+        </div>
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/bgm-player.js"></script>
+    <script>
+    const C = window.MyMapleCommon;
+    document.getElementById('header-mount').innerHTML = C.renderSiteHeader('world', C.getInfoNavItems());
+    C.bindHeaderOfflineLinks();
+
+    // 오프라인 카드(마스테리아) 처리
+    document.querySelectorAll('.offline-card').forEach(card => {
+        card.addEventListener('click', (e) => {
+            e.preventDefault();
+            C.showToast('업데이트 예정입니다.');
+        });
+    });
+
+    // 가로 화살표 스크롤
+    const track = document.getElementById('ws-track');
+    document.getElementById('ws-prev').addEventListener('click', () => {
+        track.scrollBy({ left: -384, behavior: 'smooth' });
+    });
+    document.getElementById('ws-next').addEventListener('click', () => {
+        track.scrollBy({ left: 384, behavior: 'smooth' });
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>정보 도감 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="header-mount"></div>
+
+    <main class="info-shell">
+        <aside class="info-sidebar">
+            <div class="info-sidebar-header">
+                <span class="info-sidebar-title" id="info-sidebar-title">정보 리스트</span>
+                <span class="info-sidebar-count" id="info-count">-</span>
+            </div>
+            <div class="info-search">
+                <input id="info-search-input" type="text" placeholder="이름·ID로 검색...">
+                <button id="info-search-btn">찾기</button>
+            </div>
+            <ul class="info-list" id="info-list"></ul>
+        </aside>
+
+        <section class="info-main" id="info-detail">
+            <div class="info-empty-state">
+                <div class="emoji">📚</div>
+                <div>왼쪽 목록에서 정보를 선택하세요.</div>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/bgm-player.js"></script>
+    <script src="js/info-pages.js"></script>
+    <script>
+    window.MyMapleInfoPages.initInfoPageFromQuery();
+    </script>
+</body>
+</html>

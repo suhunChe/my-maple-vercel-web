@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>월드 지도 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="header-mount"></div>
+
+    <main class="wmx-shell">
+        <aside class="wmx-sidebar">
+            <div class="wmx-sidebar-head">
+                <nav id="breadcrumb" class="breadcrumb"></nav>
+                <div class="wmx-sidebar-context-title" id="sidebar-context-title">지역 / 맵 리스트</div>
+                <div class="wmx-sidebar-topline">
+                    <div class="wmx-sidebar-counts" id="sidebar-counts"></div>
+                    <a href="world-select.html" class="back-link wmx-map-back-link" id="sidebar-back-link">← 뒤로</a>
+                </div>
+            </div>
+            <div class="wmx-sidebar-body" id="sidebar-body">
+                <div class="loading compact"><div class="spinner"></div>목록을 불러오는 중...</div>
+            </div>
+        </aside>
+
+        <section class="wmx-main">
+            <div class="wmx-center-top">
+                <div class="wmx-center-left">
+                    <section class="wmx-info-card">
+                        <div class="wmx-stage-head" id="stage-head"></div>
+                    </section>
+                    <section class="wmx-list-card">
+                        <div class="wmx-tab-panel wmx-list-strip" id="map-tab-panel"></div>
+                    </section>
+                </div>
+
+                <section class="wmx-explorer-card">
+                    <div class="wmx-explorer-split">
+                        <section class="wmx-explorer-split-col life-col">
+                            <div class="wmx-tab-panel" id="life-tab-panel"></div>
+                        </section>
+                    </div>
+                </section>
+            </div>
+
+            <section class="wmx-stage-card">
+                <div class="wmx-stage-canvas" id="stage-canvas">
+                    <div class="loading"><div class="spinner"></div>지도를 불러오는 중...</div>
+                </div>
+            </section>
+        </section>
+
+        <aside class="wmx-panel">
+            <section class="wmx-region-card">
+                <div class="wmx-panel-title-row">
+                    <h3>REGION VIEW</h3>
+                    <span class="wmx-chip subtle">현재 지역</span>
+                </div>
+                <div id="region-panel"></div>
+            </section>
+
+            <section class="wmx-archive-card">
+                <div class="wmx-panel-title-row">
+                    <h3>월드 아카이브</h3>
+                    <span class="wmx-chip subtle" id="archive-badge">항상 표시</span>
+                </div>
+                <div id="archive-panel"></div>
+            </section>
+        </aside>
+    </main>
+
+    <aside class="wmx-life-drawer" id="life-drawer" aria-hidden="true">
+        <div class="wmx-life-drawer-head">
+            <div>
+                <div class="wmx-drawer-eyebrow" id="life-drawer-eyebrow">MOB Information</div>
+                <h3 id="life-drawer-title">몬스터 정보</h3>
+            </div>
+            <div class="wmx-life-drawer-head-actions">
+                <a class="wmx-primary-btn linklike wmx-drawer-detail-btn" id="life-drawer-detail-btn" href="#">상세 보기</a>
+                <button class="wmx-drawer-close" id="life-drawer-close" aria-label="닫기">×</button>
+            </div>
+        </div>
+        <div class="wmx-life-drawer-body" id="life-drawer-body"></div>
+    </aside>
+    <div class="wmx-life-drawer-overlay" id="life-drawer-overlay"></div>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/bgm-player.js"></script>
+    <script>
+    const C = window.MyMapleCommon;
+    const D = window.MyMapleData;
+
+    document.getElementById('header-mount').innerHTML = C.renderSiteHeader('world', C.getInfoNavItems());
+    C.bindHeaderOfflineLinks();
+
+    const params = new URLSearchParams(location.search);
+    const worldType = params.get('world') || 'maple';
+    const pathParam = params.get('path') || '';
+    const targetMapId = params.get('mapId') || '';
+    const worldPathSearchCache = new Map();
+
+    const state = {
+        currentRoot: null,
+        currentNode: null,
+        currentChain: [],
+        activeTab: 'map',
+        selectedListIdx: null,
+        selectedList: null,
+        selectedMapIdx: null,
+        selectedMapData: null,
+        expandedLists: new Set(),
+        expandedSidebarSections: new Set(['links', 'lists']),
+        lifeCache: new Map(),
+        mapTabScrollTopByList: new Map(),
+        mesoInfoList: null
+    };
+
+    function nodeContainsTargetMap(data, mapId) {
+        if (!data || !mapId) return false;
+        const listMaps = data.MapListDate || [];
+        return listMaps.some(lm => (lm?.sMapData || []).some(md => String(md?.MapData_sMapID || '') === String(mapId)));
+    }
+
+    async function findMapPathInWorld(root, mapId) {
+        if (!root || !root.data || !mapId) return null;
+        const cacheKey = `${root.type || worldType}:${mapId}`;
+        if (worldPathSearchCache.has(cacheKey)) return worldPathSearchCache.get(cacheKey);
+
+        const queue = [{ folderPath: root.folderPath, data: root.data, pathSegments: [] }];
+        const visited = new Set();
+        while (queue.length) {
+            const cur = queue.shift();
+            if (!cur || visited.has(cur.folderPath)) continue;
+            visited.add(cur.folderPath);
+            if (nodeContainsTargetMap(cur.data, mapId)) {
+                worldPathSearchCache.set(cacheKey, cur.pathSegments);
+                return cur.pathSegments;
+            }
+            for (const link of (cur.data?.MapLinkDate || [])) {
+                const child = await D.loadLinkChildMap(cur.folderPath, link);
+                if (child?.data) {
+                    queue.push({
+                        folderPath: child.folderPath,
+                        data: child.data,
+                        pathSegments: [...cur.pathSegments, link.sLinkMapID]
+                    });
+                }
+            }
+        }
+
+        worldPathSearchCache.set(cacheKey, null);
+        return null;
+    }
+
+    async function init() {
+        const root = await D.loadRootWorld(worldType);
+        if (!root) {
+            return showFatal('루트 월드 데이터를 불러오지 못했습니다. MyMaple_PageInfo 폴더가 프로젝트에 포함되어 있는지 확인해 주세요.');
+        }
+        state.currentRoot = root;
+
+        const resolvedSegments = targetMapId
+            ? ((await findMapPathInWorld(root, targetMapId)) || (pathParam ? pathParam.split('/').filter(Boolean) : []))
+            : (pathParam ? pathParam.split('/').filter(Boolean) : []);
+        if (targetMapId) {
+            const currentPath = pathParam ? pathParam.split('/').filter(Boolean).join('/') : '';
+            const nextPath = (resolvedSegments || []).join('/');
+            if (nextPath !== currentPath) {
+                const nextParams = new URLSearchParams();
+                nextParams.set('world', worldType);
+                if (nextPath) nextParams.set('path', nextPath);
+                nextParams.set('mapId', targetMapId);
+                location.replace(`world-map.html?${nextParams.toString()}`);
+                return;
+            }
+        }
+
+        const segments = resolvedSegments;
+        let folderPath = root.folderPath;
+        let nodeData = root.data;
+        let nodeEntry = null;
+        let lastKnownArchive = {
+            name: root.archiveName || null,
+            desc: root.archiveDesc || null,
+            imageRel: root.archiveImageRel || root.archiveImagePath || null
+        };
+
+        state.currentChain = [{
+            label: root.name,
+            href: `world-map.html?world=${worldType}`,
+            active: segments.length === 0
+        }];
+
+        for (let i = 0; i < segments.length; i++) {
+            const segId = segments[i];
+            const linkEntry = (nodeData?.MapLinkDate || []).find(l => l.sLinkMapID === segId);
+            if (!linkEntry) {
+                return showFatal(`경로 오류: '${segId}' 항목을 찾을 수 없습니다.`);
+            }
+            const childRes = await D.loadLinkChildMap(folderPath, linkEntry);
+            if (!childRes.data) {
+                return showFatal(`'${linkEntry.sToolTip || linkEntry.sLinkMapID}' 데이터를 불러올 수 없습니다.`);
+            }
+            const subPath = segments.slice(0, i + 1).join('/');
+            state.currentChain.push({
+                label: linkEntry.sToolTip || linkEntry.sLinkMapID,
+                href: `world-map.html?world=${worldType}&path=${encodeURIComponent(subPath)}`,
+                active: i === segments.length - 1
+            });
+            folderPath = childRes.folderPath;
+            nodeData = childRes.data;
+            nodeEntry = linkEntry;
+            if (childRes.archiveName || childRes.archiveDesc || childRes.archiveImageRel) {
+                lastKnownArchive = {
+                    name: childRes.archiveName || lastKnownArchive.name,
+                    desc: childRes.archiveDesc || lastKnownArchive.desc,
+                    imageRel: childRes.archiveImageRel || lastKnownArchive.imageRel
+                };
+            }
+        }
+
+        state.currentNode = {
+            entry: nodeEntry,
+            data: nodeData,
+            folderPath,
+            worldImagePath: nodeEntry ? `${folderPath}/${segments[segments.length - 1]}.png` : root.worldImagePath,
+            archiveName: nodeData?.sWorldArchiveMapName || lastKnownArchive.name || null,
+            archiveDesc: nodeData?.sWorldArchiveMapDesc || lastKnownArchive.desc || null,
+            archiveImageRel: nodeData?.sWorldArchiveMapImagePath
+                ? D.resolveArchiveImagePath(nodeData.sWorldArchiveMapImagePath)
+                : (lastKnownArchive.imageRel || null)
+        };
+
+        renderBreadcrumb();
+        renderRegionPanel();
+        renderStageHeader();
+        renderSidebar();
+        renderArchivePanel();
+        renderTabs();
+        renderStageMap();
+        autoSelectMapByIdIfNeeded();
+    }
+
+    function renderBreadcrumb() {
+        const el = document.getElementById('breadcrumb');
+        const items = [{ label: '홈', href: 'index.html' }, { label: '세계관', href: 'world-select.html' }, ...state.currentChain];
+        el.innerHTML = items.map((item, idx) => {
+            const sep = idx > 0 ? '<span class="sep">›</span>' : '';
+            const isLast = idx === items.length - 1;
+            if (item.href && !isLast) {
+                return `${sep}<a href="${item.href}">${C.escapeHtml(item.label)}</a>`;
+            }
+            return `${sep}<span style="color:${isLast ? '#fff' : '#aaa'};font-weight:${isLast ? '700' : '500'};">${C.escapeHtml(item.label)}</span>`;
+        }).join('');
+    }
+
+    function renderStageHeader() {
+        const target = document.getElementById('stage-head');
+        if (!target) return;
+
+        if (!state.selectedList) {
+            target.innerHTML = `<div class="empty-message small">왼쪽 LIST 맵을 선택하면 이곳에 MAP 정보가 표시됩니다.</div>`;
+            return;
+        }
+
+        const md = state.selectedMapData || state.selectedList?.sMapData?.[0];
+        if (!md) {
+            target.innerHTML = `
+                <div class="wmx-map-preview compact">
+                    <h5>${C.escapeHtml(state.selectedList.sTitle || 'LIST 맵')}</h5>
+                    <p>이 LIST에 연결된 MAP 데이터가 없습니다.</p>
+                </div>
+            `;
+            return;
+        }
+
+        const mark = md.MapData_sMapIcon ? D.resolveMapMarkPath(md.MapData_sMapIcon) : '';
+        const desc = C.unescapeKoreanText(md.MapData_sDesc || '이 맵의 상세 설명이 아직 등록되지 않았습니다.');
+        target.innerHTML = `
+            <div class="wmx-map-preview compact">
+                <div class="wmx-map-preview-head">
+                    <div class="wmx-map-preview-icon">
+                        ${mark ? `<img src="${mark}" alt="map mark" onerror="this.remove();">` : ''}
+                    </div>
+                    <div class="wmx-map-preview-title-wrap">
+                        <h5>${C.escapeHtml(getMapLineLabel(md))}</h5>
+                        <p class="wmx-stage-desc">${C.escapeHtml(desc)}</p>
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+
+    function renderRegionPanel() {
+        const target = document.getElementById('region-panel');
+        if (!target) return;
+        const entry = state.currentNode.entry;
+        const title = entry ? (entry.sToolTip || entry.sLinkMapID) : (state.currentRoot.archiveName || state.currentRoot.name);
+        const desc = entry
+            ? (C.unescapeKoreanText(entry.sListMapUpData_Desc) || '지도 위 핀을 선택해 다음 지역 또는 맵 리스트를 확인하세요.')
+            : (C.unescapeKoreanText(state.currentRoot.archiveDesc) || '메이플 월드를 탐험하며 지역별 MAP / LIFE 정보를 확인하세요.');
+        const cities = entry ? C.unescapeKoreanText(entry.sListMapUpData_MainCity || '') : '';
+        target.innerHTML = `
+            <div class="wmx-region-panel-body">
+                <div class="wmx-stage-eyebrow">${entry ? 'REGION VIEW' : 'WORLD VIEW'}</div>
+                <h3>${C.escapeHtml(title)}</h3>
+                <p>${C.escapeHtml(desc)}</p>
+                ${cities ? `<div class="wmx-stage-cities">${C.escapeHtml(cities)}</div>` : ''}
+            </div>
+        `;
+    }
+
+    function getMapLineLabel(md) {
+        if (!md) return 'MAP';
+        const parts = [];
+        if (md.MapData_sMapName) parts.push(md.MapData_sMapName);
+        if (md.MapData_sMapSubName && md.MapData_sMapSubName !== md.MapData_sMapName) parts.push(md.MapData_sMapSubName);
+        return parts.join(' - ') || md.MapData_sMapID || 'MAP';
+    }
+
+    function getListPrimaryMapLabel(lm) {
+        const md = lm?.sMapData?.[0];
+        if (!md) return '';
+        return md.MapData_sMapSubName || md.MapData_sMapName || md.MapData_sMapID || '';
+    }
+
+    function getChildMapLineLabel(md) {
+        if (!md) return 'MAP';
+        const left = md.MapData_sMapName || md.MapData_sMapID || 'MAP';
+        const right = md.MapData_sMapSubName && md.MapData_sMapSubName !== left ? md.MapData_sMapSubName : '';
+        return right ? `${left} : ${right}` : left;
+    }
+
+    function formatNumericDisplay(value) {
+        if (value === undefined || value === null || value === '') return '';
+        if (typeof value === 'number' && Number.isFinite(value)) {
+            return value.toLocaleString('en-US');
+        }
+        const normalized = String(value).replace(/,/g, '').trim();
+        if (/^-?\d+(?:\.\d+)?$/.test(normalized)) {
+            const num = Number(normalized);
+            if (Number.isFinite(num)) return num.toLocaleString('en-US');
+        }
+        return String(value);
+    }
+
+    function formatRespawnMinutes(value) {
+        if (value === undefined || value === null || value === '') return '';
+        const normalized = String(value).replace(/,/g, '').trim();
+        if (!/^-?\d+(?:\.\d+)?$/.test(normalized)) return String(value);
+        const seconds = Number(normalized);
+        if (!Number.isFinite(seconds)) return String(value);
+        const minutes = seconds / 60;
+        const display = Number.isInteger(minutes)
+            ? minutes.toLocaleString('en-US')
+            : minutes.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+        return `${display}분`;
+    }
+
+    function formatCompactStatValue(value) {
+        if (value === undefined || value === null || value === '') {
+            return { primary: '', secondary: '' };
+        }
+        const normalized = String(value).replace(/,/g, '').trim();
+        if (!/^-?\d+(?:\.\d+)?$/.test(normalized)) {
+            return { primary: String(value), secondary: '' };
+        }
+        const num = Number(normalized);
+        if (!Number.isFinite(num)) {
+            return { primary: String(value), secondary: '' };
+        }
+        const full = num.toLocaleString('en-US');
+        const abs = Math.abs(num);
+        let primary = full;
+        if (abs >= 1000000000000) {
+            const compact = num / 1000000000000;
+            const display = Number.isInteger(compact)
+                ? compact.toLocaleString('ko-KR')
+                : compact.toLocaleString('ko-KR', { minimumFractionDigits: 0, maximumFractionDigits: 1 });
+            primary = `${display}조`;
+        } else if (abs >= 100000000) {
+            const compact = num / 100000000;
+            const display = Number.isInteger(compact)
+                ? compact.toLocaleString('ko-KR')
+                : compact.toLocaleString('ko-KR', { minimumFractionDigits: 0, maximumFractionDigits: 1 });
+            primary = `${display}억`;
+        } else if (abs >= 10000) {
+            const compact = num / 10000;
+            const display = Number.isInteger(compact)
+                ? compact.toLocaleString('ko-KR')
+                : compact.toLocaleString('ko-KR', { minimumFractionDigits: 0, maximumFractionDigits: 1 });
+            primary = `${display}만`;
+        }
+        return {
+            primary,
+            secondary: primary !== full ? full : ''
+        };
+    }
+
+    async function loadMesoInfoList() {
+        if (state.mesoInfoList) return state.mesoInfoList;
+        const data = await D.fetchJSON(`${D.PATHS.SPECIAL_IMG}/Meso_Image/Meso.json`);
+        state.mesoInfoList = data?.MesoInfoDate || [];
+        return state.mesoInfoList;
+    }
+
+    function resolveMesoImagePath(imageName) {
+        if (!imageName) return null;
+        return D.normalizeWebPath(`${D.PATHS.SPECIAL_IMG}/Meso_Image/${imageName}`);
+    }
+
+    async function getMesoDropVisual(minValue, maxValue) {
+        const mesoList = await loadMesoInfoList();
+        if (!mesoList.length) return null;
+        const min = Number(String(minValue ?? '').replace(/,/g, ''));
+        const max = Number(String(maxValue ?? '').replace(/,/g, ''));
+        const ref = Number.isFinite(max) && max > 0 ? max : (Number.isFinite(min) ? min : null);
+        if (ref === null) return null;
+        const matched = mesoList.find(info => {
+            const rangeMin = Number(info.nMesoMin ?? 0);
+            const rangeMax = info.nMesoMax === null || info.nMesoMax === undefined || info.nMesoMax === ''
+                ? Infinity
+                : Number(info.nMesoMax);
+            return ref >= rangeMin && ref <= rangeMax;
+        });
+        if (!matched) return null;
+        return {
+            ...matched,
+            imageUrl: resolveMesoImagePath(matched.sImagePath)
+        };
+    }
+
+    function normalizeDropItemEntries(rawDropList) {
+        const collected = [];
+        const seen = new Set();
+        const pushEntry = (entry = {}) => {
+            const rawId = entry.id ?? entry.itemId ?? entry.itemID ?? entry.nItemID ?? entry.sItemID ?? entry.sItemId ?? entry.value;
+            const idText = String(rawId ?? '').trim();
+            if (!idText) return;
+            const cleanId = idText.padStart(7, '0');
+            if (seen.has(cleanId)) return;
+            seen.add(cleanId);
+            collected.push({
+                id: cleanId,
+                sourceType: String(entry.sSourceType ?? entry.sourceType ?? '').trim().toUpperCase(),
+                itemName: entry.sItemName ?? entry.sName ?? null,
+                itemDesc: entry.sItemDesc ?? entry.desc ?? null
+            });
+        };
+        const visit = (value) => {
+            if (value === undefined || value === null || value === '') return;
+            if (Array.isArray(value)) {
+                value.forEach(visit);
+                return;
+            }
+            if (typeof value === 'number') {
+                pushEntry({ id: String(Math.trunc(value)) });
+                return;
+            }
+            if (typeof value === 'object') {
+                const keys = ['id', 'itemId', 'itemID', 'nItemID', 'sItemID', 'sItemId', 'value'];
+                const hasKnownIdKey = keys.some((key) => value[key] !== undefined && value[key] !== null && value[key] !== '');
+                if (hasKnownIdKey) {
+                    pushEntry(value);
+                    return;
+                }
+                Object.values(value).forEach((entry) => {
+                    if (typeof entry === 'string' || typeof entry === 'number' || Array.isArray(entry) || (entry && typeof entry === 'object')) {
+                        visit(entry);
+                    }
+                });
+                return;
+            }
+            const text = String(value).trim();
+            if (!text || /^null$/i.test(text)) return;
+            if ((text.startsWith('[') && text.endsWith(']')) || (text.startsWith('{') && text.endsWith('}'))) {
+                try {
+                    visit(JSON.parse(text));
+                    return;
+                } catch (_) {}
+            }
+            const matches = text.match(/\d{4,}/g);
+            if (matches && matches.length) {
+                matches.forEach((match) => pushEntry({ id: match }));
+                return;
+            }
+            text.split(/[\s,;|/]+/).map(part => part.trim()).filter(Boolean).forEach((part) => {
+                if (/^\d{4,}$/.test(part)) pushEntry({ id: part });
+            });
+        };
+        visit(rawDropList);
+        return collected;
+    }
+
+    async function loadMobDropItems(rawDropList) {
+        const entries = normalizeDropItemEntries(rawDropList);
+        if (!entries.length) return [];
+        const items = await Promise.all(entries.map((entry) => D.loadItem(entry.id).catch(() => null)));
+        return entries.map((entry, index) => {
+            const loadedItem = items[index];
+            const fallbackData = {
+                sName: entry.itemName || entry.id,
+                sFunc: entry.itemName || entry.id,
+                sItemDesc: entry.itemDesc || null
+            };
+            if (!loadedItem) {
+                return {
+                    id: entry.id,
+                    type: 'item',
+                    data: fallbackData,
+                    imagePath: D.normalizeWebPath(`${D.PATHS.ITEM}/${entry.id}/${entry.id}.png`),
+                    sourceType: entry.sourceType || ''
+                };
+            }
+            return {
+                ...loadedItem,
+                data: {
+                    ...loadedItem.data,
+                    sName: loadedItem.data?.sName ?? fallbackData.sName,
+                    sFunc: loadedItem.data?.sFunc ?? fallbackData.sFunc,
+                    sItemDesc: loadedItem.data?.sItemDesc ?? fallbackData.sItemDesc
+                },
+                sourceType: entry.sourceType || ''
+            };
+        });
+    }
+
+    function renderMobDropItemsSection(items) {
+        if (!items.length) {
+            return `
+                <div class="wmx-drawer-section">
+                    <h4>드랍 아이템</h4>
+                    <div class="wmx-drop-empty">아이템 없음</div>
+                </div>
+            `;
+        }
+        return `
+            <div class="wmx-drawer-section">
+                <h4>드랍 아이템</h4>
+                <div class="wmx-drop-item-grid">
+                    ${items.map((dropItem) => {
+                        const itemName = C.unescapeKoreanText(dropItem.data?.sFunc || dropItem.data?.sName || dropItem.id || '아이템');
+                        const itemDesc = C.unescapeKoreanText(dropItem.data?.sItemDesc || '설명 없음');
+                        const sourceType = String(dropItem.sourceType || '').trim().toUpperCase();
+                        const sourceIcon = /^[AWJS]$/.test(sourceType)
+                            ? D.normalizeWebPath(`${D.PATHS.SPECIAL_IMG}/DropItem_InfoType/${sourceType}.png`)
+                            : '';
+                        return `
+                            <div class="wmx-drop-item" tabindex="0">
+                                <img src="${dropItem.imagePath}" alt="${C.escapeHtml(itemName)}" onerror="this.style.display='none';this.parentElement.classList.add('no-image');if(!this.parentElement.querySelector('.wmx-drop-item-fallback')){const span=document.createElement('span');span.className='wmx-drop-item-fallback';span.textContent='${C.escapeHtml(dropItem.id)}';this.parentElement.appendChild(span);}">
+                                ${sourceIcon ? `<img class="wmx-drop-item-source-icon" src="${sourceIcon}" alt="${C.escapeHtml(sourceType)}" title="${C.escapeHtml(sourceType)}" onerror="this.remove()">` : ''}
+                                <div class="wmx-drop-item-tooltip" role="tooltip">
+                                    <strong>${C.escapeHtml(itemName)}</strong>
+                                    <span>${C.escapeHtml(itemDesc)}</span>
+                                </div>
+                            </div>
+                        `;
+                    }).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    function bindDropItemTooltips(scope) {
+        if (!scope) return;
+        const drawer = document.getElementById('life-drawer');
+        if (!drawer) return;
+        const updateTooltipPosition = (item) => {
+            const tooltip = item?.querySelector('.wmx-drop-item-tooltip');
+            if (!tooltip) return;
+            item.style.setProperty('--wmx-drop-tooltip-shift', '0px');
+            const drawerRect = drawer.getBoundingClientRect();
+            const itemRect = item.getBoundingClientRect();
+            const tooltipRect = tooltip.getBoundingClientRect();
+            const projectedLeft = itemRect.left + (itemRect.width / 2) - (tooltipRect.width / 2);
+            const projectedRight = projectedLeft + tooltipRect.width;
+            const minLeft = drawerRect.left + 12;
+            const maxRight = drawerRect.right - 12;
+            let shift = 0;
+            if (projectedLeft < minLeft) {
+                shift = minLeft - projectedLeft;
+            } else if (projectedRight > maxRight) {
+                shift = maxRight - projectedRight;
+            }
+            item.style.setProperty('--wmx-drop-tooltip-shift', `${shift}px`);
+        };
+        scope.querySelectorAll('.wmx-drop-item').forEach((item) => {
+            item.addEventListener('mouseenter', () => updateTooltipPosition(item));
+            item.addEventListener('focus', () => updateTooltipPosition(item));
+        });
+    }
+
+    function scrollCurrentSelectionIntoView() {
+        const body = document.getElementById('sidebar-body');
+        if (!body) return;
+        requestAnimationFrame(() => {
+            let target = null;
+            if (state.selectedListIdx !== null && state.selectedMapIdx !== null && state.selectedMapIdx > 0) {
+                target = body.querySelector(`.wmx-list-accordion[data-list-idx="${state.selectedListIdx}"] .wmx-submap-item[data-map-idx="${state.selectedMapIdx}"]`);
+            }
+            if (!target && state.selectedListIdx !== null) {
+                target = body.querySelector(`.wmx-list-accordion[data-list-idx="${state.selectedListIdx}"] > .wmx-list-accordion-head`);
+            }
+            if (!target) return;
+            target.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'smooth' });
+        });
+    }
+
+    function renderSidebar() {
+        const body = document.getElementById('sidebar-body');
+        const contextTitleEl = document.getElementById('sidebar-context-title');
+        const countsEl = document.getElementById('sidebar-counts');
+        const backLinkEl = document.getElementById('sidebar-back-link');
+        const links = state.currentNode.data?.MapLinkDate || [];
+        const listMaps = state.currentNode.data?.MapListDate || [];
+        const linksExpanded = state.expandedSidebarSections.has('links');
+        const listsExpanded = state.expandedSidebarSections.has('lists');
+
+        const backHref = state.currentChain.length > 1 ? 'javascript:history.back()' : 'world-select.html';
+        contextTitleEl.textContent = state.currentNode.entry ? (state.currentNode.entry.sToolTip || '지역 / 맵 리스트') : (state.currentRoot.name + ' 탐색');
+        countsEl.innerHTML = `<span class="wmx-chip">LINK ${links.length}</span><span class="wmx-chip">LIST ${listMaps.length}</span>`;
+        if (backLinkEl) backLinkEl.href = backHref;
+
+        const sections = [];
+        if (links.length) {
+            sections.push(`
+                <section class="wmx-side-section wmx-side-fold ${linksExpanded ? 'expanded' : 'collapsed'}">
+                    <button class="wmx-side-section-title foldable" type="button" onclick="toggleSidebarSection('links')">
+                        <span class="wmx-side-section-arrow">&gt;</span>
+                        <span>LINK 지역</span>
+                    </button>
+                    <ul class="sidebar-list wmx-link-list ${linksExpanded ? '' : 'collapsed'}">
+                        ${links.map(link => {
+                            const tooltip = C.unescapeKoreanText(link.sListMapUpData_Desc || link.sToolTip || '');
+                            const pinUrl = D.resolvePinDotPath(link.nPinType);
+                            const fallbackPinUrl = D.resolvePinDotPath(0);
+                            return `
+                                <li class="wmx-link-row" data-link-id="${C.escapeHtml(link.sLinkMapID)}" data-tooltip="${C.escapeHtml(tooltip)}">
+                                    <button class="wmx-list-accordion-head wmx-link-head" type="button" onclick="selectLinkRegion('${C.escapeHtml(link.sLinkMapID)}')">
+                                        <span class="wmx-list-chevron hidden">&gt;</span>
+                                        <span class="wmx-list-pin-wrap">
+                                            <img class="wmx-list-pin" src="${pinUrl}" alt="pin" onerror="if(this.src.indexOf('dot_0')===-1){this.src='${fallbackPinUrl}'}else{this.style.display='none'}">
+                                        </span>
+                                        <span class="wmx-list-line wmx-link-line">
+                                            <strong>${C.escapeHtml(link.sToolTip || link.sLinkMapID)}</strong>
+                                        </span>
+                                    </button>
+                                </li>
+                            `;
+                        }).join('')}
+                    </ul>
+                </section>
+            `);
+        }
+
+        if (listMaps.length) {
+            sections.push(`
+                <section class="wmx-side-section wmx-side-fold ${listsExpanded ? 'expanded' : 'collapsed'}">
+                    <button class="wmx-side-section-title foldable" type="button" onclick="toggleSidebarSection('lists')">
+                        <span class="wmx-side-section-arrow">&gt;</span>
+                        <span>LIST 맵</span>
+                    </button>
+                    <ul class="sidebar-list wmx-list-accordion-list ${listsExpanded ? '' : 'collapsed'}">
+                        ${listMaps.map((lm, idx) => {
+                            const expanded = state.expandedLists.has(idx);
+                            const selected = idx === state.selectedListIdx;
+                            const title = lm.sTitle || (lm.sMapData?.[0]?.MapData_sMapName) || '맵';
+                            const maps = lm.sMapData || [];
+                            const hasChildren = maps.length > 1;
+                            const primaryLabel = getListPrimaryMapLabel(lm);
+                            const pinUrl = D.resolvePinDotPath(lm.nPinType);
+                            const fallbackPinUrl = D.resolvePinDotPath(0);
+                            return `
+                                <li class="wmx-list-accordion ${selected ? 'selected' : ''} ${expanded ? 'expanded' : ''} ${hasChildren ? 'has-children' : 'single-map'}" data-list-idx="${idx}">
+                                    <button class="wmx-list-accordion-head" type="button" onclick="handleListRowClick(event, ${idx})">
+                                        <span class="wmx-list-chevron ${hasChildren ? '' : 'hidden'}">&gt;</span>
+                                        <span class="wmx-list-pin-wrap">
+                                            <img class="wmx-list-pin" src="${pinUrl}" alt="pin" onerror="if(this.src.indexOf('dot_0')===-1){this.src='${fallbackPinUrl}'}else{this.style.display='none'}">
+                                        </span>
+                                        <span class="wmx-list-line">
+                                            <strong>${C.escapeHtml(title)}</strong>
+                                            ${primaryLabel ? `<span>${C.escapeHtml(primaryLabel)}</span>` : ''}
+                                        </span>
+                                    </button>
+                                    ${hasChildren ? `
+                                        <div class="wmx-list-submaps">
+                                            ${maps.slice(1).map((md, childOffset) => {
+                                                const mapIdx = childOffset + 1;
+                                                const active = selected && mapIdx === state.selectedMapIdx;
+                                                return `
+                                                    <button class="wmx-submap-item ${active ? 'selected' : ''}" type="button" data-map-idx="${mapIdx}" onclick="selectSubMapFromList(event, ${idx}, ${mapIdx})">
+                                                        <strong>${C.escapeHtml(getChildMapLineLabel(md))}</strong>
+                                                    </button>
+                                                `;
+                                            }).join('')}
+                                        </div>
+                                    ` : ''}
+                                </li>
+                            `;
+                        }).join('')}
+                    </ul>
+                </section>
+            `);
+        }
+
+        if (!sections.length) {
+            body.innerHTML = '<div class="empty-message" style="margin:16px;">하위 지역이 없습니다.</div>';
+            return;
+        }
+        body.innerHTML = sections.join('');
+    }
+
+    function renderArchivePanel() {
+        const wrap = document.getElementById('archive-panel');
+        const entry = state.currentNode.entry;
+        let title = state.currentNode.archiveName || state.currentRoot.archiveName || state.currentRoot.name;
+        let desc = C.unescapeKoreanText(state.currentNode.archiveDesc || state.currentRoot.archiveDesc || '');
+        let image = state.currentNode.archiveImageRel || state.currentRoot.archiveImageRel || state.currentRoot.archiveImagePath;
+        let badge = '월드 기준';
+
+        const isEntryArchive = entry && (entry.bIsArchive === true || entry.bIsArchive === 1 || entry.bIsArchive === '1' || entry.bIsArchive === 'true');
+        if (isEntryArchive) {
+            title = entry.sArchiveName || entry.sToolTip || title;
+            desc = C.unescapeKoreanText(entry.sArchiveDesc || entry.sListMapUpData_Desc || desc);
+            image = D.resolveArchiveImagePath(entry.sArchiveImagePath) || image;
+            badge = '지역 아카이브';
+        }
+
+        const archiveSource = [state.selectedMapData, state.selectedList].find(src => {
+            if (!src) return false;
+            const isArchive = src.bIsArchive === true || src.bIsArchive === 1 || src.bIsArchive === '1' || src.bIsArchive === 'true';
+            return isArchive;
+        });
+
+        if (archiveSource) {
+            const archiveDesc = archiveSource.ArchiveRegionDesc
+                || archiveSource.sArchiveRegionDesc
+                || archiveSource.sArchiveregionDesc
+                || archiveSource.MapData_ArchiveRegionDesc
+                || archiveSource.MapData_sArchiveRegionDesc
+                || archiveSource.MapData_sArchiveregionDesc
+                || '';
+            const archiveImage = archiveSource.sArchiveImagePath
+                || archiveSource.ArchiveImagePath
+                || archiveSource.MapData_sArchiveImagePath
+                || archiveSource.MapData_ArchiveImagePath
+                || '';
+            title = archiveSource.ArchiveName
+                || archiveSource.sArchiveName
+                || archiveSource.MapData_sMapSubName
+                || archiveSource.MapData_sMapName
+                || archiveSource.sTitle
+                || title;
+            desc = C.unescapeKoreanText(archiveDesc || desc);
+            image = D.resolveArchiveImagePath(archiveImage) || image;
+            badge = 'LIST 아카이브';
+        }
+
+        document.getElementById('archive-badge').textContent = badge;
+
+        wrap.innerHTML = `
+            <div class="wmx-archive-media ${image ? '' : 'empty'}">
+                ${image ? `<img src="${C.escapeHtml(image)}" alt="${C.escapeHtml(title)}" onerror="this.parentElement.classList.add('empty');this.remove();">` : '<div class="wmx-archive-fallback">ARCHIVE</div>'}
+            </div>
+            <div class="wmx-archive-body">
+                <h4>${C.escapeHtml(title)}</h4>
+                <p>${C.escapeHtml(desc || '선택한 지역의 아카이브 정보가 이 영역에 계속 표시됩니다.')}</p>
+            </div>
+        `;
+    }
+
+    function renderTabs() {
+        const tabs = document.querySelectorAll('.wmx-tab');
+        if (!tabs.length) {
+            const mapPanel = document.getElementById('map-tab-panel');
+            const lifePanel = document.getElementById('life-tab-panel');
+            if (mapPanel) mapPanel.style.display = 'block';
+            if (lifePanel) lifePanel.style.display = 'block';
+            return;
+        }
+        tabs.forEach(btn => {
+            btn.addEventListener('click', () => {
+                tabs.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                state.activeTab = btn.dataset.tab;
+                document.getElementById('map-tab-panel').style.display = state.activeTab === 'map' ? 'block' : 'none';
+                document.getElementById('life-tab-panel').style.display = state.activeTab === 'life' ? 'block' : 'none';
+                if (state.activeTab === 'life') renderLifeTab();
+            });
+        });
+    }
+
+    function renderStageMap() {
+        const wrap = document.getElementById('stage-canvas');
+        const links = state.currentNode.data?.MapLinkDate || [];
+        const listMaps = state.currentNode.data?.MapListDate || [];
+
+        wrap.innerHTML = `
+            <div class="wmx-map-canvas" id="map-canvas">
+                <img class="world-map-img" id="world-map-img" src="${C.escapeHtml(state.currentNode.worldImagePath)}" alt="map image" onerror="this.style.opacity='0.2'">
+            </div>
+        `;
+
+        const canvas = document.getElementById('map-canvas');
+        const img = document.getElementById('world-map-img');
+
+        const placePins = () => {
+            canvas.querySelectorAll('.map-pin,.click-pos-marker').forEach(node => node.remove());
+            const w = img.naturalWidth || img.offsetWidth || 800;
+            const h = img.naturalHeight || img.offsetHeight || 600;
+            const displayW = img.getBoundingClientRect().width || img.offsetWidth || w;
+            const mapScale = displayW / w;
+
+            links.forEach(link => {
+                addPin({
+                    point: link.pntListMapUpData_PinPoint || link.pntOrigin,
+                    nPinType: link.nPinType,
+                    tooltipHtml: renderLinkTooltip(link),
+                    kind: 'link',
+                    onClick: () => selectLinkRegion(link.sLinkMapID, link.pntListMapUpData_PinPoint || link.pntOrigin)
+                }, w, h, canvas, mapScale);
+            });
+
+            listMaps.forEach((lm, idx) => {
+                addPin({
+                    point: lm.pntPinPoint,
+                    nPinType: lm.nPinType,
+                    tooltipHtml: renderListTooltip(lm),
+                    kind: 'list',
+                    onClick: () => selectListMap(idx, { forceExpand: true, autoSelectFirst: true, switchToLifeOnAutoSelect: false })
+                }, w, h, canvas, mapScale);
+            });
+
+            if (state.selectedList && state.selectedList.pntPinPoint) {
+                showClickPos(state.selectedList.pntPinPoint);
+            }
+        };
+
+        if (img.complete && img.naturalWidth) placePins();
+        else {
+            img.addEventListener('load', placePins, { once: true });
+            img.addEventListener('error', placePins, { once: true });
+        }
+    }
+
+    function addPin(opts, imgW, imgH, canvas, mapScale = 1) {
+        const pos = D.pinPointToPercent(opts.point, imgW, imgH);
+        const pin = document.createElement('a');
+        pin.className = `map-pin ${opts.kind === 'list' ? 'list-pin' : 'link-pin'}`;
+        pin.href = 'javascript:void(0)';
+        pin.style.left = pos.left + '%';
+        pin.style.top = pos.top + '%';
+        if (pos.left < 14) pin.classList.add('edge-left');
+        else if (pos.left > 86) pin.classList.add('edge-right');
+        if (pos.top < 18) pin.classList.add('edge-top');
+        const dotUrl = D.resolvePinDotPath(opts.nPinType);
+        const fallbackUrl = D.resolvePinDotPath(0);
+        pin.innerHTML = `
+            <img src="${dotUrl}" alt="pin"
+                 onerror="if(this.src.indexOf('dot_0')===-1){this.src='${fallbackUrl}'}else{this.outerHTML='<div class=&quot;map-pin-fallback&quot;></div>'}">
+            ${opts.tooltipHtml ? `<span class="pin-tooltip rich">${opts.tooltipHtml}</span>` : ''}
+        `;
+        pin.addEventListener('click', evt => {
+            evt.preventDefault();
+            opts.onClick();
+        });
+        canvas.appendChild(pin);
+
+        const pinImg = pin.querySelector('img');
+        if (pinImg) {
+            const applyIntrinsicScale = () => {
+                const iw = pinImg.naturalWidth || 20;
+                const ih = pinImg.naturalHeight || 20;
+                pin.style.width = `${Math.max(8, iw * mapScale)}px`;
+                pin.style.height = `${Math.max(8, ih * mapScale)}px`;
+            };
+            if (pinImg.complete && pinImg.naturalWidth) applyIntrinsicScale();
+            else pinImg.addEventListener('load', applyIntrinsicScale, { once: true });
+        }
+    }
+
+    function renderLinkTooltip(link) {
+        const desc = C.unescapeKoreanText(link.sListMapUpData_Desc || '');
+        const cities = C.unescapeKoreanText(link.sListMapUpData_MainCity || '');
+        return `
+            <strong>${C.escapeHtml(link.sToolTip || link.sLinkMapID || '지역')}</strong>
+            ${desc ? `<small class="pin-tooltip-desc">${C.escapeHtml(desc)}</small>` : ''}
+            ${cities ? `<em class="pin-tooltip-cities">${C.escapeHtml(cities)}</em>` : ''}
+        `;
+    }
+
+    function renderListTooltip(lm) {
+        const title = lm.sTitle || lm.sMapData?.[0]?.MapData_sMapSubName || 'LIST';
+        const lines = (lm.sMapData || [])
+            .map(md => getMapLineLabel(md))
+            .filter(Boolean)
+            .map(line => C.escapeHtml(line));
+        return `
+            <strong>${C.escapeHtml(title)}</strong>
+            <small class="pin-tooltip-map-lines">${lines.length ? lines.join('<br>') : '표시할 MAP 정보가 없습니다.'}</small>
+        `;
+    }
+
+    function selectLinkRegion(linkId, point) {
+        const target = (state.currentNode.data?.MapLinkDate || []).find(link => link.sLinkMapID === linkId);
+        if (!target) return;
+        document.querySelectorAll('[data-link-id]').forEach(li => li.classList.remove('selected'));
+        const li = document.querySelector(`[data-link-id="${CSS.escape(linkId)}"]`);
+        if (li) {
+            li.classList.add('selected');
+            li.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: 'smooth' });
+        }
+        const markerPoint = point || target.pntListMapUpData_PinPoint || target.pntOrigin;
+        if (markerPoint) showClickPos(markerPoint);
+        setTimeout(() => {
+            const subPath = (pathParam ? pathParam + '/' : '') + target.sLinkMapID;
+            location.href = `world-map.html?world=${worldType}&path=${encodeURIComponent(subPath)}`;
+        }, 120);
+    }
+
+    function autoSelectFirstListIfNeeded() {
+        renderMapTab();
+        renderLifeTab();
+    }
+
+    function autoSelectMapByIdIfNeeded() {
+        if (!targetMapId) {
+            autoSelectFirstListIfNeeded();
+            return;
+        }
+        const listMaps = state.currentNode.data?.MapListDate || [];
+        for (let listIdx = 0; listIdx < listMaps.length; listIdx += 1) {
+            const lm = listMaps[listIdx];
+            const maps = lm?.sMapData || [];
+            const mapIdx = maps.findIndex(md => String(md?.MapData_sMapID || '') === String(targetMapId));
+            if (mapIdx !== -1) {
+                const hasChildren = maps.length > 1;
+                selectListMap(listIdx, { forceExpand: hasChildren, autoSelectFirst: false, switchToLifeOnAutoSelect: false });
+                selectSubMap(mapIdx, false);
+                return;
+            }
+        }
+        autoSelectFirstListIfNeeded();
+    }
+
+    function toggleSidebarSection(sectionKey) {
+        if (state.expandedSidebarSections.has(sectionKey)) state.expandedSidebarSections.delete(sectionKey);
+        else state.expandedSidebarSections.add(sectionKey);
+        renderSidebar();
+    }
+
+    function handleListRowClick(event, idx) {
+        if (event) {
+            event.preventDefault();
+            event.stopPropagation();
+        }
+        const listMaps = state.currentNode.data?.MapListDate || [];
+        const lm = listMaps[idx];
+        if (!lm) return;
+        const hasChildren = (lm.sMapData || []).length > 1;
+        if (!hasChildren) {
+            selectListMap(idx, { forceExpand: false, autoSelectFirst: true, switchToLifeOnAutoSelect: false });
+            return;
+        }
+        toggleListMap(null, idx);
+    }
+
+    function toggleListMap(event, idx) {
+        if (event) {
+            event.preventDefault();
+            event.stopPropagation();
+        }
+        const listMaps = state.currentNode.data?.MapListDate || [];
+        const lm = listMaps[idx];
+        if (!lm) return;
+        const hasChildren = (lm.sMapData || []).length > 1;
+        if (!hasChildren) {
+            selectListMap(idx, { forceExpand: false, autoSelectFirst: true, switchToLifeOnAutoSelect: false });
+            return;
+        }
+        const willExpand = state.selectedListIdx !== idx ? true : !state.expandedLists.has(idx);
+        if (willExpand) state.expandedLists.add(idx);
+        else state.expandedLists.delete(idx);
+        selectListMap(idx, { forceExpand: willExpand, autoSelectFirst: true, switchToLifeOnAutoSelect: false });
+    }
+
+    function selectSubMapFromList(event, listIdx, mapIdx) {
+        if (event) {
+            event.preventDefault();
+            event.stopPropagation();
+        }
+        selectListMap(listIdx, { forceExpand: true, autoSelectFirst: false });
+        selectSubMap(mapIdx, true);
+    }
+
+    function selectListMap(idx, options = {}) {
+        const { forceExpand = true, autoSelectFirst = false, switchToLifeOnAutoSelect = false } = options;
+        const listMaps = state.currentNode.data?.MapListDate || [];
+        const lm = listMaps[idx];
+        if (!lm) return;
+        state.selectedListIdx = idx;
+        state.selectedList = lm;
+        state.selectedMapIdx = null;
+        state.selectedMapData = null;
+        if (forceExpand) state.expandedLists.add(idx);
+        else state.expandedLists.delete(idx);
+
+        showClickPos(lm.pntPinPoint);
+        renderSidebar();
+        scrollCurrentSelectionIntoView();
+        renderStageHeader();
+        renderArchivePanel();
+        renderSelectionSummary();
+        renderMapTab();
+        if (autoSelectFirst && (lm.sMapData || []).length) {
+            selectSubMap(0, switchToLifeOnAutoSelect);
+        } else {
+            renderLifeTab();
+        }
+    }
+
+    function selectSubMap(idx, switchToLife = false) {
+        const maps = state.selectedList?.sMapData || [];
+        const md = maps[idx];
+        if (!md) return;
+        state.selectedMapIdx = idx;
+        state.selectedMapData = md;
+        renderSidebar();
+        scrollCurrentSelectionIntoView();
+        renderStageHeader();
+        renderArchivePanel();
+        renderSelectionSummary();
+        renderMapTab();
+        renderLifeTab();
+        if (md.MapData_sMapBGM) {
+            window.MyMapleBGM.playBgm(md.MapData_sMapBGM, md.MapData_sMapSubName || md.MapData_sMapName || md.MapData_sMapID, true);
+        }
+        if (switchToLife) {
+            const lifePanel = document.getElementById('life-tab-panel');
+            if (lifePanel) lifePanel.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+    }
+
+    function renderSelectionSummary() {
+        const wrap = document.getElementById('selection-summary');
+        if (!wrap) return;
+        if (!state.selectedList) {
+            wrap.textContent = '아직 선택된 LIST 맵이 없습니다. 지도 위 LIST 핀을 누르거나 왼쪽 LIST 맵을 펼쳐 주세요.';
+            return;
+        }
+        const md = state.selectedMapData;
+        const count = md?.MapData_sLifeList?.length || 0;
+        wrap.innerHTML = `
+            <div class="wmx-summary-title">${C.escapeHtml(state.selectedList.sTitle || 'LIST 맵')}</div>
+            <div class="wmx-summary-sub">${md ? `${C.escapeHtml(getMapLineLabel(md))} · LIFE ${count}개` : '왼쪽 LIST 맵을 펼쳐 세부 MAP을 선택하면 LIFE 정보를 볼 수 있습니다.'}</div>
+        `;
+    }
+
+    function renderMapTab() {
+        const wrap = document.getElementById('map-tab-panel');
+        const prevList = wrap?.querySelector('.wmx-map-card-list.compact');
+        if (prevList && state.selectedListIdx !== null) {
+            state.mapTabScrollTopByList.set(state.selectedListIdx, prevList.scrollTop || 0);
+        }
+        if (!state.selectedList) {
+            wrap.innerHTML = `<div class="empty-message small">왼쪽 LIST 맵을 선택하면 이곳에 MAP LIST가 표시됩니다.</div>`;
+            return;
+        }
+        const maps = state.selectedList.sMapData || [];
+        if (!maps.length) {
+            wrap.innerHTML = `<div class="empty-message small">이 LIST에는 연결된 MAP 데이터가 없습니다.</div>`;
+            return;
+        }
+
+        wrap.innerHTML = `
+            <div class="wmx-list-tab-shell">
+                <div class="wmx-map-card-list compact">
+                    ${maps.map((md, idx) => {
+                        const mark = md.MapData_sMapIcon ? D.resolveMapMarkPath(md.MapData_sMapIcon) : '';
+                        const selected = idx === state.selectedMapIdx || (!state.selectedMapData && idx === 0);
+                        return `
+                            <button class="wmx-map-card vertical-compact ${selected ? 'selected' : ''}" type="button" onclick="selectSubMap(${idx}, false)" title="${C.escapeHtml(getMapLineLabel(md))}">
+                                <div class="wmx-map-card-icon">
+                                    ${mark ? `<img src="${mark}" alt="map mark" onerror="this.remove();">` : ''}
+                                </div>
+                                <div class="wmx-map-card-text">
+                                    <strong>${C.escapeHtml(getMapLineLabel(md))}</strong>
+                                    ${md.MapData_sMapID ? `<small>ID ${C.escapeHtml(md.MapData_sMapID)}</small>` : ''}
+                                </div>
+                            </button>
+                        `;
+                    }).join('')}
+                </div>
+            </div>
+        `;
+
+        const nextList = wrap.querySelector('.wmx-map-card-list.compact');
+        if (nextList && state.selectedListIdx !== null) {
+            const savedScrollTop = state.mapTabScrollTopByList.get(state.selectedListIdx) || 0;
+            requestAnimationFrame(() => {
+                nextList.scrollTop = savedScrollTop;
+            });
+            nextList.addEventListener('scroll', () => {
+                state.mapTabScrollTopByList.set(state.selectedListIdx, nextList.scrollTop || 0);
+            }, { passive: true });
+        }
+    }
+
+    function renderSelectedMapPreview(md) {
+        const mark = md.MapData_sMapIcon ? D.resolveMapMarkPath(md.MapData_sMapIcon) : '';
+        const desc = C.unescapeKoreanText(md.MapData_sDesc || '');
+        return `
+            <div class="wmx-map-preview">
+                <div class="wmx-map-preview-head">
+                    <div class="wmx-map-preview-icon">
+                        ${mark ? `<img src="${mark}" alt="map mark" onerror="this.remove();">` : ''}
+                    </div>
+                    <div>
+                        <h5>${C.escapeHtml(getMapLineLabel(md))}</h5>
+                    </div>
+                </div>
+                ${desc ? `<p>${C.escapeHtml(desc)}</p>` : '<p>이 맵의 상세 설명이 아직 등록되지 않았습니다.</p>'}
+            </div>
+        `;
+    }
+
+    async function renderLifeTab() {
+        const wrap = document.getElementById('life-tab-panel');
+        if (!state.selectedList) {
+            wrap.innerHTML = `<div class="empty-message small">먼저 LIST 맵을 선택해 주세요.</div>`;
+            return;
+        }
+        if (!state.selectedMapData) {
+            wrap.innerHTML = `<div class="empty-message small">LIST 영역에서 세부 맵을 선택하면 LIFE 목록이 나타납니다.</div>`;
+            return;
+        }
+
+        const mapId = state.selectedMapData.MapData_sMapID;
+        wrap.innerHTML = `<div class="loading compact"><div class="spinner"></div>LIFE 목록을 불러오는 중...</div>`;
+
+        let lifeData = state.lifeCache.get(mapId);
+        if (!lifeData) {
+            lifeData = await D.loadLifeList(state.selectedMapData.MapData_sLifeList || []);
+            state.lifeCache.set(mapId, lifeData);
+        }
+
+        const npcCount = lifeData.npcs.length;
+        const mobCount = lifeData.mobs.length;
+        const npcIcon = D.resolveNpcIconPath();
+        const mobIcon = D.resolveMobIconPath();
+        wrap.innerHTML = `
+            <div class="wmx-life-tab-shell clean">
+                <div class="wmx-life-columns">
+                    <section class="wmx-life-column">
+                        <div class="wmx-life-column-title"><img class="wmx-life-column-title-icon" src="${npcIcon}" alt="npc icon" onerror="this.remove()"> NPC <span class="wmx-life-column-count">(${npcCount})</span></div>
+                        ${renderLifeEntityList(lifeData.npcs, 'npc')}
+                    </section>
+                    <section class="wmx-life-column">
+                        <div class="wmx-life-column-title"><img class="wmx-life-column-title-icon" src="${mobIcon}" alt="mob icon" onerror="this.remove()"> MOB <span class="wmx-life-column-count">(${mobCount})</span></div>
+                        ${renderLifeEntityList(lifeData.mobs, 'mob')}
+                    </section>
+                </div>
+            </div>
+        `;
+
+        wrap.querySelectorAll('[data-life-kind]').forEach(btn => {
+            btn.addEventListener('click', async () => {
+                const kind = btn.dataset.lifeKind;
+                const id = btn.dataset.lifeId;
+                const target = (kind === 'npc' ? lifeData.npcs : lifeData.mobs).find(item => item.id === id);
+                if (!target) return;
+                await openLifeDrawer(kind, target, lifeData);
+            });
+        });
+    }
+
+    function renderLifeEntityList(items, kind) {
+        if (!items.length) {
+            return `<div class="empty-message small">등록된 ${kind === 'npc' ? 'NPC' : 'MOB'}가 없습니다.</div>`;
+        }
+        const fallback = D.resolveEntityIcon(kind);
+        return `
+            <div class="wmx-life-list">
+                ${items.map(item => {
+                    const d = item.data;
+                    const meta = kind === 'npc'
+                        ? `${d.sFunc ? C.escapeHtml(d.sFunc) + ' · ' : ''}ID ${C.escapeHtml(item.id)}`
+                        : `Lv.${C.escapeHtml(formatNumericDisplay(d.nLevel ?? '?'))} · HP ${C.escapeHtml(formatNumericDisplay(d.nMaxHP ?? '?'))}`;
+                    return `
+                        <button class="wmx-life-item" data-life-kind="${kind}" data-life-id="${C.escapeHtml(item.id)}">
+                            <img src="${item.imagePath}" alt="${C.escapeHtml(d.sName || item.id)}" onerror="this.onerror=null;this.src='${fallback}';this.style.background='#2a313c';this.style.padding='4px';">
+                            <span class="wmx-life-item-text">
+                                <strong>${C.escapeHtml(d.sName || item.id)}</strong>
+                                <small>${meta}</small>
+                            </span>
+                        </button>
+                    `;
+                }).join('')}
+            </div>
+        `;
+    }
+
+    async function openLifeDrawer(kind, item, context) {
+        const drawer = document.getElementById('life-drawer');
+        const overlay = document.getElementById('life-drawer-overlay');
+        const body = document.getElementById('life-drawer-body');
+        const eyebrowText = kind === 'npc' ? 'NPC Information' : 'MOB Information';
+        const titleText = kind === 'npc' ? 'NPC 정보' : '몬스터 정보';
+        const detailHref = `info.html?type=${encodeURIComponent(kind)}&id=${encodeURIComponent(item.id)}`;
+        document.getElementById('life-drawer-title').textContent = titleText;
+        document.getElementById('life-drawer-eyebrow').textContent = eyebrowText;
+        document.getElementById('life-drawer-detail-btn').href = detailHref;
+        drawer.classList.add('open');
+        overlay.classList.add('open');
+        drawer.setAttribute('aria-hidden', 'false');
+
+        const d = item.data;
+        const fallbackIconUrl = D.resolveEntityIcon(kind);
+        const archiveDesc = C.unescapeKoreanText(d.sArchiveregionDesc || '');
+        const mesoVisual = kind === 'mob' && (d.nMesoMin || d.nMesoMax)
+            ? await getMesoDropVisual(d.nMesoMin, d.nMesoMax)
+            : null;
+
+        let relatedHtml = '';
+        if (kind === 'npc' && d.sRelatedNpcID) {
+            const ids = String(d.sRelatedNpcID).split(/[,;\s]+/).filter(Boolean);
+            if (ids.length) {
+                relatedHtml = `
+                    <div class="wmx-drawer-section">
+                        <h4>연관 인물</h4>
+                        <div class="wmx-related-wrap" id="drawer-related-wrap">
+                            ${ids.map(rid => `<button class="related-chip" data-related-id="${C.escapeHtml(rid)}">⏳ ${C.escapeHtml(rid)}</button>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+        }
+
+        let contentHtml = '';
+        if (kind === 'npc') {
+            const dialogs = [];
+            for (const key of Object.keys(d)) {
+                if ((/^nN\d+$/.test(key) || /^nD\d+$/.test(key) || /^sS\d+$/.test(key)) && d[key]) {
+                    dialogs.push({ key, value: d[key] });
+                }
+            }
+            contentHtml = `
+                ${archiveDesc ? `<div class="wmx-drawer-section"><div class="wmx-story-box"><div class="wmx-story-text">${C.escapeHtml(archiveDesc)}</div></div></div>` : ''}
+                ${d.sFunc ? `<div class="wmx-drawer-section"><h4>역할</h4><div class="wmx-highlight-line wmx-role-line">${C.escapeHtml(C.unescapeKoreanText(d.sFunc))}</div></div>` : ''}
+                ${dialogs.length ? `<div class="wmx-drawer-section"><h4>대사</h4><div class="wmx-dialog-card-list">${dialogs.map(line => `<div class="wmx-dialog-card"><strong>${C.escapeHtml(line.key)}</strong><span>${C.escapeHtml(C.unescapeKoreanText(line.value))}</span></div>`).join('')}</div></div>` : ''}
+                ${relatedHtml}
+            `;
+        } else {
+            const mainStats = [
+                ['레벨', d.nLevel], ['HP', d.nMaxHP], ['EXP', d.nExp]
+            ].filter(([, value]) => value !== undefined && value !== null && value !== '');
+            const extraSpecs = [
+                ['물리공격', d.nPADamage], ['물리방어', d.nPDDamage], ['물리방어율', d.nPDRate],
+                ['마법공격', d.nMADamage], ['마법방어', d.nMDDamage], ['마법방어율', d.nMDRate],
+                ['명중률', d.nAcc], ['회피율', d.nEva], ['이동속도', d.nSpeed], ['넉백', d.nPushed], ['스폰 타입', d.nSummonType], ['리젠 시간', formatRespawnMinutes(d.nMobTime)]
+            ].filter(([, value]) => value !== undefined && value !== null && value !== '');
+            const bossInfo = d.nBossInfo && typeof d.nBossInfo === 'object' ? d.nBossInfo : null;
+            const bossShowMobText = C.unescapeKoreanText(bossInfo?.sShowMobText || '');
+            const bossSayTextList = Array.isArray(bossInfo?.sSayTextList)
+                ? bossInfo.sSayTextList.map(line => C.unescapeKoreanText(line || '')).filter(Boolean)
+                : [];
+            const dropItems = await loadMobDropItems(d.sDropList ?? d.sLifeList);
+            contentHtml = `
+                ${mainStats.length ? `<div class="wmx-drawer-section"><div class="wmx-top-stat-row">${mainStats.map(([label, value]) => { const compactStat = formatCompactStatValue(value); return `<div class="wmx-top-stat-pill"><span>${C.escapeHtml(label)}</span><strong>${C.escapeHtml(compactStat.primary)}</strong>${compactStat.secondary ? `<small>${C.escapeHtml(compactStat.secondary)}</small>` : ''}</div>`; }).join('')}</div></div>` : ''}
+                ${archiveDesc ? `<div class="wmx-drawer-section"><div class="wmx-story-box"><div class="wmx-story-text">${C.escapeHtml(archiveDesc)}</div><div class="wmx-story-author">- 조사원 리트</div></div></div>` : ''}
+                ${(bossShowMobText || bossSayTextList.length) ? `<div class="wmx-drawer-section"><h4>보스 연출 정보</h4>${bossShowMobText ? `<div class="wmx-story-box wmx-boss-info-box"><div class="wmx-story-text">${C.escapeHtml(bossShowMobText)}</div></div>` : ''}${bossSayTextList.length ? `<div class="wmx-story-box wmx-boss-say-box"><div class="wmx-boss-say-lines">${bossSayTextList.map((line, idx) => `<div class="wmx-boss-say-line"><strong>대사 ${idx + 1}</strong><span>${C.escapeHtml(line)}</span></div>`).join('')}</div></div>` : ''}</div>` : ''}
+                ${(d.nMesoMin || d.nMesoMax) ? `<div class="wmx-drawer-section wmx-drawer-section-meso"><div class="wmx-highlight-line wmx-meso-line">${mesoVisual?.imageUrl ? `<img class="wmx-meso-icon" src="${mesoVisual.imageUrl}" alt="meso icon" onerror="this.remove()">` : ''}<span>메소 : ${C.escapeHtml(formatNumericDisplay(d.nMesoMin ?? '?'))} ~ ${C.escapeHtml(formatNumericDisplay(d.nMesoMax ?? '?'))}</span></div></div>` : ''}
+                ${extraSpecs.length ? `<div class="wmx-drawer-section"><h4>추가 스펙</h4><div class="wmx-stat-pair-grid">${extraSpecs.map(([label, value]) => `<div class="wmx-stat-pair-card"><span>${label}</span><strong>${C.escapeHtml(formatNumericDisplay(value))}</strong></div>`).join('')}</div></div>` : ''}
+                ${renderMobDropItemsSection(dropItems)}
+            `;
+        }
+
+        body.innerHTML = `
+            <div class="wmx-drawer-card">
+                <div class="wmx-drawer-summary">
+                    <div class="wmx-drawer-summary-image">
+                        <img src="${item.imagePath}" alt="${C.escapeHtml(d.sName || item.id)}" onerror="this.onerror=null;this.src='${fallbackIconUrl}';this.style.padding='10px';this.style.background='#2a313c';">
+                    </div>
+                    <div class="wmx-drawer-summary-text">
+                        <h4>${C.escapeHtml(d.sName || item.id)}</h4>
+                        <div class="tag-row">
+                            <span class="id-tag">ID ${C.escapeHtml(item.id)}</span>
+                            <span class="type-tag">${C.escapeHtml(kind === 'npc' ? 'NPC' : (C.unescapeKoreanText(d.sMobType || '몬스터')))}</span>
+                            ${kind === 'mob' && Number(d.nBoss) === 1 ? `<span class="boss-tag">BOSS</span>` : ''}
+                        </div>
+                    </div>
+                </div>
+                ${contentHtml}
+            </div>
+        `;
+
+        bindDropItemTooltips(body);
+
+        body.querySelectorAll('[data-related-id]').forEach(async chip => {
+            const rid = chip.dataset.relatedId;
+            const npcInCtx = context?.npcs?.find(n => n.id === rid);
+            const npc = npcInCtx || await D.loadNpc(rid);
+            if (npc) {
+                chip.innerHTML = `<img src="${npc.imagePath}" alt="${C.escapeHtml(npc.data.sName || rid)}" onerror="this.remove()"> ${C.escapeHtml(npc.data.sName || rid)}`;
+                chip.addEventListener('click', async () => openLifeDrawer('npc', npc, context));
+            } else {
+                chip.textContent = rid;
+            }
+        });
+    }
+
+    function closeLifeDrawer() {
+        const drawer = document.getElementById('life-drawer');
+        const overlay = document.getElementById('life-drawer-overlay');
+        drawer.classList.remove('open');
+        overlay.classList.remove('open');
+        drawer.setAttribute('aria-hidden', 'true');
+    }
+
+    function showClickPos(point) {
+        const canvas = document.getElementById('map-canvas');
+        const img = document.getElementById('world-map-img');
+        if (!canvas || !img || !point) return;
+        const w = img.naturalWidth || img.offsetWidth || 800;
+        const h = img.naturalHeight || img.offsetHeight || 600;
+        const displayW = img.getBoundingClientRect().width || img.offsetWidth || w;
+        const mapScale = displayW / w;
+        const pos = D.pinPointToPercent(point, w, h);
+        canvas.querySelectorAll('.click-pos-marker').forEach(node => node.remove());
+        const marker = document.createElement('div');
+        marker.className = 'click-pos-marker';
+        marker.style.left = pos.left + '%';
+        marker.style.top = pos.top + '%';
+        marker.innerHTML = `<img src="${D.resolveClickPosPath()}" alt="click pos" onerror="this.outerHTML='<div style=&quot;font-size:28px;color:#ff9100;&quot;>⬇</div>'">`;
+        canvas.appendChild(marker);
+        const markerImg = marker.querySelector('img');
+        if (markerImg) {
+            const applyIntrinsicScale = () => {
+                const iw = markerImg.naturalWidth || 36;
+                const ih = markerImg.naturalHeight || 36;
+                marker.style.width = `${Math.max(10, iw * mapScale)}px`;
+                marker.style.height = `${Math.max(10, ih * mapScale)}px`;
+            };
+            if (markerImg.complete && markerImg.naturalWidth) applyIntrinsicScale();
+            else markerImg.addEventListener('load', applyIntrinsicScale, { once: true });
+        }
+    }
+
+    function showFatal(message) {
+        document.querySelector('.wmx-shell').innerHTML = `
+            <div style="grid-column:1/-1;background:#1a1f26;border:1px solid #ff5252;border-radius:16px;padding:40px;text-align:center;color:#ffb1b1;max-width:900px;margin:40px auto;">
+                <div style="font-size:38px;margin-bottom:14px;">⚠️</div>
+                <p style="margin-bottom:16px;">${C.escapeHtml(message)}</p>
+                <a href="index.html" class="back-link">홈으로 돌아가기</a>
+            </div>
+        `;
+    }
+
+    async function openLifeFromInfoCard() {
+        if (!state.selectedMapData) return;
+        await renderLifeTab();
+        const firstLifeBtn = document.querySelector('#life-tab-panel [data-life-kind]');
+        if (firstLifeBtn) firstLifeBtn.click();
+    }
+
+    document.getElementById('life-drawer-close').addEventListener('click', closeLifeDrawer);
+    document.getElementById('life-drawer-overlay').addEventListener('click', closeLifeDrawer);
+    window.selectListMap = selectListMap;
+    window.selectSubMap = selectSubMap;
+    window.toggleSidebarSection = toggleSidebarSection;
+    window.handleListRowClick = handleListRowClick;
+    window.selectSubMapFromList = selectSubMapFromList;
+    window.toggleListMap = toggleListMap;
+    window.selectLinkRegion = selectLinkRegion;
+    window.openLifeFromInfoCard = openLifeFromInfoCard;
+
+    init();
+    </script>
+</body>
+</html>

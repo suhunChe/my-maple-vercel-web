@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>창팝 순위 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="header-mount"></div>
+
+    <main class="music-shell">
+        <section class="music-hero">
+            <div class="music-hero-eyebrow">CHANGPOP</div>
+            <h1 class="music-hero-title">창팝 순위</h1>
+            <p class="music-hero-desc">유튜브 플레이리스트를 기반으로 한 창팝 인기 순위입니다. 영상 추가·제거는 유튜브 플레이리스트에서 관리되며, 이 페이지는 자동으로 갱신됩니다.</p>
+        </section>
+
+        <section class="music-toolbar">
+            <div class="music-meta">
+                <span class="music-count-chip" id="changpop-count">- 곡</span>
+                <span class="music-count-chip changpop-updated-chip" id="changpop-updated" hidden></span>
+            </div>
+            <div class="music-toolbar-actions">
+                <button type="button" class="changpop-submit-btn" id="changpop-submit-open">
+                    <span aria-hidden="true">+</span> 창팝 등록
+                </button>
+            </div>
+        </section>
+
+        <section class="music-list-card changpop-card">
+            <header class="changpop-list-header" role="row">
+                <span class="changpop-col changpop-col-rank">#</span>
+                <span class="changpop-col changpop-col-thumb" aria-hidden="true"></span>
+                <span class="changpop-col changpop-col-title">제목</span>
+                <span class="changpop-col changpop-col-duration">재생시간</span>
+                <span class="changpop-col changpop-col-views">조회수</span>
+            </header>
+            <ul class="music-list changpop-list" id="changpop-list">
+                <li class="music-empty"><div class="spinner"></div>창팝 목록을 불러오는 중...</li>
+            </ul>
+        </section>
+
+        <section class="changpop-pending-section" id="changpop-pending-section" hidden>
+            <header class="changpop-pending-head">
+                <h2 class="changpop-pending-title">등록 신청 대기 목록</h2>
+                <div class="changpop-pending-actions">
+                    <span class="changpop-pending-count" id="changpop-pending-count">0 건</span>
+                    <button type="button" class="changpop-pending-export" id="changpop-pending-export" title="JSON으로 내보내기">⬇ 내보내기</button>
+                    <button type="button" class="changpop-pending-clear" id="changpop-pending-clear" title="모두 지우기">전체 지우기</button>
+                </div>
+            </header>
+            <ul class="changpop-pending-list" id="changpop-pending-list"></ul>
+            <p class="changpop-pending-note">
+                ※ 신청 내역은 현재 이 브라우저에만 저장됩니다. 관리자는 신청 목록을 수집한 뒤 직접 유튜브 플레이리스트에 추가해 주세요.
+            </p>
+        </section>
+
+        <p class="changpop-footnote">
+            ※ 이 페이지는 YouTube Data API v3 를 통해 플레이리스트 정보를 가져옵니다.
+            관리 파일: <code>MyMaple_PageInfo/InfoList/ChangpopConfig.json</code>
+        </p>
+    </main>
+
+    <!-- 등록 신청 모달 -->
+    <div class="changpop-modal" id="changpop-modal" hidden aria-hidden="true" role="dialog" aria-labelledby="changpop-modal-title">
+        <div class="changpop-modal-backdrop" data-modal-close="1"></div>
+        <div class="changpop-modal-card" role="document">
+            <header class="changpop-modal-head">
+                <h3 class="changpop-modal-title" id="changpop-modal-title">창팝 등록 신청</h3>
+                <button type="button" class="changpop-modal-close" data-modal-close="1" aria-label="닫기">×</button>
+            </header>
+            <form class="changpop-form" id="changpop-form" novalidate>
+                <label class="changpop-field">
+                    <span class="changpop-field-label">유튜브 링크 <em>*</em></span>
+                    <input type="url" id="changpop-input-url" placeholder="https://www.youtube.com/watch?v=..." autocomplete="off" required>
+                    <span class="changpop-field-help">일반 영상 / Shorts / youtu.be 주소 모두 가능</span>
+                </label>
+                <label class="changpop-field">
+                    <span class="changpop-field-label">닉네임 <em class="changpop-optional">(선택)</em></span>
+                    <input type="text" id="changpop-input-nick" maxlength="24" placeholder="익명">
+                </label>
+                <label class="changpop-field">
+                    <span class="changpop-field-label">한 줄 코멘트 <em class="changpop-optional">(선택)</em></span>
+                    <textarea id="changpop-input-message" maxlength="140" rows="2" placeholder="이 곡을 추천하는 이유를 스치셔도 좋아요"></textarea>
+                </label>
+                <p class="changpop-form-message" id="changpop-form-message" hidden></p>
+                <footer class="changpop-form-actions">
+                    <button type="button" class="changpop-btn changpop-btn-ghost" data-modal-close="1">취소</button>
+                    <button type="submit" class="changpop-btn changpop-btn-primary" id="changpop-form-submit">신청하기</button>
+                </footer>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/changpop.js"></script>
+</body>
+</html>

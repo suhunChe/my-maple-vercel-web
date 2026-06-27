@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>지역 상세 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <div id="header-mount"></div>
+
+    <nav id="breadcrumb" class="breadcrumb" style="max-width:1300px;margin:0 auto;padding:18px 30px 0;"></nav>
+
+    <div id="region-info" class="region-info" style="max-width:1300px;margin:10px auto 18px;"></div>
+
+    <main id="content" class="life-wrap">
+        <div class="loading"><div class="spinner"></div>지역 데이터를 불러오는 중...</div>
+    </main>
+
+    <!-- 아카이브 모달 -->
+    <div id="archive-modal" class="modal-backdrop">
+        <div class="modal-card">
+            <button class="modal-close" onclick="closeArchive()">×</button>
+            <h2 id="archive-title"></h2>
+            <p id="archive-text" style="color:#ddd;line-height:1.85;white-space:pre-line;margin-top:14px;"></p>
+        </div>
+    </div>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/bgm-player.js"></script>
+    <script>
+    /* =========================================
+     * Life 매칭 페이지 (NPC/MOB 아카이브 상세)
+     * URL: ?key=<sessionStorage 키>     — world-map에서 진입
+     *      ?type=npc|mob&id=<id>        — 직접 진입 (단일 엔티티)
+     * ========================================= */
+    const C = window.MyMapleCommon;
+    const D = window.MyMapleData;
+
+    const params = new URLSearchParams(location.search);
+    const sessionKey = params.get('key');
+    const directType = params.get('type');
+    const directId = params.get('id');
+
+    function renderStoryHeader(type) {
+        document.getElementById('header-mount').innerHTML = C.renderSiteHeader(
+            C.getStoryActiveNavKey(type),
+            C.getInfoNavItems()
+        );
+        C.bindHeaderOfflineLinks();
+    }
+
+    renderStoryHeader(directType);
+
+    let payload = null;
+
+    async function init() {
+        if (sessionKey) {
+            payload = C.readPayload(sessionKey);
+            renderStoryHeader(payload?.type || payload?.lifeType || payload?.entityType || 'map');
+            if (!payload) {
+                showError('세션 정보가 만료되었습니다. 월드맵에서 다시 진입해 주세요.');
+                return;
+            }
+            renderBreadcrumb(payload.breadcrumb);
+            renderRegionInfo(payload);
+            await renderLifeMatch(payload);
+
+            // BGM 자동 재생
+            if (payload.mapBgm) {
+                window.MyMapleBGM.playBgm(payload.mapBgm, payload.mapName || payload.mapSubName, true);
+            }
+        } else if (directType && directId) {
+            await renderSingleEntity(directType, directId);
+        } else {
+            showError('잘못된 접근입니다.');
+        }
+    }
+
+    function renderBreadcrumb(chain) {
+        const el = document.getElementById('breadcrumb');
+        const items = [
+            { label: '홈', href: 'index.html' },
+            { label: '세계관', href: 'world-select.html' },
+            ...((chain || []).map(name => ({ label: name })))
+        ];
+        el.innerHTML = items.map((c, i) => {
+            const sep = i > 0 ? '<span class="sep">›</span>' : '';
+            const isLast = (i === items.length - 1);
+            return c.href && !isLast
+                ? `${sep}<a href="${c.href}">${C.escapeHtml(c.label)}</a>`
+                : `${sep}<span style="color:${isLast ? '#fff' : '#aaa'};font-weight:${isLast ? '600' : '400'};">${C.escapeHtml(c.label)}</span>`;
+        }).join('');
+    }
+
+    function renderRegionInfo(p) {
+        const el = document.getElementById('region-info');
+        const desc = C.unescapeKoreanText(p.mapDesc);
+        const lifeCount = (p.lifeList || []).length;
+        const bgmName = p.mapBgm ? p.mapBgm.split('/').pop() : null;
+
+        el.innerHTML = `
+            <h2>${C.escapeHtml(p.mapName || '맵')}${p.mapSubName ? ' — ' + C.escapeHtml(p.mapSubName) : ''}</h2>
+            ${desc ? `<p>${C.escapeHtml(desc)}</p>` : ''}
+            <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:8px;">
+                <span style="font-size:12px;color:#888;">📋 등록 엔티티: <strong style="color:#ddd;">${lifeCount}개</strong></span>
+                ${bgmName ? `<span style="font-size:12px;color:#888;">BGM: <strong style="color:#ff9100;">${C.escapeHtml(bgmName)}</strong></span>` : ''}
+                <span style="font-size:12px;color:#888;">🆔 MAP ID: <strong style="color:#ddd;">${C.escapeHtml(p.mapId || '?')}</strong></span>
+            </div>
+        `;
+    }
+
+    async function renderLifeMatch(p) {
+        const main = document.getElementById('content');
+        if (!Array.isArray(p.lifeList) || p.lifeList.length === 0) {
+            main.innerHTML = `
+                <div class="empty-message" style="grid-column:1/-1;">
+                    <div style="font-size:36px;margin-bottom:10px;">🏞️</div>
+                    이 맵에는 등록된 NPC나 몬스터가 없습니다.
+                </div>
+            `;
+            return;
+        }
+
+        main.innerHTML = `<div class="loading" style="grid-column:1/-1;"><div class="spinner"></div>NPC와 몬스터 데이터를 불러오는 중... (${p.lifeList.length}개)</div>`;
+
+        const { mobs, npcs } = await D.loadLifeList(p.lifeList);
+        console.log(`[엔티티 로드] NPC ${npcs.length} / Mob ${mobs.length}`);
+
+        const failed = [];
+        for (const t of p.lifeList) {
+            const parsed = D.parseLifeListItem(t);
+            if (!parsed) continue;
+            const ok = parsed.type === 'm'
+                ? mobs.some(m => m.id === parsed.id)
+                : npcs.some(n => n.id === parsed.id);
+            if (!ok) failed.push(t);
+        }
+
+        const npcIcon = D.resolveNpcIconPath();
+        const mobIcon = D.resolveMobIconPath();
+
+        main.innerHTML = `
+            <aside class="life-sidebar">
+                <div class="tab-buttons">
+                    <button class="tab-btn active" data-tab="npc">
+                        <img src="${npcIcon}" alt="NPC" onerror="this.style.display='none';">
+                        <span>NPC</span>
+                        <span class="count">${npcs.length}</span>
+                    </button>
+                    <button class="tab-btn" data-tab="mob">
+                        <img src="${mobIcon}" alt="MOB" onerror="this.style.display='none';">
+                        <span>MOB</span>
+                        <span class="count">${mobs.length}</span>
+                    </button>
+                </div>
+                <ul id="npc-list" class="entity-list">${renderListItems(npcs, 'npc')}</ul>
+                <ul id="mob-list" class="entity-list" style="display:none;">${renderListItems(mobs, 'mob')}</ul>
+                ${failed.length > 0
+                    ? `<div style="padding:10px 14px;background:rgba(255,82,82,0.08);font-size:11px;color:#ff8e8e;border-top:1px solid #2a313c;">⚠️ ${failed.length}개 엔티티 로드 실패 (콘솔 확인)</div>`
+                    : ''}
+            </aside>
+
+            <section class="detail-area">
+                <div id="empty-message" class="empty-message">
+                    <div style="font-size:32px;margin-bottom:10px;">👈</div>
+                    왼쪽 목록에서 NPC나 몬스터를 선택하세요.
+                </div>
+                <div id="detail-card-wrap" style="display:none;"></div>
+            </section>
+        `;
+
+        // 탭 전환
+        const npcList = document.getElementById('npc-list');
+        const mobList = document.getElementById('mob-list');
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                if (btn.dataset.tab === 'npc') {
+                    npcList.style.display = 'block';
+                    mobList.style.display = 'none';
+                } else {
+                    npcList.style.display = 'none';
+                    mobList.style.display = 'block';
+                }
+            });
+        });
+
+        // 항목 클릭
+        document.querySelectorAll('.entity-list li[data-kind]').forEach(li => {
+            li.addEventListener('click', () => {
+                document.querySelectorAll('.entity-list li').forEach(x => x.classList.remove('selected'));
+                li.classList.add('selected');
+                const kind = li.dataset.kind;
+                const id = li.dataset.id;
+                const target = (kind === 'npc' ? npcs : mobs).find(x => x.id === id);
+                if (target) showDetail(kind, target, { npcs, mobs });
+            });
+        });
+
+        // 첫 항목 자동 선택 (있다면 NPC 우선)
+        const firstNpc = document.querySelector('#npc-list li[data-kind]');
+        const firstMob = document.querySelector('#mob-list li[data-kind]');
+        if (firstNpc) firstNpc.click();
+        else if (firstMob) {
+            // 몬스터 탭으로 전환
+            document.querySelector('.tab-btn[data-tab="mob"]').click();
+            firstMob.click();
+        }
+    }
+
+    function renderListItems(items, kind) {
+        if (!items || items.length === 0) {
+            return `<li style="color:#666;cursor:default;justify-content:center;padding:18px;">${kind === 'npc' ? 'NPC' : '몬스터'} 없음</li>`;
+        }
+        const fallbackIcon = D.resolveEntityIcon(kind);
+        return items.map(item => {
+            const d = item.data;
+            const subText = kind === 'npc'
+                ? `ID ${item.id}${d.sFunc ? ' · ' + C.escapeHtml(d.sFunc) : ''}`
+                : `Lv.${d.nLevel ?? '?'} · HP ${d.nMaxHP ?? '?'}`;
+            return `
+                <li data-kind="${kind}" data-id="${C.escapeHtml(item.id)}">
+                    <img src="${item.imagePath}"
+                         onerror="this.onerror=null;this.src='${fallbackIcon}';this.style.padding='4px';this.style.background='#2a313c';">
+                    <div class="entity-meta">
+                        <div class="entity-name">${C.escapeHtml(d.sName || (kind === 'npc' ? 'NPC' : 'Mob') + ' ' + item.id)}</div>
+                        <div class="entity-sub">${subText}</div>
+                    </div>
+                </li>
+            `;
+        }).join('');
+    }
+
+    /**
+     * 우측 상세 카드.
+     *  - NPC: 대화 + 아카이브 + 연관 NPC
+     *  - MOB: 스탯 + 메소 드랍량 + 아카이브
+     */
+    async function showDetail(kind, item, ctx) {
+        const wrap = document.getElementById('detail-card-wrap');
+        const empty = document.getElementById('empty-message');
+        empty.style.display = 'none';
+        wrap.style.display = 'block';
+
+        const d = item.data;
+        const fallbackIconUrl = D.resolveEntityIcon(kind);
+        const archiveDesc = C.unescapeKoreanText(d.sArchiveregionDesc || '');
+        const tagsHtml = `
+            <div class="tag-row">
+                <span class="id-tag">ID ${C.escapeHtml(item.id)}</span>
+                <span class="type-tag">${kind === 'npc' ? 'NPC' : '몬스터'}</span>
+                ${kind === 'mob' && (d.nMesoMin || d.nMesoMax) ? `<span class="meso-tag">드랍 메소 ${C.escapeHtml(d.nMesoMin ?? '?')} ~ ${C.escapeHtml(d.nMesoMax ?? '?')}</span>` : ''}
+            </div>
+        `;
+
+        let bodyHtml = '';
+        let relatedHtml = '';
+
+        if (kind === 'npc') {
+            const dialogs = [];
+            for (const key of Object.keys(d)) {
+                if ((/^nN\d+$/.test(key) || /^nD\d+$/.test(key) || /^sS\d+$/.test(key)) && d[key]) {
+                    dialogs.push({ key, value: d[key] });
+                }
+            }
+            if (d.sRelatedNpcID) {
+                const ids = String(d.sRelatedNpcID).split(/[,;\s]+/).filter(Boolean);
+                if (ids.length) {
+                    relatedHtml = `
+                        <div class="detail-section">
+                            <h3>🔗 연관 인물</h3>
+                            <div id="related-chips" style="display:flex;flex-wrap:wrap;gap:8px;">
+                                ${ids.map(rid => `<span class="related-chip" data-related-id="${C.escapeHtml(rid)}">⏳ ${C.escapeHtml(rid)}</span>`).join('')}
+                            </div>
+                        </div>
+                    `;
+                }
+            }
+            bodyHtml = `
+                ${archiveDesc ? `<div class="detail-section"><h3>아카이브</h3><div class="archive-box"><div class="archive-text">${C.escapeHtml(archiveDesc)}</div></div></div>` : ''}
+                ${d.sFunc ? `<div class="detail-section"><h3>역할</h3><p style="color:#ddd;font-size:14px;">${C.escapeHtml(d.sFunc)}</p></div>` : ''}
+                ${dialogs.length ? `<div class="detail-section"><h3>대사 리스트</h3><ul class="dialog-list">${dialogs.map(dl => `<li><strong>${dl.key}</strong>${C.escapeHtml(C.unescapeKoreanText(dl.value))}</li>`).join('')}</ul></div>` : ''}
+                ${relatedHtml}
+            `;
+        } else {
+            const mainStats = [
+                ['레벨', d.nLevel], ['HP', d.nMaxHP], ['EXP', d.nExp]
+            ].filter(([, value]) => value !== undefined && value !== null && value !== '');
+            const extraSpecs = [
+                ['물리공격', d.nPADamage], ['물리방어', d.nPDDamage], ['물리방어율', d.nPDRate],
+                ['마법공격', d.nMADamage], ['마법방어', d.nMDDamage], ['마법방어율', d.nMDRate],
+                ['명중률', d.nAcc], ['회피율', d.nEva], ['이동속도', d.nSpeed], ['넉백', d.nPushed]
+            ].filter(([, value]) => value !== undefined && value !== null && value !== '');
+            bodyHtml = `
+                ${mainStats.length ? `<div class="detail-section"><h3>핵심 스탯</h3><div class="detail-stats detail-stats-3">${mainStats.map(([k, v]) => `<div class="stat-box"><div class="label">${k}</div><div class="value">${C.escapeHtml(v)}</div></div>`).join('')}</div></div>` : ''}
+                ${(d.nMesoMin || d.nMesoMax) ? `<div class="detail-section"><h3>드랍 메소</h3><div class="wmx-highlight-line">${C.escapeHtml(d.nMesoMin ?? '?')} ~ ${C.escapeHtml(d.nMesoMax ?? '?')}</div></div>` : ''}
+                ${extraSpecs.length ? `<div class="detail-section"><h3>🧾 추가 스펙</h3><ul class="detail-spec-list">${extraSpecs.map(([k, v]) => `<li><span>${k}</span><strong>${C.escapeHtml(v)}</strong></li>`).join('')}</ul></div>` : ''}
+                ${archiveDesc ? `<div class="detail-section"><h3>아카이브</h3><div class="archive-box"><div class="archive-text">${C.escapeHtml(archiveDesc)}</div></div></div>` : ''}
+            `;
+        }
+
+        wrap.innerHTML = `
+            <div class="detail-card">
+                <div class="detail-header">
+                    <div class="detail-image">
+                        <img src="${item.imagePath}" alt="${C.escapeHtml(d.sName || item.id)}"
+                             onerror="this.onerror=null;this.src='${fallbackIconUrl}';this.style.padding='14px';this.style.background='#2a313c';">
+                    </div>
+                    <div class="detail-header-text">
+                        <h2>${C.escapeHtml(d.sName || ((kind === 'npc' ? 'NPC' : 'Mob') + ' ' + item.id))}</h2>
+                        ${tagsHtml}
+                    </div>
+                </div>
+                ${bodyHtml}
+            </div>
+        `;
+
+        if (relatedHtml) {
+            const chips = wrap.querySelectorAll('[data-related-id]');
+            chips.forEach(async (chip) => {
+                const rid = chip.dataset.relatedId;
+                const npcInCtx = ctx?.npcs?.find(n => n.id === rid);
+                if (npcInCtx) {
+                    chip.innerHTML = `<img src="${npcInCtx.imagePath}" style="width:18px;height:18px;border-radius:3px;object-fit:contain;background:#1a1f26;" onerror="this.style.display='none';"> ${C.escapeHtml(npcInCtx.data.sName || rid)}`;
+                    chip.addEventListener('click', () => {
+                        const li = document.querySelector(`#npc-list li[data-id="${rid}"]`);
+                        if (li) li.click();
+                        else location.href = `life-detail.html?type=npc&id=${encodeURIComponent(rid)}`;
+                    });
+                } else {
+                    const loaded = await D.loadNpc(rid);
+                    if (loaded) {
+                        chip.innerHTML = `<img src="${loaded.imagePath}" style="width:18px;height:18px;border-radius:3px;object-fit:contain;background:#1a1f26;" onerror="this.style.display='none';"> ${C.escapeHtml(loaded.data.sName || rid)}`;
+                    } else {
+                        chip.innerHTML = `❓ ${C.escapeHtml(rid)}`;
+                    }
+                    chip.addEventListener('click', () => {
+                        location.href = `life-detail.html?type=npc&id=${encodeURIComponent(rid)}`;
+                    });
+                }
+            });
+        }
+    }
+
+    /* ---------- 단일 엔티티 직접 진입 ---------- */
+    async function renderSingleEntity(type, id) {
+        const main = document.getElementById('content');
+        let item = null;
+        if (type === 'npc') item = await D.loadNpc(id);
+        else if (type === 'mob') item = await D.loadMob(id);
+
+        if (!item) {
+            showError(`${type.toUpperCase()} ID '${id}' 데이터를 찾을 수 없습니다.`);
+            return;
+        }
+
+        renderBreadcrumb([type === 'npc' ? 'NPC' : 'MOB', item.data.sName || id]);
+        document.getElementById('region-info').innerHTML = `
+            <h2>${C.escapeHtml(item.data.sName || id)}</h2>
+            <p>단일 ${type === 'npc' ? 'NPC' : '몬스터'} 상세 정보입니다.</p>
+        `;
+
+        // life-wrap 그리드 형태에 맞추기 위해 빈 사이드바 + 상세 영역 구성
+        main.style.gridTemplateColumns = '1fr';
+        main.innerHTML = `
+            <section class="detail-area">
+                <div id="detail-card-wrap"></div>
+            </section>
+        `;
+        document.getElementById('detail-card-wrap').style.display = 'block';
+        // showDetail은 detail-card-wrap을 채움
+        await showDetail(type, item, { npcs: [], mobs: [] });
+    }
+
+    /* ---------- 아카이브 모달 ---------- */
+    function openArchive(title, desc) {
+        document.getElementById('archive-title').textContent = title;
+        document.getElementById('archive-text').textContent = C.unescapeKoreanText(desc || '');
+        document.getElementById('archive-modal').classList.add('active');
+    }
+    function closeArchive() {
+        document.getElementById('archive-modal').classList.remove('active');
+    }
+    document.getElementById('archive-modal').addEventListener('click', (e) => {
+        if (e.target.id === 'archive-modal') closeArchive();
+    });
+    window.openArchive = openArchive;
+    window.closeArchive = closeArchive;
+
+    function showError(msg) {
+        document.getElementById('content').innerHTML = `
+            <div style="grid-column:1/-1;background:#1a1f26;border:1px solid #ff5252;border-radius:14px;padding:30px;text-align:center;color:#ffaeae;">
+                <div style="font-size:32px;margin-bottom:10px;">⚠️</div>
+                <p style="margin-bottom:14px;">${C.escapeHtml(msg)}</p>
+                <a href="index.html" class="back-link">홈으로 돌아가기</a>
+            </div>
+        `;
+    }
+
+    init();
+    </script>
+</body>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMaple — 마이 메이플 아카이브</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <div id="header-mount"></div>
+
+    <section class="hero">
+        <h1 id="main-hero-title">MY MAPLE</h1>
+        <p id="main-hero-desc">나만의 작은 메이플스토리에 대한 이야기</p>
+    </section>
+
+    <main class="container">
+
+        <!-- 1. 테마관 -->
+        <section id="themes" style="margin-bottom: 56px;">
+            <div class="theme-grid" id="theme-grid">
+                <div class="loading"><div class="spinner"></div>테마 정보를 불러오는 중...</div>
+            </div>
+        </section>
+
+        <!-- 2. 외부 사이트 -->
+        <section style="margin-bottom: 40px;">
+            <h2 class="section-title">🔗 외부 사이트</h2>
+            <div class="external-grid" id="external-grid">
+                <div class="loading"><div class="spinner"></div>외부 사이트를 불러오는 중...</div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/bgm-player.js"></script>
+    <script>
+    const C = window.MyMapleCommon;
+    const D = window.MyMapleData;
+
+    // 헤더 마운트
+    document.getElementById('header-mount').innerHTML = C.renderSiteHeader('home');
+    C.bindHeaderOfflineLinks();
+
+    function resolveThemeTarget(theme, index) {
+        const title = String(theme?.sTitle || '').trim();
+        const isStoryTheme = title === '스토리' || theme.nPage === 0;
+        const isMusicTheme = title === '음악' || index === 1;
+
+        if (isStoryTheme) {
+            return { href: 'world-select.html', online: theme.bOnline !== false };
+        }
+        if (isMusicTheme) {
+            return { href: 'music-bgm.html', online: true };
+        }
+        return {
+            href: `#theme-card-${index}`,
+            online: theme.bOnline !== false
+        };
+    }
+
+    function buildHomeHeaderItems(themes) {
+        return (themes || []).map((theme, index) => {
+            const target = resolveThemeTarget(theme, index);
+            return {
+                key: `theme-${index}`,
+                label: theme.sTitle || `테마 ${index + 1}`,
+                href: target.online ? target.href : 'javascript:void(0)',
+                online: target.online
+            };
+        });
+    }
+
+    function renderHero(main) {
+        document.getElementById('main-hero-title').textContent = main?.mainTitle || 'MY MAPLE';
+        document.getElementById('main-hero-desc').textContent = main?.mainDesc || '나만의 작은 메이플스토리에 대한 이야기';
+    }
+
+    // 테마 + 외부 사이트 로드
+    async function init() {
+        const main = await D.loadMainPageData();
+        if (!main) {
+            renderError();
+            return;
+        }
+        renderHero(main);
+        document.getElementById('header-mount').innerHTML = C.renderSiteHeader('home');
+        C.bindHeaderOfflineLinks();
+        renderThemes(main.themes);
+        renderExternal(main.externalLinks);
+    }
+
+    function renderThemes(themes) {
+        const grid = document.getElementById('theme-grid');
+        if (!themes || themes.length === 0) {
+            grid.innerHTML = '<div style="grid-column:1/-1;color:#888;text-align:center;padding:30px;">표시할 테마가 없습니다.</div>';
+            return;
+        }
+        grid.innerHTML = themes.map((t, index) => {
+            const target = resolveThemeTarget(t, index);
+            const tagAttr = target.online
+                ? `href="${target.href}"`
+                : `href="javascript:void(0)" data-offline="1" data-name="${C.escapeHtml(t.sTitle)}"`;
+            return `
+                <a id="theme-card-${index}" class="card theme-card ${target.online ? '' : 'offline'}" ${tagAttr}>
+                    <div class="card-image-box">
+                        <img src="${t.imageUrl}" alt="${C.escapeHtml(t.sTitle)}"
+                             onerror="this.onerror=null;this.src='MyMaple_PageInfo/Special_Image/MainIcon/MainIcon.png';this.style.objectFit='contain';this.style.padding='10px';">
+                    </div>
+                    <div class="card-content">
+                        <h3>${C.escapeHtml(t.sTitle)}</h3>
+                        <p>${C.escapeHtml(t.sDesc)}</p>
+                    </div>
+                </a>
+            `;
+        }).join('');
+        C.bindHeaderOfflineLinks();
+    }
+
+    function renderExternal(links) {
+        const grid = document.getElementById('external-grid');
+        if (!links || links.length === 0) {
+            grid.innerHTML = '<div style="grid-column:1/-1;color:#888;text-align:center;padding:30px;">등록된 외부 사이트가 없습니다.</div>';
+            return;
+        }
+        grid.innerHTML = links.map(l => {
+            const url = l.bSiteAddress;
+            const offline = l.bOnline === false || !url;
+            return offline
+                ? `<a class="external-card" href="javascript:void(0)" data-offline="1" data-name="${C.escapeHtml(l.sSiteName)}">
+                       <div class="ec-name">${C.escapeHtml(l.sSiteName)}</div>
+                       <div class="ec-desc">${C.escapeHtml(l.sDesc)}</div>
+                   </a>`
+                : `<a class="external-card" href="${C.escapeHtml(url)}" target="_blank" rel="noopener noreferrer">
+                       <div class="ec-name">${C.escapeHtml(l.sSiteName)}</div>
+                       <div class="ec-desc">${C.escapeHtml(l.sDesc)}</div>
+                   </a>`;
+        }).join('');
+        C.bindHeaderOfflineLinks();
+    }
+
+    function renderError() {
+        document.getElementById('theme-grid').innerHTML = `
+            <div style="grid-column:1/-1;background:#1a1f26;border:1px solid #ff5252;border-radius:14px;padding:30px;text-align:center;color:#ffaeae;">
+                <div style="font-size:32px;margin-bottom:10px;">⚠️</div>
+                MyMaple_PageInfo 폴더의 MainPage.json을 불러올 수 없습니다.<br>
+                <span style="font-size:12px;color:#888;">MyMaple_PageInfo/Special_Image/HomePage_Theme_Image/MainPage.json 경로를 확인하세요.</span>
+            </div>
+        `;
+        document.getElementById('external-grid').innerHTML = '';
+    }
+
+    init();
+    </script>
+</body>
+</html>
