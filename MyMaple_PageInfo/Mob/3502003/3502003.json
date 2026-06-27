@@ -1,0 +1,33 @@
+﻿{
+  "sName": "찐득한 폐기물",
+  "nLevel": 52,
+  "nbodyAttack": 1,
+  "nMaxHP": "6800",
+  "nSpeed": -30,
+  "nPADamage": 278,
+  "nPDDamage": 570,
+  "nPDRate": 10,
+  "nMADamage": 270,
+  "nMDDamage": 570,
+  "nMDRate": 10,
+  "nAcc": 90,
+  "nEva": 20,
+  "nPushed": 400,
+  "sFs": "10",
+  "nExp": 202,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 312,
+  "nMesoMax": 468,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "폐기물에서 탄생한 몬스터. 엄청난 악취를 풍긴다.\\r\\n\\r\\n기계 발전의 부산물이 마법 광물의 영향을 받아 탄생한 몬스터.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "2431174", "sItemName": "명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있는 명예의 훈장이다." },
+    { "sItemID": "4001804", "sItemName": "오일 덩어리", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "불결하게 뭉쳐 있는 오일 덩어리다. 불쾌한 향이 풍겨온다." }
+  ]
+}

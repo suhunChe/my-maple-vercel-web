@@ -1,0 +1,32 @@
+﻿{
+  "sName": "푸근한 바이킹",
+  "nLevel": 63,
+  "nbodyAttack": 1,
+  "nMaxHP": "13400",
+  "nSpeed": -40,
+  "nPADamage": 346,
+  "nPDDamage": 170,
+  "nPDRate": 10,
+  "nMADamage": 361,
+  "nMDDamage": 210,
+  "nMDRate": 10,
+  "nAcc": 123,
+  "nEva": 123,
+  "nPushed": 500,
+  "sFs": null,
+  "nExp": 266,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 378,
+  "nMesoMax": 567,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "버섯의 성을 침략한 검은 바이킹 휘하의 병사 갈매기이다. 다른 사람들이 푸근한 바이킹이라고 부르고 있어 본 조사원 역시 그렇게 작성했지만, 사실 푸근하다는 표현이 맞는지 모르겠다. 저런 몸으로 날 수 있을지 의문이다.\\r\\n\\r\\n                                        - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "4034110", "sItemName": "바이킹의 투구", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "바이킹이 머리에 쓰고 다니는 투구다. 이 투구를 쓰면 바이킹처럼 보일지도?" }
+  ]
+}

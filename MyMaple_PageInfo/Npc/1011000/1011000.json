@@ -1,0 +1,14 @@
+﻿{
+  "sName": "칼",
+  "sFunc": "무기 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "쌉니다! 싸요~!",
+  "nN1": "어서 오라구~! 하하하~",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "헤네시스 무기/방어구 상점에 있는 무기상인 아저씨다. 최근에는 시장에 있는 노점상 오심마 때문에 장사가 잘 안된다고 불평하고 있다. \\r\\n\\r\\n말로는 싸게 판다고 하지만 사실 노점상의 가격과 별 차이 없으니 당연한 일인 것 같다.\\r\\n\\r\\n                                        - 조사원 리트"
+}

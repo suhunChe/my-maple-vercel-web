@@ -1,0 +1,14 @@
+﻿{
+  "sName": "키루",
+  "sFunc": "선원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "에레브로 갈 거면 말해.",
+  "nN1": "휴우... 선원이 더 필요해.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "시그너스 기사단의 선원이다. 에레브와 오르비스를 오가는 배를 운행한다. \\r\\n\\r\\n수다스러운 성격이라 함께 이야기를 나누다 보면 어느새 오르비스 정거장에 도착해 있곤 한다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "로얄 페어리",
+  "nLevel": 15,
+  "nbodyAttack": 1,
+  "nMaxHP": "250",
+  "nSpeed": 10,
+  "nPADamage": 65,
+  "nPDDamage": 85,
+  "nPDRate": 20,
+  "nMADamage": 59,
+  "nMDDamage": 105,
+  "nMDRate": 20,
+  "nAcc": 23,
+  "nEva": 1,
+  "nPushed": 20,
+  "sFs": "10",
+  "nExp": 31,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": null,
+  "sMobType": "5H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 90,
+  "nMesoMax": 135,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "페어리 세계에서 높은 등급에 오른 몬스터. 다른 페어리들과 달리 더욱 아름다운 모습과 날개를 가지고 있어 동경의 대상이 되는 것 같다.\\r\\n\\r\\n게다가 강력한 마력의 소유자로 자주 상대에게 마법을 건 상태 이상 공격을 하므로 조심하는 것이 좋다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "2870065", "sItemName": null, "sSourceType": "S", "dChance": 0.01, "sItemDesc": null },
+    { "sItemID": "4000620", "sItemName": "로얄페어리의 날개", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "로얄페어리에게서 얻을 수 있는 날개다." }
+  ]
+}

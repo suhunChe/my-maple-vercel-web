@@ -1,0 +1,14 @@
+﻿{
+  "sName": "클리앙",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "사제 클리앙이에요.",
+  "nN1": "어디 아프시면 찾아오세요.",
+  "nN2": null,
+  "nD0": "어디 아프신가요?",
+  "nD1": "무슨 일로 찾아오셨나요?",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

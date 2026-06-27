@@ -1,0 +1,33 @@
+﻿{
+  "sName": "레지스탕스 병사",
+  "nLevel": 110,
+  "nbodyAttack": 1,
+  "nMaxHP": "330000000",
+  "nSpeed": 3,
+  "nPADamage": 1,
+  "nPDDamage": 12,
+  "nPDRate": 10,
+  "nMADamage": 46,
+  "nMDDamage": 40,
+  "nMDRate": 10,
+  "nAcc": 23,
+  "nEva": 1,
+  "nPushed": 1000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 0,
+  "sElemAttr": "S1",
+  "sMobType": "8N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

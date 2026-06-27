@@ -1,0 +1,14 @@
+﻿{
+  "sName": "잡화상인 정령",
+  "sFunc": "잡화상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "정령의 나무 밑에서 잡화를 팔고 있는 정령. \\r\\n\\r\\n조그만 정령과 매우 닮았다. 동족이나 형제일까 싶지만, 딱히 확인된 바는 없다. \\r\\n\\r\\n눈을 감고 있지만 결코 졸고 있는 것은 아니다. 말을 걸면 바로 물건을 내준다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

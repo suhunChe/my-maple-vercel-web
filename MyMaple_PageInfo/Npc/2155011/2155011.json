@@ -1,0 +1,14 @@
+﻿{
+  "sName": "전우 네모로이드",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "아프니까 환자지",
+  "nN1": "곧 부품을 구해올꺼야",
+  "nN2": "내일은 부품이 들어올꺼야",
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "부상당한 안드로이드와, 그를 도닥여주고 있는 안드로이드. 이들 역시 DF형 안드로이드다.\\r\\n\\r\\n다친 녀석의 부품을 구해올 때까지 얌전히 기다리고 있는 듯하다.\\r\\n\\r\\n                                        - 조사원 하퍼"
+}

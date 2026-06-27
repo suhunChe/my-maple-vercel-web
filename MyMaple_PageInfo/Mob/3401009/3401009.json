@@ -1,0 +1,32 @@
+﻿{
+  "sName": "불가사리 문어 슬라임",
+  "nLevel": 41,
+  "nbodyAttack": 1,
+  "nMaxHP": "4000",
+  "nSpeed": -20,
+  "nPADamage": 208,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 201,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 13,
+  "nPushed": 300,
+  "sFs": "10",
+  "nExp": 119,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 246,
+  "nMesoMax": 369,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 어느 날 나타난 블랙 슬라임이 불가사리 문어에 달라붙어 만들어진 몬스터.\\r\\n\\r\\n자신의 몸집보다 큰 문어를 짊어지고 다니느라 슬라임의 표정이 좋지 않다.\\r\\n\\r\\n동식물을 몬스터처럼 변화시키는 블랙 슬라임이지만, 달라붙을 상대를 잘못 고른 것 같다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000762", "sItemName": "푸른색 먹물 주머니", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "불가사리 문어 슬라임의 먹물 주머니이다." }
+  ]
+}

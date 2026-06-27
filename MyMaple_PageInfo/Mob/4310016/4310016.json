@@ -1,0 +1,33 @@
+﻿{
+  "sName": "폭주 상태의 페리",
+  "nLevel": 151,
+  "nbodyAttack": 1,
+  "nMaxHP": "164160000",
+  "nSpeed": 10,
+  "nPADamage": 3900,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 4080,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 563,
+  "nEva": 135,
+  "nPushed": 4000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": "F3I3",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

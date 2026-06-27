@@ -1,0 +1,36 @@
+﻿{
+  "sName": "캡틴 블랙 슬라임",
+  "nLevel": 126,
+  "nbodyAttack": 1,
+  "nMaxHP": "2950000",
+  "nSpeed": -10,
+  "nPADamage": 3184,
+  "nPDDamage": 0,
+  "nPDRate": 30,
+  "nMADamage": 3190,
+  "nMDDamage": 0,
+  "nMDRate": 30,
+  "nAcc": 423,
+  "nEva": 115,
+  "nPushed": 2000,
+  "sFs": "10",
+  "nExp": 53050,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "14N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4000764", "sItemName": "거대한 문어 다리", "sSourceType": "J", "dChance": 0.01, "sItemDesc": "캡틴 블랙 슬라임이 떨어뜨린 거대한 문어 다리이다." },
+    { "sItemID": "1012346", "sItemName": "플라워 타투", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

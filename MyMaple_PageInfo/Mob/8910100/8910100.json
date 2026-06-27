@@ -1,0 +1,41 @@
+﻿{
+  "sName": "반반",
+  "nLevel": 120,
+  "nbodyAttack": 0,
+  "nMaxHP": "315000000",
+  "nSpeed": 20,
+  "nPADamage": 12700,
+  "nPDDamage": 0,
+  "nPDRate": 50,
+  "nMADamage": 12700,
+  "nMDDamage": 0,
+  "nMDRate": 50,
+  "nAcc": 9999,
+  "nEva": 480,
+  "nPushed": 100000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 동쪽 봉인의 수호자. 동쪽 정원의 시간을 멈추게 한 시간 술사이기도 하다. 최면의 형식으로 시간 마법을 부리는 것으로 보인다. 하지만 의외로 네 명의 수호자 중 가장 약한 듯하다.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "3010512", "sItemName": "반반과 함께", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "반반의 호위를 받을 수 있는 의자이다. 앉아 있으면 10초마다 HP가 50씩 회복된다. " },
+    { "sItemID": "2000005", "sItemName": "파워 엘릭서", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "전설의 비약이다.\\nHP, MP를 모두 회복시킨다. 단, 최대 HP, MP가 999,999를 초과할 경우는 HP, MP를 999,999 회복한다." },
+    { "sItemID": "2433515", "sItemName": "반반의 소울 조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "반반의 소울 일부가 담겨진 조각이다. 획득하거나 더블 클릭하여\\n사용하면 #c소울 컬렉션#에 #c반반의\\n소울 조각#이 1개 누적되며, 소울\\n컬렉션에서 소울 조각 #c10개#를\\n소모하여 #c반반의 소울#을 획득할\\n수 있다." },
+    { "sItemID": "4310064", "sItemName": "이그드라실 룬의 돌", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "이그드라실 룬이 새겨진 신비한 돌이다. 거대한 뿌리의 루타비스 상인에게 봉인된 상자로 교환할 수 있다." },
+    { "sItemID": "2433103", "sItemName": "보스 명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있으며 일반 명예의 훈장보다 많은 명성치를 획득할 수 있다." },
+    { "sItemID": "4310029", "sItemName": "십자 코인", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "크로스헌터 아지트의 리에게서 전용 보급품들과 교환할 수 있다. 전용 보급품은 메이플 운영자를 통해서도 교환할 수 있다.\\n\\n#c2023년 9월 30일까지 교환 가능#" },
+    { "sItemID": "1003716", "sItemName": "반반 투구", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

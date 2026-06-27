@@ -1,0 +1,33 @@
+﻿{
+  "sName": "반딧불 슬라임",
+  "nLevel": 30,
+  "nbodyAttack": 1,
+  "nMaxHP": "1800",
+  "nSpeed": -30,
+  "nPADamage": 137,
+  "nPDDamage": 25,
+  "nPDRate": 10,
+  "nMADamage": 130,
+  "nMDDamage": 32,
+  "nMDRate": 10,
+  "nAcc": 40,
+  "nEva": 3,
+  "nPushed": 150,
+  "sFs": "10",
+  "nExp": 86,
+  "nSummonType": 1,
+  "nCategory": 2,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 180,
+  "nMesoMax": 270,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "빅토리아 아일랜드 전역에서 볼 수 있는 일반적인 슬라임에 식물이 섞여 탄생한 몬스터.\\r\\n\\r\\n슬라임이 반딧불이 식물을 장기간 섭취한 결과다. 말캉말캉한 몸은 잃었지만 상큼한 향이 더 강해졌다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4033824", "sItemName": "스파티움 잎", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "스파티움 잎이다." },
+    { "sItemID": "4000990", "sItemName": "반짝이는 더듬이", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "더듬이 끝에 맺힌 영롱한 색의 빛이 그 어떤 생물체라도 넋을 잃게 할 만큼 아름답다." }
+  ]
+}

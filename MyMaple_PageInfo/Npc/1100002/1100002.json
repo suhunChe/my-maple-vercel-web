@@ -1,0 +1,14 @@
+﻿{
+  "sName": "키리윙",
+  "sFunc": "잡화 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "이야, 힘들지? 포션이라도 한 잔 어때?",
+  "nN1": "필요한 물건은 전부 공수해 놨다고~ 둘러봐도 좋아!",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "시그너스 기사단의 잡화 상인이다. \\r\\n\\r\\n기사들이나 병사들이 수련하며 물약을 많이 쓰기 때문에 언제나 물건을 채워 두느라 바쁘다고 한다. 수완이 좋아 늘 질 좋은 물약을 공수해 둔다.\\r\\n\\r\\n\\r\\n                                           - 조사원 Q"
+}

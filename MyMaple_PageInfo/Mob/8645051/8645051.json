@@ -1,0 +1,33 @@
+﻿{
+  "sName": "시그너스 병사",
+  "nLevel": 200,
+  "nbodyAttack": 0,
+  "nMaxHP": "44640000",
+  "nSpeed": -30,
+  "nPADamage": 240,
+  "nPDDamage": 170,
+  "nPDRate": 10,
+  "nMADamage": 44640000,
+  "nMDDamage": 210,
+  "nMDRate": 10,
+  "nAcc": 723,
+  "nEva": 205,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": null,
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

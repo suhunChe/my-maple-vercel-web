@@ -1,0 +1,36 @@
+﻿{
+  "sName": "설산의 마녀",
+  "nLevel": 82,
+  "nbodyAttack": 1,
+  "nMaxHP": "1450000",
+  "nSpeed": -50,
+  "nPADamage": 789,
+  "nPDDamage": 190,
+  "nPDRate": 25,
+  "nMADamage": 775,
+  "nMDDamage": 230,
+  "nMDRate": 25,
+  "nAcc": 203,
+  "nEva": 203,
+  "nPushed": 450,
+  "sFs": null,
+  "nExp": 20675,
+  "nSummonType": 0,
+  "nCategory": 5,
+  "sElemAttr": null,
+  "sMobType": "7H",
+  "nMobTime": "600",
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": "얼음속에 구속된 마녀가 눈을 떴습니다.",
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "정체를 알 수 없는 설산의 마녀이다. \\r\\n\\r\\n엘나스 사냥꾼들에게는 설산의 마녀야말로 엘나스 산맥의 진정한 주인이므로 엘나스 산맥에서 사냥을 하려면 이 존재에게 허락을 받아야 한다는 전설이 전해지고 있다. \\r\\n\\r\\n하지만 전설은 사실과 다르다. 환영받지 못한 어떤 마법사가 엘나스 마을에서 쫓겨나 깊은 숲으로 향했고, 그곳에서 원한에 잠겨 스스로 몬스터가 된 것이 바로 설산의 마녀라고 한다. \\r\\n\\r\\n서로의 오해가 풀리고 원한에서 해방되면 설산의 마녀는 사라질지도 모른다.\\r\\n\\r\\n                                        - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "4000415", "sItemName": "얼음 눈물", "sSourceType": "J", "dChance": 0.01, "sItemDesc": "얼음으로 만들어진 눈물 한 방울이다. 보석처럼 아름답지만 너무도 차가워 함부로 만질 수 없다." },
+    { "sItemID": "2870229", "sItemName": null, "sSourceType": "S", "dChance": 0.01, "sItemDesc": null }
+  ]
+}

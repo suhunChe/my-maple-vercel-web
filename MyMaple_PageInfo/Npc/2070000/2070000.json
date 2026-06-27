@@ -1,0 +1,14 @@
+﻿{
+  "sName": "노서방",
+  "sFunc": "창고지기",
+  "sS0": "저에게 맡기시는 물건은 제가 모두 적어두고 있으니 안심하세요.",
+  "sS1": "음..음? 근데 뭘 적던 중이었더라..",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아랫마을의 창고지기이다. 누가 언제 어떤 물건을 맡겼는지 부지런히 기록해 두고 있다. \\r\\n\\r\\n이렇게 열심히 기록하는 이유는 건망증이 워낙 심하기 때문이라고 한다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

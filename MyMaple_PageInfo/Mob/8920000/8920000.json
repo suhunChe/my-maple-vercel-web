@@ -1,0 +1,37 @@
+﻿{
+  "sName": "카오스 블러디 퀸",
+  "nLevel": 190,
+  "nbodyAttack": 0,
+  "nMaxHP": "2000000000",
+  "nSpeed": -30,
+  "nPADamage": 20400,
+  "nPDDamage": 0,
+  "nPDRate": 120,
+  "nMADamage": 20400,
+  "nMDDamage": 0,
+  "nMDRate": 120,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 남쪽 봉인의 수호자. 남쪽 정원의 성에서 조용히 머물러 있다.\\r\\n\\r\\n거대한 키에 네 개의 얼굴과 네 개의 인격을 가진, 기괴한 모습의 피의 여왕. 조금이라도 맘에 안 들면 부하들을 쉽게 처리해 버리는 등, 섬뜩한 면모를 가지고 있다.\\r\\n네 명의 수호자 중 두 번째로 강하다고 한다. 대전을 함부로 드나들어 화가 많이 나신 듯하니, 처신을 잘하자.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "2434586", "sItemName": "절규의 조각", "sSourceType": "J", "dChance": 0, "sItemDesc": "#c카오스 블러디퀸#의 기운이 담긴 조각. #c5개#를 모아 #c더블클릭#하여 사용하면 #c150.LV 하이네스 모자# 1개를 선택하여 획득할 수 있다.\\r\\n\\r\\n조각을 #c10번# 사용할 때마다 #c찬스타임#이 발동하여 더 좋은 #c추가옵션#을 받을 확률이 증가한다." },
+    { "sItemID": "3010514", "sItemName": "무서워요 퀸", "sSourceType": "J", "dChance": 0, "sItemDesc": "블러디 퀸의 왕좌이다. 앉아 있으면 10초마다 HP가 50씩 회복된다. " },
+    { "sItemID": "1003721", "sItemName": "카오스 퀸의 티아라", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

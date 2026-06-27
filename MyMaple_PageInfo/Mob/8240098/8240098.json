@@ -1,0 +1,39 @@
+﻿{
+  "sName": "스우",
+  "nLevel": 210,
+  "nbodyAttack": 0,
+  "nMaxHP": "0",
+  "nSpeed": 0,
+  "nPADamage": 1682,
+  "nPDDamage": 1760,
+  "nPDRate": 30,
+  "nMADamage": 1655,
+  "nMDDamage": 1840,
+  "nMDRate": 30,
+  "nAcc": 303,
+  "nEva": 80,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4310029", "sItemName": "십자 코인", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "크로스헌터 아지트의 리에게서 전용 보급품들과 교환할 수 있다. 전용 보급품은 메이플 운영자를 통해서도 교환할 수 있다.\\n\\n#c2023년 9월 30일까지 교환 가능#" },
+    { "sItemID": "4001843", "sItemName": "특수형 에너지 코어(S급)", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "에너지원으로 사용되는 코어. 스우가 대량의 안드로이드들을 제어할 때 사용했던 것으로 보인다. 대량의 에너지를 머금고 있다. #c헤이븐의 감수성 터지는 네모로이드를 찾아가면 앱솔랩스 코인으로 교환할 수 있다.#" },
+    { "sItemID": "2000005", "sItemName": "파워 엘릭서", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "전설의 비약이다.\\nHP, MP를 모두 회복시킨다. 단, 최대 HP, MP가 999,999를 초과할 경우는 HP, MP를 999,999 회복한다." },
+    { "sItemID": "2433103", "sItemName": "보스 명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있으며 일반 명예의 훈장보다 많은 명성치를 획득할 수 있다." },
+    { "sItemID": "2433593", "sItemName": "스우의 소울 조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "스우의 소울 일부가 담겨진 조각이다. 획득하거나 더블 클릭하여\\n사용하면 #c소울 컬렉션#에 #c스우의\\n소울 조각#이 1개 누적되며, 소울\\n컬렉션에서 소울 조각 #c10개#를\\n소모하여 #c스우의 소울#을 획득할\\n수 있다." }
+  ]
+}

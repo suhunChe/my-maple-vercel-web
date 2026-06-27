@@ -1,0 +1,14 @@
+﻿{
+  "sName": "이사가",
+  "sFunc": "캐릭터 월드이전",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "다른 월드로 가고싶나요?",
+  "nN1": "원하는 월드로 이사 보내드리죠.",
+  "nN2": null,
+  "nD0": "다른 월드로 가고싶나요?",
+  "nD1": "원하는 월드로 이사 보내드리죠.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

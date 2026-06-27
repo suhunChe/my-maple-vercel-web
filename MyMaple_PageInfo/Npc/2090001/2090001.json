@@ -1,0 +1,14 @@
+﻿{
+  "sName": "공공",
+  "sFunc": "무기 상인",
+  "sS0": "강한 무기는 당신을 더욱 강하게 하지.",
+  "sS1": "당신이 마음에 들어할 무기가 있을 지도 모르잖나.",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "무릉의 무기 상인. 방어구 상인 비디원의 동생이다.\\r\\n\\r\\n수완이 상당히 좋은 장사꾼으로 오시리아 대륙 여기저기서 다양한 무기를 들여와 판매 중이다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

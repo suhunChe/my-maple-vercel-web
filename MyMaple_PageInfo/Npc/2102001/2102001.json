@@ -1,0 +1,14 @@
+﻿{
+  "sName": "슬린",
+  "sFunc": "선원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "곧 출발합니다. 잠시만 기다려 주십시오.",
+  "nN1": "운행 중에는 안전에 주의하십시오.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

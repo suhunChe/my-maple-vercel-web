@@ -1,0 +1,33 @@
+﻿{
+  "sName": "라바나",
+  "nLevel": 140,
+  "nbodyAttack": 1,
+  "nMaxHP": "516798500",
+  "nSpeed": 0,
+  "nPADamage": 4248,
+  "nPDDamage": 900,
+  "nPDRate": 25,
+  "nMADamage": 4176,
+  "nMDDamage": 790,
+  "nMDRate": 25,
+  "nAcc": 423,
+  "nEva": 423,
+  "nPushed": 50000,
+  "sFs": null,
+  "nExp": 186430,
+  "nSummonType": 1,
+  "nCategory": 0,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "날치 슬라임",
+  "nLevel": 40,
+  "nbodyAttack": 1,
+  "nMaxHP": "3800",
+  "nSpeed": -10,
+  "nPADamage": 196,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 200,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 250,
+  "sFs": "10",
+  "nExp": 115,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 240,
+  "nMesoMax": 360,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 어느 날 나타난 블랙 슬라임이 날치에 달라붙은 형태다.\\r\\n\\r\\n원래 날치는 바다 위를 날아다니나, 블랙 슬라임이 날치가 날지 못하도록 붙잡고 있다. 그 때문에 블랙 슬라임은 열심히 바닷가를 뛰어다니고 있다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4033622", "sItemName": "장난감 공", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "윌리엄이 좋아하는 장난감 공이다." },
+    { "sItemID": "4000761", "sItemName": "날치", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "날치 슬라임이 매달려 있던 날치이다." }
+  ]
+}

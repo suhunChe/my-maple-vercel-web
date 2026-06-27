@@ -1,0 +1,32 @@
+﻿{
+  "sName": "애벌레",
+  "nLevel": 13,
+  "nbodyAttack": 1,
+  "nMaxHP": "200",
+  "nSpeed": -50,
+  "nPADamage": 54,
+  "nPDDamage": 30,
+  "nPDRate": 20,
+  "nMADamage": 49,
+  "nMDDamage": 10,
+  "nMDRate": 20,
+  "nAcc": 23,
+  "nEva": 1,
+  "nPushed": 20,
+  "sFs": "10",
+  "nExp": 23,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "5H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 78,
+  "nMesoMax": 117,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4009219", "sItemName": "말린 애벌레", "sSourceType": "S", "dChance": 0.2, "sItemDesc": "바짝 마른 애벌레. 새끼 여우들의 먹이다." }
+  ]
+}

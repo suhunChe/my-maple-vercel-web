@@ -1,0 +1,33 @@
+﻿{
+  "sName": "교도관 보어",
+  "nLevel": 117,
+  "nbodyAttack": 1,
+  "nMaxHP": "500000",
+  "nSpeed": -30,
+  "nPADamage": 1500,
+  "nPDDamage": 600,
+  "nPDRate": 30,
+  "nMADamage": 1571,
+  "nMDDamage": 350,
+  "nMDRate": 30,
+  "nAcc": 360,
+  "nEva": 97,
+  "nPushed": 1600,
+  "sFs": "10",
+  "nExp": 1710,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "6H",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

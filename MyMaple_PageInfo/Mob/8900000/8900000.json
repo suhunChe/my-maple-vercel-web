@@ -1,0 +1,37 @@
+﻿{
+  "sName": "카오스 피에르",
+  "nLevel": 190,
+  "nbodyAttack": 0,
+  "nMaxHP": "2000000000",
+  "nSpeed": 30,
+  "nPADamage": 35000,
+  "nPDDamage": 0,
+  "nPDRate": 80,
+  "nMADamage": 35000,
+  "nMDDamage": 0,
+  "nMDRate": 80,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 서쪽 봉인의 수호자. 서쪽 정원에서 거대한 티 파티를 열고 손님을 기다리고 있다. 티 파티라니.... 뭔가 흥미가 생기는걸?\\r\\n\\r\\n어떤 만찬이 준비되어 있을까 궁금하지만, 일단은 사리도록 하겠다. 혹시 모르지 않나, 잡아먹힐지도! 네 명의 수호자 중 세 번째로 강하다 한다. 괴상한 모자를 쓰고, 이상한 묘기를 부린다고 전해진다. 피에르가 두 명으로 보인다나 뭐라나.... \\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "2434585", "sItemName": "조롱의 조각", "sSourceType": "J", "dChance": 0, "sItemDesc": "#c카오스 피에르#의 기운이 담긴 조각. #c5개#를 모아 #c더블클릭#하여 사용하면 #c150.LV 트릭스터 하의# 1개를 선택하여 획득할 수 있다.\\r\\n\\r\\n조각을 #c10번# 사용할 때마다 #c찬스타임#이 발동하여 더 좋은 #c추가옵션#을 받을 확률이 증가한다." },
+    { "sItemID": "3010513", "sItemName": "즐거운 피에르", "sSourceType": "J", "dChance": 0, "sItemDesc": "즐거운 피에르의 의자이다. 앉아 있으면 10초마다 HP가 50씩 회복된다. " },
+    { "sItemID": "1003719", "sItemName": "카오스 피에르 모자", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

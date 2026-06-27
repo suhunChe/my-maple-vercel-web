@@ -1,0 +1,14 @@
+﻿{
+  "sName": "핫세",
+  "sFunc": "잡화상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "원하는 아이템이 있으면 말씀하세요~",
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "판타스틱 테마파크의 정문에서 잡화를 판매하고 있는 상인이다. \\r\\n\\r\\n테마파크다운 기념품을 팔고 있을 줄 알았는데 딱히 그런 것은 아니었다. 상품 개발이 더 필요한 거 아닌가?\\r\\n\\r\\n                                           - 조사원 Q"
+}

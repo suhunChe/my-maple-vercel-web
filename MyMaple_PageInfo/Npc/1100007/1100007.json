@@ -1,0 +1,14 @@
+﻿{
+  "sName": "키리루",
+  "sFunc": "선원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "에레브로 가실 손님은 말씀해 주세요.",
+  "nN1": "신수께서는 잘 계실까...",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "시그너스 기사단의 선원이다. 에레브와 빅토리아 아일랜드를 오가는 배를 운행한다. \\r\\n\\r\\n친절한 성격이라 빅토리아 아일랜드의 여러 마을에 대해 설명해 주지만, 말이 느려 설명을 끝까지 들어 본 사람은 없다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

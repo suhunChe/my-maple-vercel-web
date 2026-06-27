@@ -1,0 +1,32 @@
+﻿{
+  "sName": "순무라고라",
+  "nLevel": 35,
+  "nbodyAttack": 1,
+  "nMaxHP": "2800",
+  "nSpeed": 30,
+  "nPADamage": 199,
+  "nPDDamage": 30,
+  "nPDRate": 5,
+  "nMADamage": 159,
+  "nMDDamage": 40,
+  "nMDRate": 5,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 200,
+  "sFs": "10",
+  "nExp": 114,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "3N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 210,
+  "nMesoMax": 315,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "순무형 만드라고라에서 비롯된 몬스터. 양파라고라가 약초라면 순무라고라는 주로 음식에 사용된다.\\r\\n\\r\\n담백한 수프 요리에 사용되며, 순무라고라가 사용된 음식은 건강식으로 젊은 여성 요정들에게 인기가 많다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000997", "sItemName": "순무의 싹", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "굉장히 싱싱한 순무의 싹. 야채가 걸어다닐만큼 싱싱해 보인다는 건 바로 이런걸 말하는게 아닐까." }
+  ]
+}

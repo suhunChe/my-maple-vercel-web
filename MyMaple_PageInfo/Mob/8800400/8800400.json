@@ -1,0 +1,33 @@
+﻿{
+  "sName": "타란튤로스",
+  "nLevel": 165,
+  "nbodyAttack": 1,
+  "nMaxHP": "57000000",
+  "nSpeed": -20,
+  "nPADamage": 7110,
+  "nPDDamage": 1200,
+  "nPDRate": 50,
+  "nMADamage": 7020,
+  "nMDDamage": 1500,
+  "nMDRate": 50,
+  "nAcc": 640,
+  "nEva": 180,
+  "nPushed": 99999999,
+  "sFs": "10",
+  "nExp": 462800,
+  "nSummonType": 1,
+  "nCategory": 6,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "콜로서스의 심장을 공격하고 있던 거미 몬스터. 얼핏 보면 레벤광산의 빅 스파이더와 유사한 생김새를 가졌다. \\r\\n\\r\\n하지만 빅 스파이더보다 훨씬 크고 강력하며, 등 쪽에 바위로 뒤덮인 수상한 기관을 가지고 있는 것이 특징. \\r\\n\\r\\n구와르는 이 괴물의 공격으로부터 암벽 거인의 심장을 지키느라 그가 어둠에 물들어 가는 것을 막을 여력이 없었다고 한다.\\r\\n\\r\\n거미줄은 물론, 다양한 스킬을 사용해 침입자를 공격하니 주의할 것.\\r\\n\\r\\n                                          - 조사원 J.K",
+  "sDropList": null
+}

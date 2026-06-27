@@ -1,0 +1,14 @@
+﻿{
+  "sName": "마야",
+  "sFunc": "잡화상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "쿨럭, 쿨럭… 아…. 머리가 아프네….",
+  "nN1": "찾는 물건이 있으신가요?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "파괴된 헤네시스의 잡화 상인. 늘 집안에서 기침을 하고 있던 그 소녀가 드디어 집 밖에 나와서 무언가 하고 있다. \\r\\n\\r\\n하지만 여전히 기침과 두통을 호소하고 있다. 그녀의 할머니가 엘프라는 소문이 있지만 확인되진 않았다.\\r\\n\\r\\n                                          - 조사원 J.K"
+}

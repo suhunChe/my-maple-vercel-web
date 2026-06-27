@@ -1,0 +1,33 @@
+﻿{
+  "sName": "자쿰팔7",
+  "nLevel": 110,
+  "nbodyAttack": 0,
+  "nMaxHP": "700000",
+  "nSpeed": 0,
+  "nPADamage": 2000,
+  "nPDDamage": 1050,
+  "nPDRate": 40,
+  "nMADamage": 2000,
+  "nMDDamage": 750,
+  "nMDRate": 40,
+  "nAcc": 450,
+  "nEva": 144,
+  "nPushed": 50000,
+  "sFs": "10",
+  "nExp": 51520,
+  "nSummonType": 1,
+  "nCategory": 6,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "하이 다크스타",
+  "nLevel": 125,
+  "nbodyAttack": 1,
+  "nMaxHP": "1619775",
+  "nSpeed": 0,
+  "nPADamage": 2173,
+  "nPDDamage": 300,
+  "nPDRate": 25,
+  "nMADamage": 2116,
+  "nMDDamage": 500,
+  "nMDRate": 25,
+  "nAcc": 423,
+  "nEva": 423,
+  "nPushed": 10000,
+  "sFs": null,
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "F2I3",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

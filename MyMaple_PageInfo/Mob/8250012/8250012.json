@@ -1,0 +1,33 @@
+﻿{
+  "sName": "게오르크",
+  "nLevel": 215,
+  "nbodyAttack": 1,
+  "nMaxHP": "27306000",
+  "nSpeed": -60,
+  "nPADamage": 14513,
+  "nPDDamage": 430,
+  "nPDRate": 25,
+  "nMADamage": 14400,
+  "nMDDamage": 400,
+  "nMDRate": 25,
+  "nAcc": 832,
+  "nEva": 240,
+  "nPushed": 50000000,
+  "sFs": "10",
+  "nExp": 95362,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 1290,
+  "nMesoMax": 1935,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "블랙윙이 만들었던 거대 온열 쇄빙기. 쇄빙 기능뿐만 아니라 전투형으로도 사용되도록 고안되었던 것인지, 무기로서의 성능도 최상이다.\\r\\n\\r\\n특히 파괴력이 상상 이상이라고. 다만, 게오르크의 위력은 탑승자의 기량에 따라 편차가 크다고 한다.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": null
+}

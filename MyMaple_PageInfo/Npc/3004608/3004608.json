@@ -1,0 +1,14 @@
+﻿{
+  "sName": "올리바",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "쥐고 있으면 바닥으로 날아가요. 놓으면 천장으로 떨어져요.",
+  "nN1": "쥐고 있으면 바닥으로 날아가요. 놓으면 천장으로 떨어져요.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "지하선로 피난처에 있는 주민. 들고 있는 풍선을 놓으면 천장으로 떨어지고, 쥐고 있으면 바닥으로 날아간다고 한다. \\r\\n\\r\\n리버스 시티에서는 당연한 일이므로 자세히 생각할 필요는 없다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

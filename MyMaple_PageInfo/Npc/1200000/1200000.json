@@ -1,0 +1,14 @@
+﻿{
+  "sName": "푸슬라",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "험! 이 몸의 창고는 누구도 침입할 수 없지!",
+  "nN1": "물건을 맡길 곳이 필요한가?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "리엔의 창고지기 펭귄. 리엔의 보물 창고를 지키고 있다.\\r\\n\\r\\n창고에는 펭귄들을 위한 비상식량도 보관 중인데, 이를 노리는 펭귄이 많아 고민이라고.\\r\\n\\r\\n                                           - 조사원 엘"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "요정 세라비",
+  "sFunc": "방어구 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "저는 여러 가지 방어구를 팔고 있어요.",
+  "nN1": "한 번 구경해 보세요.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "엘리니아 상점에서 방어구를 판매 중인 요정.\\r\\n\\r\\n마법사들에게 어울리는 다양한 방어구를 판매하고 있다. 플로라하고는 항상 붙어 다닌다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "학",
+  "sFunc": "워프 도우미",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "날개가 없으면 정말 불편할 것 같단 말이야...",
+  "nN1": "걸어가는 것보다 내가 훨~씬 빠를 걸?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "무릉까지 날아서 갈 수 있게 해주는 학.\\r\\n\\r\\n어느 순간 날개가 없는 자들은 불편하게도 걸어서 이동해야 한다는 사실을 깨닫고 자신의 특기를 이용해 장사를 해보기로 한 것 같다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

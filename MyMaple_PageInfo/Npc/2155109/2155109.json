@@ -1,0 +1,14 @@
+﻿{
+  "sName": "정찰중인 로봇",
+  "sFunc": "블랙헤븐 내부 정찰병",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "기계무덤에서 볼 수 있는 정찰병 안드로이드. 기계무덤 언덕, 스카이라인, 블랙헤븐에서 찾을 수 있다. 한쪽 눈이 망가져 있다. 이 부분에 망원경을 연결하여 먼 곳을 관찰하는 듯하다.\\r\\n\\r\\n                                        - 조사원 하퍼"
+}

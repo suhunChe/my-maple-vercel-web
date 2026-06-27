@@ -1,0 +1,43 @@
+﻿{
+  "sName": "킹 캐슬 골렘",
+  "nLevel": 133,
+  "nbodyAttack": 1,
+  "nMaxHP": "80000000",
+  "nSpeed": 0,
+  "nPADamage": 2351,
+  "nPDDamage": 1650,
+  "nPDRate": 30,
+  "nMADamage": 2287,
+  "nMDDamage": 1350,
+  "nMDRate": 30,
+  "nAcc": 423,
+  "nEva": 115,
+  "nPushed": 100000000,
+  "sFs": "10",
+  "nExp": 281124,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "장미정원에서 아주 드물게 확인할 수 있는 거대한 골렘이다. 캐슬 골렘과 비교해도 훨씬 크다 보니 바닥을 내리치는 공격이 한층 더 위협적이다. \\r\\n\\r\\n땅속에 숨어 있다 튀어나오는 기습 공격을 하거나 구조물을 던지는 등, 예상외의 방법으로 공격하기 때문에 만반의 준비를 하고 상대하는 것을 추천한다.\\r\\n\\r\\n                                       - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "4021033", "sItemName": "하급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 순도가 낮은 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4021035", "sItemName": "상급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 순도가 높은 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다.  #c강력한 장비 및 비약을 제작하는데 사용된다.#" },
+    { "sItemID": "4000630", "sItemName": "정화의 토템", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "사자가 새겨진 조그만 토템으로 사자왕의 힘을 정화하는 능력을 가졌다. 메달의 타락한 힘을 정화하기 위해서는 많은 수가 필요하다." },
+    { "sItemID": "4021032", "sItemName": "마력 결정", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "마력이 결정화 된 하급 광석이다. 수상한 큐브, 주문서, 환생의 불꽃을 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4009173", "sItemName": "수상한 석회가루", "sSourceType": "J", "dChance": 0.01, "sItemDesc": "눈을 크게 뜨고 보면 석회가루들이 저절로 조금씩 움직이고 있다. 단, 눈을 좀 많이 크게 떠야 한다." },
+    { "sItemID": "4001832", "sItemName": "주문의 흔적", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "낡은 종이에 과거에 사용했던 주문의 흔적이 남아있다. 주문서 강화에 필요한 재료로 몬스터로부터 얻거나 주문서를 분해하면 얻을 수 있다. 레벨 20이상에서 아이템을 더블클릭하여 사용하면 주문서 강화를 할 수 있고 사용 시 출력되는 UI의 '?' 항목에서 도움말을 볼 수 있다." },
+    { "sItemID": "4021031", "sItemName": "뒤틀린 시간의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "시간마저 뒤틀릴 정도로 강력한 힘이 깃든 신비한 광석이다.\\r\\n보스 몬스터나 95레벨 이상의 일반 몬스터에게서 얻을 수 있다. #c강력한 장비 및 비약을 제작하는데 사용된다.#" },
+    { "sItemID": "4021034", "sItemName": "중급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4033113", "sItemName": "응고된 검은 물질", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "사악한 느낌이 나는 작은 젤리 같은 물질이다." }
+  ]
+}

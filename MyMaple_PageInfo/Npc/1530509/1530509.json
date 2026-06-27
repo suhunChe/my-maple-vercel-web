@@ -1,0 +1,14 @@
+﻿{
+  "sName": "자물쇠",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "한 번 잠기면 쉽게 열 수 없는 튼튼한 자물쇠다.",
+  "nD1": "한 번 잠기면 쉽게 열 수 없는 튼튼한 자물쇠다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

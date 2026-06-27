@@ -1,0 +1,14 @@
+﻿{
+  "sName": "식량창고",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "(카라반의 비상식량이 쌓여있다.)",
+  "nD1": "(카라반의 비상식량이 쌓여있다.)",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

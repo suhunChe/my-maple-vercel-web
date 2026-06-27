@@ -1,0 +1,14 @@
+﻿{
+  "sName": "란밍",
+  "sFunc": "잡화 상인",
+  "sS0": "기운도 없고 몸도 피곤하지 않나요? ",
+  "sS1": "최고의 재료로만 만든 물약들이에요~ 원기보충 할 때 일등 공신들이죠~",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "백초마을의 잡화상인. 삼을 재배하는 마을의 잡화상인답게 보약을 팔고 있다.\\r\\n\\r\\n허약한 몸에는 보약만 한 것이 없다며 보약의 효능을 설파하고 있다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

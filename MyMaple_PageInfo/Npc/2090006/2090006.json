@@ -1,0 +1,14 @@
+﻿{
+  "sName": "라야",
+  "sFunc": "펫먹이 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "펫에 대해 좀 더 알고 싶어?",
+  "nN1": "당신의 펫에게 좀 더 신경 써 주는 것이 좋을 거야.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "무릉의 펫 먹이 상인. 펫으로 백호를 키우고 있다. 백호를 훈련시켜 함께 묘기를 펼치는 게 취미.\\r\\n\\r\\n항상 쟁반을 돌리는 묘기를 부리고 있다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

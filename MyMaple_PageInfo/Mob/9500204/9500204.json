@@ -1,0 +1,33 @@
+﻿{
+  "sName": "Zoo 리본돼지",
+  "nLevel": 10,
+  "nbodyAttack": 0,
+  "nMaxHP": "10000",
+  "nSpeed": 5,
+  "nPADamage": 58,
+  "nPDDamage": 10,
+  "nPDRate": 25,
+  "nMADamage": 51,
+  "nMDDamage": 30,
+  "nMDRate": 25,
+  "nAcc": 4,
+  "nEva": 0,
+  "nPushed": 1,
+  "sFs": "10",
+  "nExp": 10,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

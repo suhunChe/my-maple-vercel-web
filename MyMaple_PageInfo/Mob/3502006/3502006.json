@@ -1,0 +1,33 @@
+﻿{
+  "sName": "이동형 난로",
+  "nLevel": 54,
+  "nbodyAttack": 1,
+  "nMaxHP": "7600",
+  "nSpeed": -40,
+  "nPADamage": 285,
+  "nPDDamage": 570,
+  "nPDRate": 10,
+  "nMADamage": 282,
+  "nMDDamage": 570,
+  "nMDRate": 10,
+  "nAcc": 90,
+  "nEva": 20,
+  "nPushed": 400,
+  "sFs": "10",
+  "nExp": 217,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 324,
+  "nMesoMax": 486,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "리엔의 빙하를 녹이기 위한 블랙윙의 이동형 난로. 폐기물을 내뿜으며 작동한다. 리엔 해수면 상승의 원인.\\r\\n\\r\\n에델슈타인의 기계 기술로 만들어진 것으로 보인다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "2431174", "sItemName": "명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있는 명예의 훈장이다." },
+    { "sItemID": "4001807", "sItemName": "연소된 발화물", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "까맣게 연소된 발화물이다. 아직 작은 불씨가 온기와 함께 피어오르고 있다." }
+  ]
+}

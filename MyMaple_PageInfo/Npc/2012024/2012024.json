@@ -1,0 +1,14 @@
+﻿{
+  "sName": "이그네트",
+  "sFunc": "선원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "곧 지니가 출발합니다. 안전선 안쪽으로 물러나 주세요.",
+  "nN1": "운행 중에는 함부로 뛰어다니거나 떠들지 말아주세요.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

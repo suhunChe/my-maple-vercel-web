@@ -1,0 +1,14 @@
+﻿{
+  "sName": "이고",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "쥐고기는 정말 지겨워.",
+  "nN1": "쥐고기는 정말 지겨워.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "지하선로 피난처에서 창고지기를 맡고 있는 주민. 최대한 다양하게 요리를 해보았지만, 결국 매일 먹는 쥐고기에 신물이 난 상태인 것 같다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

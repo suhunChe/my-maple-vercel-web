@@ -1,0 +1,36 @@
+﻿{
+  "sName": "차우",
+  "nLevel": 100,
+  "nbodyAttack": 1,
+  "nMaxHP": "6375000",
+  "nSpeed": -10,
+  "nPADamage": 1371,
+  "nPDDamage": 430,
+  "nPDRate": 25,
+  "nMADamage": 1327,
+  "nMDDamage": 400,
+  "nMDRate": 25,
+  "nAcc": 250,
+  "nEva": 65,
+  "nPushed": 1800,
+  "sFs": "10",
+  "nExp": 82450,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4000674", "sItemName": "차우의 뿔", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "차우의 뿔을 잘라온 것이다. 매우 단단하고 무겁다." },
+    { "sItemID": "4033109", "sItemName": "숲의 기운", "sSourceType": "S", "dChance": 0.05, "sItemDesc": "엘린 숲의 기운이 가득 담긴 돌이다." }
+  ]
+}

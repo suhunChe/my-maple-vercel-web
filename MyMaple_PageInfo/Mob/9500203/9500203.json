@@ -1,0 +1,33 @@
+﻿{
+  "sName": "Zoo 돼지",
+  "nLevel": 7,
+  "nbodyAttack": 0,
+  "nMaxHP": "10000",
+  "nSpeed": 0,
+  "nPADamage": 37,
+  "nPDDamage": 5,
+  "nPDRate": 25,
+  "nMADamage": 28,
+  "nMDDamage": 20,
+  "nMDRate": 25,
+  "nAcc": 4,
+  "nEva": 0,
+  "nPushed": 1,
+  "sFs": "10",
+  "nExp": 10,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

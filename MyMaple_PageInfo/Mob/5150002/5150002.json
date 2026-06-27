@@ -1,0 +1,32 @@
+﻿{
+  "sName": "아이스 믹스골렘",
+  "nLevel": 18,
+  "nbodyAttack": 1,
+  "nMaxHP": "325",
+  "nSpeed": -40,
+  "nPADamage": 80,
+  "nPDDamage": 160,
+  "nPDRate": 10,
+  "nMADamage": 73,
+  "nMDDamage": 220,
+  "nMDRate": 10,
+  "nAcc": 23,
+  "nEva": 1,
+  "nPushed": 50,
+  "sFs": "10",
+  "nExp": 38,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 108,
+  "nMesoMax": 162,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "사악한 기운이 골렘의 사원을 폐허로 만든 이후, 사원에는 스톤골렘과 다크 스톤골렘 그리고 믹스골렘만이 존재했다. \\r\\n\\r\\n그런데 어느 날부터였을까. 갑자기 얼음의 힘이 섞인 골렘이 나타나기 시작했다. 학자 브루스는 이러한 골렘을 달맞이꽃에서 나온 강력한 생명력으로 인해 한층 진화된 개체로 추정하고 있다. \\r\\n\\r\\n신기한 것은 아이스 골렘의 핵은 용광로같이 뜨겁다는 것이다. 오래전 마법사들은 속성의 극에 달하기 위해 역속성을 배웠다던데, 아이스 골렘도 비슷한 방식으로 만들어진 것일까?\\r\\n\\r\\n                                       - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "4000671", "sItemName": "얼어붙은 돌", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "아이스 믹스골렘에게서 떨어져 나온 돌이다." }
+  ]
+}

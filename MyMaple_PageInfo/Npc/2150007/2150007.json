@@ -1,0 +1,14 @@
+﻿{
+  "sName": "택시",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "...",
+  "nN1": "...",
+  "nN2": null,
+  "nD0": "택시요금 할증기간입니다. 적절한 메소를 갖고 계신지 확인하신 후 탑승해 주세요.",
+  "nD1": "택시요금 할증기간입니다. 적절한 메소를 갖고 계신지 확인하신 후 탑승해 주세요.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

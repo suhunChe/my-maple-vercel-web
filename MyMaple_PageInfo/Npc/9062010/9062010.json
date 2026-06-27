@@ -1,0 +1,14 @@
+﻿{
+  "sName": "미스터 뉴네임",
+  "sFunc": "캐릭터 이름 변경",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "새로운 이름을 원하시나요?",
+  "nN1": "어떤 이름이 좋을까...?",
+  "nN2": null,
+  "nD0": "당신의 이름을 바꾸고 싶다면! 저, 미스터 뉴네임을 찾아주세요~!",
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

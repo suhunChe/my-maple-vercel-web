@@ -1,0 +1,33 @@
+﻿{
+  "sName": "페어리 슬라임",
+  "nLevel": 31,
+  "nbodyAttack": 1,
+  "nMaxHP": "1980",
+  "nSpeed": -20,
+  "nPADamage": 142,
+  "nPDDamage": 25,
+  "nPDRate": 10,
+  "nMADamage": 134,
+  "nMDDamage": 32,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 200,
+  "sFs": "10",
+  "nExp": 91,
+  "nSummonType": 1,
+  "nCategory": 2,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 186,
+  "nMesoMax": 279,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "빅토리아 아일랜드 전역에서 볼 수 있는 일반적인 슬라임에 페어리가 섞여 탄생한 몬스터.\\r\\n\\r\\n요정형 몬스터인 페어리와 액체 괴물인 슬라임이 어떻게 섞이게 되었는지 밝혀진 바는 없다.\\r\\n\\r\\n엘리니아 학자들의 몇 가지 가설이 있긴 하지만 여러분의 상상을 위해 굳이 기재하지는 않도록 하겠다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000991", "sItemName": "반짝이는 날개", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "날개에서 흘러 나오는 자그마한 빛의 가루가 시선을 더욱 아름답게 한다. " },
+    { "sItemID": "4033825", "sItemName": "별빛의 결정", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "노랗게 반짝이며 빛나는 아주 작은 결정이다." }
+  ]
+}

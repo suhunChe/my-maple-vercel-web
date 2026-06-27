@@ -1,0 +1,14 @@
+﻿{
+  "sName": "사가티",
+  "sFunc": "잡화 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "귀찮게 하지 말고, 필요한 것만 어서 사가게나.",
+  "nN1": "많이 피곤하지? 내가 파는 시원한 포션 한 잔 어떤가?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아리안트 마을의 잡화 상인. 이 사막에서 낙타가 아니라 물을 많이 마시는 코끼리를 데리고 있는 비범한 인물. 어쨌든 파는 물건은 확실하니 걱정하지 않아도 좋다.\\r\\n\\r\\n                                          - 조사원 J.K\\r\\n"
+}

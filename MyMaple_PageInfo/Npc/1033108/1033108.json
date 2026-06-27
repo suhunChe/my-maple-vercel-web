@@ -1,0 +1,14 @@
+﻿{
+  "sName": "크루소",
+  "sFunc": "파견단 기사",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "시그너스 기사단 소속이지 말입니다.",
+  "nN1": "주민들께 폐를 끼치지 않는 범위 내에서 활동하지 말입니다.",
+  "nN2": null,
+  "nD0": "전설 속에서나 나오던 엘프 마을에 오게 되다니... 영광스러운 임무라고 생각하지 말입니다.",
+  "nD1": "언젠가 기사단장이 되고 싶지 말입니다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

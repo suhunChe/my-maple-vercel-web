@@ -1,0 +1,32 @@
+﻿{
+  "sName": "빨간 튜브 슬라임",
+  "nLevel": 38,
+  "nbodyAttack": 1,
+  "nMaxHP": "3400",
+  "nSpeed": -10,
+  "nPADamage": 189,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 180,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 250,
+  "sFs": "10",
+  "nExp": 107,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 228,
+  "nMesoMax": 342,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 어느 날 나타난 블랙 슬라임이 빨간 튜브에 달라붙어 만들어진 몬스터다.\\r\\n\\r\\n동식물에 달라붙은 다른 슬라임과 달리 물건에 강한 집착을 보인다.\\r\\n\\r\\n튜브에 탄 채로 파도에 몸을 맡겨 둥둥 떠다니는 것을 좋아한다. 무리를 지어 다니기 때문에 멀리서 보면 검은 파도가 밀려오는 것 같이 보인다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000758", "sItemName": "빨간 튜브", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "블랙 슬라임이 가지고 놀던 빨간색 튜브이다." }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "몰킹",
+  "nLevel": 30,
+  "nbodyAttack": 1,
+  "nMaxHP": "50000",
+  "nSpeed": -30,
+  "nPADamage": 140,
+  "nPDDamage": 0,
+  "nPDRate": 30,
+  "nMADamage": 135,
+  "nMDDamage": 0,
+  "nMDRate": 30,
+  "nAcc": 40,
+  "nEva": 3,
+  "nPushed": 150,
+  "sFs": "10",
+  "nExp": 72,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7H",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 180,
+  "nMesoMax": 270,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

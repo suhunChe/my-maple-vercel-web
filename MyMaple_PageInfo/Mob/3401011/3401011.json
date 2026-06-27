@@ -1,0 +1,37 @@
+﻿{
+  "sName": "캡틴 블랙 슬라임",
+  "nLevel": 45,
+  "nbodyAttack": 1,
+  "nMaxHP": "160000",
+  "nSpeed": -10,
+  "nPADamage": 349,
+  "nPDDamage": 0,
+  "nPDRate": 25,
+  "nMADamage": 322,
+  "nMDDamage": 0,
+  "nMDRate": 25,
+  "nAcc": 63,
+  "nEva": 13,
+  "nPushed": 999999,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 270,
+  "nMesoMax": 405,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 나타난 블랙 슬라임들의 모체. 돌연변이 거대 문어에 기생 중이다.\\r\\n\\r\\n다른 블랙 슬라임들보다 지능이 높고, 블랙 슬라임을 번식시키겠다는 강한 자아를 가진 것으로 확인됐다.\\r\\n\\r\\n하지만 아무리 지능이 높고, 강한 문어에게 기생했을지라도 문어는 문어다. 오히려 블랙 슬라임 때문에 깊은 바닷속으로 들어갈 수 없어져 약점이 생겼다.\\r\\n\\r\\n수영을 못하기 때문에 튜브를 가지고 다닌다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000764", "sItemName": "거대한 문어 다리", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "캡틴 블랙 슬라임이 떨어뜨린 거대한 문어 다리이다." },
+    { "sItemID": "4000763", "sItemName": "주황색 먹물 주머니", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "소라 문어 슬라임의 먹물 주머니이다." },
+    { "sItemID": "4000762", "sItemName": "푸른색 먹물 주머니", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "불가사리 문어 슬라임의 먹물 주머니이다." }
+  ]
+}

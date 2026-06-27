@@ -1,0 +1,35 @@
+﻿{
+  "sName": "피에르",
+  "nLevel": 120,
+  "nbodyAttack": 0,
+  "nMaxHP": "315000000",
+  "nSpeed": 30,
+  "nPADamage": 11800,
+  "nPDDamage": 0,
+  "nPDRate": 50,
+  "nMADamage": 11800,
+  "nMDDamage": 0,
+  "nMDRate": 50,
+  "nAcc": 9999,
+  "nEva": 480,
+  "nPushed": 100000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 서쪽 봉인의 수호자. 서쪽 정원에서 거대한 티 파티를 열고 손님을 기다리고 있다. 티 파티라니.... 뭔가 흥미가 생기는걸?\\r\\n\\r\\n어떤 만찬이 준비되어 있을까 궁금하지만, 일단은 사리도록 하겠다. 혹시 모르지 않나, 잡아먹힐지도! 네 명의 수호자 중 세 번째로 강하다 한다. 괴상한 모자를 쓰고, 이상한 묘기를 부린다고 전해진다. 피에르가 두 명으로 보인다나 뭐라나.... \\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "1003715", "sItemName": "피에르 모자", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

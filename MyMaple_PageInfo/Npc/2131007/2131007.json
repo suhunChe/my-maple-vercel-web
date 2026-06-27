@@ -1,0 +1,14 @@
+﻿{
+  "sName": "테스",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "어머니의 몸 상태가 걱정이 돼.",
+  "nN1": "임산부에게 좋은 음식이 뭐지?",
+  "nN2": null,
+  "nD0": "캠프가 썰렁하지? 대부분의 사람들이 마을 밖에 있으니 말이야.",
+  "nD1": "캠프가 썰렁하지? 대부분의 사람들이 마을 밖에 있으니 말이야.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

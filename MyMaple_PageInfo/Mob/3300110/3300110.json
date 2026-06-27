@@ -1,0 +1,33 @@
+﻿{
+  "sName": "검은 바이킹",
+  "nLevel": 65,
+  "nbodyAttack": 1,
+  "nMaxHP": "70000",
+  "nSpeed": -30,
+  "nPADamage": 540,
+  "nPDDamage": 50,
+  "nPDRate": 25,
+  "nMADamage": 555,
+  "nMDDamage": 70,
+  "nMDRate": 25,
+  "nAcc": 123,
+  "nEva": 123,
+  "nPushed": 200,
+  "sFs": null,
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7H",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "버섯의 성을 침략한 장본인이다. 날개가 달리고 하트 모양 장식이 추가된 핑크빛 투구, 땋은 머리에 달린 앙증맞은 리본, 분홍색 토끼 슬리퍼를 보면 알 수 있듯 취향이 확고한 편이다. \\r\\n\\r\\n총리대신의 헛소리에 넘어가 버섯의 성을 공격했지만, 비올레타의 모습을 보고 후회했을 것이다.\\r\\n\\r\\n                                        - 조사원 리트",
+  "sDropList": null
+}

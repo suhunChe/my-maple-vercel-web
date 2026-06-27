@@ -1,0 +1,33 @@
+﻿{
+  "sName": "유적의 거대 괴물",
+  "nLevel": 144,
+  "nbodyAttack": 1,
+  "nMaxHP": "25522500",
+  "nSpeed": 5,
+  "nPADamage": 3190,
+  "nPDDamage": 3135,
+  "nPDRate": 30,
+  "nMADamage": 3135,
+  "nMDDamage": 100,
+  "nMDRate": 30,
+  "nAcc": 563,
+  "nEva": 135,
+  "nPushed": 3200,
+  "sFs": "10",
+  "nExp": 8378,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "15N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": "유적의 거대 괴물을 물리쳐야 합니다.",
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

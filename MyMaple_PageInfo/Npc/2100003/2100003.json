@@ -1,0 +1,14 @@
+﻿{
+  "sName": "야스민",
+  "sFunc": "방어구 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "고운 비단으로 만든 옷을 원한다면 구경해 보게~",
+  "nN1": "마음에 든다면 싸게 줄 테니, 한번 입어보게나.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "차도르를 입고 있는 아리안트의 방어구 상인이다. 웃으면서 이것저것 물건을 권하고 있다. 싸게 해준다고 하지만 그다지 할인해 주는 것 같진 않으니 현혹되지 말자.\\r\\n\\r\\n                                          - 조사원 J.K\\r\\n"
+}

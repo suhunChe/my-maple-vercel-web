@@ -1,0 +1,14 @@
+﻿{
+  "sName": "파르미",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "나는 물건을 맡아준다르미!",
+  "nN1": "이래 봬도 커다란 창고다르미!",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "카루파 마을에 있는 창고지기이다. 나뭇잎으로 만든 저 작은 상자에 뭐가 들어갈까 싶지만 의외로 많은 물건이 보관되고 있었다. 급히 창고가 필요한 상황이라면 유용하게 사용할 수 있을 것 같다.\\r\\n\\r\\n                                      - 조사원 리트"
+}

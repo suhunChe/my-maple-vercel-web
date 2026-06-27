@@ -1,0 +1,14 @@
+﻿{
+  "sName": "니타",
+  "sFunc": "무기상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "어서오세요. 무기와 방어구 있습니다!",
+  "nN1": "아버지께서는 지금도 마을을 지키고 계신데, 저라고 약해질 순 없어요.",
+  "nN2": null,
+  "nD0": "막사에 계신 아버지를 대신해 가게를 보고 있어요.",
+  "nD1": "어서오세요. 무기와 방어구 있습니다!",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

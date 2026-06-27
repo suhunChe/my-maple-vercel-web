@@ -1,0 +1,14 @@
+﻿{
+  "sName": "브라스",
+  "sFunc": "보급요원",
+  "sS0": "여제의 명령으로 물건을 싸게 넘기고 있다네.",
+  "sS1": "이 안은 꽤나 위험한 모양이야. 조심들 하게.",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아스완 조사를 위해 시그너스 기사단에서 파견 나온 기사. 사막 한가운데서 보급을 확보하는 유능함을 겸비했다.\\r\\n\\r\\n                                          - 조사원 J.K"
+}

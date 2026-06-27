@@ -1,0 +1,14 @@
+﻿{
+  "sName": "튜브 보관함",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "튜브들이 사라져 곳곳이 비어 있다.",
+  "nD1": "튜브들이 가지런히 정리되어 있다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

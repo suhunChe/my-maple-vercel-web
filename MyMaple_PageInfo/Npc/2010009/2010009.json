@@ -1,0 +1,14 @@
+﻿{
+  "sName": "레나리우",
+  "sFunc": "길드연합 담당자",
+  "sS0": "안녕하세요! 레나리우라고 합니다. ",
+  "sS1": "안녕하세요! 레나리우라고 합니다.",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "오르비스 길드 본부, 영웅의 전당에서 일하는 직원이다. \\r\\n\\r\\n길드 연합을 담당한다. 길드 연합은 여러 길드가 모여 만든 거대 모임으로, 길드 마스터들이 함께 오면 연합을 등록할 수 있다고 한다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

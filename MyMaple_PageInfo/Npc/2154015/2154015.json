@@ -1,0 +1,14 @@
+﻿{
+  "sName": "승강기 조작콘솔",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "승강기를 조작하기 위한 조작콘솔이다. 사용이 가능하다.",
+  "nD1": "승강기를 조작하기 위한 조작콘솔이다. 사용이 가능하다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "뮤",
+  "sFunc": "정거장 안내원",
+  "sS0": "오르비스로 가고 싶은 거예요?",
+  "sS1": "형제가 많은 것도 괴롭다니까... 사람들이 모두 헷갈려 하잖아.",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "리프레 정거장 입구에서 이용 안내를 해주는 하프링. 정거장의 타미와 똑같이 생겼지만 의외로 동생이라고 한다. 코르바에 대한 의미심장한 정보를 준다.\\r\\n\\r\\n                                          - 조사원 J.K"
+}

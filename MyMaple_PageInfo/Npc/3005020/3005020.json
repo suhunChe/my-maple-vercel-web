@@ -1,0 +1,14 @@
+﻿{
+  "sName": "쿠보",
+  "sFunc": "잡화상점",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "필요한 물건 산다. 그리고 판다.",
+  "nN1": "사겠습니까, 인간?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

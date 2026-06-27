@@ -1,0 +1,14 @@
+﻿{
+  "sName": "블랑",
+  "sFunc": "시커",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "우리 집은 대대로 시커를 하고 있어.",
+  "nN1": "아르크스에 대해 들려준 건 우리 할머니였지.",
+  "nN2": null,
+  "nD0": "시커 블랑이라고 해. 흥미로운 이야기를 알게 되거든 나에게도 알려 줄래?",
+  "nD1": "당분간은 아르크스에 머무를 생각이야. 사막 한가운데 호텔…, 꽤나 마음에 들었거든.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

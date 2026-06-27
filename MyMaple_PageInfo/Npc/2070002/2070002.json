@@ -1,0 +1,14 @@
+﻿{
+  "sName": "먹쇠",
+  "sFunc": "무기 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "허허허~ 이 먹쇠가 만든 무기는 튼튼하다니까!",
+  "nN1": "허허허~ 밥 때가 다 된 것 같은데.. ",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아랫마을의 무기 상인이다. 튼튼하고 질 좋은 무기를 만드는 것으로 알려져 있다. \\r\\n\\r\\n무기를 만드는데 체력을 많이 소모해서인지, 금방 배가 고파진다고 한다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

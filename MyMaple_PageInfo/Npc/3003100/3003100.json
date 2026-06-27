@@ -1,0 +1,14 @@
+﻿{
+  "sName": "렌토",
+  "sFunc": "잡화 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "이름 없는 마을에서 잡화 상인을 하는 주민. 과거를 기억하지 못하며 어렴풋이 남아 있는 기억도 진짜인지 불명확한 모양이다. \\r\\n\\r\\n마을로 흘러 들어온 잡동사니들을 거래하며 사람들과 관계를 맺고 교류하는 것이 존재감을 지킬 수 있는 유일한 방법이라고 생각하는 거 같다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

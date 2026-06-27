@@ -1,0 +1,14 @@
+﻿{
+  "sName": "프란츠",
+  "sFunc": "성형외과 원장",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "성형 수술을 하고 싶은가? 나에게 맡겨만 주게나.",
+  "nN1": "가끔씩 얼굴을 바꿔보는 것도 나쁘지 않다네.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "오르비스 성형외과 원장이다. \\r\\n\\r\\n원장이지만 플라스틱 로이라는 훌륭한 의사를 두고 있어 직접 수술을 맡는 일은 거의 없는 듯하다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

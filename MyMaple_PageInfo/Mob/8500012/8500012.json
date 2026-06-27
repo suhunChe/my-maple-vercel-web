@@ -1,0 +1,40 @@
+﻿{
+  "sName": "파풀라투스",
+  "nLevel": 155,
+  "nbodyAttack": 1,
+  "nMaxHP": "600000000",
+  "nSpeed": 60,
+  "nPADamage": 20000,
+  "nPDDamage": 0,
+  "nPDRate": 90,
+  "nMADamage": 25000,
+  "nMDDamage": 0,
+  "nMDRate": 90,
+  "nAcc": 600,
+  "nEva": 500,
+  "nPushed": 1000000000,
+  "sFs": null,
+  "nExp": 1234200,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": [
+      "파풀라투스가 이계의 파풀라투스를 흡수하여 HP를 회복합니다.",
+      "파풀라투스에게 일정 피해를 입히면 시간의 격류를 버틸 수 있습니다.",
+      "파풀라투스의 알람이 울립니다! 체력이 지속적으로 감소하니 조심하세요!"
+    ]
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "루디브리엄에 생긴 차원의 균열을 통해서 시계탑 동력실로 침입한 이계의 괴물이다. \\r\\n\\r\\n여러 개의 인격을 가지고 있지만, 하나같이 사악한 성품으로  루디브리엄의 근원을 이루고 있는 에너지를 이용해서 차원의 균열을 성장시키고 루디브리엄의 장난감들을 몬스터로 만들어 버렸다. \\r\\n\\r\\n차원의 균열이 커지면 커질수록 이계에서 파풀라투스에게 더욱 강력한 힘이 전해진다고 한다.\\r\\n\\r\\n                                           - 조사원 Q",
+  "sDropList": [
+    { "sItemID": "4031196", "sItemName": "다크타키온", "sSourceType": "J", "dChance": 0, "sItemDesc": "시간의 구를 형성하는 힘의 근원인 타키온이 사악한 힘을 내뿜고 있다." },
+    { "sItemID": "4001084", "sItemName": "파풀라투스의 증표", "sSourceType": "J", "dChance": 0, "sItemDesc": "파풀라투스가 떨어트린 돌조각이다. 파풀라투스를 퇴치했다는 것을 증명해준다." }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "야자수 슬라임",
+  "nLevel": 35,
+  "nbodyAttack": 1,
+  "nMaxHP": "2800",
+  "nSpeed": -20,
+  "nPADamage": 173,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 170,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 200,
+  "sFs": "10",
+  "nExp": 95,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 210,
+  "nMesoMax": 315,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 어느 날 나타난 블랙 슬라임이 야자수 나무에 기생하면서 이런 형태를 갖추었다.\\r\\n\\r\\n평상시에는 진짜 야자수 나무처럼 위장하고 있다가 간혹 본 모습을 드러내기도 한다.\\r\\n\\r\\n슬라임이 나무의 뿌리 역할을 하고 있다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000753", "sItemName": "야자수 잎", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "커다란 야자수 잎이다." },
+    { "sItemID": "4033622", "sItemName": "장난감 공", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "윌리엄이 좋아하는 장난감 공이다." }
+  ]
+}

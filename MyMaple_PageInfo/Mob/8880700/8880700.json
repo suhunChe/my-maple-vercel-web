@@ -1,0 +1,35 @@
+﻿{
+  "sName": "가디언 엔젤 슬라임",
+  "nLevel": 250,
+  "nbodyAttack": 0,
+  "nMaxHP": "50000000",
+  "nSpeed": -20,
+  "nPADamage": 22000,
+  "nPDDamage": 0,
+  "nPDRate": 300,
+  "nMADamage": 24000,
+  "nMDDamage": 0,
+  "nMDRate": 300,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "라무라무 온천 제일 안쪽에 있는 거대한 슬라임이다. 촌장 슬라임의 말에 의하면 옛날에는 슬라임의 신을 보좌하는 천사들이 직접 내려와 귀여운 슬라임을 데려갔다고 하는데... 정말일까?\\r\\n\\r\\n발견 당시의 보고서와 다른 슬라임들의 이야기를 들어보면 아무래도 가디언 엔젤 슬라임이 바로 과거에 신에게 귀여움을 인정받은 그 슬라임으로 보인다.\\r\\n\\r\\n\\n\\n여담으로 본 조사원이 추측하기로, 슬라임의 신에게 선택받는 귀여움은 크기와 빛깔, 그리고 자연스러움으로 결정되는 거 같다. 성장의 마법약으로 인해 급작스럽게 커져 버린 어느 슬라임과 비교하면 확실히 이쪽이 귀엽다.\\r\\n\\r\\n                                        - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "1113313", "sItemName": "가디언 엔젤 링", "sSourceType": "J", "dChance": 0, "sItemDesc": "#c특별한 주문서를 사용하면 보스 장신구 세트 대신 여명의 보스 세트 효과를 받을 수 있다고 한다. 라무라무 마을의 촌장 슬라임에게 물어보자.#" }
+  ]
+}

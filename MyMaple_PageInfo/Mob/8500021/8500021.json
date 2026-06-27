@@ -1,0 +1,42 @@
+﻿{
+  "sName": "파풀라투스의 시계",
+  "nLevel": 190,
+  "nbodyAttack": 1,
+  "nMaxHP": "500000000000",
+  "nSpeed": -40,
+  "nPADamage": 30000,
+  "nPDDamage": 1000,
+  "nPDRate": 250,
+  "nMADamage": 30000,
+  "nMDDamage": 1100,
+  "nMDRate": 250,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": null,
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": [
+      "파풀라투스와의 시간 차이만큼 파풀라투스의 저주가 지속됩니다.",
+      "파풀라투스의 알람이 울립니다! 체력이 지속적으로 감소하니 조심하세요!",
+      "곧 시간의 틈이 생깁니다. 바닥을 조심하세요."
+    ]
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4031196", "sItemName": "다크타키온", "sSourceType": "J", "dChance": 0, "sItemDesc": "시간의 구를 형성하는 힘의 근원인 타키온이 사악한 힘을 내뿜고 있다." },
+    { "sItemID": "3016206", "sItemName": "파풀라투스의 시계 의자", "sSourceType": "J", "dChance": 0, "sItemDesc": "친구들과 파풀라투스의 시계 의자를 타고 즐거운 시간을 보내자. #c의자의 주인은 의자에 앉은 상태에서 초대하고 싶은 사람을 우클릭하여 초대#할 수 있다.\\n\\n#c10초당 HP/MP 100씩 회복#" },
+    { "sItemID": "4001084", "sItemName": "파풀라투스의 증표", "sSourceType": "J", "dChance": 0, "sItemDesc": "파풀라투스가 떨어트린 돌조각이다. 파풀라투스를 퇴치했다는 것을 증명해준다." },
+    { "sItemID": "1022277", "sItemName": "파풀라투스 마크", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

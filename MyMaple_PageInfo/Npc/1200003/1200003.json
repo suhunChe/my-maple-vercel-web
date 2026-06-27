@@ -1,0 +1,14 @@
+﻿{
+  "sName": "푸로",
+  "sFunc": "빅토리아 아일랜드행",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "빅토리아 아일랜드로 갈 거면 말하십쇼.",
+  "nN1": "아아, 졸려...",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "리엔의 뱃사공 펭귄. 리엔 근처의 해협을 누비는 뱃사공이다. 애완 고래를 배처럼 사용하고 있다.\\r\\n\\r\\n애완 고래와 함께 바다낚시를 즐기는 걸 좋아한다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

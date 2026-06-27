@@ -1,0 +1,33 @@
+﻿{
+  "sName": "카오스 유혹의 거울",
+  "nLevel": 190,
+  "nbodyAttack": 0,
+  "nMaxHP": "550000000",
+  "nSpeed": -40,
+  "nPADamage": 30,
+  "nPDDamage": 0,
+  "nPDRate": 70,
+  "nMADamage": 25,
+  "nMDDamage": 0,
+  "nMDRate": 70,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 48,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

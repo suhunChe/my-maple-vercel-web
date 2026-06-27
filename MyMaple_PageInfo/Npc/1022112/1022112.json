@@ -1,0 +1,14 @@
+﻿{
+  "sName": "유적 발굴단 게시판",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "유적 발굴단의 허락 없이 이 게시판에 불법 광고물을 부착하면 벌금 300만 메소를 부과합니다.",
+  "nD1": "유적 발굴단의 허락 없이 이 게시판에 불법 광고물을 부착하면 벌금 300만 메소를 부과합니다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

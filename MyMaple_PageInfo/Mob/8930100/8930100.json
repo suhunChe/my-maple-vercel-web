@@ -1,0 +1,40 @@
+﻿{
+  "sName": "벨룸",
+  "nLevel": 130,
+  "nbodyAttack": 0,
+  "nMaxHP": "550000000",
+  "nSpeed": 200,
+  "nPADamage": 18000,
+  "nPDDamage": 0,
+  "nPDRate": 55,
+  "nMADamage": 15000,
+  "nMDDamage": 0,
+  "nMDRate": 55,
+  "nAcc": 9999,
+  "nEva": 400,
+  "nPushed": 100000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 북쪽 봉인의 수호자. 데미안의 심복답게, 네 명의 수호자 중 가장 강하다.\\n\\r\\n\\r\\n\\n용족, 즉 드래곤 중 하나인 지룡으로, 데미안에 대한 절대적인 충성심을 가지고 있다. 스스로를 마족의 일원으로 생각하는 모습도 보인다.\\n\\n\\r\\n\\r\\n자신을 섬기는 도마뱀 일족들을 산 제물로 잡아먹기도 한다는 무시무시한 소문도 들린다.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "2433103", "sItemName": "보스 명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있으며 일반 명예의 훈장보다 많은 명성치를 획득할 수 있다." },
+    { "sItemID": "2433592", "sItemName": "벨룸의 소울 조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "벨룸의 소울 일부가 담겨진 조각이다. 획득하거나 더블 클릭하여\\n사용하면 #c소울 컬렉션#에 #c벨룸의\\n소울 조각#이 1개 누적되며, 소울\\n컬렉션에서 소울 조각 #c10개#를\\n소모하여 #c벨룸의 소울#을 획득할\\n수 있다." },
+    { "sItemID": "4310029", "sItemName": "십자 코인", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "크로스헌터 아지트의 리에게서 전용 보급품들과 교환할 수 있다. 전용 보급품은 메이플 운영자를 통해서도 교환할 수 있다.\\n\\n#c2023년 9월 30일까지 교환 가능#" },
+    { "sItemID": "2000005", "sItemName": "파워 엘릭서", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "전설의 비약이다.\\nHP, MP를 모두 회복시킨다. 단, 최대 HP, MP가 999,999를 초과할 경우는 HP, MP를 999,999 회복한다." },
+    { "sItemID": "4310064", "sItemName": "이그드라실 룬의 돌", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "이그드라실 룬이 새겨진 신비한 돌이다. 거대한 뿌리의 루타비스 상인에게 봉인된 상자로 교환할 수 있다." },
+    { "sItemID": "1003718", "sItemName": "벨룸의 헬름", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

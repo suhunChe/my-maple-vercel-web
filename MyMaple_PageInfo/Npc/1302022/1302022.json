@@ -1,0 +1,14 @@
+﻿{
+  "sName": "도르",
+  "sFunc": "잡화상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "버섯의 성에 있는 유일한 잡화상인이다. 버섯의 성이라고 해서 특별한 물건을 파는 것은 아니고, 그냥 다른 마을과 마찬가지로 평범한 물건들만 취급한다. \\r\\n\\r\\n버섯들도 그저 평범하게 살아가는 모양이다.\\r\\n\\r\\n                                        - 조사원 리트"
+}

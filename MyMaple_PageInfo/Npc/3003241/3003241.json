@@ -1,0 +1,14 @@
+﻿{
+  "sName": "삐리리가면",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "옷을 갖춰 입지 않은 자, 춤 출 자격이 없다.",
+  "nD1": "드레스 코드를 맞춰라. 본색을 드러내서는 안된다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "피리를 불어 파티의 흥을 돋우는 레헬른 주민. 피리리가면과는 형제 사이라고 한다. \\r\\n\\r\\n수수한 차림새와는 달리 의외로 드레스 코드에 민감하다. 개인적으로 피리리가면의 연주가 좀 더 취향이다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

@@ -1,0 +1,35 @@
+﻿{
+  "sName": "약화된 자쿰",
+  "nLevel": 55,
+  "nbodyAttack": 1,
+  "nMaxHP": "480000",
+  "nSpeed": 0,
+  "nPADamage": 390,
+  "nPDDamage": 200,
+  "nPDRate": 20,
+  "nMADamage": 390,
+  "nMDDamage": 200,
+  "nMDRate": 20,
+  "nAcc": 49,
+  "nEva": 36,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 6,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": [
+      "마법진 안으로 피해야만 자쿰의 공격을 견뎌낼 수 있네!"
+    ]
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

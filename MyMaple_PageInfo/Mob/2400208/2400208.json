@@ -1,0 +1,32 @@
+﻿{
+  "sName": "갈기털 하이에나",
+  "nLevel": 26,
+  "nbodyAttack": 1,
+  "nMaxHP": "580",
+  "nSpeed": -25,
+  "nPADamage": 120,
+  "nPDDamage": 160,
+  "nPDRate": 10,
+  "nMADamage": 120,
+  "nMDDamage": 220,
+  "nMDRate": 10,
+  "nAcc": 40,
+  "nEva": 3,
+  "nPushed": 150,
+  "sFs": "10",
+  "nExp": 47,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "4N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 156,
+  "nMesoMax": 234,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4009227", "sItemName": "갈기털", "sSourceType": "S", "dChance": 0.2, "sItemDesc": "갈기털 하이에나의 등에 난 갈기털이다." }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "병사",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "마을이 너무나 넓게 느껴지는 군요.",
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "혼란에 빠진 크리티아스를 지키고 있는 병사들. 그들 자신도 이 상황을 이해하려고 애쓰고 있지만 결코 쉽지 않아 보인다.\\r\\n\\r\\n                                          - 조사원 J.K"
+}

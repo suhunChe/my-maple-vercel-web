@@ -1,0 +1,33 @@
+﻿{
+  "sName": "보스대기맵 허수아비",
+  "nLevel": 101,
+  "nbodyAttack": 1,
+  "nMaxHP": "5000000000000000",
+  "nSpeed": -40,
+  "nPADamage": 10,
+  "nPDDamage": 0,
+  "nPDRate": 300,
+  "nMADamage": 10,
+  "nMDDamage": 10,
+  "nMDRate": 300,
+  "nAcc": 10,
+  "nEva": 10,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": -2,
+  "nCategory": 0,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

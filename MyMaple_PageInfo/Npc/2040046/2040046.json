@@ -1,0 +1,14 @@
+﻿{
+  "sName": "할리",
+  "sFunc": "친구목록 관리자",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "이제... 친구 늘려줄 일도, 내 주머니에 늘어날 돈도 없구먼.",
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "루디브리엄의 친구 목록 관리자이다. \\r\\n\\r\\n한때 친구가 많아 목록을 늘려야 하는 사람이라면 말을 걸어보는 것이 좋았다. 가격은 5명을 늘리는 데 5만 메소. 기약 없는 특별 할인을 지속하더니 끝내 현재는 실업자 상태라고 한다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

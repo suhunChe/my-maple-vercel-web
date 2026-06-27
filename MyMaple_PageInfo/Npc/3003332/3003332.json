@@ -1,0 +1,14 @@
+﻿{
+  "sName": "창고지기 정령",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "정령의 나무 밑에서 물건을 맡아주는 정령이다. \\r\\n\\r\\n잡화상인 정령보다는 덜하지만, 역시나 조그만 정령과 비슷한 모습을 하고 있다. 열쇠조차 정령의 일부처럼 보이는데 어떻게 물건을 맡는지는 알 수 없다. \\r\\n\\r\\n어쨌든, 믿고 물건을 맡겨도 좋다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

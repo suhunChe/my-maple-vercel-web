@@ -1,0 +1,14 @@
+﻿{
+  "sName": "돌고래",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "빠르고 안전한 돌고래 택시입니다. 많이 이용해 주세요~",
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아쿠아리움에서 돌고래 택시를 운영하는 돌고래이다. 뾰족한 사각지대나 백초마을까지 이동시켜 준다. \\r\\n\\r\\n개인적인 감상이지만 돌고래 택시를 타는 것 자체가 즐거워 관광상품으로 개발해도 좋을 듯하다.\\r\\n\\r\\n                                           - 조사원 Q"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "로슨",
+  "sFunc": "창고지기",
+  "sS0": "제게 맡기면 물건과 메소를 안전하게 지킬 수 있습니다.",
+  "sS1": "잃어버려서는 안 되는 물건이 있다면 여기에 맡겨 보세요.",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "은행 업무를 보고 있는 은행원이다. 연금술사 협회에 속해 있는 사람으로 연금술사 협회에서 특별히 제작한 커다란 금고를 가지고 있다.\\r\\n\\r\\n                                          - 조사원 J.K"
+}

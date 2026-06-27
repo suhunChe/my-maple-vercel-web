@@ -1,0 +1,14 @@
+﻿{
+  "sName": "비디원",
+  "sFunc": "방어구 상인",
+  "sS0": "튼튼한 장비는 당신을 지켜줄걸세.",
+  "sS1": "내게 좋은 장비가 있다는 걸 알고 찾아온게지?",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "무릉의 방어구 상인. 유독 처진 눈매로 기분이 좋지 않냐는 오해를 종종 사곤 한다.\\r\\n\\r\\n무기 상인 공공과는 형제 사이로 형제가 함께 다른 지역에서 물건을 들여오는 무역업을 하고 있다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

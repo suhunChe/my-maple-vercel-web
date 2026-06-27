@@ -1,0 +1,14 @@
+﻿{
+  "sName": "아흐마드",
+  "sFunc": "창고지기",
+  "sS0": "자네 물건을 안전하게 지켜주겠네.",
+  "sS1": "내 금고만큼 안전한 곳도 없지. 에헴~",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "깐깐한 표정으로 계산기를 두드리고 있는 창고지기. \\r\\n\\r\\n항상 눈을 감고 있어서, 창고를 제대로 관리하는 게 맞는지 불안하다. 다행히 아직 물건을 도둑맞은 사람은 없다고 한다.\\r\\n\\r\\n                                          - 조사원 J.K\\r\\n"
+}

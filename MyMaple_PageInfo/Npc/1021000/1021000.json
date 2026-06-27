@@ -1,0 +1,14 @@
+﻿{
+  "sName": "리버",
+  "sFunc": "무기 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "쌉니다! 싸요~!",
+  "nN1": "어서 오라구~! 하하하~",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "페리온의 무기 상인. 해리보다는 덜 하지만, 험악한 인상이 특징이다.\\r\\n\\r\\n왜인지 모르게 리스항구의 무기상과 영업 멘트가 똑같다. 거친 페리온의 환경에서도 쉽게 망가지지 않는 튼튼한 무기를 살 수 있다.\\r\\n\\r\\n                                        - 조사원 하퍼"
+}

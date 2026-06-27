@@ -1,0 +1,33 @@
+﻿{
+  "sName": "Zoo 발록",
+  "nLevel": 80,
+  "nbodyAttack": 0,
+  "nMaxHP": "50000",
+  "nSpeed": -20,
+  "nPADamage": 718,
+  "nPDDamage": 420,
+  "nPDRate": 25,
+  "nMADamage": 717,
+  "nMDDamage": 450,
+  "nMDRate": 25,
+  "nAcc": 64,
+  "nEva": 49,
+  "nPushed": 3000,
+  "sFs": null,
+  "nExp": 0,
+  "nSummonType": 0,
+  "nCategory": 6,
+  "sElemAttr": "S1H3",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

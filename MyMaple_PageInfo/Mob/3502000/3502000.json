@@ -1,0 +1,33 @@
+﻿{
+  "sName": "암모나이트 화석",
+  "nLevel": 51,
+  "nbodyAttack": 1,
+  "nMaxHP": "6400",
+  "nSpeed": -20,
+  "nPADamage": 271,
+  "nPDDamage": 570,
+  "nPDRate": 10,
+  "nMADamage": 262,
+  "nMDDamage": 570,
+  "nMDRate": 10,
+  "nAcc": 90,
+  "nEva": 20,
+  "nPushed": 400,
+  "sFs": "10",
+  "nExp": 194,
+  "nSummonType": 1,
+  "nCategory": 2,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 306,
+  "nMesoMax": 459,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "암모나이트 화석 몬스터. 이마에 암모나이트 화석이 박혀있다.\\r\\n\\r\\n기온 상승에 따라 영구동토가 녹으면서 기반이 되는 암석층이 마법의 힘을 가진 광물들의 영향을 받아 나타난 몬스터이다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4001801", "sItemName": "부서진 돌조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "충격에 의해 잘게 부서진 돌조각이다. 화석의 흔적이 조금 남아있다." },
+    { "sItemID": "2431174", "sItemName": "명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있는 명예의 훈장이다." }
+  ]
+}

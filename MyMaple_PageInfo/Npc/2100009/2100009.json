@@ -1,0 +1,14 @@
+﻿{
+  "sName": "알딘",
+  "sFunc": "성형외과 의사",
+  "sS0": "성형... 한 번 해보시겠어요?",
+  "sS1": "절 믿고 맡겨주세요... 경험은 없지만...",
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "바드르 밑에서 레지던트로 일하고 있는 청년. 하지만 실습 기회가 적은 것이 한 가지 불만이다. \\r\\n\\r\\n그래서 돈은 없지만 성형을 하고 싶어 하는 사람들을 대상으로 위험한 수술을 감행하기도 한다.\\r\\n\\r\\n                                          - 조사원 J.K\\r\\n"
+}

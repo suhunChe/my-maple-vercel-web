@@ -1,0 +1,14 @@
+﻿{
+  "sName": "풍선가면",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "65535회나 열린 푸드 파이트 대회의 음식을 요리한 셰프이자 심판. \\r\\n\\r\\n어쨌든 65535번이나 열린 푸드 파이트 대회에서 음식이 맛없다는 소리는 없는 것으로 보아, 손맛은 확실하다.\\r\\n\\r\\n                                       - 조사원 J.K"
+}

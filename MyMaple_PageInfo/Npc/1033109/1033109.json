@@ -1,0 +1,14 @@
+﻿{
+  "sName": "페일",
+  "sFunc": "파견단 기사",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "시그너스 기사단 소속입니다.",
+  "nN1": "엘프 마을... 에레브만큼이나 아름다운 곳인걸?",
+  "nN2": null,
+  "nD0": "다른 종족과 조화를 이루는 것도 시그너스 기사단이 해야 할 일이겠지요.",
+  "nD1": "엘프 마을... 정말 멋진 곳이에요. 엘프들도 다들 아름답고요.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

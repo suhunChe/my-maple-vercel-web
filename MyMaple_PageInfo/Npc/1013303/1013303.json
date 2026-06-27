@@ -1,0 +1,14 @@
+﻿{
+  "sName": "모차모차",
+  "sFunc": "잡화상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "물건을 사고 파는 모차모차야.",
+  "nN1": "나에게 볼 일이 있어?",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "카루파 마을에서 만날 수 있는 잡화상인이다. 다른 마을과 별다르지 않은 물건들을 판매한다. 고대 유적에 있어서 좀 특별한 물건이 있을까 했지만... 의외로 그렇지는 않은 모양이다.\\r\\n\\r\\n                                      - 조사원 리트"
+}

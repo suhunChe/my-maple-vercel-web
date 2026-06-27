@@ -1,0 +1,14 @@
+﻿{
+  "sName": "포포라",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "포포라, 항상 배고파요.",
+  "nN1": "포포라, 가끔 배고파요.",
+  "nN2": null,
+  "nD0": "포포라, 배고파요.",
+  "nD1": "포포라, 졸려요.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "Zoo 예티",
+  "nLevel": 65,
+  "nbodyAttack": 0,
+  "nMaxHP": "11000",
+  "nSpeed": -50,
+  "nPADamage": 556,
+  "nPDDamage": 170,
+  "nPDRate": 25,
+  "nMADamage": 526,
+  "nMDDamage": 245,
+  "nMDRate": 25,
+  "nAcc": 49,
+  "nEva": 36,
+  "nPushed": 2000,
+  "sFs": "10",
+  "nExp": 10,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": "I2F3",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

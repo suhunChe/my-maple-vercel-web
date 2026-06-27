@@ -1,0 +1,14 @@
+﻿{
+  "sName": "아몬",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "언제라도 도중에 그만두고 싶다면 나에게 말을 걸어주게.",
+  "nN1": "이 앞은 결코 쉽지만은 않을거야.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "화산의 숨결에서 만날 수 있는 남성이다. 알려지지 않은 폐광에서 자쿰을 소환하기 위한 재료를 준비했다면, 화산의 숨결에서는 자쿰과 싸울 자격을 증명해야 한다. \\r\\n\\r\\n언제든 포기하고 싶을 때 아몬과 대화를 하면 된다.\\r\\n\\r\\n                                        - 조사원 리트"
+}

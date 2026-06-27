@@ -1,0 +1,14 @@
+﻿{
+  "sName": "알리샤",
+  "sFunc": "생명의 근원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "믿을 수 있는 동료들과 함께라면 해낼 수 있을 거야.",
+  "nN1": "봉인을 해제하기 위해서는 봉인의 수호자를 처치해야만 해.",
+  "nN2": null,
+  "nD0": "봉인을 해제하고 나를 여기서 꺼내줘!",
+  "nD1": "바깥 세상은 어떻게 변했을까? 너무너무 궁금해!",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

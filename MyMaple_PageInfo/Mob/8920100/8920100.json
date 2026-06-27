@@ -1,0 +1,35 @@
+﻿{
+  "sName": "블러디 퀸",
+  "nLevel": 120,
+  "nbodyAttack": 0,
+  "nMaxHP": "315000000",
+  "nSpeed": -30,
+  "nPADamage": 5100,
+  "nPDDamage": 0,
+  "nPDRate": 50,
+  "nMADamage": 5100,
+  "nMDDamage": 0,
+  "nMDRate": 50,
+  "nAcc": 9999,
+  "nEva": 480,
+  "nPushed": 100000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 12,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "세계수의 봉인을 지키고 있는 남쪽 봉인의 수호자. 남쪽 정원의 성에서 조용히 머물러 있다.\\r\\n\\r\\n거대한 키에 네 개의 얼굴과 네 개의 인격을 가진, 기괴한 모습의 피의 여왕. 조금이라도 맘에 안 들면 부하들을 쉽게 처리해 버리는 등, 섬뜩한 면모를 가지고 있다.\\r\\n네 명의 수호자 중 두 번째로 강하다고 한다. 대전을 함부로 드나들어 화가 많이 나신 듯하니, 처신을 잘하자.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "1003717", "sItemName": "퀸의 티아라", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

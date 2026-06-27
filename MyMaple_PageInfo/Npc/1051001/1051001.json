@@ -1,0 +1,14 @@
+﻿{
+  "sName": "마파",
+  "sFunc": "방어구 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "뭐 필요한 물건이 있으신가용?",
+  "nN1": "저희 상점에서 바가지란 있을수 없죵~",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "커닝시티의 방어구 상인. 손재주가 좋은지, 방어구를 직접 제작하기도 하는 모양이다.\\r\\n\\r\\n바가지 없이 정가로 물건을 판매해서 그런지, 마을에서의 평판이 좋은 듯하다.\\r\\n\\r\\n                                        - 조사원 하퍼"
+}

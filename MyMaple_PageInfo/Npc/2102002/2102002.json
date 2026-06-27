@@ -1,0 +1,14 @@
+﻿{
+  "sName": "시라스",
+  "sFunc": "정거장 안내원",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "아리안트 승강장에서 오르비스행 표를 팔고 있는 매표원. 카르카사의 영업이 불법 영업이라며 분통을 터뜨리고 있다. \\r\\n\\r\\n하지만 인상으로 따지면 이쪽도 썩 그렇게 호감 가는 편은 아니다.\\r\\n\\r\\n                                          - 조사원 J.K\\r\\n"
+}

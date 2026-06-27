@@ -1,0 +1,36 @@
+﻿{
+  "sName": "하늘 수호령",
+  "nLevel": 200,
+  "nbodyAttack": 1,
+  "nMaxHP": "446400000",
+  "nSpeed": 5,
+  "nPADamage": 19238,
+  "nPDDamage": 100,
+  "nPDRate": 30,
+  "nMADamage": 19070,
+  "nMDDamage": 100,
+  "nMDRate": 30,
+  "nAcc": 723,
+  "nEva": 205,
+  "nPushed": 11000,
+  "sFs": "10",
+  "nExp": 82257,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "15N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": [
+      "이럴 수가......",
+      "이곳은 아무나 발을 들일 곳이 아니다!"
+    ]
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

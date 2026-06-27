@@ -1,0 +1,33 @@
+﻿{
+  "sName": "레드 크로키",
+  "nLevel": 115,
+  "nbodyAttack": 1,
+  "nMaxHP": "190000",
+  "nSpeed": -15,
+  "nPADamage": 1492,
+  "nPDDamage": 1000,
+  "nPDRate": 25,
+  "nMADamage": 1425,
+  "nMDDamage": 950,
+  "nMDRate": 25,
+  "nAcc": 360,
+  "nEva": 97,
+  "nPushed": 1500,
+  "sFs": "10",
+  "nExp": 3594,
+  "nSummonType": 0,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "카진",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "귀중한 물건을 맡아 드립니다.",
+  "nN1": "영지 밖은 위험하니 귀중품을 맡기시지요.",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

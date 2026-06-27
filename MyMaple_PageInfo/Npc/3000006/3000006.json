@@ -1,0 +1,14 @@
+﻿{
+  "sName": "셀렌",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "사제님들의 식사 준비를 해야겠네.",
+  "nN1": "으음. 오늘 저녁 메뉴는 뭐로 할까?",
+  "nN2": null,
+  "nD0": "무슨 일이니?",
+  "nD1": "좋은 소식이라도 있니?",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

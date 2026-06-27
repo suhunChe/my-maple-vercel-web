@@ -1,0 +1,35 @@
+﻿{
+  "sName": "흰털 대장원숭이",
+  "nLevel": 135,
+  "nbodyAttack": 1,
+  "nMaxHP": "17520000",
+  "nSpeed": -40,
+  "nPADamage": 4185,
+  "nPDDamage": 60,
+  "nPDRate": 30,
+  "nMADamage": 3819,
+  "nMDDamage": 50,
+  "nMDRate": 30,
+  "nAcc": 423,
+  "nEva": 423,
+  "nPushed": 2400,
+  "sFs": null,
+  "nExp": 6138,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": null,
+  "sMobType": "6N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "상서로운 동물로 여겨지는 흰털원숭이들의 대장이다.\\r\\n\\r\\n흰털 어미원숭이와 비슷하게 생겼지만 어깨 위에 새끼를 데리고 다니지 않으며, 목 주위에 사자의 갈기와 같은 털이 무성하게 자라있다.\\r\\n\\r\\n과일은 아무래도 장식으로 꽂은 것 같은데 스타일 감각이 남다른 것으로 추정된다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4032603", "sItemName": "리타야의 카메라", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "황금사원에 놀러 온 여대생 리타야의 카메라이다." }
+  ]
+}

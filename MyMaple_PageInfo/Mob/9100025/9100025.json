@@ -1,0 +1,33 @@
+﻿{
+  "sName": "치명상을 입은 라바나",
+  "nLevel": 140,
+  "nbodyAttack": 1,
+  "nMaxHP": "54390000",
+  "nSpeed": 0,
+  "nPADamage": 4487,
+  "nPDDamage": 640,
+  "nPDRate": 30,
+  "nMADamage": 4539,
+  "nMDDamage": 790,
+  "nMDRate": 30,
+  "nAcc": 423,
+  "nEva": 423,
+  "nPushed": 2800,
+  "sFs": null,
+  "nExp": 7352,
+  "nSummonType": 1,
+  "nCategory": 0,
+  "sElemAttr": null,
+  "sMobType": "6N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "오랜 세월 끝에 깨어났다는 악마. 황금 사원은 본래 라바나를 봉인하기 위한 결계였으나, 오랜 세월이 지나 잊히고 관광객들이 드나들며 점차 약해져 갔다고 한다.\\r\\n\\r\\n황금 사원 승려들의 결사적인 저지 끝에 궁지에 몰려 치명상을 입은 상태로 나타났다고 한다. 그 모습은 버려진 사원 중앙에 있는 석상과 같았다 한다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": null
+}

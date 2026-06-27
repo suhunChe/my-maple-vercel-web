@@ -1,0 +1,43 @@
+﻿{
+  "sName": "리치",
+  "nLevel": 125,
+  "nbodyAttack": 1,
+  "nMaxHP": "11625000",
+  "nSpeed": -30,
+  "nPADamage": 3303,
+  "nPDDamage": 200,
+  "nPDRate": 25,
+  "nMADamage": 2991,
+  "nMDDamage": 400,
+  "nMDRate": 25,
+  "nAcc": 423,
+  "nEva": 115,
+  "nPushed": 2400,
+  "sFs": "10",
+  "nExp": 160620,
+  "nSummonType": 0,
+  "nCategory": 7,
+  "sElemAttr": null,
+  "sMobType": "7H",
+  "nMobTime": "1500",
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": "눈보다 차가운 숨결을 지닌 리치가 나타났습니다.",
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "옛날에 모두에게 존경받고 강력한 힘을 가진 프리스트가 있었다. 그는 나이가 들어 죽음에 가까워지면서 죽음을 두려워하여 신을 배신하고 악마와 계약을 맺어 타락했다. 신의 분노를 산 그는 결국 죽게 되고 그를 끝까지 칭송하던 자들에 의해 죽은 나무의 숲에 묻히게 된다. \\r\\n\\r\\n얼마의 시간이 흘러... 죽은 나무의 숲은 죽은 자들이 일어서는 좀비들의 소굴이 되어버리고 이를 퇴치하기 위해 많은 영웅들이 몰려든다. 영웅들의 선전으로 자신들의 영역이 좁아지자 좀비들은 이곳에 묻힌 타락한 프리스트를 부활시킨다. 부활한 프리스트는 스스로를 ‘리치’라고 부르면서 죽은 나무의 숲의 지배자가 되어 좀비들을 지키게 된다. \\r\\n\\r\\n‘리치’는 언데드지만 존경받는 프리스트였기 때문에 ‘성속성’에 대한 저항능력이 뛰어나다. 강력한 마법과 추방 스킬을 구사하여 퇴치하는 것이 쉽지 않다.\\r\\n\\r\\n                                       - 조사원 리트",
+  "sDropList": [
+    { "sItemID": "4000336", "sItemName": "타락한 자의 성서", "sSourceType": "J", "dChance": 0.01, "sItemDesc": "리치가 가지고 있던 책이다." },
+    { "sItemID": "2870228", "sItemName": null, "sSourceType": "S", "dChance": 0.01, "sItemDesc": null },
+    { "sItemID": "4021034", "sItemName": "중급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4021031", "sItemName": "뒤틀린 시간의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "시간마저 뒤틀릴 정도로 강력한 힘이 깃든 신비한 광석이다.\\r\\n보스 몬스터나 95레벨 이상의 일반 몬스터에게서 얻을 수 있다. #c강력한 장비 및 비약을 제작하는데 사용된다.#" },
+    { "sItemID": "4021033", "sItemName": "하급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 순도가 낮은 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4021035", "sItemName": "상급 주문의 정수", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "주문서로부터 주문의 흐름이 추출된 순도가 높은 정수이다. 주문서를 분해하거나 몬스터로부터 얻을 수 있다.  #c강력한 장비 및 비약을 제작하는데 사용된다.#" },
+    { "sItemID": "4000633", "sItemName": "붉은 계약 구슬", "sSourceType": "J", "dChance": 0.01, "sItemDesc": "리치의 지팡이에 달려 있던 탁한 빛을 띄는 붉은 구슬이다. 왠지 모르게 싸늘한 기운이 느껴진다." },
+    { "sItemID": "4021032", "sItemName": "마력 결정", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "마력이 결정화 된 하급 광석이다. 수상한 큐브, 주문서, 환생의 불꽃을 분해하거나 몬스터로부터 얻을 수 있다. 마력이 필요한 제작에 폭넓게 사용된다." },
+    { "sItemID": "4001832", "sItemName": "주문의 흔적", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "낡은 종이에 과거에 사용했던 주문의 흔적이 남아있다. 주문서 강화에 필요한 재료로 몬스터로부터 얻거나 주문서를 분해하면 얻을 수 있다. 레벨 20이상에서 아이템을 더블클릭하여 사용하면 주문서 강화를 할 수 있고 사용 시 출력되는 UI의 '?' 항목에서 도움말을 볼 수 있다." }
+  ]
+}

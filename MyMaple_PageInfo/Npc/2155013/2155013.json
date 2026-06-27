@@ -1,0 +1,14 @@
+﻿{
+  "sName": "팔을 다친 네모로이드",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "오래 기다려야 할까?",
+  "nN1": "예쁜 팔로 달아달라고 해야지",
+  "nN2": "얼른 수리받고 싶다...",
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "팔을 다친 파란 안드로이드. DF형 안드로이드이다. 수리를 위한 부품을 기다리고 있는 듯하다.\\r\\n\\r\\n상황을 보아하니 시간이 좀 걸리는 듯한데.... 부품 수급에 문제가 있는 모양이다.\\r\\n\\r\\n                                        - 조사원 하퍼"
+}

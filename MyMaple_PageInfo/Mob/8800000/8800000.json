@@ -1,0 +1,40 @@
+﻿{
+  "sName": "자쿰",
+  "nLevel": 110,
+  "nbodyAttack": 1,
+  "nMaxHP": "16500000",
+  "nSpeed": 0,
+  "nPADamage": 7600,
+  "nPDDamage": 1000,
+  "nPDRate": 40,
+  "nMADamage": 2200,
+  "nMDDamage": 1100,
+  "nMDRate": 40,
+  "nAcc": 450,
+  "nEva": 100,
+  "nPushed": 50000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 6,
+  "sElemAttr": null,
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": "원석의 힘으로 자쿰이 소환됩니다.",
+    "sSayTextList": [
+      "마법진 안으로 피해야만 자쿰의 공격을 견뎌낼 수 있네!"
+    ]
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": [
+    { "sItemID": "4001083", "sItemName": "자쿰의 증표", "sSourceType": "J", "dChance": 0, "sItemDesc": "자쿰이 떨어트린 돌조각이다. 자쿰을 퇴치했다는 것을 증명해준다." },
+    { "sItemID": "1102154", "sItemName": "자쿰의 팔", "sSourceType": "J", "dChance": 0, "sItemDesc": null },
+    { "sItemID": "1372049", "sItemName": "자쿰의 나뭇가지", "sSourceType": "J", "dChance": 0, "sItemDesc": null },
+    { "sItemID": "1002357", "sItemName": "자쿰의 투구", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿{
+  "sName": "카오스 반반의 무의식",
+  "nLevel": 190,
+  "nbodyAttack": 0,
+  "nMaxHP": "800000000",
+  "nSpeed": 20,
+  "nPADamage": 30000,
+  "nPDDamage": 0,
+  "nPDRate": 100,
+  "nMADamage": 30000,
+  "nMDDamage": 0,
+  "nMDRate": 100,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

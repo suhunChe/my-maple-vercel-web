@@ -1,0 +1,14 @@
+﻿{
+  "sName": "케리",
+  "sFunc": "리조트 총괄 매니저",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "아름다운 골드비치 리조트를 방문해주셔서 감사합니다.",
+  "nN1": "리조트 이용에 불편한 점이 있으면 말씀해주세요.",
+  "nN2": null,
+  "nD0": "골드비치에 오신 것을 환영합니다. 제가 도와드릴 것이 있나요?",
+  "nD1": "에휴...이래서야 리조트를 오픈할 수 있을까요?",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

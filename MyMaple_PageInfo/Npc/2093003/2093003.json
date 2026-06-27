@@ -1,0 +1,14 @@
+﻿{
+  "sName": "공서방",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "물건이나 메소를 맡길 곳이 필요한가해? 여기다해~",
+  "nN1": "우리 창고는 안전하니 안심하고 맡겨도 괜찮다해~",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "독특한 말투를 구사하는 백초마을의 창고지기.\\r\\n\\r\\n나사가 빠진 얼굴을 하고 있지만 의외로 맡긴 물건을 철저히 지키는 것으로 명성이 자자하다.\\r\\n\\r\\n                                           - 조사원 엘"
+}

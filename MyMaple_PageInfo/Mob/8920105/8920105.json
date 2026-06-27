@@ -1,0 +1,33 @@
+﻿{
+  "sName": "유혹의 거울",
+  "nLevel": 120,
+  "nbodyAttack": 0,
+  "nMaxHP": "5500000",
+  "nSpeed": -40,
+  "nPADamage": 30,
+  "nPDDamage": 0,
+  "nPDRate": 40,
+  "nMADamage": 25,
+  "nMDDamage": 0,
+  "nMDRate": 40,
+  "nAcc": 9999,
+  "nEva": 300,
+  "nPushed": 99999999,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 48,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

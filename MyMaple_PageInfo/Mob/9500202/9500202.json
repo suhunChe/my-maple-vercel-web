@@ -1,0 +1,33 @@
+﻿{
+  "sName": "Zoo 화이트팽",
+  "nLevel": 58,
+  "nbodyAttack": 0,
+  "nMaxHP": "10000",
+  "nSpeed": 0,
+  "nPADamage": 453,
+  "nPDDamage": 200,
+  "nPDRate": 25,
+  "nMADamage": 465,
+  "nMDDamage": 220,
+  "nMDRate": 25,
+  "nAcc": 36,
+  "nEva": 25,
+  "nPushed": 1000,
+  "sFs": "10",
+  "nExp": 10,
+  "nSummonType": 1,
+  "nCategory": 1,
+  "sElemAttr": "I2F3",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

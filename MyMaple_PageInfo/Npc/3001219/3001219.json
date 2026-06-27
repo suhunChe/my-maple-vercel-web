@@ -1,0 +1,14 @@
+﻿{
+  "sName": "코르보",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": "앗, 가치 있는 물건 발견!",
+  "nN1": "난 쓰레기 산의 코르보야.",
+  "nN2": null,
+  "nD0": "난 알 수 있어. 어쩐지 너에게서는 위험한 냄새가 나.",
+  "nD1": "쓰레기도 다시 한 번. 재활용은 이 쓰레기 산 최고의 가치지.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

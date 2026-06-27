@@ -1,0 +1,32 @@
+﻿{
+  "sName": "새우 슬라임",
+  "nLevel": 39,
+  "nbodyAttack": 1,
+  "nMaxHP": "3600",
+  "nSpeed": -10,
+  "nPADamage": 188,
+  "nPDDamage": 0,
+  "nPDRate": 10,
+  "nMADamage": 193,
+  "nMDDamage": 0,
+  "nMDRate": 10,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 250,
+  "sFs": "10",
+  "nExp": 112,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 234,
+  "nMesoMax": 351,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "골드비치에 어느 날 나타난 블랙 슬라임이 바다 새우에 달라붙은 형태다.\\r\\n\\r\\n이 새우는 원래 손바닥만 한 사이즈의 일반적인 새우였으나, 블랙 슬라임의 영향으로 거대해졌다.\\r\\n\\r\\n거대한 만큼 맛이 좋아 골드비치의 명물이 되었다고.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000760", "sItemName": "새우 조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "새우 슬라임이 떨어뜨린 조각이다." }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "굳게 닫힌 문",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "아무리 열어보려 해도 열리지 않는 굳게 닫힌 문.\\r\\n문 틈으로 기묘한 빛이 새어 나오고 있다.",
+  "nD1": "아무리 열어보려 해도 열리지 않는 굳게 닫힌 문.\\r\\n문 틈으로 기묘한 빛이 새어 나오고 있다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

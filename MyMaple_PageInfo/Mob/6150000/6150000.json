@@ -1,0 +1,33 @@
+﻿{
+  "sName": "경비로봇",
+  "nLevel": 61,
+  "nbodyAttack": 1,
+  "nMaxHP": "11800",
+  "nSpeed": -20,
+  "nPADamage": 324,
+  "nPDDamage": 250,
+  "nPDRate": 10,
+  "nMADamage": 335,
+  "nMDDamage": 250,
+  "nMDRate": 10,
+  "nAcc": 123,
+  "nEva": 29,
+  "nPushed": 500,
+  "sFs": "10",
+  "nExp": 245,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 366,
+  "nMesoMax": 549,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "에델슈타인 광산의 경비를 담당하는 로봇. 진압봉을 들고 다닌다. 에델슈타인의 경비로봇 중 가장 기본적인 형태라고 한다.\\r\\n\\r\\n경비로봇은 자동화 시스템에 의해서 바로바로 생산되는 형태라, 망가진 걸 수리하기보다는, 바로 부숴 없애버린다고 한다. 뭔가 낭비 같지만, 이래야 블랙윙답다는 생각도 든다.\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "2870246", "sItemName": null, "sSourceType": "S", "dChance": 0.01, "sItemDesc": null },
+    { "sItemID": "4000608", "sItemName": "경비로봇의 진압봉", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "경비로봇이 들고 다니던 진압봉이다. 맞으면 아플 것 같다." }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "sName": "페리온 경고판",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "#m102030200# 경고판 \\r\\n\\r\\n출몰 몬스터 : #o4230400#. \\r\\n특이사항 : 없음",
+  "nD1": "#m102030200# 경고판 \\r\\n\\r\\n출몰 몬스터 : #o4230400#. \\r\\n특이사항 : 없음",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

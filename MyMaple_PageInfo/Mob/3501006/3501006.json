@@ -1,0 +1,32 @@
+﻿{
+  "sName": "양파라고라",
+  "nLevel": 35,
+  "nbodyAttack": 1,
+  "nMaxHP": "2800",
+  "nSpeed": 30,
+  "nPADamage": 199,
+  "nPDDamage": 30,
+  "nPDRate": 5,
+  "nMADamage": 159,
+  "nMDDamage": 40,
+  "nMDRate": 5,
+  "nAcc": 63,
+  "nEva": 6,
+  "nPushed": 200,
+  "sFs": "10",
+  "nExp": 114,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "3N",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 210,
+  "nMesoMax": 315,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "양파형 만드라고라에서 비롯된 몬스터. 가까이 다가가면 강한 양파 향 때문에 눈물이 난다.\\r\\n\\r\\n난폭하지만 좋은 약초로 사용되기 때문에 대량 재배하는 일이 많은데, 만드라고라류는 오직 요정들만이 키울 수 있다고 한다.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4000996", "sItemName": "싱싱한 양파", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "굉장히 싱싱한 양파. 야채가 걸어다닐만큼 싱싱해 보인다는 건 바로 이런걸 말하는게 아닐까." }
+  ]
+}

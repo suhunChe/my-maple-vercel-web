@@ -1,0 +1,33 @@
+﻿{
+  "sName": "찐득한 오염물",
+  "nLevel": 52,
+  "nbodyAttack": 1,
+  "nMaxHP": "6800",
+  "nSpeed": -30,
+  "nPADamage": 280,
+  "nPDDamage": 570,
+  "nPDRate": 10,
+  "nMADamage": 270,
+  "nMDDamage": 570,
+  "nMDRate": 10,
+  "nAcc": 90,
+  "nEva": 20,
+  "nPushed": 400,
+  "sFs": "10",
+  "nExp": 202,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": null,
+  "sMobType": "1H",
+  "nMobTime": null,
+  "nBoss": 0,
+  "nBossInfo": null,
+  "nMesoMin": 312,
+  "nMesoMax": 468,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "오염물에서 탄생한 몬스터. 엄청난 악취를 풍긴다.\\r\\n\\r\\n기계 발전의 부산물이 마법 광물의 영향을 받아 탄생한 몬스터.\\r\\n\\r\\n                                           - 조사원 엘",
+  "sDropList": [
+    { "sItemID": "4001803", "sItemName": "불결한 젤리", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "정체를 알수 없는 끈적이는 젤리. 절대로 만지고 싶지 않다." },
+    { "sItemID": "2431174", "sItemName": "명예의 훈장", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "#c더블클릭#하면 명성치를 획득할 수 있는 명예의 훈장이다." }
+  ]
+}

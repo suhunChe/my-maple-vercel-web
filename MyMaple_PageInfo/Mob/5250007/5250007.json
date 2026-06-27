@@ -1,0 +1,36 @@
+﻿{
+  "sName": "에피네아",
+  "nLevel": 102,
+  "nbodyAttack": 1,
+  "nMaxHP": "14250000",
+  "nSpeed": -20,
+  "nPADamage": 1521,
+  "nPDDamage": 1700,
+  "nPDRate": 25,
+  "nMADamage": 1396,
+  "nMDDamage": 1930,
+  "nMDRate": 25,
+  "nAcc": 303,
+  "nEva": 80,
+  "nPushed": 999999,
+  "sFs": "10",
+  "nExp": 179700,
+  "nSummonType": 1,
+  "nCategory": 5,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "엘린숲의 페어리들을 이끄는 여왕이다. \\r\\n\\r\\n붉은 머리칼을 나무덩굴로 장식해 틀어 올렸고, 등 뒤에는 거대한 나비 날개를 팔랑이며 매우 아름답다. 한때는 엘린숲의 실프들과 친하게 지냈지만 지금은 완전히 돌아서 적대적인 관계가 되었다고 한다.\\r\\n\\r\\n                                           - 조사원 Q",
+  "sDropList": [
+    { "sItemID": "2431752", "sItemName": "에피네아의 소울 조각", "sSourceType": "S", "dChance": 0.01, "sItemDesc": "에피네아의 소울 일부가 담겨진 조각이다. 획득하거나 더블 클릭\\n하여 사용하면 #c소울 컬렉션#에\\n#c에피네아의 소울 조각#이 1개\\n누적되며, 소울 컬렉션에서 소울\\n조각 #c10개#를 소모하여 #c에피네아의소울#을 획득할 수 있다." },
+    { "sItemID": "4033109", "sItemName": "숲의 기운", "sSourceType": "S", "dChance": 0.05, "sItemDesc": "엘린 숲의 기운이 가득 담긴 돌이다." }
+  ]
+}

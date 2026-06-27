@@ -1,0 +1,14 @@
+﻿{
+  "sName": "전원 차단기",
+  "sFunc": null,
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": "함부로 건드리면 혼날 것 같은 전원 차단기다.",
+  "nD1": "함부로 건드리면 혼날 것 같은 전원 차단기다.",
+  "sRelatedNpcID": null,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null
+}

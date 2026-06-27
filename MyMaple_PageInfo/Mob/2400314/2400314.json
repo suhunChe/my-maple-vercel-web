@@ -1,0 +1,33 @@
+﻿{
+  "sName": "와그작 쓰레기",
+  "nLevel": 5,
+  "nbodyAttack": 0,
+  "nMaxHP": "300",
+  "nSpeed": 0,
+  "nPADamage": 0,
+  "nPDDamage": 0,
+  "nPDRate": 0,
+  "nMADamage": 0,
+  "nMDDamage": 0,
+  "nMDRate": 0,
+  "nAcc": 10,
+  "nEva": 0,
+  "nPushed": 5,
+  "sFs": "10",
+  "nExp": 0,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": null,
+  "sMobType": "1N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": false,
+  "sArchiveregionDesc": null,
+  "sDropList": null
+}

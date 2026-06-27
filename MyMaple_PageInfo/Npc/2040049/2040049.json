@@ -1,0 +1,14 @@
+﻿{
+  "sName": "사탕기계",
+  "sFunc": "잡화 상인",
+  "sS0": null,
+  "sS1": null,
+  "nN0": null,
+  "nN1": null,
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "에오스탑 66층에 놓여 있는 사탕 기계이다. \\r\\n\\r\\n동전을 넣고 돌리면 포션이나 알약을 얻을 수 있다. 나도 사탕을 먹고 싶었지만, 정작 사탕은 나오지 않는 듯하다…\\r\\n\\r\\n                                           - 조사원 Q"
+}

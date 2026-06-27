@@ -1,0 +1,38 @@
+﻿{
+  "sName": "데미안",
+  "nLevel": 210,
+  "nbodyAttack": 0,
+  "nMaxHP": "1200000000000",
+  "nSpeed": -60,
+  "nPADamage": 22000,
+  "nPDDamage": 0,
+  "nPDRate": 300,
+  "nMADamage": 24000,
+  "nMDDamage": 0,
+  "nMDRate": 300,
+  "nAcc": 9999,
+  "nEva": 750,
+  "nPushed": 1000000000,
+  "sFs": "10",
+  "nExp": 22000000,
+  "nSummonType": 1,
+  "nCategory": 8,
+  "sElemAttr": "P2H2F2I2S2L2D2",
+  "sMobType": "7N",
+  "nMobTime": null,
+  "nBoss": 1,
+  "nBossInfo": {
+    "sShowMobText": null,
+    "sSayTextList": []
+  },
+  "nMesoMin": 0,
+  "nMesoMax": 0,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "검은 마법사의 군단장. 혼혈 마족 중에서도 허약하고 약해 빠진 녀석이었으나, 검은 마법사와의 모종의 거래를 한 것인지 뭔지, 비교도 안 되게 강해졌다.\\r\\n\\r\\n세계수 알리샤를 먹어 치우고, 잠깐이나마 생명의 초월자의 힘을 쓰게 되었다고 전해진다. 이 외에도 그가 든 마검의 힘에 의해 타락한 세계수가 솟아나게 되었다고.\\r\\n\\r\\n강력한 파멸의 힘을 사용한다고 한다. 보통 이런 파괴적인 힘은 스스로를 파멸로 이끈다곤 하는데....\\r\\n\\r\\n                                        - 조사원 하퍼",
+  "sDropList": [
+    { "sItemID": "4001869", "sItemName": "뒤틀린 낙인의 영혼석", "sSourceType": "J", "dChance": 0, "sItemDesc": "마족의 낙인이 박힌 영혼석. 낙인 자체적으로 폭주하여 심하게 뒤틀려 있다. 어둡고 강한 마력이 느껴진다. #c버려진 야영지의 병참장교 사카로를 찾아가면 스티그마 코인으로 교환할 수 있다.#" },
+    { "sItemID": "1662088", "sItemName": "데미안로이드", "sSourceType": "J", "dChance": 0, "sItemDesc": "데미안과 꼭 닮은 안드로이드다. 안드로이드 장비 창에서 #c상점가기# 버튼을 누르면 잡화상점 기능을 이용할 수 있는 안드로이드다. #c안드로이드 심장#이 함께 장착되어야 작동한다.\\n안드로이드 등급이 안드로이드 심장 등급과 같거나 높아야만 함께 장착할 수 있다." },
+    { "sItemID": "1099015", "sItemName": "루인 포스실드", "sSourceType": "J", "dChance": 0, "sItemDesc": "힘만을 추구한 나머지 파멸한 한 마족의 정수가 담긴 포스실드이다. 자신의 최종 데미지가 10% 증가하지만 최대 HP의 일정 비율로 피해를 입히는 공격을 포함한 모든 공격에 피격 시 받는 데미지가 데몬 슬레이어는 8%, 데몬 어벤져는 25% 증가한다." },
+    { "sItemID": "1022278", "sItemName": "마력이 깃든 안대", "sSourceType": "J", "dChance": 0, "sItemDesc": null }
+  ]
+}

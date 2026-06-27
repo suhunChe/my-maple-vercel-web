@@ -1,0 +1,14 @@
+﻿{
+  "sName": "판서방",
+  "sFunc": "창고지기",
+  "sS0": null,
+  "sS1": null,
+  "nN0": "물건이나 메소를 맡길곳이 필요한가해? 여기다해~",
+  "nN1": "우리 창고는 안전하니 안심하고 맡겨도 괜찮다해~",
+  "nN2": null,
+  "nD0": null,
+  "nD1": null,
+  "sRelatedNpcID": null,
+  "bIsArchive": true,
+  "sArchiveregionDesc": "무릉의 창고지기.\\r\\n\\r\\n특이한 사투리를 사용한다. 안경을 내려쓴 모습이 특징이다.\\r\\n\\r\\n                                           - 조사원 엘"
+}
