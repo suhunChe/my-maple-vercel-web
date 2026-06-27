@@ -1,0 +1,1340 @@
+{
+  "generatedAt": "2026-06-25T20:32:06.268Z",
+  "list": [
+    {
+      "title": "단풍나무 언덕",
+      "bgm": "The Beginnig of The Adventure",
+      "file": "The Beginnig of The Adventure.mp3"
+    },
+    {
+      "title": "암허스트무기상점",
+      "bgm": "FloralLife",
+      "file": "FloralLife.mp3"
+    },
+    {
+      "title": "모험가의 수련장1",
+      "bgm": "MapleLeaf",
+      "file": "MapleLeaf.mp3"
+    },
+    {
+      "title": "헤네시스 시장",
+      "bgm": "GoPicnic",
+      "file": "GoPicnic.mp3"
+    },
+    {
+      "title": "엘리니아",
+      "bgm": "WhenTheMorningComes",
+      "file": "WhenTheMorningComes.mp3"
+    },
+    {
+      "title": "페리온",
+      "bgm": "Nightmare",
+      "file": "Nightmare.mp3"
+    },
+    {
+      "title": "커닝시티",
+      "bgm": "BadGuys",
+      "file": "BadGuys.mp3"
+    },
+    {
+      "title": "커닝시티 뒷골목",
+      "bgm": "secretFlower",
+      "file": "secretFlower.mp3"
+    },
+    {
+      "title": "리스항구",
+      "bgm": "AboveTheTreetops",
+      "file": "AboveTheTreetops.mp3"
+    },
+    {
+      "title": "빅토리아 나무승강장",
+      "bgm": "CavaBien",
+      "file": "CavaBien.mp3"
+    },
+    {
+      "title": "오르비스행 승강장",
+      "bgm": "MoonlightShadow",
+      "file": "MoonlightShadow.mp3"
+    },
+    {
+      "title": "꿈꾸는 오솔길",
+      "bgm": "BlueSky",
+      "file": "BlueSky.mp3"
+    },
+    {
+      "title": "헤네시스 북쪽언덕",
+      "bgm": "RestNPeace",
+      "file": "RestNPeace.mp3"
+    },
+    {
+      "title": "해안으로 가는 길",
+      "bgm": "Nautilus",
+      "file": "Nautilus.mp3"
+    },
+    {
+      "title": "나무줄기둥지1",
+      "bgm": "MissingYou",
+      "file": "MissingYou.mp3"
+    },
+    {
+      "title": "돌무지 황야",
+      "bgm": "HighlandStar",
+      "file": "HighlandStar.mp3"
+    },
+    {
+      "title": "인형사의 아지트",
+      "bgm": "BlackWing",
+      "file": "BlackWing.mp3"
+    },
+    {
+      "title": "초기 발굴지역",
+      "bgm": "AcientRemain",
+      "file": "AcientRemain.mp3"
+    },
+    {
+      "title": "제1군영",
+      "bgm": "RuinCastle",
+      "file": "RuinCastle.mp3"
+    },
+    {
+      "title": "지하철 매표소",
+      "bgm": "Subway",
+      "file": "Subway.mp3"
+    },
+    {
+      "title": "방황의 늪",
+      "bgm": "JungleBook",
+      "file": "JungleBook.mp3"
+    },
+    {
+      "title": "에우렐",
+      "bgm": "WindAndFlower",
+      "file": "WindAndFlower.mp3"
+    },
+    {
+      "title": "엘리넬 호수 앞",
+      "bgm": "TheFairyForest",
+      "file": "TheFairyForest.mp3"
+    },
+    {
+      "title": "요정학원 엘리넬 로비",
+      "bgm": "TheFairyAcademy",
+      "file": "TheFairyAcademy.mp3"
+    },
+    {
+      "title": "요정학원 엘리넬 로비",
+      "bgm": "TowerOfGoddess",
+      "file": "TowerOfGoddess.mp3"
+    },
+    {
+      "title": "야외 연극 무대",
+      "bgm": "MoleKingRises",
+      "file": "MoleKingRises.mp3"
+    },
+    {
+      "title": "도심",
+      "bgm": "UrbanStreet",
+      "file": "UrbanStreet.mp3"
+    },
+    {
+      "title": "운동장",
+      "bgm": "SchoolLife",
+      "file": "SchoolLife.mp3"
+    },
+    {
+      "title": "정문",
+      "bgm": "HollowAttack",
+      "file": "HollowAttack.mp3"
+    },
+    {
+      "title": "라무라무 온천",
+      "bgm": "Welcome to Ramuramu Valley",
+      "file": "Welcome to Ramuramu Valley.mp3"
+    },
+    {
+      "title": "가디언 엔젤 슬라임의 제단 <노멀>",
+      "bgm": "Historical Site of Slime",
+      "file": "Historical Site of Slime.mp3"
+    },
+    {
+      "title": "오르비스",
+      "bgm": "Shinin'Harbor",
+      "file": "Shinin'Harbor.mp3"
+    },
+    {
+      "title": "오르비스탑입구",
+      "bgm": "ComeWithMe",
+      "file": "ComeWithMe.mp3"
+    },
+    {
+      "title": "오르비스탑<지하2층>",
+      "bgm": "BlueWorld",
+      "file": "BlueWorld.mp3"
+    },
+    {
+      "title": "눈 덮인 언덕",
+      "bgm": "WarmRegard",
+      "file": "WarmRegard.mp3"
+    },
+    {
+      "title": "엘나스",
+      "bgm": "SnowyVillage",
+      "file": "SnowyVillage.mp3"
+    },
+    {
+      "title": "루디브리엄",
+      "bgm": "FantasticThinking",
+      "file": "FantasticThinking.mp3"
+    },
+    {
+      "title": "장난감공장<1공정>1구역",
+      "bgm": "WaltzForWork",
+      "file": "WaltzForWork.mp3"
+    },
+    {
+      "title": "시간의길<1>",
+      "bgm": "WhereverYouAre",
+      "file": "WhereverYouAre.mp3"
+    },
+    {
+      "title": "핼리오스 탑 100층",
+      "bgm": "FunnyTimeMaker",
+      "file": "FunnyTimeMaker.mp3"
+    },
+    {
+      "title": "에오스 탑 91층",
+      "bgm": "HighEnough",
+      "file": "HighEnough.mp3"
+    },
+    {
+      "title": "아쿠아리움",
+      "bgm": "Aquarium",
+      "file": "Aquarium.mp3"
+    },
+    {
+      "title": "푸른 해초길",
+      "bgm": "ShiningSea",
+      "file": "ShiningSea.mp3"
+    },
+    {
+      "title": "깊은 바다 협곡1",
+      "bgm": "DeepSee",
+      "file": "DeepSee.mp3"
+    },
+    {
+      "title": "카르타의 동굴",
+      "bgm": "AquaCave",
+      "file": "AquaCave.mp3"
+    },
+    {
+      "title": "베리타스",
+      "bgm": "inAllVerity",
+      "file": "inAllVerity.mp3"
+    },
+    {
+      "title": "리프레",
+      "bgm": "Leafre",
+      "file": "Leafre.mp3"
+    },
+    {
+      "title": "리프레 서쪽 숲",
+      "bgm": "Minar'sDream",
+      "file": "Minar'sDream.mp3"
+    },
+    {
+      "title": "붉은 켄타우로스의 영역",
+      "bgm": "AcientForest",
+      "file": "AcientForest.mp3"
+    },
+    {
+      "title": "용의 숲 입구",
+      "bgm": "DragonLoad",
+      "file": "DragonLoad.mp3"
+    },
+    {
+      "title": "용의 협곡",
+      "bgm": "DragonNest",
+      "file": "DragonNest.mp3"
+    },
+    {
+      "title": "동굴 입구",
+      "bgm": "CaveOfHontale",
+      "file": "CaveOfHontale.mp3"
+    },
+    {
+      "title": "무릉",
+      "bgm": "MureungHill",
+      "file": "MureungHill.mp3"
+    },
+    {
+      "title": "하늘 숲 입구",
+      "bgm": "MureungForest",
+      "file": "MureungForest.mp3"
+    },
+    {
+      "title": "백초마을",
+      "bgm": "WhiteHerb",
+      "file": "WhiteHerb.mp3"
+    },
+    {
+      "title": "빨간코 해적단 소굴1",
+      "bgm": "Pirate",
+      "file": "Pirate.mp3"
+    },
+    {
+      "title": "아리안트",
+      "bgm": "Ariant",
+      "file": "Ariant.mp3"
+    },
+    {
+      "title": "아리안트 서문 밖",
+      "bgm": "HotDesert",
+      "file": "HotDesert.mp3"
+    },
+    {
+      "title": "북쪽 사막길2",
+      "bgm": "SunsetDesert",
+      "file": "SunsetDesert.mp3"
+    },
+    {
+      "title": "마가티아",
+      "bgm": "Dispute",
+      "file": "Dispute.mp3"
+    },
+    {
+      "title": "아스완 피난처",
+      "bgm": "RustyThrone",
+      "file": "RustyThrone.mp3"
+    },
+    {
+      "title": "전장 퇴장맵",
+      "bgm": "InWartime",
+      "file": "InWartime.mp3"
+    },
+    {
+      "title": "세 개의 문",
+      "bgm": "TimeTemple",
+      "file": "TimeTemple.mp3"
+    },
+    {
+      "title": "신록의 과거",
+      "bgm": "Remembrance",
+      "file": "Remembrance.mp3"
+    },
+    {
+      "title": "얼어붙은 과거",
+      "bgm": "Repentance",
+      "file": "Repentance.mp3"
+    },
+    {
+      "title": "불타는 과거",
+      "bgm": "Forgetfulness",
+      "file": "Forgetfulness.mp3"
+    },
+    {
+      "title": "부서진 회랑",
+      "bgm": "Duskofgod",
+      "file": "Duskofgod.mp3"
+    },
+    {
+      "title": "에레브",
+      "bgm": "QueensGarden",
+      "file": "QueensGarden.mp3"
+    },
+    {
+      "title": "수련의 숲1",
+      "bgm": "RaindropFlower",
+      "file": "RaindropFlower.mp3"
+    },
+    {
+      "title": "잊힌 고향",
+      "bgm": "Noblesse nostalgia",
+      "file": "Noblesse nostalgia.mp3"
+    },
+    {
+      "title": "리엔",
+      "bgm": "RienVillage",
+      "file": "RienVillage.mp3"
+    },
+    {
+      "title": "거울 동굴",
+      "bgm": "CrystalCave",
+      "file": "CrystalCave.mp3"
+    },
+    {
+      "title": "눈 덮인 벌판1",
+      "bgm": "SnowDrop",
+      "file": "SnowDrop.mp3"
+    },
+    {
+      "title": "에델슈타인",
+      "bgm": "EdelsteinCity",
+      "file": "EdelsteinCity.mp3"
+    },
+    {
+      "title": "비밀광장",
+      "bgm": "UndergroundPlace",
+      "file": "UndergroundPlace.mp3"
+    },
+    {
+      "title": "에델슈타인 공원1",
+      "bgm": "NationalPark",
+      "file": "NationalPark.mp3"
+    },
+    {
+      "title": "광산 가는 길1",
+      "bgm": "LowGradeOre",
+      "file": "LowGradeOre.mp3"
+    },
+    {
+      "title": "발전소 로비",
+      "bgm": "PowerStation",
+      "file": "PowerStation.mp3"
+    },
+    {
+      "title": "제 2 광장",
+      "bgm": "GelimerLab",
+      "file": "GelimerLab.mp3"
+    },
+    {
+      "title": "크리티아스",
+      "bgm": "InRuinInVain",
+      "file": "InRuinInVain.mp3"
+    },
+    {
+      "title": "시장",
+      "bgm": "StopInHundreds",
+      "file": "StopInHundreds.mp3"
+    },
+    {
+      "title": "시장",
+      "bgm": "StopInEnds",
+      "file": "StopInEnds.mp3"
+    },
+    {
+      "title": "북쪽 막사",
+      "bgm": "TragicForest",
+      "file": "TragicForest.mp3"
+    },
+    {
+      "title": "북쪽 막사",
+      "bgm": "TragicRestart",
+      "file": "TragicRestart.mp3"
+    },
+    {
+      "title": "노틸러스",
+      "bgm": "inNautilus",
+      "file": "inNautilus.mp3"
+    },
+    {
+      "title": "슬리피우드",
+      "bgm": "SleepyWood",
+      "file": "SleepyWood.mp3"
+    },
+    {
+      "title": "빛이 들지 않는 곳",
+      "bgm": "AncientMove",
+      "file": "AncientMove.mp3"
+    },
+    {
+      "title": "또 다른 문",
+      "bgm": "EvilEyes",
+      "file": "EvilEyes.mp3"
+    },
+    {
+      "title": "발록의 무덤",
+      "bgm": "HonTale",
+      "file": "HonTale.mp3"
+    },
+    {
+      "title": "골드비치 리조트",
+      "bgm": "GoldBeach",
+      "file": "GoldBeach.mp3"
+    },
+    {
+      "title": "성 입구",
+      "bgm": "MushroomCastle",
+      "file": "MushroomCastle.mp3"
+    },
+    {
+      "title": "성벽 위1",
+      "bgm": "WarMushCastle",
+      "file": "WarMushCastle.mp3"
+    },
+    {
+      "title": "갑판1",
+      "bgm": "VikingShip",
+      "file": "VikingShip.mp3"
+    },
+    {
+      "title": "선장실",
+      "bgm": "VikingSkipper",
+      "file": "VikingSkipper.mp3"
+    },
+    {
+      "title": "로비",
+      "bgm": "LoversIntheAfternoon",
+      "file": "LoversIntheAfternoon.mp3"
+    },
+    {
+      "title": "커닝스퀘어 로비",
+      "bgm": "KerningSquare",
+      "file": "KerningSquare.mp3"
+    },
+    {
+      "title": "7층 8층 A구역",
+      "bgm": "KerningSquareField",
+      "file": "KerningSquareField.mp3"
+    },
+    {
+      "title": "숲이 잠드는 곳",
+      "bgm": "SecretElodin",
+      "file": "SecretElodin.mp3"
+    },
+    {
+      "title": "1층 거실",
+      "bgm": "LuensHouse",
+      "file": "LuensHouse.mp3"
+    },
+    {
+      "title": "카루파 숲 입구",
+      "bgm": "TheVillageOfKarupa",
+      "file": "TheVillageOfKarupa.mp3"
+    },
+    {
+      "title": "숨겨진 입구",
+      "bgm": "ThePartemRuins",
+      "file": "ThePartemRuins.mp3"
+    },
+    {
+      "title": "날카로운절벽1",
+      "bgm": "WolfWood",
+      "file": "WolfWood.mp3"
+    },
+    {
+      "title": "폐광1",
+      "bgm": "AbandonedMine",
+      "file": "AbandonedMine.mp3"
+    },
+    {
+      "title": "시련의 동굴1",
+      "bgm": "HellGate",
+      "file": "HellGate.mp3"
+    },
+    {
+      "title": "자쿰의제단",
+      "bgm": "WelcomeToTheHell",
+      "file": "WelcomeToTheHell.mp3"
+    },
+    {
+      "title": "쓸쓸한 벌판",
+      "bgm": "BlizzardCastle",
+      "file": "BlizzardCastle.mp3"
+    },
+    {
+      "title": "뒤틀린 시간의 길<1>",
+      "bgm": "FairyTale",
+      "file": "FairyTale.mp3"
+    },
+    {
+      "title": "뒤틀린 시간의 길<3>",
+      "bgm": "FairyTalediffvers",
+      "file": "FairyTalediffvers.mp3"
+    },
+    {
+      "title": "뒤틀린 회랑",
+      "bgm": "BizarreTales",
+      "file": "BizarreTales.mp3"
+    },
+    {
+      "title": "잊혀진 시간의 길<1>",
+      "bgm": "Timeless",
+      "file": "Timeless.mp3"
+    },
+    {
+      "title": "잊혀진 시간의 길<3>",
+      "bgm": "TimelessB",
+      "file": "TimelessB.mp3"
+    },
+    {
+      "title": "잊혀진 회랑",
+      "bgm": "TheWayGrotesque",
+      "file": "TheWayGrotesque.mp3"
+    },
+    {
+      "title": "알테어 캠프",
+      "bgm": "ElinForest",
+      "file": "ElinForest.mp3"
+    },
+    {
+      "title": "황폐한 땅",
+      "bgm": "ElinCave",
+      "file": "ElinCave.mp3"
+    },
+    {
+      "title": "동굴 깊은 곳",
+      "bgm": "DeepCave",
+      "file": "DeepCave.mp3"
+    },
+    {
+      "title": "페어리의 숲1",
+      "bgm": "PoisonForest",
+      "file": "PoisonForest.mp3"
+    },
+    {
+      "title": "여왕의 은신처",
+      "bgm": "QueensHideout",
+      "file": "QueensHideout.mp3"
+    },
+    {
+      "title": "판타스틱 테마파크<정문>",
+      "bgm": "FantasticThemePark2017",
+      "file": "FantasticThemePark2017.mp3"
+    },
+    {
+      "title": "유령의 집",
+      "bgm": "FantasticThemePark",
+      "file": "FantasticThemePark.mp3"
+    },
+    {
+      "title": "아랫마을",
+      "bgm": "DownTown",
+      "file": "DownTown.mp3"
+    },
+    {
+      "title": "까막산 입구",
+      "bgm": "DarkMountain",
+      "file": "DarkMountain.mp3"
+    },
+    {
+      "title": "금지된 절벽",
+      "bgm": "This too shall pass away",
+      "file": "This too shall pass away.mp3"
+    },
+    {
+      "title": "고스트파크",
+      "bgm": "Welcome To The Creepy Ghost Park",
+      "file": "Welcome To The Creepy Ghost Park.mp3"
+    },
+    {
+      "title": "지구방위본부",
+      "bgm": "LetsMarch",
+      "file": "LetsMarch.mp3"
+    },
+    {
+      "title": "격납고",
+      "bgm": "ForTheGlory",
+      "file": "ForTheGlory.mp3"
+    },
+    {
+      "title": "통제구역",
+      "bgm": "LetsHuntAliens",
+      "file": "LetsHuntAliens.mp3"
+    },
+    {
+      "title": "덕구의 방",
+      "bgm": "DancesWithAliens",
+      "file": "DancesWithAliens.mp3"
+    },
+    {
+      "title": "탐사 본부",
+      "bgm": "TheRaiders",
+      "file": "TheRaiders.mp3"
+    },
+    {
+      "title": "치노의 승강장 꼭대기",
+      "bgm": "TheLivingMountain",
+      "file": "TheLivingMountain.mp3"
+    },
+    {
+      "title": "암벽 거인의 몸 속 1",
+      "bgm": "TheColossalHeart",
+      "file": "TheColossalHeart.mp3"
+    },
+    {
+      "title": "황금사원",
+      "bgm": "goldTempleTownTH",
+      "file": "goldTempleTownTH.mp3"
+    },
+    {
+      "title": "수행자의 숲1",
+      "bgm": "goldTempleFieldTH",
+      "file": "goldTempleFieldTH.mp3"
+    },
+    {
+      "title": "버려진 사원",
+      "bgm": "goldTempleDungeonTH",
+      "file": "goldTempleDungeonTH.mp3"
+    },
+    {
+      "title": "미래의 문",
+      "bgm": "timeGate",
+      "file": "timeGate.mp3"
+    },
+    {
+      "title": "변형된 티노의 숲",
+      "bgm": "knightsStronghold",
+      "file": "knightsStronghold.mp3"
+    },
+    {
+      "title": "음산한 콧노래 오솔길",
+      "bgm": "destructionTown",
+      "file": "destructionTown.mp3"
+    },
+    {
+      "title": "시그너스의 전당",
+      "bgm": "CygnusGarden",
+      "file": "CygnusGarden.mp3"
+    },
+    {
+      "title": "황혼의 페리온",
+      "bgm": "destructionPerionShelter",
+      "file": "destructionPerionShelter.mp3"
+    },
+    {
+      "title": "인적이 끊긴 남쪽령",
+      "bgm": "destructionPerion",
+      "file": "destructionPerion.mp3"
+    },
+    {
+      "title": "빙하관측본부",
+      "bgm": "GlacierAdventure",
+      "file": "GlacierAdventure.mp3"
+    },
+    {
+      "title": "해양 한가운데",
+      "bgm": "Sailing",
+      "file": "Sailing.mp3"
+    },
+    {
+      "title": "기계무덤 입구",
+      "bgm": "JunkYard",
+      "file": "JunkYard.mp3"
+    },
+    {
+      "title": "헤이븐",
+      "bgm": "Haven Theme",
+      "file": "Haven Theme.mp3"
+    },
+    {
+      "title": "스카이라인 올라가는 길",
+      "bgm": "BattleOnTheDeck",
+      "file": "BattleOnTheDeck.mp3"
+    },
+    {
+      "title": "블랙헤븐 교차로1",
+      "bgm": "BigMachine",
+      "file": "BigMachine.mp3"
+    },
+    {
+      "title": "블랙헤븐 메인 컴퓨터실",
+      "bgm": "SecretMission",
+      "file": "SecretMission.mp3"
+    },
+    {
+      "title": "코어 입구",
+      "bgm": "BigMachine_mission",
+      "file": "BigMachine_mission.mp3"
+    },
+    {
+      "title": "해방된 코어",
+      "bgm": "Suu2phase",
+      "file": "Suu2phase.mp3"
+    },
+    {
+      "title": "거대한 뿌리",
+      "bgm": "YggdrasilPrayer",
+      "file": "YggdrasilPrayer.mp3"
+    },
+    {
+      "title": "시간의 틈새",
+      "bgm": "TimeChaos",
+      "file": "TimeChaos.mp3"
+    },
+    {
+      "title": "오후의 티 테이블",
+      "bgm": "JoyfulTeaParty",
+      "file": "JoyfulTeaParty.mp3"
+    },
+    {
+      "title": "여왕의 성",
+      "bgm": "QueenPalace",
+      "file": "QueenPalace.mp3"
+    },
+    {
+      "title": "심연의 동굴",
+      "bgm": "AbyssCave",
+      "file": "AbyssCave.mp3"
+    },
+    {
+      "title": "버려진 야영지",
+      "bgm": "Pain And Sorrow",
+      "file": "Pain And Sorrow.mp3"
+    },
+    {
+      "title": "하단 줄기로 향하는 길",
+      "bgm": "Climbing Up The WorldTree",
+      "file": "Climbing Up The WorldTree.mp3"
+    },
+    {
+      "title": "세계수 정상",
+      "bgm": "Demian True",
+      "file": "Demian True.mp3"
+    },
+    {
+      "title": "첫번째 탑루",
+      "bgm": "CrimsonTower",
+      "file": "CrimsonTower.mp3"
+    },
+    {
+      "title": "알현실",
+      "bgm": "LionHeart",
+      "file": "LionHeart.mp3"
+    },
+    {
+      "title": "이름 없는 마을",
+      "bgm": "Lake Of Oblivion",
+      "file": "Lake Of Oblivion.mp3"
+    },
+    {
+      "title": "신기루 절벽",
+      "bgm": "Volcanic Zone Of Extinction",
+      "file": "Volcanic Zone Of Extinction.mp3"
+    },
+    {
+      "title": "동굴 입구",
+      "bgm": "Cave Of Rest",
+      "file": "Cave Of Rest.mp3"
+    },
+    {
+      "title": "츄츄 빌리지",
+      "bgm": "ChewChew MainTheme",
+      "file": "ChewChew MainTheme.mp3"
+    },
+    {
+      "title": "츄츄 빌리지 입구",
+      "bgm": "ChewChew WildWorld",
+      "file": "ChewChew WildWorld.mp3"
+    },
+    {
+      "title": "레헬른 중심가",
+      "bgm": "LachelntheIllusionCity",
+      "file": "LachelntheIllusionCity.mp3"
+    },
+    {
+      "title": "악몽의 시계탑1층",
+      "bgm": "ClockTowerofNightmare",
+      "file": "ClockTowerofNightmare.mp3"
+    },
+    {
+      "title": "정령의 나무가 있는 곳",
+      "bgm": "TheTuneOfAzureLight",
+      "file": "TheTuneOfAzureLight.mp3"
+    },
+    {
+      "title": "다섯 갈래 동굴",
+      "bgm": "ArcanaBoss",
+      "file": "ArcanaBoss.mp3"
+    },
+    {
+      "title": "산호 숲으로 가는 길",
+      "bgm": "SwampOfMemoryMoras",
+      "file": "SwampOfMemoryMoras.mp3"
+    },
+    {
+      "title": "도둑고양이 출몰지",
+      "bgm": "MemoryOfKritias",
+      "file": "MemoryOfKritias.mp3"
+    },
+    {
+      "title": "그림자가 춤추는 곳",
+      "bgm": "BlackDungeon",
+      "file": "BlackDungeon.mp3"
+    },
+    {
+      "title": "그날의 트뤼에페",
+      "bgm": "Hekaton",
+      "file": "Hekaton.mp3"
+    },
+    {
+      "title": "생명이 시작되는 곳",
+      "bgm": "SoupOfLife",
+      "file": "SoupOfLife.mp3"
+    },
+    {
+      "title": "거울빛에 물든 바다",
+      "bgm": "ConteminatedSea",
+      "file": "ConteminatedSea.mp3"
+    },
+    {
+      "title": "거울에 비친 빛의 신전",
+      "bgm": "TempleInTheMirror",
+      "file": "TempleInTheMirror.mp3"
+    },
+    {
+      "title": "전초기지",
+      "bgm": "Outpost",
+      "file": "Outpost.mp3"
+    },
+    {
+      "title": "지하선로 입구",
+      "bgm": "ReverseCity",
+      "file": "ReverseCity.mp3"
+    },
+    {
+      "title": "지상열차1",
+      "bgm": "ReverseCity2",
+      "file": "ReverseCity2.mp3"
+    },
+    {
+      "title": "M타워 최상층",
+      "bgm": "T-bomb",
+      "file": "T-bomb.mp3"
+    },
+    {
+      "title": "얌얌 아일랜드 입구",
+      "bgm": "MushbudForest",
+      "file": "MushbudForest.mp3"
+    },
+    {
+      "title": "일리야드 들판 입구",
+      "bgm": "IlliyardMoor",
+      "file": "IlliyardMoor.mp3"
+    },
+    {
+      "title": "펑고스 숲 입구",
+      "bgm": "FungusForest",
+      "file": "FungusForest.mp3"
+    },
+    {
+      "title": "평화로운 잠수정",
+      "bgm": "WhereStarsRest",
+      "file": "WhereStarsRest.mp3"
+    },
+    {
+      "title": "고장난 잠수정",
+      "bgm": "SinkingThings",
+      "file": "SinkingThings.mp3"
+    },
+    {
+      "title": "고요한 잠수정",
+      "bgm": "WhaleBelly",
+      "file": "WhaleBelly.mp3"
+    },
+    {
+      "title": "사상의 경계3",
+      "bgm": "WarCloud",
+      "file": "WarCloud.mp3"
+    },
+    {
+      "title": "미지의 안개1",
+      "bgm": "StrangeFog",
+      "file": "StrangeFog.mp3"
+    },
+    {
+      "title": "공허의 파도1",
+      "bgm": "WaveofEmptiness",
+      "file": "WaveofEmptiness.mp3"
+    },
+    {
+      "title": "고통의 미궁 내부3",
+      "bgm": "SecretLabyrinth",
+      "file": "SecretLabyrinth.mp3"
+    },
+    {
+      "title": "고통의 미궁 중심부",
+      "bgm": "EternalSwamp",
+      "file": "EternalSwamp.mp3"
+    },
+    {
+      "title": "고통의 미궁 최심부 거점",
+      "bgm": "HeartofSuffering",
+      "file": "HeartofSuffering.mp3"
+    },
+    {
+      "title": "세계의 눈물",
+      "bgm": "TearsOfTheWorld",
+      "file": "TearsOfTheWorld.mp3"
+    },
+    {
+      "title": "끝에 가까운 곳 앞",
+      "bgm": "SubterminalPoint",
+      "file": "SubterminalPoint.mp3"
+    },
+    {
+      "title": "세계가 끝나는 곳 1-1",
+      "bgm": "TheWorld’sEnd",
+      "file": "TheWorld’sEnd.mp3"
+    },
+    {
+      "title": "세르니움 광장",
+      "bgm": "TheHolyLand",
+      "file": "TheHolyLand.mp3"
+    },
+    {
+      "title": "해변 암석 지대 입구",
+      "bgm": "SeaWave",
+      "file": "SeaWave.mp3"
+    },
+    {
+      "title": "성검이 보관된 곳",
+      "bgm": "SanctuaryOfMitra",
+      "file": "SanctuaryOfMitra.mp3"
+    },
+    {
+      "title": "검의 무덤",
+      "bgm": "GraveyardOfSword",
+      "file": "GraveyardOfSword.mp3"
+    },
+    {
+      "title": "레프군 주둔지 근처",
+      "bgm": "RedMoon",
+      "file": "RedMoon.mp3"
+    },
+    {
+      "title": "호텔 아르크스 로비",
+      "bgm": "Welcome to Hotel Arcs",
+      "file": "Welcome to Hotel Arcs.mp3"
+    },
+    {
+      "title": "몰락한 황야의 도시",
+      "bgm": "Wayout of the wilderness",
+      "file": "Wayout of the wilderness.mp3"
+    },
+    {
+      "title": "낭만이 저무는 자동차 극장1",
+      "bgm": "Lonesome Cinema",
+      "file": "Lonesome Cinema.mp3"
+    },
+    {
+      "title": "종착지 없는 횡단열차1",
+      "bgm": "Train heading nowhere",
+      "file": "Train heading nowhere.mp3"
+    },
+    {
+      "title": "멈추지 않는 탑",
+      "bgm": "Once upon a time in Karotte",
+      "file": "Once upon a time in Karotte.mp3"
+    },
+    {
+      "title": "성문과 맞닿은 곳",
+      "bgm": "The Lost City among the Clouds",
+      "file": "The Lost City among the Clouds.mp3"
+    },
+    {
+      "title": "점령당한 골목 1",
+      "bgm": "Alley on the Other Side",
+      "file": "Alley on the Other Side.mp3"
+    },
+    {
+      "title": "눈을 뜬 실험실",
+      "bgm": "Sunshine blurring the Unknown",
+      "file": "Sunshine blurring the Unknown.mp3"
+    },
+    {
+      "title": "잠긴 문 뒤 실험실 1",
+      "bgm": "Irreversible Abomination",
+      "file": "Irreversible Abomination.mp3"
+    },
+    {
+      "title": "북쪽 외곽지역",
+      "bgm": "Fierce fortress",
+      "file": "Fierce fortress.mp3"
+    },
+    {
+      "title": "최하층 통로 1",
+      "bgm": "Shadowy passage",
+      "file": "Shadowy passage.mp3"
+    },
+    {
+      "title": "최상층 통로 1",
+      "bgm": "Painful and lingering death",
+      "file": "Painful and lingering death.mp3"
+    },
+    {
+      "title": "이슈피라의 눈",
+      "bgm": "The eyes of the ishfira",
+      "file": "The eyes of the ishfira.mp3"
+    },
+    {
+      "title": "눈물이 스며든 신전",
+      "bgm": "Tears of eternity",
+      "file": "Tears of eternity.mp3"
+    },
+    {
+      "title": "카르시온 초입",
+      "bgm": "An occupied coast",
+      "file": "An occupied coast.mp3"
+    },
+    {
+      "title": "숨겨진 실험실",
+      "bgm": "The great tropics",
+      "file": "The great tropics.mp3"
+    },
+    {
+      "title": "숨이 멎어드는 동굴 1",
+      "bgm": "An approaching abyss",
+      "file": "An approaching abyss.mp3"
+    },
+    {
+      "title": "유적 폐허",
+      "bgm": "Reborn gods",
+      "file": "Reborn gods.mp3"
+    },
+    {
+      "title": "신들의 무덤",
+      "bgm": "The fate of an immortal",
+      "file": "The fate of an immortal.mp3"
+    },
+    {
+      "title": "성소로 향하는 길",
+      "bgm": "An invitation to the night",
+      "file": "An invitation to the night.mp3"
+    },
+    {
+      "title": "지하 1층",
+      "bgm": "Secrets Hidden Under the Sand",
+      "file": "Secrets Hidden Under the Sand.mp3"
+    },
+    {
+      "title": "용광로 입구",
+      "bgm": "The furnace that swallowed the gods",
+      "file": "The furnace that swallowed the gods.mp3"
+    },
+    {
+      "title": "로봇 창고 1",
+      "bgm": "The gaze of abandoned robots",
+      "file": "The gaze of abandoned robots.mp3"
+    },
+    {
+      "title": "고브의 작업실 1",
+      "bgm": "The Ghosts of the Sleepless Gods",
+      "file": "The Ghosts of the Sleepless Gods.mp3"
+    },
+    {
+      "title": "무법자들의 마을",
+      "bgm": "SavageTerminal",
+      "file": "SavageTerminal.mp3"
+    },
+    {
+      "title": "가시도치 서식지 1",
+      "bgm": "HuntingGround",
+      "file": "HuntingGround.mp3"
+    },
+    {
+      "title": "Mr.해저드의 구역 1",
+      "bgm": "MrHazard",
+      "file": "MrHazard.mp3"
+    },
+    {
+      "title": "구루거 서식지",
+      "bgm": "LosGurugers",
+      "file": "LosGurugers.mp3"
+    },
+    {
+      "title": "판테온",
+      "bgm": "Pantheon",
+      "file": "Pantheon.mp3"
+    },
+    {
+      "title": "대신전 내부",
+      "bgm": "GreatTemple",
+      "file": "GreatTemple.mp3"
+    },
+    {
+      "title": "판테온 서쪽 평원",
+      "bgm": "PantheonField",
+      "file": "PantheonField.mp3"
+    },
+    {
+      "title": "서쪽 성소",
+      "bgm": "NovaSanctum",
+      "file": "NovaSanctum.mp3"
+    },
+    {
+      "title": "뾰족귀 여우마을",
+      "bgm": "foxvillage",
+      "file": "foxvillage.mp3"
+    },
+    {
+      "title": "카라반 피난처",
+      "bgm": "VerdelTown",
+      "file": "VerdelTown.mp3"
+    },
+    {
+      "title": "모래폭풍지대 1",
+      "bgm": "VerdelField",
+      "file": "VerdelField.mp3"
+    },
+    {
+      "title": "모래지옥 밑",
+      "bgm": "VerdelDungeon",
+      "file": "VerdelDungeon.mp3"
+    },
+    {
+      "title": "폐기지 동쪽 1",
+      "bgm": "helisiumWarcry",
+      "file": "helisiumWarcry.mp3"
+    },
+    {
+      "title": "폐기지 서쪽 3",
+      "bgm": "Doomsday_FULL",
+      "file": "Doomsday_FULL.mp3"
+    },
+    {
+      "title": "저잣거리",
+      "bgm": "CheongUn",
+      "file": "CheongUn.mp3"
+    },
+    {
+      "title": "사원 내부 1",
+      "bgm": "CreepyTemple",
+      "file": "CreepyTemple.mp3"
+    },
+    {
+      "title": "분수대 광장",
+      "bgm": "RomanticSunset",
+      "file": "RomanticSunset.mp3"
+    },
+    {
+      "title": "지하 통로 입구",
+      "bgm": "WhereTheSecretLies",
+      "file": "WhereTheSecretLies.mp3"
+    },
+    {
+      "title": "저택의 복도 1",
+      "bgm": "MaskedHeart",
+      "file": "MaskedHeart.mp3"
+    },
+    {
+      "title": "성벽 근처 민가",
+      "bgm": "TheWallsofTragedy",
+      "file": "TheWallsofTragedy.mp3"
+    },
+    {
+      "title": "햇볕 아롱진 고원",
+      "bgm": "WonderfulMomentsInNarin",
+      "file": "WonderfulMomentsInNarin.mp3"
+    },
+    {
+      "title": "달보드레 공방",
+      "bgm": "OnedayAtTheAtelier",
+      "file": "OnedayAtTheAtelier.mp3"
+    },
+    {
+      "title": "뒷골목 그윽한 곳",
+      "bgm": "BetweenAlley",
+      "file": "BetweenAlley.mp3"
+    },
+    {
+      "title": "에리모스 상점가",
+      "bgm": "Oasis in the Desert",
+      "file": "Oasis in the Desert.mp3"
+    },
+    {
+      "title": "접경 지역 1",
+      "bgm": "Outskirts of Erimos",
+      "file": "Outskirts of Erimos.mp3"
+    },
+    {
+      "title": "궁전 앞",
+      "bgm": "Lord's Castle",
+      "file": "Lord's Castle.mp3"
+    },
+    {
+      "title": "지하실",
+      "bgm": "Silence",
+      "file": "Silence.mp3"
+    },
+    {
+      "title": "발로라",
+      "bgm": "Port city of Balora",
+      "file": "Port city of Balora.mp3"
+    },
+    {
+      "title": "산으로 향하는 길",
+      "bgm": "If you follow the mountain path",
+      "file": "If you follow the mountain path.mp3"
+    },
+    {
+      "title": "뱀의 호수",
+      "bgm": "Serpent's Lake",
+      "file": "Serpent's Lake.mp3"
+    },
+    {
+      "title": "바닷가 1",
+      "bgm": "Wind flowing in the harbor",
+      "file": "Wind flowing in the harbor.mp3"
+    },
+    {
+      "title": "부서진 세르니움 광장",
+      "bgm": "BattleOfCernium",
+      "file": "BattleOfCernium.mp3"
+    },
+    {
+      "title": "생기가 돌아오는 봄 5",
+      "bgm": "The other side of ShangriLa",
+      "file": "The other side of ShangriLa.mp3"
+    },
+    {
+      "title": "아쉴롬 마을",
+      "bgm": "Asylum",
+      "file": "Asylum.mp3"
+    },
+    {
+      "title": "아카데미아 입구",
+      "bgm": "CrystalAcademia",
+      "file": "CrystalAcademia.mp3"
+    },
+    {
+      "title": "1층 서쪽 통로",
+      "bgm": "TheDispossessed",
+      "file": "TheDispossessed.mp3"
+    },
+    {
+      "title": "동쪽 1구역",
+      "bgm": "ToolenCity",
+      "file": "ToolenCity.mp3"
+    },
+    {
+      "title": "차원 전이문",
+      "bgm": "retake",
+      "file": "retake.mp3"
+    },
+    {
+      "title": "맹견의 숲",
+      "bgm": "helisiumMysticforest",
+      "file": "helisiumMysticforest.mp3"
+    },
+    {
+      "title": "도심지로 가는 골짜기",
+      "bgm": "helisiumField",
+      "file": "helisiumField.mp3"
+    },
+    {
+      "title": "도심지 암시장",
+      "bgm": "funkyBlackmarket",
+      "file": "funkyBlackmarket.mp3"
+    },
+    {
+      "title": "여우나무가 닿은 곳",
+      "bgm": "OverTheClouds",
+      "file": "OverTheClouds.mp3"
+    },
+    {
+      "title": "폭군의 성채 입구",
+      "bgm": "citadelofTyrant",
+      "file": "citadelofTyrant.mp3"
+    },
+    {
+      "title": "빅터의 공방",
+      "bgm": "trinityForce",
+      "file": "trinityForce.mp3"
+    },
+    {
+      "title": "헬리시움 최상층 입구",
+      "bgm": "thefinalWar",
+      "file": "thefinalWar.mp3"
+    }
+  ]
+}
