@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>피규어 모델실 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+    <!-- three.js core + STL/GLTF loaders + OrbitControls (CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/examples/js/loaders/STLLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/examples/js/loaders/GLTFLoader.js"></script>
+</head>
+<body>
+    <div id="header-mount"></div>
+
+    <main class="figure-shell">
+        <!-- 리스트 화면 -->
+        <section class="figure-list-view" id="figure-list-view">
+            <div class="figure-toolbar">
+                <div class="figure-search">
+                    <input id="figure-search-input" type="text" placeholder="피규어 이름으로 검색…" autocomplete="off">
+                    <button id="figure-search-clear" type="button" title="검색어 지우기" aria-label="검색어 지우기">×</button>
+                </div>
+                <div class="figure-meta">
+                    <span class="figure-count-chip" id="figure-count">- 종</span>
+                </div>
+            </div>
+
+            <div class="figure-categories" id="figure-categories">
+                <div class="figure-loading"><div class="spinner"></div>피규어 목록을 불러오는 중...</div>
+            </div>
+        </section>
+
+        <!-- 상세 화면 -->
+        <section class="figure-detail-view" id="figure-detail-view" hidden>
+            <div class="figure-detail-topbar">
+                <button type="button" class="figure-back-btn" id="figure-back-btn" aria-label="목록으로">
+                    <span aria-hidden="true">←</span>
+                    <span>목록으로</span>
+                </button>
+                <div class="figure-breadcrumb" id="figure-breadcrumb"></div>
+            </div>
+
+            <div class="figure-detail-grid">
+                <div class="figure-gallery-panel">
+                    <div class="figure-gallery-main" id="figure-gallery-main">
+                        <button type="button" class="figure-gallery-arrow figure-gallery-prev" id="figure-gallery-prev" aria-label="이전 이미지">‹</button>
+                        <div class="figure-gallery-stage" id="figure-gallery-stage">
+                            <!-- 이미지 또는 3D 뷰어가 들어감 -->
+                        </div>
+                        <button type="button" class="figure-gallery-arrow figure-gallery-next" id="figure-gallery-next" aria-label="다음 이미지">›</button>
+                        <button type="button" class="figure-gallery-autoplay" id="figure-gallery-autoplay" title="자동 재생 토글" aria-pressed="false">
+                            <span class="figure-gallery-autoplay-icon" aria-hidden="true">▶</span>
+                            <span>자동</span>
+                        </button>
+                    </div>
+                    <ul class="figure-thumb-strip" id="figure-thumb-strip"></ul>
+                </div>
+
+                <div class="figure-info-panel">
+                    <div class="figure-info-header">
+                        <div class="figure-info-eyebrow" id="figure-info-category"></div>
+                        <h2 class="figure-info-title" id="figure-info-title">—</h2>
+                    </div>
+
+                    <div class="figure-action-row">
+                        <a class="figure-download-btn" id="figure-download-btn" href="#" download>
+                            <span class="figure-download-icon" aria-hidden="true">⬇</span>
+                            <span class="figure-download-label">모델 파일 다운로드</span>
+                            <span class="figure-download-ext" id="figure-download-ext"></span>
+                        </a>
+                    </div>
+
+                    <div class="figure-description-card">
+                        <div class="figure-description-head">
+                            <span class="figure-description-title">설명</span>
+                            <span class="figure-description-file" id="figure-description-file">description.txt</span>
+                        </div>
+                        <pre class="figure-description-body" id="figure-description-body">설명을 불러오는 중...</pre>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/figure-model.js"></script>
+</body>
+</html>

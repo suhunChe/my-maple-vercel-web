@@ -86,7 +86,7 @@ const SITE_HEADER_GROUPS = [
         key: 'goods',
         label: '굿즈',
         children: [
-            { key: 'figure', label: '피규어 모델실', href: 'javascript:void(0)', online: false }
+            { key: 'figure', label: '피규어 모델실', href: 'figure-model.html' }
         ]
     }
 ];
@@ -112,7 +112,7 @@ function renderSiteHeader(activePage, customItems) {
     return `
         <header class="site-header">
             <a href="index.html" class="logo">
-                <img class="logo-mark" src="${MAIN_ICON_PATH}" alt="MyMaple icon" onerror="this.style.display='none'">
+                <img class="logo-mark" src="${MAIN_ICON_PATH}" alt="MyMaple icon" loading="eager" decoding="async" fetchpriority="high" onerror="this.style.display='none'">
                 <span class="logo-text">MY MAPLE</span>
             </a>
             <nav class="nav-links nav-groups" aria-label="주요 메뉴" data-default-group="${escapeHtml(activeGroupKey)}">

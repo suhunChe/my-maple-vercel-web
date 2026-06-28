@@ -10,12 +10,6 @@
     <div id="header-mount"></div>
 
     <main class="music-shell">
-        <section class="music-hero">
-            <div class="music-hero-eyebrow">MUSIC</div>
-            <h1 class="music-hero-title">BGM 정보실</h1>
-            <p class="music-hero-desc">메이플에서 사용되는 BGM을 한 곳에서 확인하고 바로 재생해 볼 수 있습니다.</p>
-        </section>
-
         <section class="music-toolbar">
             <div class="music-search">
                 <input id="music-search-input" type="text" placeholder="이름 또는 BGM명으로 검색…" autocomplete="off">
@@ -28,6 +22,10 @@
 
         <section class="music-list-card">
             <header class="music-list-header" role="row">
+                <button type="button" class="music-sort-btn music-sort-btn-mark" data-sort-key="mapMark" aria-label="지역으로 정렬" title="지역(맵 마크) 기준 정렬">
+                    <span>지역</span>
+                    <span class="music-sort-arrow" aria-hidden="true"></span>
+                </button>
                 <button type="button" class="music-sort-btn" data-sort-key="title" aria-label="이름으로 정렬">
                     <span>이름</span>
                     <span class="music-sort-arrow" aria-hidden="true"></span>
@@ -36,6 +34,7 @@
                     <span>BGM</span>
                     <span class="music-sort-arrow" aria-hidden="true"></span>
                 </button>
+                <span class="music-col-action" aria-hidden="true"></span>
             </header>
             <ul class="music-list" id="music-list">
                 <li class="music-empty"><div class="spinner"></div>BGM 목록을 불러오는 중...</li>

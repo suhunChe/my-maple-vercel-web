@@ -36,12 +36,11 @@
 
     <script src="js/common.js"></script>
     <script src="js/data-loader.js"></script>
-    <script src="js/bgm-player.js"></script>
     <script>
     const C = window.MyMapleCommon;
     const D = window.MyMapleData;
 
-    // 헤더 마운트
+    // 헤더 마운트 (한 번만 렌더링)
     document.getElementById('header-mount').innerHTML = C.renderSiteHeader('home');
     C.bindHeaderOfflineLinks();
 
@@ -87,8 +86,7 @@
             return;
         }
         renderHero(main);
-        document.getElementById('header-mount').innerHTML = C.renderSiteHeader('home');
-        C.bindHeaderOfflineLinks();
+        // 헤더는 이미 렌더링됨 — 중복 렌더 제거로 경량화
         renderThemes(main.themes);
         renderExternal(main.externalLinks);
     }
@@ -104,10 +102,12 @@
             const tagAttr = target.online
                 ? `href="${target.href}"`
                 : `href="javascript:void(0)" data-offline="1" data-name="${C.escapeHtml(t.sTitle)}"`;
+            // 첫 번째 카드만 eager, 나머지는 lazy — 네트워크 요청 분산
+            const loadingAttr = index === 0 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"';
             return `
                 <a id="theme-card-${index}" class="card theme-card ${target.online ? '' : 'offline'}" ${tagAttr}>
                     <div class="card-image-box">
-                        <img src="${t.imageUrl}" alt="${C.escapeHtml(t.sTitle)}"
+                        <img src="${t.imageUrl}" alt="${C.escapeHtml(t.sTitle)}" ${loadingAttr} decoding="async"
                              onerror="this.onerror=null;this.src='MyMaple_PageInfo/Special_Image/MainIcon/MainIcon.png';this.style.objectFit='contain';this.style.padding='10px';">
                     </div>
                     <div class="card-content">

@@ -10,11 +10,6 @@
 
     <div id="header-mount"></div>
 
-    <section class="hero">
-        <h1>WORLD SELECT</h1>
-        <p>탐험할 세계관을 선택하세요. 각 차원에는 고유한 역사와 풍경이 펼쳐집니다.</p>
-    </section>
-
     <main style="position:relative; padding: 0 0 60px;">
         <div class="world-select-wrap">
             <button class="ws-arrow left" id="ws-prev" aria-label="이전">‹</button>
@@ -29,7 +24,19 @@
                     </div>
                     <div class="ws-content">
                         <h3>메이플 월드</h3>
-                        <p>빅토리아 아일랜드부터 무릉도원, 시간의 신전까지. 전 세대 모험가의 고향이자, 검은 마법사가 그림자를 드리운 무대.</p>
+                        <p id="ws-desc-maple">메이플 월드 설명을 불러오는 중...</p>
+                    </div>
+                </a>
+
+                <a class="world-select-card arcane" href="world-map.html?world=maple&path=WorldMap080%2FWorldMap082">
+                    <div class="ws-img">
+                        <img src="MyMaple_PageInfo/World/WorldMap/WorldMap080/WorldMap082/WorldMap082.png"
+                             alt="아케인리버"
+                             onerror="this.style.display='none';this.parentElement.innerHTML='&lt;div style=&quot;font-size:60px;&quot;&gt;🌊&lt;/div&gt;';">
+                    </div>
+                    <div class="ws-content">
+                        <h3>아케인리버</h3>
+                        <p id="ws-desc-arcane">아케인리버 설명을 불러오는 중...</p>
                     </div>
                 </a>
 
@@ -37,21 +44,23 @@
                     <div class="ws-img">
                         <img src="MyMaple_PageInfo/World/GWorldMap/GWorldMap.png"
                              alt="그란디스"
-                             onerror="this.style.display='none';this.parentElement.innerHTML='<div style=\'font-size:60px;\'>🌌</div>';">
+                             onerror="this.style.display='none';this.parentElement.innerHTML='&lt;div style=&quot;font-size:60px;&quot;&gt;🌌&lt;/div&gt;';">
                     </div>
                     <div class="ws-content">
                         <h3>그란디스</h3>
-                        <p>차원의 너머에 펼쳐진 또 다른 대륙. 세르니움·아르크스·오디움의 운명을 건 결전의 무대.</p>
+                        <p id="ws-desc-grandis">그란디스 설명을 불러오는 중...</p>
                     </div>
                 </a>
 
                 <a class="world-select-card masteria offline-card" href="javascript:void(0)" data-offline="1" data-name="마스테리아">
                     <div class="ws-img">
-                        <div style="font-size:60px;">🌑</div>
+                        <img src="MyMaple_PageInfo/World/MasteriaMap/MasteriaMap.png"
+                             alt="마스테리아"
+                             onerror="this.style.display='none';this.parentElement.innerHTML='&lt;div style=&quot;font-size:60px;&quot;&gt;🌑&lt;/div&gt;';">
                     </div>
                     <div class="ws-content">
                         <h3>마스테리아</h3>
-                        <p>잊혀진 대륙. 곧 만날 수 있습니다.</p>
+                        <p id="ws-desc-masteria">마스테리아 설명을 불러오는 중...</p>
                     </div>
                 </a>
             </div>
@@ -67,6 +76,7 @@
     <script src="js/bgm-player.js"></script>
     <script>
     const C = window.MyMapleCommon;
+    const D = window.MyMapleData;
     document.getElementById('header-mount').innerHTML = C.renderSiteHeader('world', C.getInfoNavItems());
     C.bindHeaderOfflineLinks();
 
@@ -78,6 +88,55 @@
         });
     });
 
+    function setWorldCardDesc(id, desc) {
+        const el = document.getElementById(id);
+        if (!el || typeof desc !== 'string') return;
+        const clean = desc.trim();
+        if (!clean) return;
+        el.textContent = clean;
+    }
+
+    async function loadArcaneRiverArchiveDesc() {
+        const root = await D.loadRootWorld('maple');
+        if (!root?.data) return null;
+        let folderPath = root.folderPath;
+        let nodeData = root.data;
+        for (const segId of ['WorldMap080', 'WorldMap082']) {
+            const linkEntry = (nodeData?.MapLinkDate || []).find(link => link.sLinkMapID === segId);
+            if (!linkEntry) return null;
+            const child = await D.loadLinkChildMap(folderPath, linkEntry);
+            if (!child?.data) return null;
+            folderPath = child.folderPath;
+            nodeData = child.data;
+            if (segId === 'WorldMap082') {
+                return child.archiveDesc || child.data?.sWorldArchiveMapDesc || null;
+            }
+        }
+        return null;
+    }
+
+    async function loadMasteriaArchiveDesc() {
+        const folderPath = D.normalizeWebPath(`${D.PATHS.WORLD}/MasteriaMap`);
+        const candidates = [
+            D.normalizeWebPath(`${folderPath}/MasteriaMap.json`),
+            ...D.buildUrlCandidates(folderPath, 'MasteriaMap.json'),
+            D.normalizeWebPath(`${folderPath}/MasteriaMap_마스테리아.json`),
+            ...D.buildUrlCandidates(folderPath, 'MasteriaMap_마스테리아.json')
+        ];
+        const { data } = await D.fetchJSONRobust(candidates);
+        return data?.sWorldArchiveMapDesc || null;
+    }
+
+    async function populateWorldCardDescriptions() {
+        const tasks = [
+            D.loadRootWorld('maple').then(root => setWorldCardDesc('ws-desc-maple', root?.archiveDesc)).catch(() => {}),
+            loadArcaneRiverArchiveDesc().then(desc => setWorldCardDesc('ws-desc-arcane', desc)).catch(() => {}),
+            D.loadRootWorld('grandis').then(root => setWorldCardDesc('ws-desc-grandis', root?.archiveDesc)).catch(() => {}),
+            loadMasteriaArchiveDesc().then(desc => setWorldCardDesc('ws-desc-masteria', desc)).catch(() => {})
+        ];
+        await Promise.allSettled(tasks);
+    }
+
     // 가로 화살표 스크롤
     const track = document.getElementById('ws-track');
     document.getElementById('ws-prev').addEventListener('click', () => {
@@ -86,6 +145,8 @@
     document.getElementById('ws-next').addEventListener('click', () => {
         track.scrollBy({ left: 384, behavior: 'smooth' });
     });
+
+    populateWorldCardDescriptions();
     </script>
 </body>
 </html>
