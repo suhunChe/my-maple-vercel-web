@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T20:19:19.053Z",
-  "updatedDate": "2026-06-27",
+  "generatedAt": "2026-06-28T19:37:58.248Z",
+  "updatedDate": "2026-06-28",
   "windowDays": 30,
   "weights": {
     "viewDelta": 1,
@@ -18,30 +18,35 @@
       "duration": "PT3M28S",
       "playlistOrder": 0,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 2661712,
-        "likeCount": 17917
+        "viewCount": 2665012,
+        "likeCount": 17923
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 2661712,
           "likeCount": 17917
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 2665012,
+          "likeCount": 17923
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 2661712,
         "baselineLikeCount": 17917,
-        "latestViewCount": 2661712,
-        "latestLikeCount": 17917,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 2665012,
+        "latestLikeCount": 17923,
+        "viewDelta": 3300,
+        "likeDelta": 6,
+        "score": 3420
       }
     },
     "3lEhY_gomjo": {
@@ -52,30 +57,35 @@
       "duration": "PT3M32S",
       "playlistOrder": 1,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 2439867,
-        "likeCount": 14296
+        "viewCount": 2443354,
+        "likeCount": 14304
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 2439867,
           "likeCount": 14296
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 2443354,
+          "likeCount": 14304
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 2439867,
         "baselineLikeCount": 14296,
-        "latestViewCount": 2439867,
-        "latestLikeCount": 14296,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 2443354,
+        "latestLikeCount": 14304,
+        "viewDelta": 3487,
+        "likeDelta": 8,
+        "score": 3647
       }
     },
     "JtRv-Iz46b8": {
@@ -86,30 +96,35 @@
       "duration": "PT3M26S",
       "playlistOrder": 2,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 722448,
-        "likeCount": 3977
+        "viewCount": 724741,
+        "likeCount": 3985
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 722448,
           "likeCount": 3977
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 724741,
+          "likeCount": 3985
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 722448,
         "baselineLikeCount": 3977,
-        "latestViewCount": 722448,
-        "latestLikeCount": 3977,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 724741,
+        "latestLikeCount": 3985,
+        "viewDelta": 2293,
+        "likeDelta": 8,
+        "score": 2453
       }
     },
     "DYbt8rmJT40": {
@@ -120,30 +135,35 @@
       "duration": "PT2M42S",
       "playlistOrder": 3,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 14455111,
-        "likeCount": 68146
+        "viewCount": 14458445,
+        "likeCount": 68152
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 14455111,
           "likeCount": 68146
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 14458445,
+          "likeCount": 68152
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 14455111,
         "baselineLikeCount": 68146,
-        "latestViewCount": 14455111,
-        "latestLikeCount": 68146,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 14458445,
+        "latestLikeCount": 68152,
+        "viewDelta": 3334,
+        "likeDelta": 6,
+        "score": 3454
       }
     },
     "ezXluhqaqfI": {
@@ -154,30 +174,35 @@
       "duration": "PT2M4S",
       "playlistOrder": 4,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 9936342,
-        "likeCount": 55376
+        "viewCount": 9942120,
+        "likeCount": 55384
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 9936342,
           "likeCount": 55376
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 9942120,
+          "likeCount": 55384
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 9936342,
         "baselineLikeCount": 55376,
-        "latestViewCount": 9936342,
-        "latestLikeCount": 55376,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 9942120,
+        "latestLikeCount": 55384,
+        "viewDelta": 5778,
+        "likeDelta": 8,
+        "score": 5938
       }
     },
     "cYRkZmBuDqI": {
@@ -188,30 +213,35 @@
       "duration": "PT2M21S",
       "playlistOrder": 5,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 20675073,
-        "likeCount": 218291
+        "viewCount": 20684056,
+        "likeCount": 218306
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 20675073,
           "likeCount": 218291
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 20684056,
+          "likeCount": 218306
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 20675073,
         "baselineLikeCount": 218291,
-        "latestViewCount": 20675073,
-        "latestLikeCount": 218291,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 20684056,
+        "latestLikeCount": 218306,
+        "viewDelta": 8983,
+        "likeDelta": 15,
+        "score": 9283
       }
     },
     "D3boQlSnHCg": {
@@ -222,30 +252,35 @@
       "duration": "PT4M44S",
       "playlistOrder": 6,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 1261698,
-        "likeCount": 7908
+        "viewCount": 1263332,
+        "likeCount": 7910
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 1261698,
           "likeCount": 7908
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 1263332,
+          "likeCount": 7910
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 1261698,
         "baselineLikeCount": 7908,
-        "latestViewCount": 1261698,
-        "latestLikeCount": 7908,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 1263332,
+        "latestLikeCount": 7910,
+        "viewDelta": 1634,
+        "likeDelta": 2,
+        "score": 1674
       }
     },
     "rWLExL8Ml4w": {
@@ -256,30 +291,35 @@
       "duration": "PT3M7S",
       "playlistOrder": 7,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 3861041,
-        "likeCount": 23709
+        "viewCount": 3864065,
+        "likeCount": 23720
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 3861041,
           "likeCount": 23709
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 3864065,
+          "likeCount": 23720
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 3861041,
         "baselineLikeCount": 23709,
-        "latestViewCount": 3861041,
-        "latestLikeCount": 23709,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 3864065,
+        "latestLikeCount": 23720,
+        "viewDelta": 3024,
+        "likeDelta": 11,
+        "score": 3244
       }
     },
     "ZxfOZ-aORdI": {
@@ -290,30 +330,35 @@
       "duration": "PT3M58S",
       "playlistOrder": 8,
       "joinedAt": "2026-06-27T20:19:19.053Z",
-      "lastSeenInPlaylist": "2026-06-27T20:19:19.053Z",
+      "lastSeenInPlaylist": "2026-06-28T19:37:58.248Z",
       "active": true,
       "current": {
-        "viewCount": 322983,
-        "likeCount": 3602
+        "viewCount": 323944,
+        "likeCount": 3608
       },
       "history": [
         {
           "date": "2026-06-27",
           "viewCount": 322983,
           "likeCount": 3602
+        },
+        {
+          "date": "2026-06-28",
+          "viewCount": 323944,
+          "likeCount": 3608
         }
       ],
       "recent30": {
         "windowDays": 30,
         "from": "2026-06-27",
-        "to": "2026-06-27",
+        "to": "2026-06-28",
         "baselineViewCount": 322983,
         "baselineLikeCount": 3602,
-        "latestViewCount": 322983,
-        "latestLikeCount": 3602,
-        "viewDelta": 0,
-        "likeDelta": 0,
-        "score": 0
+        "latestViewCount": 323944,
+        "latestLikeCount": 3608,
+        "viewDelta": 961,
+        "likeDelta": 6,
+        "score": 1081
       }
     }
   }
