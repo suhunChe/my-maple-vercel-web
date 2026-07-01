@@ -14,15 +14,16 @@
 
     const CONFIG_URL = 'MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json';
     const STATS_URL = 'PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json';
-    const CACHE_KEY = 'mymaple.changpop.cache.v1';
-    const PENDING_KEY = 'mymaple.changpop.pending.v1';
-    const DEFAULT_SORT = 'recent30';
+    const CACHE_KEY = 'mymaple.changpop.cache.v3';
+        const DEFAULT_SORT = 'recent30';
+    const DEFAULT_PERIOD_DAYS = 30;
 
     const els = {
         list: document.getElementById('changpop-list'),
         count: document.getElementById('changpop-count'),
         updated: document.getElementById('changpop-updated'),
         sortTabs: document.getElementById('changpop-sort-tabs'),
+        periodTabs: document.getElementById('changpop-period-tabs'),
         // 신청
         submitOpen: document.getElementById('changpop-submit-open'),
         modal: document.getElementById('changpop-modal'),
@@ -32,12 +33,10 @@
         inputMessage: document.getElementById('changpop-input-message'),
         formMessage: document.getElementById('changpop-form-message'),
         formSubmit: document.getElementById('changpop-form-submit'),
-        // 대기 목록
-        pendingSection: document.getElementById('changpop-pending-section'),
-        pendingList: document.getElementById('changpop-pending-list'),
-        pendingCount: document.getElementById('changpop-pending-count'),
-        pendingExport: document.getElementById('changpop-pending-export'),
-        pendingClear: document.getElementById('changpop-pending-clear')
+        preview: document.getElementById('changpop-preview'),
+        previewThumb: document.getElementById('changpop-preview-thumb'),
+        previewTitle: document.getElementById('changpop-preview-title'),
+        previewMeta: document.getElementById('changpop-preview-meta')
     };
 
     // 현재 순위 리스트의 videoId 스냅샷 (중복 검사용)
@@ -45,7 +44,12 @@
         liveVideoIds: new Set(),
         items: [],           // 마지막으로 받아온 플레이리스트 항목 (현재 순위)
         stats: null,         // ChangpopRecent30Stats.json 데이터
-        sort: DEFAULT_SORT   // 'recent30' | 'views' | 'likes'
+        sort: DEFAULT_SORT,   // 'recent30' | 'views' | 'new'
+        periodDays: DEFAULT_PERIOD_DAYS,
+        apiKey: '',
+        previewData: null,
+        previewSeq: 0,
+        isSubmitting: false
     };
 
     function mountHeader() {
@@ -98,6 +102,190 @@
         const HH = String(d.getHours()).padStart(2, '0');
         const MM = String(d.getMinutes()).padStart(2, '0');
         return `${yyyy}-${mm}-${dd} ${HH}:${MM} 갱신`;
+    }
+
+
+    function parseDateKeyUtc(dateKey) {
+        if (!dateKey || typeof dateKey !== 'string') return NaN;
+        return Date.parse(`${dateKey}T00:00:00Z`);
+    }
+
+    function getMonthlyWeights() {
+        return {
+            viewWeight: 0.01,
+            likeWeight: Number(state.stats?.weights?.likeDelta ?? 20)
+        };
+    }
+
+    function computeWindowMetrics(history, days, offsetDays, viewWeight, likeWeight) {
+        const normalized = (Array.isArray(history) ? history : [])
+            .map(entry => ({
+                date: entry?.date || '',
+                ts: parseDateKeyUtc(entry?.date || ''),
+                viewCount: Number(entry?.viewCount || 0),
+                likeCount: Number(entry?.likeCount || 0)
+            }))
+            .filter(entry => Number.isFinite(entry.ts))
+            .sort((a, b) => a.ts - b.ts);
+        if (!normalized.length) {
+            return {
+                hasData: false,
+                from: null,
+                to: null,
+                coverageDays: 0,
+                viewDelta: 0,
+                likeDelta: 0,
+                score: 0
+            };
+        }
+        const latestTs = normalized[normalized.length - 1].ts;
+        const endTs = latestTs - (offsetDays * 86400000);
+        const startTs = endTs - ((days - 1) * 86400000);
+        const window = normalized.filter(entry => entry.ts >= startTs && entry.ts <= endTs);
+        if (!window.length) {
+            return {
+                hasData: false,
+                from: null,
+                to: null,
+                coverageDays: 0,
+                viewDelta: 0,
+                likeDelta: 0,
+                score: 0
+            };
+        }
+        const first = window[0];
+        const last = window[window.length - 1];
+        const viewDelta = Math.max(0, (last.viewCount || 0) - (first.viewCount || 0));
+        const likeDelta = Math.max(0, (last.likeCount || 0) - (first.likeCount || 0));
+        const score = (viewDelta * viewWeight) + (likeDelta * likeWeight);
+        const coverageDays = Math.max(1, Math.round((last.ts - first.ts) / 86400000) + 1);
+        return {
+            hasData: true,
+            from: first.date,
+            to: last.date,
+            coverageDays,
+            viewDelta,
+            likeDelta,
+            score
+        };
+    }
+
+    function formatIsoDateLabel(iso) {
+        const d = new Date(iso);
+        if (Number.isNaN(d.getTime())) return '';
+        const yyyy = d.getFullYear();
+        const mm = String(d.getMonth() + 1).padStart(2, '0');
+        const dd = String(d.getDate()).padStart(2, '0');
+        return `${yyyy}-${mm}-${dd}`;
+    }
+
+    function formatDaysAgo(iso) {
+        const d = new Date(iso);
+        if (Number.isNaN(d.getTime())) return '';
+        const diffMs = Date.now() - d.getTime();
+        const diffDays = Math.max(0, Math.floor(diffMs / 86400000));
+        if (diffDays === 0) return '오늘';
+        if (diffDays === 1) return '1일 전';
+        return `${diffDays}일 전`;
+    }
+
+
+    function setPreviewState(kind, payload) {
+        if (!els.preview) return;
+        if (kind === 'hidden') {
+            els.preview.hidden = true;
+            state.previewData = null;
+            return;
+        }
+        els.preview.hidden = false;
+        els.preview.classList.remove('is-loading', 'is-error');
+        if (kind === 'loading') {
+            els.preview.classList.add('is-loading');
+            if (els.previewTitle) els.previewTitle.textContent = '영상 정보를 불러오는 중...';
+            if (els.previewMeta) els.previewMeta.textContent = '유튜브 메타데이터 조회 중';
+            if (els.previewThumb) els.previewThumb.removeAttribute('src');
+            state.previewData = null;
+            return;
+        }
+        if (kind === 'error') {
+            els.preview.classList.add('is-error');
+            if (els.previewTitle) els.previewTitle.textContent = payload || '영상 정보를 불러오지 못했습니다.';
+            if (els.previewMeta) els.previewMeta.textContent = '링크는 저장되지만, 미리보기 정보가 비어 있을 수 있습니다.';
+            if (els.previewThumb) els.previewThumb.removeAttribute('src');
+            state.previewData = null;
+            return;
+        }
+        const data = payload || {};
+        if (els.previewTitle) els.previewTitle.textContent = data.title || '제목 없음';
+        if (els.previewMeta) {
+            const bits = [];
+            if (data.channelTitle) bits.push(data.channelTitle);
+            const dateText = formatIsoDateLabel(data.publishedAt || '');
+            if (dateText) bits.push(`${dateText} 업로드`);
+            const durationText = formatDuration(data.duration || '');
+            if (durationText) bits.push(durationText);
+            els.previewMeta.textContent = bits.join(' · ');
+        }
+        if (els.previewThumb) {
+            if (data.thumbnail) {
+                els.previewThumb.src = data.thumbnail;
+            } else {
+                els.previewThumb.removeAttribute('src');
+            }
+        }
+        state.previewData = data;
+    }
+
+    async function fetchSubmissionPreview(videoId) {
+        if (!videoId || !state.apiKey) return null;
+        const url = new URL('https://www.googleapis.com/youtube/v3/videos');
+        url.searchParams.set('part', 'snippet,contentDetails');
+        url.searchParams.set('id', videoId);
+        url.searchParams.set('key', state.apiKey);
+        const res = await fetch(url.toString());
+        if (!res.ok) throw new Error(`preview HTTP ${res.status}`);
+        const json = await res.json();
+        const item = (json.items || [])[0];
+        if (!item) return null;
+        const sn = item.snippet || {};
+        const thumbs = sn.thumbnails || {};
+        const thumb = thumbs.medium || thumbs.high || thumbs.default || {};
+        return {
+            videoId,
+            title: sn.title || '',
+            channelTitle: sn.channelTitle || '',
+            thumbnail: thumb.url || `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
+            publishedAt: sn.publishedAt || '',
+            duration: item.contentDetails?.duration || ''
+        };
+    }
+
+    function schedulePreviewLookup() {
+        const rawUrl = els.inputUrl ? els.inputUrl.value : '';
+        const videoId = extractVideoId(rawUrl);
+        if (!rawUrl.trim()) {
+            setPreviewState('hidden');
+            return;
+        }
+        if (!videoId) {
+            setPreviewState('error', '올바른 유튜브 링크 형식이 아닙니다.');
+            return;
+        }
+        const seq = ++state.previewSeq;
+        setPreviewState('loading');
+        fetchSubmissionPreview(videoId)
+            .then((data) => {
+                if (seq !== state.previewSeq) return;
+                if (!data) {
+                    setPreviewState('error', '영상 정보를 찾지 못했습니다.');
+                    return;
+                }
+                setPreviewState('ready', data);
+            })
+            .catch(() => {
+                if (seq !== state.previewSeq) return;
+                setPreviewState('error', '영상 정보를 불러오지 못했습니다.');
+            });
     }
 
     /* ---------------- 설정 / 캐시 ---------------- */
@@ -179,7 +367,9 @@
                     title: sn.title || '',
                     position: typeof sn.position === 'number' ? sn.position : items.length,
                     thumbnail: thumb.url || `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
-                    channelTitle: sn.videoOwnerChannelTitle || sn.channelTitle || ''
+                    channelTitle: sn.videoOwnerChannelTitle || sn.channelTitle || '',
+                    playlistPublishedAt: sn.publishedAt || '',
+                    videoPublishedAt: cd.videoPublishedAt || ''
                 });
             });
 
@@ -200,7 +390,7 @@
         for (const chunk of idChunks) {
             const ids = chunk.map(x => x.videoId).join(',');
             const url = new URL('https://www.googleapis.com/youtube/v3/videos');
-            url.searchParams.set('part', 'contentDetails,statistics');
+            url.searchParams.set('part', 'snippet,contentDetails,statistics');
             url.searchParams.set('id', ids);
             url.searchParams.set('key', apiKey);
             const res = await fetch(url.toString());
@@ -211,6 +401,7 @@
             const json = await res.json();
             (json.items || []).forEach(v => {
                 detailsMap.set(v.id, {
+                    publishedAt: (v.snippet && v.snippet.publishedAt) || '',
                     duration: (v.contentDetails && v.contentDetails.duration) || '',
                     viewCount: Number((v.statistics && v.statistics.viewCount) || 0),
                     likeCount: v.statistics && v.statistics.likeCount != null
@@ -228,6 +419,8 @@
                 position: it.position,
                 thumbnail: it.thumbnail,
                 channelTitle: it.channelTitle,
+                playlistPublishedAt: it.playlistPublishedAt || '',
+                videoPublishedAt: d.publishedAt || it.videoPublishedAt || '',
                 duration: d.duration || '',
                 viewCount: Number.isFinite(d.viewCount) ? d.viewCount : 0,
                 likeCount: Number.isFinite(d.likeCount) ? d.likeCount : null
@@ -241,7 +434,6 @@
         if (Array.isArray(items)) {
             state.items = items;
             state.liveVideoIds = new Set(items.map(it => it.videoId));
-            renderPending();
         }
         renderListInternal();
     }
@@ -253,35 +445,82 @@
             return;
         }
 
-        // 정렬을 위한 enriched 데이터
         const statsVideos = state.stats && state.stats.videos ? state.stats.videos : {};
+        const { viewWeight: monthlyViewWeight, likeWeight: monthlyLikeWeight } = getMonthlyWeights();
+        const periodDays = Number(state.periodDays || DEFAULT_PERIOD_DAYS);
+
         const enriched = items.map(it => {
             const stat = statsVideos[it.videoId] || null;
-            const recent = stat && stat.recent30 ? stat.recent30 : null;
+            const history = Array.isArray(stat?.history) ? stat.history : [];
+            const currentWindow = computeWindowMetrics(history, periodDays, 0, monthlyViewWeight, monthlyLikeWeight);
+            const previousWindow = computeWindowMetrics(history, periodDays, periodDays, monthlyViewWeight, monthlyLikeWeight);
+            const publishedAtRaw = it.videoPublishedAt || it.playlistPublishedAt || stat?.joinedAt || '';
+            const publishedAtTs = publishedAtRaw ? Date.parse(publishedAtRaw) : NaN;
             return {
                 base: it,
                 stat,
-                recentScore: recent ? Number(recent.score || 0) : 0,
-                recentViewDelta: recent ? Number(recent.viewDelta || 0) : 0,
-                recentLikeDelta: recent ? Number(recent.likeDelta || 0) : 0,
-                hasRecent: !!(recent && (recent.from || recent.to))
+                currentWindow,
+                previousWindow,
+                recentScore: currentWindow.score,
+                recentViewDelta: currentWindow.viewDelta,
+                recentLikeDelta: currentWindow.likeDelta,
+                hasRecent: currentWindow.hasData,
+                publishedAtRaw,
+                publishedAtTs: Number.isFinite(publishedAtTs) ? publishedAtTs : NaN
             };
         });
 
         const sort = state.sort || DEFAULT_SORT;
+        const compareMonthlyRows = (a, b, key) => {
+            const diff = (Number(b[key]) || 0) - (Number(a[key]) || 0);
+            if (diff !== 0) return diff;
+            const likeDiff = (Number(b.currentWindow?.likeDelta) || 0) - (Number(a.currentWindow?.likeDelta) || 0);
+            if (likeDiff !== 0) return likeDiff;
+            return (Number(a.base.position) || 0) - (Number(b.base.position) || 0);
+        };
+
+        let visible = enriched;
+        let previousRankMap = new Map();
         if (sort === 'views') {
-            enriched.sort((a, b) => (Number(b.base.viewCount) || 0) - (Number(a.base.viewCount) || 0));
-        } else if (sort === 'likes') {
-            enriched.sort((a, b) => (Number(b.base.likeCount || 0)) - (Number(a.base.likeCount || 0)));
+            visible = [...enriched].sort((a, b) => (Number(b.base.viewCount) || 0) - (Number(a.base.viewCount) || 0));
+        } else if (sort === 'new') {
+            const now = Date.now();
+            const threeMonthsAgo = new Date();
+            threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+            const threshold = threeMonthsAgo.getTime();
+            visible = enriched
+                .filter(row => Number.isFinite(row.publishedAtTs) && row.publishedAtTs >= threshold && row.publishedAtTs <= now)
+                .sort((a, b) => b.publishedAtTs - a.publishedAtTs);
         } else {
-            enriched.sort((a, b) => b.recentScore - a.recentScore);
+            visible = [...enriched].sort((a, b) => compareMonthlyRows(a, b, 'recentScore'));
+            const previousSorted = [...enriched]
+                .filter(row => row.previousWindow.hasData)
+                .sort((a, b) => {
+                    const diff = (Number(b.previousWindow.score) || 0) - (Number(a.previousWindow.score) || 0);
+                    if (diff !== 0) return diff;
+                    const likeDiff = (Number(b.previousWindow.likeDelta) || 0) - (Number(a.previousWindow.likeDelta) || 0);
+                    if (likeDiff !== 0) return likeDiff;
+                    return (Number(a.base.position) || 0) - (Number(b.base.position) || 0);
+                });
+            previousSorted.forEach((row, idx) => previousRankMap.set(row.base.videoId, idx + 1));
         }
 
-        els.count.textContent = `${items.length} 곡`;
+        els.count.textContent = `${visible.length} 곡`;
 
         const showRecentBadge = sort === 'recent30';
+        const showRankMovement = sort === 'recent30';
+        const showNewSongInfo = sort === 'new';
 
-        const html = enriched.map((row, idx) => {
+        if (!visible.length) {
+            if (sort === 'new') {
+                renderMessage('최근 3개월 이내 업로드된 영상이 없습니다.');
+            } else {
+                renderMessage('표시할 영상이 없습니다.');
+            }
+            return;
+        }
+
+        const html = visible.map((row, idx) => {
             const it = row.base;
             const rank = idx + 1;
             const title = escapeHtml(it.title || '');
@@ -291,20 +530,57 @@
             const likes = escapeHtml(it.likeCount == null ? '-' : formatViews(it.likeCount));
             const ytUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(it.videoId)}`;
 
+            let rankMoveBadge = '';
+            if (showRankMovement) {
+                const prevRank = previousRankMap.get(it.videoId);
+                if (!row.currentWindow.hasData) {
+                    rankMoveBadge = `<span class="changpop-rank-move is-muted" title="집계 데이터 누적 중">집계중</span>`;
+                } else if (!Number.isFinite(prevRank)) {
+                    rankMoveBadge = `<span class="changpop-rank-move is-new" title="이전 기간 순위권 밖">NEW</span>`;
+                } else {
+                    const diff = prevRank - rank;
+                    if (diff > 0) {
+                        rankMoveBadge = `<span class="changpop-rank-move is-up" title="이전 기간 대비 ${diff}계단 상승">▲ ${diff}</span>`;
+                    } else if (diff < 0) {
+                        rankMoveBadge = `<span class="changpop-rank-move is-down" title="이전 기간 대비 ${Math.abs(diff)}계단 하락">▼ ${Math.abs(diff)}</span>`;
+                    } else {
+                        rankMoveBadge = `<span class="changpop-rank-move is-same" title="이전 기간과 순위 동일">―</span>`;
+                    }
+                }
+            }
+
             let recentBadge = '';
             if (showRecentBadge) {
                 if (row.hasRecent) {
+                    const scoreText = `총점 ${formatViews(Math.round(row.recentScore))}`;
                     const deltaText = `+${formatViews(row.recentViewDelta)} 조회 · +${formatViews(row.recentLikeDelta)} 좋아요`;
-                    recentBadge = `<span class="changpop-recent-chip" title="최근 ${state.stats?.windowDays || 30}일 증가량">${escapeHtml(deltaText)}</span>`;
+                    const coverageText = row.currentWindow.coverageDays < periodDays ? ` · ${row.currentWindow.coverageDays}일 집계` : '';
+                    const badgeText = `${scoreText} · ${deltaText}${coverageText}`;
+                    recentBadge = `<span class="changpop-recent-chip" title="최근 ${periodDays}일 점수 · 조회수 증가량 · 좋아요 증가량">${escapeHtml(badgeText)}</span>`;
                 } else {
                     recentBadge = `<span class="changpop-recent-chip is-muted" title="수집 데이터 누적 중">집계 중</span>`;
+                }
+            }
+
+            let newSongBadge = '';
+            if (showNewSongInfo) {
+                const uploadDateText = formatIsoDateLabel(row.publishedAtRaw);
+                const daysAgoText = formatDaysAgo(row.publishedAtRaw);
+                if (uploadDateText) {
+                    const badgeText = `${uploadDateText} 업로드${daysAgoText ? ` · ${daysAgoText}` : ''}`;
+                    newSongBadge = `<span class="changpop-new-chip" title="실제 영상 업로드일">${escapeHtml(badgeText)}</span>`;
+                } else {
+                    newSongBadge = `<span class="changpop-new-chip is-muted" title="업로드일을 확인하지 못했습니다.">업로드일 확인 중</span>`;
                 }
             }
 
             return `
                 <li class="changpop-row ${rank <= 3 ? 'is-top' : ''}" data-rank="${rank}">
                     <span class="changpop-col changpop-col-rank">
-                        <span class="changpop-rank-badge rank-${rank <= 3 ? rank : 'n'}">${rank}</span>
+                        <span class="changpop-rank-stack">
+                            <span class="changpop-rank-badge rank-${rank <= 3 ? rank : 'n'}">${rank}</span>
+                            ${rankMoveBadge}
+                        </span>
                     </span>
                     <a class="changpop-col changpop-col-thumb" href="${ytUrl}" target="_blank" rel="noopener noreferrer" aria-label="${title} 유튜브에서 열기">
                         <img loading="lazy" src="${thumb}" alt="${title}" onerror="this.style.opacity=0.2">
@@ -313,6 +589,7 @@
                     <a class="changpop-col changpop-col-title" href="${ytUrl}" target="_blank" rel="noopener noreferrer" title="${title}">
                         <span class="changpop-title-text">${title}</span>
                         ${it.channelTitle ? `<span class="changpop-channel">${escapeHtml(it.channelTitle)}</span>` : ''}
+                        ${showNewSongInfo ? newSongBadge : ''}
                         ${recentBadge}
                     </a>
                     <span class="changpop-col changpop-col-duration">${dur || '-'}</span>
@@ -335,6 +612,16 @@
         }
     }
 
+    function syncPeriodTabsUi() {
+        if (!els.periodTabs) return;
+        const show = state.sort === 'recent30';
+        els.periodTabs.hidden = !show;
+        els.periodTabs.querySelectorAll('[data-period]').forEach(btn => {
+            const days = Number(btn.getAttribute('data-period') || 0);
+            btn.classList.toggle('is-active', show && days === Number(state.periodDays || DEFAULT_PERIOD_DAYS));
+        });
+    }
+
     function bindSortTabs() {
         if (!els.sortTabs) return;
         els.sortTabs.addEventListener('click', (e) => {
@@ -346,6 +633,20 @@
             els.sortTabs.querySelectorAll('[data-sort]').forEach(b => {
                 b.classList.toggle('is-active', b.getAttribute('data-sort') === next);
             });
+            syncPeriodTabsUi();
+            renderListInternal();
+        });
+    }
+
+    function bindPeriodTabs() {
+        if (!els.periodTabs) return;
+        els.periodTabs.addEventListener('click', (e) => {
+            const btn = e.target.closest('[data-period]');
+            if (!btn || state.sort !== 'recent30') return;
+            const next = Number(btn.getAttribute('data-period') || 0);
+            if (!next || next === Number(state.periodDays || DEFAULT_PERIOD_DAYS)) return;
+            state.periodDays = next;
+            syncPeriodTabsUi();
             renderListInternal();
         });
     }
@@ -389,35 +690,6 @@
         return '';
     }
 
-    function loadPending() {
-        try {
-            const raw = localStorage.getItem(PENDING_KEY);
-            if (!raw) return [];
-            const arr = JSON.parse(raw);
-            return Array.isArray(arr) ? arr : [];
-        } catch (e) {
-            return [];
-        }
-    }
-
-    function savePending(list) {
-        try {
-            localStorage.setItem(PENDING_KEY, JSON.stringify(list));
-        } catch (e) { /* quota / disabled */ }
-    }
-
-    function genSubmissionId() {
-        const d = new Date();
-        const yyyy = d.getFullYear();
-        const mm = String(d.getMonth() + 1).padStart(2, '0');
-        const dd = String(d.getDate()).padStart(2, '0');
-        const HH = String(d.getHours()).padStart(2, '0');
-        const MM = String(d.getMinutes()).padStart(2, '0');
-        const SS = String(d.getSeconds()).padStart(2, '0');
-        const rand = Math.random().toString(36).slice(2, 6);
-        return `req_${yyyy}${mm}${dd}_${HH}${MM}${SS}_${rand}`;
-    }
-
     function showFormMessage(text, kind) {
         if (!els.formMessage) return;
         if (!text) {
@@ -447,8 +719,29 @@
         document.body.classList.remove('changpop-modal-open');
     }
 
-    function handleSubmit(e) {
+    async function submitExternalRequest(payload) {
+        const res = await fetch('/api/changpop-submit', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+        let data = {};
+        try {
+            data = await res.json();
+        } catch (e) {
+            data = {};
+        }
+        if (!res.ok) {
+            const err = new Error(data?.error || '신청 저장에 실패했습니다.');
+            err.status = res.status;
+            throw err;
+        }
+        return data;
+    }
+
+    async function handleSubmit(e) {
         e.preventDefault();
+        if (state.isSubmitting) return;
         const rawUrl = els.inputUrl ? els.inputUrl.value : '';
         const nick = (els.inputNick ? els.inputNick.value : '').trim().slice(0, 24);
         const message = (els.inputMessage ? els.inputMessage.value : '').trim().slice(0, 140);
@@ -462,97 +755,39 @@
             showFormMessage('이미 창팝 순위에 등록된 영상입니다.', 'error');
             return;
         }
-        const pending = loadPending();
-        if (pending.some(it => it.videoId === videoId)) {
-            showFormMessage('이미 신청 대기 목록에 있는 영상입니다.', 'error');
-            return;
+
+        state.isSubmitting = true;
+        if (els.formSubmit) {
+            els.formSubmit.disabled = true;
+            els.formSubmit.textContent = '신청 중...';
         }
+        showFormMessage('신청 내용을 저장하는 중입니다...', 'info');
 
-        const submission = {
-            id: genSubmissionId(),
-            videoId,
-            youtubeUrl: `https://www.youtube.com/watch?v=${videoId}`,
-            submittedBy: nick || '익명',
-            message,
-            status: 'pending',
-            submittedAt: new Date().toISOString()
-        };
-        pending.unshift(submission);
-        savePending(pending);
-
-        showFormMessage('신청이 접수되었습니다. 관리자 확인 후 순위에 반영됩니다.', 'success');
-        if (els.form) els.form.reset();
-        renderPending();
-        setTimeout(closeModal, 900);
-    }
-
-    function renderPending() {
-        if (!els.pendingSection || !els.pendingList) return;
-        const list = loadPending();
-        if (!list.length) {
-            els.pendingSection.hidden = true;
-            els.pendingList.innerHTML = '';
-            if (els.pendingCount) els.pendingCount.textContent = '0 건';
-            return;
+        try {
+            await submitExternalRequest({
+                youtubeUrl: rawUrl,
+                videoId,
+                submittedBy: nick || '익명',
+                message,
+                preview: state.previewData && state.previewData.videoId === videoId ? state.previewData : null
+            });
+            showFormMessage('신청이 접수되었습니다. 관리자 검토 후 순위에 반영됩니다.', 'success');
+            if (els.form) els.form.reset();
+            setPreviewState('hidden');
+            setTimeout(closeModal, 900);
+        } catch (err) {
+            if (err.status === 409) {
+                showFormMessage('이미 신청 대기 중이거나 등록된 영상입니다.', 'error');
+            } else {
+                showFormMessage(err.message || '신청 저장에 실패했습니다. 잠시 후 다시 시도해 주세요.', 'error');
+            }
+        } finally {
+            state.isSubmitting = false;
+            if (els.formSubmit) {
+                els.formSubmit.disabled = false;
+                els.formSubmit.textContent = '신청하기';
+            }
         }
-        els.pendingSection.hidden = false;
-        if (els.pendingCount) els.pendingCount.textContent = `${list.length} 건`;
-
-        const html = list.map(it => {
-            const submitted = new Date(it.submittedAt);
-            const ts = Number.isNaN(submitted.getTime())
-                ? ''
-                : `${submitted.getFullYear()}-${String(submitted.getMonth() + 1).padStart(2, '0')}-${String(submitted.getDate()).padStart(2, '0')} ${String(submitted.getHours()).padStart(2, '0')}:${String(submitted.getMinutes()).padStart(2, '0')}`;
-            const thumb = `https://i.ytimg.com/vi/${it.videoId}/mqdefault.jpg`;
-            const url = escapeHtml(it.youtubeUrl);
-            const nick = escapeHtml(it.submittedBy || '익명');
-            const message = it.message ? `<p class="changpop-pending-message">${escapeHtml(it.message)}</p>` : '';
-            return `
-                <li class="changpop-pending-row" data-id="${escapeHtml(it.id)}">
-                    <a class="changpop-pending-thumb" href="${url}" target="_blank" rel="noopener noreferrer">
-                        <img loading="lazy" src="${thumb}" alt="" onerror="this.style.opacity=0.2">
-                    </a>
-                    <div class="changpop-pending-body">
-                        <a class="changpop-pending-link" href="${url}" target="_blank" rel="noopener noreferrer" title="${url}">${url}</a>
-                        <div class="changpop-pending-meta">
-                            <span class="changpop-pending-nick">${nick}</span>
-                            <span class="changpop-pending-time">${escapeHtml(ts)}</span>
-                        </div>
-                        ${message}
-                    </div>
-                    <button type="button" class="changpop-pending-remove" data-remove-id="${escapeHtml(it.id)}" aria-label="이 신청 삭제">×</button>
-                </li>`;
-        }).join('');
-
-        els.pendingList.innerHTML = html;
-    }
-
-    function removePending(id) {
-        const list = loadPending().filter(it => it.id !== id);
-        savePending(list);
-        renderPending();
-    }
-
-    function clearPending() {
-        if (!confirm('신청 대기 목록을 모두 지울까요?')) return;
-        savePending([]);
-        renderPending();
-    }
-
-    function exportPending() {
-        const list = loadPending();
-        if (!list.length) return;
-        const blob = new Blob([JSON.stringify(list, null, 2)], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        const now = new Date();
-        const tag = `${now.getFullYear()}${String(now.getMonth() + 1).padStart(2, '0')}${String(now.getDate()).padStart(2, '0')}_${String(now.getHours()).padStart(2, '0')}${String(now.getMinutes()).padStart(2, '0')}`;
-        a.href = url;
-        a.download = `changpop_pending_${tag}.json`;
-        document.body.appendChild(a);
-        a.click();
-        a.remove();
-        setTimeout(() => URL.revokeObjectURL(url), 500);
     }
 
     function bindSubmissionEvents() {
@@ -568,15 +803,7 @@
             if (e.key === 'Escape' && els.modal && !els.modal.hidden) closeModal();
         });
         if (els.form) els.form.addEventListener('submit', handleSubmit);
-        if (els.pendingList) {
-            els.pendingList.addEventListener('click', (e) => {
-                const target = e.target.closest('[data-remove-id]');
-                if (!target) return;
-                removePending(target.getAttribute('data-remove-id'));
-            });
-        }
-        if (els.pendingClear) els.pendingClear.addEventListener('click', clearPending);
-        if (els.pendingExport) els.pendingExport.addEventListener('click', exportPending);
+        if (els.inputUrl) els.inputUrl.addEventListener('input', schedulePreviewLookup);
     }
 
     /* ---------------- 진입점 ---------------- */
@@ -585,7 +812,8 @@
         mountHeader();
         bindSubmissionEvents();
         bindSortTabs();
-        renderPending();
+        bindPeriodTabs();
+        syncPeriodTabsUi();
         renderLoading();
 
         // 최근 30일 통계 먼저 (있으면) 가져오기 - 정렬용
@@ -594,6 +822,7 @@
         const cfg = await loadConfig();
         const playlistId = String(cfg.playlistId || '').trim();
         const apiKey = String(cfg.youtubeApiKey || '').trim();
+        state.apiKey = apiKey;
         const maxResults = Math.max(1, Math.min(200, Number(cfg.maxResults) || 50));
         const cacheMinutes = Math.max(0, Number(cfg.cacheMinutes) || 30);
 

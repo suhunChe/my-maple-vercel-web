@@ -10,7 +10,7 @@
 //   YOUTUBE_PLAYLIST_ID    (필수) 창팝 플레이리스트 ID
 //   CHANGPOP_MAX_VIDEOS    (선택) 가져올 최대 영상 수 (기본 200)
 //   CHANGPOP_WINDOW_DAYS   (선택) 슬라이딩 윈도우 일수 (기본 30)
-//   CHANGPOP_WEIGHT_VIEW   (선택) 점수 - 조회수 증가 1점당 가중치 (기본 1)
+//   CHANGPOP_WEIGHT_VIEW   (선택) 점수 - 조회수 증가 1점당 가중치 (기본 0.01)
 //   CHANGPOP_WEIGHT_LIKE   (선택) 점수 - 좋아요 증가 1점당 가중치 (기본 20)
 // =============================================================
 
@@ -27,7 +27,8 @@ const PLAYLIST_ID = (process.env.YOUTUBE_PLAYLIST_ID || '').trim();
 
 const MAX_VIDEOS = clampInt(process.env.CHANGPOP_MAX_VIDEOS, 200, 1, 500);
 const WINDOW_DAYS = clampInt(process.env.CHANGPOP_WINDOW_DAYS, 30, 1, 365);
-const WEIGHT_VIEW = clampFloat(process.env.CHANGPOP_WEIGHT_VIEW, 1);
+const HISTORY_KEEP_DAYS = Math.max(WINDOW_DAYS, 90);
+const WEIGHT_VIEW = clampFloat(process.env.CHANGPOP_WEIGHT_VIEW, 0.01);
 const WEIGHT_LIKE = clampFloat(process.env.CHANGPOP_WEIGHT_LIKE, 20);
 
 if (!API_KEY || !PLAYLIST_ID) {
@@ -47,7 +48,7 @@ async function main() {
   const now = new Date();
   const todayKey = formatDateKey(now);
 
-  console.log(`[changpop-stats] 실행 시작 (today=${todayKey}, window=${WINDOW_DAYS})`);
+  console.log(`[changpop-stats] 실행 시작 (today=${todayKey}, window=${WINDOW_DAYS}, historyKeep=${HISTORY_KEEP_DAYS})`);
 
   // 1. 플레이리스트 영상 목록 가져오기
   const playlistVideos = await fetchPlaylistVideoIds(PLAYLIST_ID, API_KEY, MAX_VIDEOS);
@@ -98,7 +99,7 @@ function buildNextStats({ previous, todayKey, now, playlistVideos, videoDetails 
     ...playlistMap.keys()
   ]);
 
-  const cutoffDate = subtractDays(now, WINDOW_DAYS - 1);
+  const cutoffDate = subtractDays(now, HISTORY_KEEP_DAYS - 1);
   const cutoffKey = formatDateKey(cutoffDate);
 
   const nextVideos = {};
@@ -168,6 +169,7 @@ function buildNextStats({ previous, todayKey, now, playlistVideos, videoDetails 
     generatedAt: new Date(now).toISOString(),
     updatedDate: todayKey,
     windowDays: WINDOW_DAYS,
+    historyKeepDays: HISTORY_KEEP_DAYS,
     weights: {
       viewDelta: WEIGHT_VIEW,
       likeDelta: WEIGHT_LIKE

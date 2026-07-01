@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>창팝 신청 관리 — MyMaple</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="header-mount"></div>
+
+    <main class="music-shell">
+        <section class="changpop-admin-auth">
+            <h1 class="changpop-admin-auth-title">창팝 신청 관리</h1>
+            <p class="changpop-admin-auth-desc">관리자 키를 입력하면 GitHub 저장소에 저장된 창팝 신청 대기 목록을 조회하고 상태를 변경할 수 있습니다.</p>
+            <form class="changpop-admin-auth-row" id="changpop-admin-auth-form">
+                <input class="changpop-admin-key" id="changpop-admin-key" type="password" placeholder="관리자 키 입력" autocomplete="current-password" required>
+                <button type="submit" class="changpop-btn changpop-btn-primary">연결</button>
+            </form>
+            <p class="changpop-form-message" id="changpop-admin-auth-message" hidden></p>
+        </section>
+
+        <section class="changpop-admin-card" id="changpop-admin-card" hidden>
+            <div class="changpop-admin-head">
+                <div>
+                    <h2 class="changpop-admin-card-title">신청 목록</h2>
+                    <div class="changpop-admin-count" id="changpop-admin-count">0건</div>
+                </div>
+                <div class="changpop-admin-toolbar">
+                    <select class="changpop-admin-status" id="changpop-admin-filter">
+                        <option value="pending">대기중</option>
+                        <option value="approved">승인됨</option>
+                        <option value="rejected">반려됨</option>
+                        <option value="all">전체</option>
+                    </select>
+                    <button type="button" class="changpop-btn changpop-btn-ghost" id="changpop-admin-refresh">새로고침</button>
+                </div>
+            </div>
+            <ul class="changpop-admin-list" id="changpop-admin-list"></ul>
+        </section>
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/changpop-admin.js"></script>
+</body>
+</html>

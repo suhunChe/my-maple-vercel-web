@@ -16,9 +16,14 @@
                 <span class="music-count-chip changpop-updated-chip" id="changpop-updated" hidden></span>
             </div>
             <div class="changpop-sort-tabs" id="changpop-sort-tabs" role="tablist" aria-label="창팝 정렬">
-                <button type="button" class="changpop-sort-btn is-active" data-sort="recent30" role="tab">최근 30일 순</button>
+                <button type="button" class="changpop-sort-btn is-active" data-sort="recent30" role="tab">월 인기순</button>
                 <button type="button" class="changpop-sort-btn" data-sort="views" role="tab">조회수 순</button>
-                <button type="button" class="changpop-sort-btn" data-sort="likes" role="tab">좋아요 순</button>
+                <button type="button" class="changpop-sort-btn" data-sort="new" role="tab">신곡</button>
+            </div>
+            <div class="changpop-period-tabs" id="changpop-period-tabs" role="tablist" aria-label="월 인기 기간">
+                <button type="button" class="changpop-period-btn" data-period="7" role="tab">7일</button>
+                <button type="button" class="changpop-period-btn is-active" data-period="30" role="tab">30일</button>
+                <button type="button" class="changpop-period-btn" data-period="90" role="tab">90일</button>
             </div>
             <div class="music-toolbar-actions">
                 <button type="button" class="changpop-submit-btn" id="changpop-submit-open">
@@ -40,25 +45,11 @@
             </ul>
         </section>
 
-        <section class="changpop-pending-section" id="changpop-pending-section" hidden>
-            <header class="changpop-pending-head">
-                <h2 class="changpop-pending-title">등록 신청 대기 목록</h2>
-                <div class="changpop-pending-actions">
-                    <span class="changpop-pending-count" id="changpop-pending-count">0 건</span>
-                    <button type="button" class="changpop-pending-export" id="changpop-pending-export" title="JSON으로 내보내기">⬇ 내보내기</button>
-                    <button type="button" class="changpop-pending-clear" id="changpop-pending-clear" title="모두 지우기">전체 지우기</button>
-                </div>
-            </header>
-            <ul class="changpop-pending-list" id="changpop-pending-list"></ul>
-            <p class="changpop-pending-note">
-                ※ 신청 내역은 현재 이 브라우저에만 저장됩니다. 관리자는 신청 목록을 수집한 뒤 직접 유튜브 플레이리스트에 추가해 주세요.
-            </p>
-        </section>
-
         <p class="changpop-footnote">
             ※ 이 페이지는 YouTube Data API v3 를 통해 플레이리스트 정보를 가져옵니다.
             관리 파일: <code>MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json</code><br>
-            자동 갱신 통계: <code>PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json</code> (GitHub Actions 가 매일 갱신)
+            자동 갱신 통계: <code>PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json</code> (GitHub Actions 가 매일 갱신)<br>
+            등록 신청은 관리자 검토 후 반영되며, 대기 목록은 공개되지 않습니다.
         </p>
     </main>
 
@@ -76,6 +67,15 @@
                     <input type="url" id="changpop-input-url" placeholder="https://www.youtube.com/watch?v=..." autocomplete="off" required>
                     <span class="changpop-field-help">일반 영상 / Shorts / youtu.be 주소 모두 가능</span>
                 </label>
+                <div class="changpop-preview" id="changpop-preview" hidden>
+                    <div class="changpop-preview-thumb">
+                        <img id="changpop-preview-thumb" alt="영상 미리보기" loading="lazy">
+                    </div>
+                    <div class="changpop-preview-body">
+                        <strong class="changpop-preview-title" id="changpop-preview-title">영상 정보를 불러오는 중...</strong>
+                        <div class="changpop-preview-meta" id="changpop-preview-meta"></div>
+                    </div>
+                </div>
                 <label class="changpop-field">
                     <span class="changpop-field-label">닉네임 <em class="changpop-optional">(선택)</em></span>
                     <input type="text" id="changpop-input-nick" maxlength="24" placeholder="익명">
