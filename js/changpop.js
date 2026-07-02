@@ -1,8 +1,9 @@
 /* =========================================
    MyMaple v6 — 창팝 순위 (Changpop Ranking)
-   - YouTube Data API v3 를 호출해 플레이리스트 항목을 가져옴
+   - 브라우저는 /api/changpop-feed 만 호출
+   - Vercel 서버 함수가 YOUTUBE_API_KEY 로 YouTube Data API v3 호출
    - 설정 파일: MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json
-       { playlistId, youtubeApiKey, maxResults, cacheMinutes }
+       { playlistId, maxResults, cacheMinutes }
    - 표시 항목: 순위 / 썸네일 / 제목 / 재생시간 / 조회수 / 좋아요
    - 캐시: localStorage (cacheMinutes 동안)
    ========================================= */
@@ -13,9 +14,21 @@
     const escapeHtml = C.escapeHtml;
 
     const CONFIG_URL = 'MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json';
+    const FEED_API_URL = '/api/changpop-feed';
     const STATS_URL = 'PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json';
-    const CACHE_KEY = 'mymaple.changpop.cache.v3';
-        const DEFAULT_SORT = 'recent30';
+    const CACHE_KEY = 'mymaple.changpop.cache.v5';
+    const LOCAL_SUBMIT_KEY = 'mymaple.changpop.local-submissions.v1';
+    const DEFAULT_CACHE_MINUTES = 30;
+    const DEFAULT_SORT = 'recent30';
+
+    function isFileProtocol() {
+        return window.location && window.location.protocol === 'file:';
+    }
+
+    function isStaticLocalhost() {
+        const host = (window.location && window.location.hostname) || '';
+        return host === '127.0.0.1' || host === 'localhost';
+    }
     const DEFAULT_PERIOD_DAYS = 30;
 
     const els = {
@@ -46,10 +59,12 @@
         stats: null,         // ChangpopRecent30Stats.json 데이터
         sort: DEFAULT_SORT,   // 'recent30' | 'views' | 'new'
         periodDays: DEFAULT_PERIOD_DAYS,
-        apiKey: '',
         previewData: null,
         previewSeq: 0,
-        isSubmitting: false
+        isSubmitting: false,
+        localMode: false,
+        localApiKey: '',
+        localConfig: null
     };
 
     function mountHeader() {
@@ -237,27 +252,27 @@
     }
 
     async function fetchSubmissionPreview(videoId) {
-        if (!videoId || !state.apiKey) return null;
-        const url = new URL('https://www.googleapis.com/youtube/v3/videos');
-        url.searchParams.set('part', 'snippet,contentDetails');
-        url.searchParams.set('id', videoId);
-        url.searchParams.set('key', state.apiKey);
-        const res = await fetch(url.toString());
-        if (!res.ok) throw new Error(`preview HTTP ${res.status}`);
-        const json = await res.json();
-        const item = (json.items || [])[0];
-        if (!item) return null;
-        const sn = item.snippet || {};
-        const thumbs = sn.thumbnails || {};
-        const thumb = thumbs.medium || thumbs.high || thumbs.default || {};
-        return {
-            videoId,
-            title: sn.title || '',
-            channelTitle: sn.channelTitle || '',
-            thumbnail: thumb.url || `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
-            publishedAt: sn.publishedAt || '',
-            duration: item.contentDetails?.duration || ''
-        };
+        if (!videoId) return null;
+        try {
+            const url = new URL(FEED_API_URL, window.location.origin);
+            url.searchParams.set('videoId', videoId);
+            const res = await fetch(url.toString(), { cache: 'no-cache' });
+            if (!res.ok) throw new Error(`preview HTTP ${res.status}`);
+            const json = await res.json();
+            state.localMode = false;
+            return json && json.item ? json.item : null;
+        } catch (err) {
+            if (!state.localApiKey) {
+                const cfg = await loadConfig();
+                state.localApiKey = getLocalConfigApiKey(cfg);
+                state.localConfig = cfg;
+            }
+            if ((isStaticLocalhost() || isFileProtocol()) && state.localApiKey) {
+                state.localMode = true;
+                return fetchPreviewDirect(videoId, state.localApiKey);
+            }
+            throw err;
+        }
     }
 
     function schedulePreviewLookup() {
@@ -309,22 +324,27 @@
         return data || {};
     }
 
-    function readCache(playlistId) {
+    function getLocalConfigApiKey(cfg) {
+        return String((cfg && (cfg.youtubeApiKey || cfg.youtubeApiKeyLocal || cfg.youtubeApiKeyDev)) || '').trim();
+    }
+
+    function readCache() {
         try {
             const raw = localStorage.getItem(CACHE_KEY);
             if (!raw) return null;
             const obj = JSON.parse(raw);
-            if (!obj || obj.playlistId !== playlistId) return null;
+            if (!obj || !Array.isArray(obj.items)) return null;
             return obj;
         } catch (e) {
             return null;
         }
     }
 
-    function writeCache(playlistId, items) {
+    function writeCache(playlistId, cacheMinutes, items) {
         try {
             const obj = {
-                playlistId,
+                playlistId: String(playlistId || '').trim(),
+                cacheMinutes: Math.max(0, Number(cacheMinutes) || DEFAULT_CACHE_MINUTES),
                 fetchedAt: Date.now(),
                 items
             };
@@ -332,9 +352,7 @@
         } catch (e) { /* quota / disabled */ }
     }
 
-    /* ---------------- YouTube API 호출 ---------------- */
-
-    async function fetchPlaylistItems(playlistId, apiKey, maxResults) {
+    async function fetchPlaylistItemsDirect(playlistId, apiKey, maxResults) {
         const items = [];
         let pageToken = '';
         let safety = 0;
@@ -354,7 +372,7 @@
                 throw new Error(`playlistItems HTTP ${res.status} ${errText.slice(0, 200)}`);
             }
             const json = await res.json();
-            (json.items || []).forEach(it => {
+            (json.items || []).forEach((it) => {
                 const sn = it.snippet || {};
                 const cd = it.contentDetails || {};
                 const videoId = cd.videoId || (sn.resourceId && sn.resourceId.videoId);
@@ -381,14 +399,13 @@
         const limited = items.slice(0, maxResults);
         if (!limited.length) return [];
 
-        // videos.list 로 duration + viewCount + likeCount 채우기 (최대 50개씩)
         const idChunks = [];
         for (let i = 0; i < limited.length; i += 50) {
             idChunks.push(limited.slice(i, i + 50));
         }
         const detailsMap = new Map();
         for (const chunk of idChunks) {
-            const ids = chunk.map(x => x.videoId).join(',');
+            const ids = chunk.map((x) => x.videoId).join(',');
             const url = new URL('https://www.googleapis.com/youtube/v3/videos');
             url.searchParams.set('part', 'snippet,contentDetails,statistics');
             url.searchParams.set('id', ids);
@@ -399,19 +416,17 @@
                 throw new Error(`videos HTTP ${res.status} ${errText.slice(0, 200)}`);
             }
             const json = await res.json();
-            (json.items || []).forEach(v => {
+            (json.items || []).forEach((v) => {
                 detailsMap.set(v.id, {
                     publishedAt: (v.snippet && v.snippet.publishedAt) || '',
                     duration: (v.contentDetails && v.contentDetails.duration) || '',
                     viewCount: Number((v.statistics && v.statistics.viewCount) || 0),
-                    likeCount: v.statistics && v.statistics.likeCount != null
-                        ? Number(v.statistics.likeCount)
-                        : null
+                    likeCount: v.statistics && v.statistics.likeCount != null ? Number(v.statistics.likeCount) : null
                 });
             });
         }
 
-        return limited.map(it => {
+        return limited.map((it) => {
             const d = detailsMap.get(it.videoId) || {};
             return {
                 videoId: it.videoId,
@@ -426,6 +441,84 @@
                 likeCount: Number.isFinite(d.likeCount) ? d.likeCount : null
             };
         });
+    }
+
+    async function fetchPreviewDirect(videoId, apiKey) {
+        const url = new URL('https://www.googleapis.com/youtube/v3/videos');
+        url.searchParams.set('part', 'snippet,contentDetails');
+        url.searchParams.set('id', videoId);
+        url.searchParams.set('key', apiKey);
+        const res = await fetch(url.toString());
+        if (!res.ok) throw new Error(`preview HTTP ${res.status}`);
+        const json = await res.json();
+        const item = (json.items || [])[0];
+        if (!item) return null;
+        const sn = item.snippet || {};
+        const thumbs = sn.thumbnails || {};
+        const thumb = thumbs.medium || thumbs.high || thumbs.default || {};
+        return {
+            videoId,
+            title: sn.title || '',
+            channelTitle: sn.channelTitle || '',
+            thumbnail: thumb.url || `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
+            publishedAt: sn.publishedAt || '',
+            duration: item.contentDetails?.duration || ''
+        };
+    }
+
+    function readLocalSubmissionStore() {
+        try {
+            const raw = localStorage.getItem(LOCAL_SUBMIT_KEY);
+            const parsed = raw ? JSON.parse(raw) : null;
+            return Array.isArray(parsed) ? parsed : [];
+        } catch (e) {
+            return [];
+        }
+    }
+
+    function writeLocalSubmissionStore(items) {
+        try {
+            localStorage.setItem(LOCAL_SUBMIT_KEY, JSON.stringify(Array.isArray(items) ? items : []));
+        } catch (e) { /* ignore */ }
+    }
+
+    /* ---------------- 서버 API 호출 / 로컬 직호출 fallback ---------------- */
+
+    async function fetchPlaylistItems() {
+        try {
+            const res = await fetch(FEED_API_URL, { cache: 'no-cache' });
+            if (!res.ok) {
+                let message = '';
+                try {
+                    const json = await res.json();
+                    message = String(json && json.error || '');
+                } catch (e) { /* ignore */ }
+                const err = new Error(message || `feed HTTP ${res.status}`);
+                err.status = res.status;
+                throw err;
+            }
+            const json = await res.json();
+            state.localMode = false;
+            return {
+                playlistId: String(json.playlistId || '').trim(),
+                cacheMinutes: Math.max(0, Number(json.cacheMinutes) || DEFAULT_CACHE_MINUTES),
+                items: Array.isArray(json.items) ? json.items : []
+            };
+        } catch (err) {
+            const cfg = await loadConfig();
+            const playlistId = String(cfg.playlistId || '').trim();
+            const localApiKey = getLocalConfigApiKey(cfg);
+            const maxResults = Math.max(1, Math.min(200, Number(cfg.maxResults) || 50));
+            const cacheMinutes = Math.max(0, Number(cfg.cacheMinutes) || DEFAULT_CACHE_MINUTES);
+            if (!playlistId || !localApiKey || (!isStaticLocalhost() && !isFileProtocol())) {
+                throw err;
+            }
+            state.localMode = true;
+            state.localApiKey = localApiKey;
+            state.localConfig = cfg;
+            const items = await fetchPlaylistItemsDirect(playlistId, localApiKey, maxResults);
+            return { playlistId, cacheMinutes, items };
+        }
     }
 
     /* ---------------- 렌더링 ---------------- */
@@ -720,23 +813,50 @@
     }
 
     async function submitExternalRequest(payload) {
-        const res = await fetch('/api/changpop-submit', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(payload)
-        });
-        let data = {};
         try {
-            data = await res.json();
-        } catch (e) {
-            data = {};
-        }
-        if (!res.ok) {
-            const err = new Error(data?.error || '신청 저장에 실패했습니다.');
-            err.status = res.status;
+            const res = await fetch('/api/changpop-submit', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+            let data = {};
+            try {
+                data = await res.json();
+            } catch (e) {
+                data = {};
+            }
+            if (!res.ok) {
+                const err = new Error(data?.error || '신청 저장에 실패했습니다.');
+                err.status = res.status;
+                throw err;
+            }
+            state.localMode = false;
+            return data;
+        } catch (err) {
+            if ((isStaticLocalhost() || isFileProtocol()) && (err.status === 404 || /Failed to fetch|Cannot GET/i.test(String(err.message || '')))) {
+                state.localMode = true;
+                const saved = readLocalSubmissionStore();
+                const exists = saved.some((item) => item && item.videoId === payload.videoId && item.status !== 'deleted');
+                if (exists) {
+                    const dup = new Error('이미 로컬 개발 대기 목록에 저장된 영상입니다.');
+                    dup.status = 409;
+                    throw dup;
+                }
+                saved.unshift({
+                    id: `local_${Date.now()}`,
+                    videoId: payload.videoId,
+                    youtubeUrl: payload.youtubeUrl,
+                    submittedBy: payload.submittedBy || '익명',
+                    message: payload.message || '',
+                    preview: payload.preview || null,
+                    status: 'pending-local',
+                    submittedAt: new Date().toISOString()
+                });
+                writeLocalSubmissionStore(saved);
+                return { ok: true, localMock: true };
+            }
             throw err;
         }
-        return data;
     }
 
     async function handleSubmit(e) {
@@ -764,14 +884,19 @@
         showFormMessage('신청 내용을 저장하는 중입니다...', 'info');
 
         try {
-            await submitExternalRequest({
+            const submitResult = await submitExternalRequest({
                 youtubeUrl: rawUrl,
                 videoId,
                 submittedBy: nick || '익명',
                 message,
                 preview: state.previewData && state.previewData.videoId === videoId ? state.previewData : null
             });
-            showFormMessage('신청이 접수되었습니다. 관리자 검토 후 순위에 반영됩니다.', 'success');
+            showFormMessage(
+                submitResult && submitResult.localMock
+                    ? '로컬 개발 모드로 신청이 임시 저장되었습니다. 실제 GitHub 대기 목록에는 올라가지 않습니다.'
+                    : '신청이 접수되었습니다. 관리자 검토 후 순위에 반영됩니다.',
+                'success'
+            );
             if (els.form) els.form.reset();
             setPreviewState('hidden');
             setTimeout(closeModal, 900);
@@ -819,21 +944,9 @@
         // 최근 30일 통계 먼저 (있으면) 가져오기 - 정렬용
         state.stats = await loadStats();
 
-        const cfg = await loadConfig();
-        const playlistId = String(cfg.playlistId || '').trim();
-        const apiKey = String(cfg.youtubeApiKey || '').trim();
-        state.apiKey = apiKey;
-        const maxResults = Math.max(1, Math.min(200, Number(cfg.maxResults) || 50));
-        const cacheMinutes = Math.max(0, Number(cfg.cacheMinutes) || 30);
-
-        if (!playlistId || !apiKey) {
-            renderMessage('ChangpopConfig.json 에 youtubeApiKey 와 playlistId 를 입력해 주세요.', true);
-            return;
-        }
-
-        // 캐시 우선
-        const cached = readCache(playlistId);
-        const cacheValid = cached && (Date.now() - cached.fetchedAt) < cacheMinutes * 60 * 1000;
+        const cached = readCache();
+        const cachedMinutes = Math.max(0, Number(cached && cached.cacheMinutes) || DEFAULT_CACHE_MINUTES);
+        const cacheValid = cached && (Date.now() - cached.fetchedAt) < cachedMinutes * 60 * 1000;
         if (cacheValid) {
             renderList(cached.items);
             showUpdatedChip(cached.fetchedAt);
@@ -842,14 +955,17 @@
         // 캐시가 있으면 백그라운드 갱신, 없으면 즉시 호출
         try {
             if (!cacheValid) renderLoading();
-            const items = await fetchPlaylistItems(playlistId, apiKey, maxResults);
-            writeCache(playlistId, items);
-            renderList(items);
+            const payload = await fetchPlaylistItems();
+            writeCache(payload.playlistId, payload.cacheMinutes, payload.items);
+            renderList(payload.items);
             showUpdatedChip(Date.now());
         } catch (err) {
-            console.warn('[Changpop] 유튜브 API 호출 실패', err);
+            console.warn('[Changpop] 피드 호출 실패', err);
             if (!cacheValid) {
-                renderMessage('유튜브 정보를 불러오지 못했습니다. API 키 또는 플레이리스트 ID 를 확인해 주세요.', true);
+                const staticHint = (isStaticLocalhost() || isFileProtocol())
+                    ? ' 정적 로컬 모드에서는 ChangpopConfig.json 의 youtubeApiKey 와 playlistId 가 모두 필요합니다.'
+                    : '';
+                renderMessage(`창팝 데이터를 불러오지 못했습니다. Vercel 환경 변수 YOUTUBE_API_KEY 또는 ChangpopConfig.json 설정을 확인해 주세요.${staticHint}`, true);
             }
         }
     }

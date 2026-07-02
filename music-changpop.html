@@ -46,10 +46,11 @@
         </section>
 
         <p class="changpop-footnote">
-            ※ 이 페이지는 YouTube Data API v3 를 통해 플레이리스트 정보를 가져옵니다.
-            관리 파일: <code>MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json</code><br>
+            ※ 기본적으로는 Vercel 서버 API를 통해 YouTube Data API v3 플레이리스트 정보를 가져옵니다.
+            배포 환경은 <code>YOUTUBE_API_KEY</code> 환경 변수를 사용하고, 정적 로컬(예: 127.0.0.1:5500)에서는 <code>ChangpopConfig.json</code> 의 <code>youtubeApiKey</code> 로 직접 호출 fallback 이 동작합니다.<br>
+            플레이리스트 설정 파일: <code>MyMaple_PageInfo/Special_Image/Changpop_Info/ChangpopConfig.json</code><br>
             자동 갱신 통계: <code>PageInfo_Update Data/Changpop_Info/ChangpopRecent30Stats.json</code> (GitHub Actions 가 매일 갱신)<br>
-            등록 신청은 관리자 검토 후 반영되며, 대기 목록은 공개되지 않습니다.
+            등록 신청은 관리자 검토 후 반영되며, 정적 로컬에서는 로컬 임시 저장으로만 동작합니다.
         </p>
     </main>
 

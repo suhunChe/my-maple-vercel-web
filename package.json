@@ -1,0 +1,10 @@
+{
+  "name": "mymaple-changpop-local-dev",
+  "private": true,
+  "scripts": {
+    "dev": "npx vercel dev",
+    "dev:3000": "npx vercel dev --listen 3000",
+    "dev:debug": "npx vercel dev --debug",
+    "stats:update": "node scripts/update-changpop-stats.mjs"
+  }
+}

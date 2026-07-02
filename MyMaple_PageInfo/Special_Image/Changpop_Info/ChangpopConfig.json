@@ -1,7 +1,7 @@
 {
-    "_comment": "창팝 순위 페이지 설정 파일. youtubeApiKey 와 playlistId 만 채워두면 자동으로 영상 목록을 불러옵니다.",
+    "_comment": "창팝 순위 페이지 설정 파일. 배포 환경은 Vercel 의 YOUTUBE_API_KEY 를 사용하고, 정적 로컬 개발(예: 127.0.0.1:5500)에서는 youtubeApiKey 를 넣으면 브라우저 직호출 fallback 이 동작합니다.",
     "playlistId": "PLNgG1y22I83A",
-    "youtubeApiKey": "AIzaSyAoOu65X6EjHYv51L4wmnHUp8v8jx1sBdc",
+    "youtubeApiKey": "",
     "maxResults": 50,
     "cacheMinutes": 30
 }
